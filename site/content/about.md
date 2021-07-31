@@ -18,6 +18,8 @@ Valentin:
 You can check out my [Github](https://github.com/vale981), [Gitlab](https://gitlab.com/vale9811/) and [KDE Invent](https://invent.kde.org/vboettcher/) profiles for most
 of my projects as I publish the source to most things I produce.
 
+I've got a [CV](/docs/cv_ger.pdf) in German.
+
 
 ## Things Made {#things-made}
 

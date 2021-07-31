@@ -26,6 +26,8 @@ Valentin:
 You can check out my [[https://github.com/vale981][Github]], [[https://gitlab.com/vale9811/][Gitlab]] and [[https://invent.kde.org/vboettcher/][KDE Invent]] profiles for most
 of my projects as I publish the source to most things I produce.
 
+I've got a [[file:static/docs/cv_ger.pdf][CV]] in German.
+
 ** Things Made
 - The source of this website lives [[https://github.com/vale981/website][here]].
 - I've written a bachelor's thesis about [[https://github.com/vale981/bachelor_thesis][Monte Carlo Event
