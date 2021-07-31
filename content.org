@@ -1,0 +1,605 @@
+#+hugo_base_dir: site
+#+hugo_section: posts
+#+author:  Valentin Boettcher
+
+
+* About
+:PROPERTIES:
+:EXPORT_HUGO_SECTION: /
+:EXPORT_FILE_NAME: about
+:EXPORT_DATE: [2021-07-31 Sat 12:00]
+:END:
+
+This site is a Homepage of Valentin Boettcher a.k.a. Hiro98.
+
+Valentin:
+  -  currently studies physics in Dresden.
+  -  codes stuff.
+  -  is a science-fiction junky and space enthusiast.
+  -  loves jamming with the saxophone.
+  -  is hooked on LISP and Clojure.
+
+You can check out my [[https://github.com/vale981][Github]], [[https://gitlab.com/vale9811/][Gitlab]] and [[https://invent.kde.org/vboettcher/][KDE Invent]] profiles for most
+of my projects as I publish the source to most things I produce.
+
+** Things Made
+- The source of this website lives [[https://github.com/vale981/website][here]].
+- I've written a bachelor's thesis about [[https://github.com/vale981/bachelor_thesis][Monte Carlo Event
+  Generations]]. I even built my own in python.
+- A simple, easy-to-use and firewall penetrating [[https://gitlab.com/vale9811/doccam-pi][control software]] for
+  streaming stuff from ~rtmp~ cams to youtube.
+- Along with a commilitone I've written some lecture notes about
+  [[https://gitlab.hrz.tu-chemnitz.de/strunz/skript-quanteninformation][Quantum Information]].
+- The website of [[https://simunova.com/][SimuNova]].
+- The software behind [[https://klausurnoug.at][klausurnoug.at]].
+- A [[https://protagon.space/stuff/neutrino_oscillations/][visualization of neutrino oscillations]].
+- A [[https://github.com/vale981/SecondaryValue][python library]] to calculate the gaussian error propagation.
+- A [[https://github.com/vale981/vertiefungs_scraper][small hack]] to scrape and organize physics courses at the
+  TU-Dresden. [[https://protagon.space/stuff/vertiefungs_scraper/][See it in action]].
+- A script [[https://github.com/vale981/wunderlist-to-org][to convert the wunderlist export to org-mode.]]
+- A script to create an arch linux image with [[https://github.com/vale981/archiso-bcachefs][bcachefs]] support.
+- I've made the [[https://sherpa-team.gitlab.io/][webiste]] and some of the continuous integration for the
+  SHERPA project.
+
+** Activities
+- I am the admin and the most enthusiastic user of the [[https://physik.protagon.space][TU-Dresden
+  Physics Forum]].
+- I am an occasional contributor to [[https://invent.kde.org/education/kstars][KStars]]. As of late I have
+  participated in the Google Summer of Code to implement a better
+  Deep-Sky-Object backend.
+
+  I also implemented and now maintain the [[https://invent.kde.org/vboettcher/kstars-catalogs][KStars DSO Catalog
+  Repository]].
+- Sometimes I release some noises on [[https://soundcloud.com/the_dj_c][Soundcloud]] and [[https://afa-music.bandcamp.com/][Bandcamp]] under the
+  name "Abschreibung für Abnutzung".
+- I am also the maintainer of the [[https://www.doc.govt.nz/nature/][RolaCam]] backend which is also used
+  by the [[https://www.urbanwildlifetrust.org/portfolio/live-cam/][Urban Wildlife Trust]] for their [[https://www.youtube.com/channel/UCLizlM6gpaVHTKPo7spoqlA][Wildcams]].
+
+# Local Variables:
+# eval: (org-hugo-auto-export-mode)
+# End:
+
+* Contact
+:PROPERTIES:
+:EXPORT_HUGO_SECTION: /
+:EXPORT_FILE_NAME: contact
+:EXPORT_DATE: [2021-07-31 Sat 12:00]
+:END:
+Just [mail](mailto:valentin@boettcher.cf) me. Spambots not welcome :P.
+I'm on [dev.to](https://dev.to/hiro98).
+
+> Empty
+Life is nothing like it used to be
+People used to be so nice to me
+Feeling so empty
+Empty
+There is nothing deep inside of me
+Life is nothing like it used to be
+Feeling so empty
+Life is still
+
+> _King Gizzard and the Lizard Wizard_: Empty
+
+* Impressum
+:PROPERTIES:
+:EXPORT_HUGO_SECTION: /
+:EXPORT_FILE_NAME: DSGVO
+:END:
+
+Angaben gemäß § 5 TMG
+
+Valentin Boettcher
+Raecknitzhoehe 15
+01217 DD
+
+Vertreten durch:
+Valentin Boettcher
+
+Kontakt:
+Telefon: 00-00
+E-Mail: hiro at protagon dot space
+
+Verantwortlich für den Inhalt nach § 55 Abs. 2 RStV:
+Valentin Boettcher
+Raecknitzhoehe 15
+01217 DD
+
+Haftungsausschluss:
+
+Haftung für Inhalte
+
+Die Inhalte unserer Seiten wurden mit größter Sorgfalt erstellt. Für die Richtigkeit, Vollständigkeit und Aktualität der Inhalte können wir jedoch keine Gewähr übernehmen. Als Diensteanbieter sind wir gemäß § 7 Abs.1 TMG für eigene Inhalte auf diesen Seiten nach den allgemeinen Gesetzen verantwortlich. Nach §§ 8 bis 10 TMG sind wir als Diensteanbieter jedoch nicht verpflichtet, übermittelte oder gespeicherte fremde Informationen zu überwachen oder nach Umständen zu forschen, die auf eine rechtswidrige Tätigkeit hinweisen. Verpflichtungen zur Entfernung oder Sperrung der Nutzung von Informationen nach den allgemeinen Gesetzen bleiben hiervon unberührt. Eine diesbezügliche Haftung ist jedoch erst ab dem Zeitpunkt der Kenntnis einer konkreten Rechtsverletzung möglich. Bei Bekanntwerden von entsprechenden Rechtsverletzungen werden wir diese Inhalte umgehend entfernen.
+
+Haftung für Links
+
+Unser Angebot enthält Links zu externen Webseiten Dritter, auf deren Inhalte wir keinen Einfluss haben. Deshalb können wir für diese fremden Inhalte auch keine Gewähr übernehmen. Für die Inhalte der verlinkten Seiten ist stets der jeweilige Anbieter oder Betreiber der Seiten verantwortlich. Die verlinkten Seiten wurden zum Zeitpunkt der Verlinkung auf mögliche Rechtsverstöße überprüft. Rechtswidrige Inhalte waren zum Zeitpunkt der Verlinkung nicht erkennbar. Eine permanente inhaltliche Kontrolle der verlinkten Seiten ist jedoch ohne konkrete Anhaltspunkte einer Rechtsverletzung nicht zumutbar. Bei Bekanntwerden von Rechtsverletzungen werden wir derartige Links umgehend entfernen.
+
+Urheberrecht
+
+Die durch die Seitenbetreiber erstellten Inhalte und Werke auf diesen Seiten unterliegen dem deutschen Urheberrecht. Die Vervielfältigung, Bearbeitung, Verbreitung und jede Art der Verwertung außerhalb der Grenzen des Urheberrechtes bedürfen der schriftlichen Zustimmung des jeweiligen Autors bzw. Erstellers. Downloads und Kopien dieser Seite sind nur für den privaten, nicht kommerziellen Gebrauch gestattet. Soweit die Inhalte auf dieser Seite nicht vom Betreiber erstellt wurden, werden die Urheberrechte Dritter beachtet. Insbesondere werden Inhalte Dritter als solche gekennzeichnet. Sollten Sie trotzdem auf eine Urheberrechtsverletzung aufmerksam werden, bitten wir um einen entsprechenden Hinweis. Bei Bekanntwerden von Rechtsverletzungen werden wir derartige Inhalte umgehend entfernen.
+Datenschutzerklaerung nach DSGVO.
+
+Diese Datenschutzerklärung klärt Sie über die Art, den Umfang und Zweck der Verarbeitung von personenbezogenen Daten (nachfolgend kurz „Daten“) innerhalb unseres Onlineangebotes und der mit ihm verbundenen Webseiten, Funktionen und Inhalte sowie externen Onlinepräsenzen, wie z.B. unser Social Media Profile auf (nachfolgend gemeinsam bezeichnet als „Onlineangebot“). Im Hinblick auf die verwendeten Begrifflichkeiten, wie z.B. „Verarbeitung“ oder „Verantwortlicher“ verweisen wir auf die Definitionen im Art. 4 der Datenschutzgrundverordnung (DSGVO).
+
+Verantwortlicher
+
+Valentin Boettcher
+Wundtstrasse 3
+01217 Dresden
+
+E-Mail: hiro at protagon dot space
+
+Arten der verarbeiteten Daten:
+
+- Bestandsdaten (z.B., Namen, Adressen).
+- Kontaktdaten (z.B., E-Mail, Telefonnummern).
+- Inhaltsdaten (z.B., Texteingaben, Fotografien, Videos).
+- Nutzungsdaten (z.B., besuchte Webseiten, Interesse an Inhalten, Zugriffszeiten).
+- Meta-/Kommunikationsdaten (z.B., Geräte-Informationen, IP-Adressen).
+Kategorien betroffener Personen
+
+Besucher und Nutzer des Onlineangebotes (Nachfolgend bezeichnen wir die betroffenen Personen zusammenfassend auch als „Nutzer“).
+Zweck der Verarbeitung
+
+- Zurverfügungstellung des Onlineangebotes, seiner Funktionen und Inhalte.
+- Beantwortung von Kontaktanfragen und Kommunikation mit Nutzern.
+- Sicherheitsmaßnahmen.
+- Reichweitenmessung/Marketing
+Verwendete Begrifflichkeiten
+
+„Personenbezogene Daten“ sind alle Informationen, die sich auf eine identifizierte oder identifizierbare natürliche Person (im Folgenden „betroffene Person“) beziehen; als identifizierbar wird eine natürliche Person angesehen, die direkt oder indirekt, insbesondere mittels Zuordnung zu einer Kennung wie einem Namen, zu einer Kennnummer, zu Standortdaten, zu einer Online-Kennung (z.B. Cookie) oder zu einem oder mehreren besonderen Merkmalen identifiziert werden kann, die Ausdruck der physischen, physiologischen, genetischen, psychischen, wirtschaftlichen, kulturellen oder sozialen Identität dieser natürlichen Person sind.
+
+„Verarbeitung“ ist jeder mit oder ohne Hilfe automatisierter Verfahren ausgeführte Vorgang oder jede solche Vorgangsreihe im Zusammenhang mit personenbezogenen Daten. Der Begriff reicht weit und umfasst praktisch jeden Umgang mit Daten.
+
+„Pseudonymisierung“ die Verarbeitung personenbezogener Daten in einer Weise, dass die personenbezogenen Daten ohne Hinzuziehung zusätzlicher Informationen nicht mehr einer spezifischen betroffenen Person zugeordnet werden können, sofern diese zusätzlichen Informationen gesondert aufbewahrt werden und technischen und organisatorischen Maßnahmen unterliegen, die gewährleisten, dass die personenbezogenen Daten nicht einer identifizierten oder identifizierbaren natürlichen Person zugewiesen werden.
+
+„Profiling“ jede Art der automatisierten Verarbeitung personenbezogener Daten, die darin besteht, dass diese personenbezogenen Daten verwendet werden, um bestimmte persönliche Aspekte, die sich auf eine natürliche Person beziehen, zu bewerten, insbesondere um Aspekte bezüglich Arbeitsleistung, wirtschaftliche Lage, Gesundheit, persönliche Vorlieben, Interessen, Zuverlässigkeit, Verhalten, Aufenthaltsort oder Ortswechsel dieser natürlichen Person zu analysieren oder vorherzusagen.
+
+Als „Verantwortlicher“ wird die natürliche oder juristische Person, Behörde, Einrichtung oder andere Stelle, die allein oder gemeinsam mit anderen über die Zwecke und Mittel der Verarbeitung von personenbezogenen Daten entscheidet, bezeichnet.
+
+„Auftragsverarbeiter“ eine natürliche oder juristische Person, Behörde, Einrichtung oder andere Stelle, die personenbezogene Daten im Auftrag des Verantwortlichen verarbeitet.
+Maßgebliche Rechtsgrundlagen
+
+Nach Maßgabe des Art. 13 DSGVO teilen wir Ihnen die Rechtsgrundlagen unserer Datenverarbeitungen mit. Sofern die Rechtsgrundlage in der Datenschutzerklärung nicht genannt wird, gilt Folgendes: Die Rechtsgrundlage für die Einholung von Einwilligungen ist Art. 6 Abs. 1 lit. a und Art. 7 DSGVO, die Rechtsgrundlage für die Verarbeitung zur Erfüllung unserer Leistungen und Durchführung vertraglicher Maßnahmen sowie Beantwortung von Anfragen ist Art. 6 Abs. 1 lit. b DSGVO, die Rechtsgrundlage für die Verarbeitung zur Erfüllung unserer rechtlichen Verpflichtungen ist Art. 6 Abs. 1 lit. c DSGVO, und die Rechtsgrundlage für die Verarbeitung zur Wahrung unserer berechtigten Interessen ist Art. 6 Abs. 1 lit. f DSGVO. Für den Fall, dass lebenswichtige Interessen der betroffenen Person oder einer anderen natürlichen Person eine Verarbeitung personenbezogener Daten erforderlich machen, dient Art. 6 Abs. 1 lit. d DSGVO als Rechtsgrundlage.
+Sicherheitsmaßnahmen
+
+Wir treffen nach Maßgabe des Art. 32 DSGVO unter Berücksichtigung des Stands der Technik, der Implementierungskosten und der Art, des Umfangs, der Umstände und der Zwecke der Verarbeitung sowie der unterschiedlichen Eintrittswahrscheinlichkeit und Schwere des Risikos für die Rechte und Freiheiten natürlicher Personen, geeignete technische und organisatorische Maßnahmen, um ein dem Risiko angemessenes Schutzniveau zu gewährleisten.
+
+Zu den Maßnahmen gehören insbesondere die Sicherung der Vertraulichkeit, Integrität und Verfügbarkeit von Daten durch Kontrolle des physischen Zugangs zu den Daten, als auch des sie betreffenden Zugriffs, der Eingabe, Weitergabe, der Sicherung der Verfügbarkeit und ihrer Trennung. Des Weiteren haben wir Verfahren eingerichtet, die eine Wahrnehmung von Betroffenenrechten, Löschung von Daten und Reaktion auf Gefährdung der Daten gewährleisten. Ferner berücksichtigen wir den Schutz personenbezogener Daten bereits bei der Entwicklung, bzw. Auswahl von Hardware, Software sowie Verfahren, entsprechend dem Prinzip des Datenschutzes durch Technikgestaltung und durch datenschutzfreundliche Voreinstellungen (Art. 25 DSGVO).
+Zusammenarbeit mit Auftragsverarbeitern und Dritten
+
+Sofern wir im Rahmen unserer Verarbeitung Daten gegenüber anderen Personen und Unternehmen (Auftragsverarbeitern oder Dritten) offenbaren, sie an diese übermitteln oder ihnen sonst Zugriff auf die Daten gewähren, erfolgt dies nur auf Grundlage einer gesetzlichen Erlaubnis (z.B. wenn eine Übermittlung der Daten an Dritte, wie an Zahlungsdienstleister, gem. Art. 6 Abs. 1 lit. b DSGVO zur Vertragserfüllung erforderlich ist), Sie eingewilligt haben, eine rechtliche Verpflichtung dies vorsieht oder auf Grundlage unserer berechtigten Interessen (z.B. beim Einsatz von Beauftragten, Webhostern, etc.).
+
+Sofern wir Dritte mit der Verarbeitung von Daten auf Grundlage eines sog. „Auftragsverarbeitungsvertrages“ beauftragen, geschieht dies auf Grundlage des Art. 28 DSGVO.
+Übermittlungen in Drittländer
+
+Sofern wir Daten in einem Drittland (d.h. außerhalb der Europäischen Union (EU) oder des Europäischen Wirtschaftsraums (EWR)) verarbeiten oder dies im Rahmen der Inanspruchnahme von Diensten Dritter oder Offenlegung, bzw. Übermittlung von Daten an Dritte geschieht, erfolgt dies nur, wenn es zur Erfüllung unserer (vor)vertraglichen Pflichten, auf Grundlage Ihrer Einwilligung, aufgrund einer rechtlichen Verpflichtung oder auf Grundlage unserer berechtigten Interessen geschieht. Vorbehaltlich gesetzlicher oder vertraglicher Erlaubnisse, verarbeiten oder lassen wir die Daten in einem Drittland nur beim Vorliegen der besonderen Voraussetzungen der Art. 44 ff. DSGVO verarbeiten. D.h. die Verarbeitung erfolgt z.B. auf Grundlage besonderer Garantien, wie der offiziell anerkannten Feststellung eines der EU entsprechenden Datenschutzniveaus (z.B. für die USA durch das „Privacy Shield“) oder Beachtung offiziell anerkannter spezieller vertraglicher Verpflichtungen (so genannte „Standardvertragsklauseln“).
+Rechte der betroffenen Personen
+
+Sie haben das Recht, eine Bestätigung darüber zu verlangen, ob betreffende Daten verarbeitet werden und auf Auskunft über diese Daten sowie auf weitere Informationen und Kopie der Daten entsprechend Art. 15 DSGVO.
+
+Sie haben entsprechend. Art. 16 DSGVO das Recht, die Vervollständigung der Sie betreffenden Daten oder die Berichtigung der Sie betreffenden unrichtigen Daten zu verlangen.
+
+Sie haben nach Maßgabe des Art. 17 DSGVO das Recht zu verlangen, dass betreffende Daten unverzüglich gelöscht werden, bzw. alternativ nach Maßgabe des Art. 18 DSGVO eine Einschränkung der Verarbeitung der Daten zu verlangen.
+
+Sie haben das Recht zu verlangen, dass die Sie betreffenden Daten, die Sie uns bereitgestellt haben nach Maßgabe des Art. 20 DSGVO zu erhalten und deren Übermittlung an andere Verantwortliche zu fordern.
+
+Sie haben ferner gem. Art. 77 DSGVO das Recht, eine Beschwerde bei der zuständigen Aufsichtsbehörde einzureichen.
+Widerrufsrecht
+
+Sie haben das Recht, erteilte Einwilligungen gem. Art. 7 Abs. 3 DSGVO mit Wirkung für die Zukunft zu widerrufen
+Widerspruchsrecht
+
+Sie können der künftigen Verarbeitung der Sie betreffenden Daten nach Maßgabe des Art. 21 DSGVO jederzeit widersprechen. Der Widerspruch kann insbesondere gegen die Verarbeitung für Zwecke der Direktwerbung erfolgen.
+Cookies und Widerspruchsrecht bei Direktwerbung
+
+Als „Cookies“ werden kleine Dateien bezeichnet, die auf Rechnern der Nutzer gespeichert werden. Innerhalb der Cookies können unterschiedliche Angaben gespeichert werden. Ein Cookie dient primär dazu, die Angaben zu einem Nutzer (bzw. dem Gerät auf dem das Cookie gespeichert ist) während oder auch nach seinem Besuch innerhalb eines Onlineangebotes zu speichern. Als temporäre Cookies, bzw. „Session-Cookies“ oder „transiente Cookies“, werden Cookies bezeichnet, die gelöscht werden, nachdem ein Nutzer ein Onlineangebot verlässt und seinen Browser schließt. In einem solchen Cookie kann z.B. der Inhalt eines Warenkorbs in einem Onlineshop oder ein Login-Status gespeichert werden. Als „permanent“ oder „persistent“ werden Cookies bezeichnet, die auch nach dem Schließen des Browsers gespeichert bleiben. So kann z.B. der Login-Status gespeichert werden, wenn die Nutzer diese nach mehreren Tagen aufsuchen. Ebenso können in einem solchen Cookie die Interessen der Nutzer gespeichert werden, die für Reichweitenmessung oder Marketingzwecke verwendet werden. Als „Third-Party-Cookie“ werden Cookies bezeichnet, die von anderen Anbietern als dem Verantwortlichen, der das Onlineangebot betreibt, angeboten werden (andernfalls, wenn es nur dessen Cookies sind spricht man von „First-Party Cookies“).
+
+Wir können temporäre und permanente Cookies einsetzen und klären hierüber im Rahmen unserer Datenschutzerklärung auf.
+
+Falls die Nutzer nicht möchten, dass Cookies auf ihrem Rechner gespeichert werden, werden sie gebeten die entsprechende Option in den Systemeinstellungen ihres Browsers zu deaktivieren. Gespeicherte Cookies können in den Systemeinstellungen des Browsers gelöscht werden. Der Ausschluss von Cookies kann zu Funktionseinschränkungen dieses Onlineangebotes führen.
+
+Ein genereller Widerspruch gegen den Einsatz der zu Zwecken des Onlinemarketing eingesetzten Cookies kann bei einer Vielzahl der Dienste, vor allem im Fall des Trackings, über die US-amerikanische Seite http://www.aboutads.info/choices/ oder die EU-Seite http://www.youronlinechoices.com/ erklärt werden. Des Weiteren kann die Speicherung von Cookies mittels deren Abschaltung in den Einstellungen des Browsers erreicht werden. Bitte beachten Sie, dass dann gegebenenfalls nicht alle Funktionen dieses Onlineangebotes genutzt werden können.
+Löschung von Daten
+
+Die von uns verarbeiteten Daten werden nach Maßgabe der Art. 17 und 18 DSGVO gelöscht oder in ihrer Verarbeitung eingeschränkt. Sofern nicht im Rahmen dieser Datenschutzerklärung ausdrücklich angegeben, werden die bei uns gespeicherten Daten gelöscht, sobald sie für ihre Zweckbestimmung nicht mehr erforderlich sind und der Löschung keine gesetzlichen Aufbewahrungspflichten entgegenstehen. Sofern die Daten nicht gelöscht werden, weil sie für andere und gesetzlich zulässige Zwecke erforderlich sind, wird deren Verarbeitung eingeschränkt. D.h. die Daten werden gesperrt und nicht für andere Zwecke verarbeitet. Das gilt z.B. für Daten, die aus handels- oder steuerrechtlichen Gründen aufbewahrt werden müssen.
+
+Nach gesetzlichen Vorgaben in Deutschland, erfolgt die Aufbewahrung insbesondere für 10 Jahre gemäß §§ 147 Abs. 1 AO, 257 Abs. 1 Nr. 1 und 4, Abs. 4 HGB (Bücher, Aufzeichnungen, Lageberichte, Buchungsbelege, Handelsbücher, für Besteuerung relevanter Unterlagen, etc.) und 6 Jahre gemäß § 257 Abs. 1 Nr. 2 und 3, Abs. 4 HGB (Handelsbriefe).
+
+Nach gesetzlichen Vorgaben in Österreich erfolgt die Aufbewahrung insbesondere für 7 J gemäß § 132 Abs. 1 BAO (Buchhaltungsunterlagen, Belege/Rechnungen, Konten, Belege, Geschäftspapiere, Aufstellung der Einnahmen und Ausgaben, etc.), für 22 Jahre im Zusammenhang mit Grundstücken und für 10 Jahre bei Unterlagen im Zusammenhang mit elektronisch erbrachten Leistungen, Telekommunikations-, Rundfunk- und Fernsehleistungen, die an Nichtunternehmer in EU-Mitgliedstaaten erbracht werden und für die der Mini-One-Stop-Shop (MOSS) in Anspruch genommen wird.
+
+DISQUS-Kommentarfunktion
+
+Wir setzen auf Grundlage unserer berechtigten Interessen an einer effizienten, sicheren und nutzerfreundlichen Kommentarverwaltung gem. Art. 6 Abs. 1 lit. f. DSGVO den Kommentardienst DISQUS, angeboten von der DISQUS, Inc., 301 Howard St, Floor 3 San Francisco, California- 94105, USA, ein. DISQUS ist unter dem Privacy-Shield-Abkommen zertifiziert und bietet hierdurch eine Garantie, das europäische Datenschutzrecht einzuhalten: https://www.privacyshield.gov/participant?id=a2zt0000000TRkEAAW&status=Active.
+
+Zur Nutzung der DISQUS Kommentarfunktion können Nutzer sich über ein eigenes DISQUS-Nutzer-Konto oder einen bestehende Social-Media-Konten (z.B. OpenID, Facebook, Twitter oder Google) anmelden. Hierbei werden die Anmeldedaten der Nutzer durch DISQUS von den Plattformen bezogen. Es ist ebenfalls möglich, die DISQUS-Kommentarfunktion als Gast, ohne Erstellung oder Verwendung Nutzerkontos bei DISQUS oder einem der angegebenen Social-Media-Anbieter, zu nutzen.
+
+Wir betten lediglich DISQUS mit seinen Funktionen in unsere Website ein, wobei wir auf die Kommentare der Nutzer Einfluss nehmen können. Die Nutzer treten jedoch in eine unmittelbare Vertragsbeziehung mit DISQUS, in deren Rahmen DISQUS die Kommentare der Nutzer verarbeitet und ein Ansprechpartner für etwaige Löschung der Daten der Nutzer ist. Wir verweisen hierbei auf die Datenschutzerklärung von DISQUS: https://help.disqus.com/terms-and-policies/disqus-privacy-policy und weisen die Nutzer ebenfalls darauf hin, dass sie davon ausgehen können, dass DISQUS neben dem Kommentarinhalt auch deren IP-Adresse und den Zeitpunkt des Kommentars speichert sowie Cookies auf den Rechnern der Nutzer speichert und zur Darstellung von Werbung nutzen kann. Nutzer können jedoch der Verarbeitung ihrer Daten zwecks Darstellung von Anzeigen widersprechen: https://disqus.com/data-sharing-settings.
+
+Kommentare und Beiträge
+
+Wenn Nutzer Kommentare oder sonstige Beiträge hinterlassen, können ihre IP-Adressen auf Grundlage unserer berechtigten Interessen im Sinne des Art. 6 Abs. 1 lit. f. DSGVO für 7 Tage gespeichert werden. Das erfolgt zu unserer Sicherheit, falls jemand in Kommentaren und Beiträgen widerrechtliche Inhalte hinterlässt (Beleidigungen, verbotene politische Propaganda, etc.). In diesem Fall können wir selbst für den Kommentar oder Beitrag belangt werden und sind daher an der Identität des Verfassers interessiert.
+
+Des Weiteren behalten wir uns vor, auf Grundlage unserer berechtigten Interessen gem. Art. 6 Abs. 1 lit. f. DSGVO, die Angaben der Nutzer zwecks Spamerkennung zu verarbeiten.
+
+Auf derselben Rechtsgrundlage behalten wir uns vor, im Fall von Umfragen die IP-Adressen der Nutzer für deren Dauer zu speichern und Cookies zu verwenden, um Mehrfachabstimmungen zu vermeiden.
+
+Die im Rahmen der Kommentare und Beiträge angegebenen Daten, werden von uns bis zum Widerspruch der Nutzer dauerhaft gespeichert.
+
+Kontaktaufnahme
+
+Bei der Kontaktaufnahme mit uns (z.B. per Kontaktformular, E-Mail, Telefon oder via sozialer Medien) werden die Angaben des Nutzers zur Bearbeitung der Kontaktanfrage und deren Abwicklung gem. Art. 6 Abs. 1 lit. b. (im Rahmen vertraglicher-/vorvertraglicher Beziehungen), Art. 6 Abs. 1 lit. f. (andere Anfragen) DSGVO verarbeitet.. Die Angaben der Nutzer können in einem Customer-Relationship-Management System ("CRM System") oder vergleichbarer Anfragenorganisation gespeichert werden.
+
+Wir löschen die Anfragen, sofern diese nicht mehr erforderlich sind. Wir überprüfen die Erforderlichkeit alle zwei Jahre; Ferner gelten die gesetzlichen Archivierungspflichten.
+
+Hosting und E-Mail-Versand
+
+Die von uns in Anspruch genommenen Hosting-Leistungen dienen der Zurverfügungstellung der folgenden Leistungen: Infrastruktur- und Plattformdienstleistungen, Rechenkapazität, Speicherplatz und Datenbankdienste, E-Mail-Versand, Sicherheitsleistungen sowie technische Wartungsleistungen, die wir zum Zwecke des Betriebs dieses Onlineangebotes einsetzen.
+
+Hierbei verarbeiten wir, bzw. unser Hostinganbieter Bestandsdaten, Kontaktdaten, Inhaltsdaten, Vertragsdaten, Nutzungsdaten, Meta- und Kommunikationsdaten von Kunden, Interessenten und Besuchern dieses Onlineangebotes auf Grundlage unserer berechtigten Interessen an einer effizienten und sicheren Zurverfügungstellung dieses Onlineangebotes gem. Art. 6 Abs. 1 lit. f DSGVO i.V.m. Art. 28 DSGVO (Abschluss Auftragsverarbeitungsvertrag).
+
+Erhebung von Zugriffsdaten und Logfiles
+
+Wir, bzw. unser Hostinganbieter, erhebt auf Grundlage unserer berechtigten Interessen im Sinne des Art. 6 Abs. 1 lit. f. DSGVO Daten über jeden Zugriff auf den Server, auf dem sich dieser Dienst befindet (sogenannte Serverlogfiles). Zu den Zugriffsdaten gehören Name der abgerufenen Webseite, Datei, Datum und Uhrzeit des Abrufs, übertragene Datenmenge, Meldung über erfolgreichen Abruf, Browsertyp nebst Version, das Betriebssystem des Nutzers, Referrer URL (die zuvor besuchte Seite), IP-Adresse und der anfragende Provider.
+
+Logfile-Informationen werden aus Sicherheitsgründen (z.B. zur Aufklärung von Missbrauchs- oder Betrugshandlungen) für die Dauer von maximal 7 Tagen gespeichert und danach gelöscht. Daten, deren weitere Aufbewahrung zu Beweiszwecken erforderlich ist, sind bis zur endgültigen Klärung des jeweiligen Vorfalls von der Löschung ausgenommen.
+
+Content-Delivery-Network von Cloudflare
+
+Wir setzen ein so genanntes "Content Delivery Network" (CDN), angeboten von Cloudflare, Inc., 101 Townsend St, San Francisco, CA 94107, USA, ein. Cloudflare ist unter dem Privacy-Shield-Abkommen zertifiziert und bietet hierdurch eine Garantie, das europäische Datenschutzrecht einzuhalten (https://www.privacyshield.gov/participant?id=a2zt0000000GnZKAA0&status=Active).
+
+Ein CDN ist ein Dienst, mit dessen Hilfe Inhalte unseres Onlineangebotes, insbesondere große Mediendateien, wie Grafiken oder Skripte mit Hilfe regional verteilter und über das Internet verbundener Server, schneller ausgeliefert werden. Die Verarbeitung der Daten der Nutzer erfolgt alleine zu den vorgenannten Zwecken und der Aufrechterhaltung der Sicherheit und Funktionsfähigkeit des CDN.
+
+Die Nutzung erfolgt auf Grundlage unserer berechtigten Interessen, d.h. Interesse an einer sicheren und effizienten Bereitstellung, Analyse sowie Optimierung unseres Onlineangebotes gem. Art. 6 Abs. 1 lit. f. DSGVO.
+
+Weitere Informationen erhalten Sie in der Datenschutzerklärung von Cloudflare: https://www.cloudflare.com/security-policy.
+
+Onlinepräsenzen in sozialen Medien
+
+Wir unterhalten Onlinepräsenzen innerhalb sozialer Netzwerke und Plattformen, um mit den dort aktiven Kunden, Interessenten und Nutzern kommunizieren und sie dort über unsere Leistungen informieren zu können.
+
+Wir weisen darauf hin, dass dabei Daten der Nutzer außerhalb des Raumes der Europäischen Union verarbeitet werden können. Hierdurch können sich für die Nutzer Risiken ergeben, weil so z.B. die Durchsetzung der Rechte der Nutzer erschwert werden könnte. Im Hinblick auf US-Anbieter die unter dem Privacy-Shield zertifiziert sind, weisen wir darauf hin, dass sie sich damit verpflichten, die Datenschutzstandards der EU einzuhalten.
+
+Ferner werden die Daten der Nutzer im Regelfall für Marktforschungs- und Werbezwecke verarbeitet. So können z.B. aus dem Nutzungsverhalten und sich daraus ergebenden Interessen der Nutzer Nutzungsprofile erstellt werden. Die Nutzungsprofile können wiederum verwendet werden, um z.B. Werbeanzeigen innerhalb und außerhalb der Plattformen zu schalten, die mutmaßlich den Interessen der Nutzer entsprechen. Zu diesen Zwecken werden im Regelfall Cookies auf den Rechnern der Nutzer gespeichert, in denen das Nutzungsverhalten und die Interessen der Nutzer gespeichert werden. Ferner können in den Nutzungsprofilen auch Daten unabhängig der von den Nutzern verwendeten Geräte gespeichert werden (insbesondere wenn die Nutzer Mitglieder der jeweiligen Plattformen sind und bei diesen eingeloggt sind).
+
+Die Verarbeitung der personenbezogenen Daten der Nutzer erfolgt auf Grundlage unserer berechtigten Interessen an einer effektiven Information der Nutzer und Kommunikation mit den Nutzern gem. Art. 6 Abs. 1 lit. f. DSGVO. Falls die Nutzer von den jeweiligen Anbietern um eine Einwilligung in die Datenverarbeitung gebeten werden (d.h. ihr Einverständnis z.B. über das Anhaken eines Kontrollkästchens oder Bestätigung einer Schaltfläche erklären) ist die Rechtsgrundlage der Verarbeitung Art. 6 Abs. 1 lit. a., Art. 7 DSGVO.
+
+Für eine detaillierte Darstellung der jeweiligen Verarbeitungen und der Widerspruchsmöglichkeiten (Opt-Out), verweisen wir auf die nachfolgend verlinkten Angaben der Anbieter.
+
+Auch im Fall von Auskunftsanfragen und der Geltendmachung von Nutzerrechten, weisen wir darauf hin, dass diese am effektivsten bei den Anbietern geltend gemacht werden können. Nur die Anbieter haben jeweils Zugriff auf die Daten der Nutzer und können direkt entsprechende Maßnahmen ergreifen und Auskünfte geben. Sollten Sie dennoch Hilfe benötigen, dann können Sie sich an uns wenden.
+
+- Facebook (Facebook Ireland Ltd., 4 Grand Canal Square, Grand Canal Harbour, Dublin 2, Irland) - Datenschutzerklärung: https://www.facebook.com/about/privacy/, Opt-Out: https://www.facebook.com/settings?tab=ads und http://www.youronlinechoices.com, Privacy Shield: https://www.privacyshield.gov/participant?id=a2zt0000000GnywAAC&status=Active.
+
+- Google/ YouTube (Google LLC, 1600 Amphitheatre Parkway, Mountain View, CA 94043, USA) – Datenschutzerklärung:  https://policies.google.com/privacy, Opt-Out: https://adssettings.google.com/authenticated, Privacy Shield: https://www.privacyshield.gov/participant?id=a2zt000000001L5AAI&status=Active.
+
+- Instagram (Instagram Inc., 1601 Willow Road, Menlo Park, CA, 94025, USA) – Datenschutzerklärung/ Opt-Out: http://instagram.com/about/legal/privacy/.
+
+- Twitter (Twitter Inc., 1355 Market Street, Suite 900, San Francisco, CA 94103, USA) - Datenschutzerklärung: https://twitter.com/de/privacy, Opt-Out: https://twitter.com/personalization, Privacy Shield: https://www.privacyshield.gov/participant?id=a2zt0000000TORzAAO&status=Active.
+
+- Pinterest (Pinterest Inc., 635 High Street, Palo Alto, CA, 94301, USA) – Datenschutzerklärung/ Opt-Out: https://about.pinterest.com/de/privacy-policy.
+
+- LinkedIn (LinkedIn Ireland Unlimited Company Wilton Place, Dublin 2, Irland) - Datenschutzerklärung https://www.linkedin.com/legal/privacy-policy , Opt-Out: https://www.linkedin.com/psettings/guest-controls/retargeting-opt-out, Privacy Shield: https://www.privacyshield.gov/participant?id=a2zt0000000L0UZAA0&status=Active.
+
+- Xing (XING AG, Dammtorstraße 29-32, 20354 Hamburg, Deutschland) - Datenschutzerklärung/ Opt-Out: https://privacy.xing.com/de/datenschutzerklaerung.
+
+- Wakalet (Wakelet Limited, 76 Quay Street, Manchester, M3 4PR, United Kingdom) - Datenschutzerklärung/ Opt-Out: https://wakelet.com/privacy.html.
+
+Einbindung von Diensten und Inhalten Dritter
+
+Wir setzen innerhalb unseres Onlineangebotes auf Grundlage unserer berechtigten Interessen (d.h. Interesse an der Analyse, Optimierung und wirtschaftlichem Betrieb unseres Onlineangebotes im Sinne des Art. 6 Abs. 1 lit. f. DSGVO) Inhalts- oder Serviceangebote von Drittanbietern ein, um deren Inhalte und Services, wie z.B. Videos oder Schriftarten einzubinden (nachfolgend einheitlich bezeichnet als “Inhalte”).
+
+Dies setzt immer voraus, dass die Drittanbieter dieser Inhalte, die IP-Adresse der Nutzer wahrnehmen, da sie ohne die IP-Adresse die Inhalte nicht an deren Browser senden könnten. Die IP-Adresse ist damit für die Darstellung dieser Inhalte erforderlich. Wir bemühen uns nur solche Inhalte zu verwenden, deren jeweilige Anbieter die IP-Adresse lediglich zur Auslieferung der Inhalte verwenden. Drittanbieter können ferner so genannte Pixel-Tags (unsichtbare Grafiken, auch als "Web Beacons" bezeichnet) für statistische oder Marketingzwecke verwenden. Durch die "Pixel-Tags" können Informationen, wie der Besucherverkehr auf den Seiten dieser Website ausgewertet werden. Die pseudonymen Informationen können ferner in Cookies auf dem Gerät der Nutzer gespeichert werden und unter anderem technische Informationen zum Browser und Betriebssystem, verweisende Webseiten, Besuchszeit sowie weitere Angaben zur Nutzung unseres Onlineangebotes enthalten, als auch mit solchen Informationen aus anderen Quellen verbunden werden.
+
+Angepasst durch den Betreiber der Seite. Erstellt mit Datenschutz-Generator.de von RA Dr. Thomas Schwenke
+
+* KDE :@KDE:
+** KDE GSOC: Intro
+:PROPERTIES:
+:EXPORT_FILE_NAME: gsoc_intro
+:EXPORT_DATE: [2021-06-27 15:00]
+:END:
+
+Hi folks, talking to you over the interwebs is Valentin Boettcher who
+is overhauling the Deep Sky Object (DSO) system in the KStars Desktop
+Planetarium for the Google Summer of Code anno domini 2021.
+
+This is the first post in a series and rather late in the coming, so
+let's get right to it.
+
+I'm currently studying for a master’s degree in physics at the TU-Dresden
+in, you've guessed it correctly, the beautiful city of Dresden
+(Germany). In Germany, we do have two study terms per year and the
+summer term usually coincides neatly with the GSOC so that I couldn't
+participate in past years. This time around however, my schedule was
+finally sparse enough for me to have a go at it, and here we are :).
+
+My first contact with KStars development was back in 2017 while I
+spent a year in New Zealand and had a lot of time at hand. My
+reasoning was, that I could learn mathematics and physics in UNI and
+should funnel my enthusiasm into familiarizing myself with software
+development and the open source software community. I promptly wiped
+my hackintosh laptop to put Linux with KDE on it[^3]. After reading
+ESR's famous ["How To Become A
+Hacker"](http://www.catb.org/~esr/faqs/hacker-howto.html), I followed
+the advice given therein, which was to find an open source project and
+start hacking on it. I already liked KDE and space, so KStars was in
+the center of the Venn-diagram :P.  I went ahead and busied myself
+with one of the junior jobs listed on the KStars web-site[^2]. I
+quickly found that I liked figuring out how stuff in KStars worked and
+also got in contact with my mentor Jasem Mutlaq who was always
+available to answer questions and endure my barrage of instant
+messages on matrix :P. My second job was to draw comets a tail and
+learned that it is wise to do some code archaeology before going ahead
+and implementing functionality that is already present. From there on
+I contributed more or less regularly when I found the time in my
+semester breaks.
+
+Now, finally, let's talk a wee bit about the actual GSOC project.  In
+KStars, everything that isn't a Star or an object in our solar system,
+an asteroid, a satellite or a comet (I'm sure I forgot something) is a
+deep sky object (DSO). Prominent members of the DSO caste are galaxies
+(think M31, Andromeda), asterisms and nebulae. Of course there are a
+plethora of catalogs for specific types of DSOs (for example, Lynds
+Catalog of Dark Nebulae) as well as compilations like the New General
+Catalogue.  The system for handling those catalogs in KStars has grown
+rather "organically" and is now a tangle between databases, CSV files
+and special case implementations. Many catalogs were mentioned
+explicitly in the code, making it hard to extend and generalize. Also,
+the sources of the catalogs and methods how they were transformed into
+the KStars format were inhomogeneous and hard to reproduce, making
+deduplication almost impossible. Finally, KStars just loaded all the
+DSOs into memory and computed their position on the virtual sky for
+every draw cycle, which made all too large catalogs infeasible.  My
+task is now (and has been since the beginning of June) to implement a
+unified catalog format which can be loaded into a central database and
+supports deduplication. Furthermore, taking inspiration from the
+handling of star catalogs in KStars, the objects should be trixel[^1]
+indexed and cached in and out of memory (but only for large
+catalogs). Finally, it would be very desirable to make the
+creation/compilation of the catalogs reproducible and easily
+extendable to facilitate future maintenance.
+
+This sounds like a big heap of stuff to get done and in the next post
+I will be detailing how it's going so far :).
+
+Cheers,
+Valentin
+
+
+[^1]: In KStars the sky is subdivided into triangular pixels "Trixels".
+
+    Assigning each object to a trixel makes it efficient to retrieve all objects from a certain part of the sky.
+
+[^2]: which had to do with figuring out why some faint asteroids where missing
+
+[^3]: which I knew from my school time when I used it on my netbook because there was a cool neon "Hacker" theme for it :P
+
+** KDE GSOC: Community Bonding and First Coding Period (May 17 - July 11)
+:PROPERTIES:
+:EXPORT_FILE_NAME: gsoc_1
+:EXPORT_DATE: [2021-07-11 15:00]
+:END:
+
+Of course the task I described in the [[*KDE GSOC: Intro][last post]] looks and is quite
+monumental. That is why I laid some of the groundwork for my GSOC
+beforehand (in the actual German semester breaks). This work continued
+in the community bonding and first coding period and will therefore be
+described here.
+
+But first I want to thank my mentor Jasem Mutlaq for his support, his
+patience with me and his nerves of steel. My mood levels were somewhat
+similar to a huge-amplitude sine wave those last weeks.
+
+Now to the meat...
+
+I began by studying the existing deep sky object implementation in
+KStars to identify what structure the new catalogs should have and
+what the smallest irreducible core of functionality was I could
+replace to make integration easier. I discovered that the catalogs
+were a mix of SQL databases and text files, somehow loaded at startup
+and then appended to some linked list. There was some deduplication
+implemented but like most DSO code it was oddly catalog
+specific. Especially the Messier, IC and NGC catalogs were often
+mentioned in the code. Also the explicit distinction between stars and
+DSOs made writing general code complicated but I found a consistent
+set of data fields shared by all catalog objects which all admitted
+sane defaults. It wasn't bad code or anything like that. Just the
+product of "organic groth" with many thing I wanted already present in
+some way but somewhat all over the place. I admit that I studied the
+code just enough to find out what exactly I had to replace and maybe I
+could have reused more of the existing code but I've picked this
+specific path in the multiverse, so let's get on with it. Just a shout
+out to all who did previous work on the DSO code among whom are, just to
+name a few, Jason Harris, Rishab Arora, Thomas Kabelmann and Akarsh
+Simha.
+
+With this knowledge I was able to go forward and devise a concrete
+plan for implementing the new DSO system. First of all, albeit I would
+love to use ~std::variant~ and some kind of entity component system
+for the different DSO types I settled with a one-for-all type for deep
+sky objects. The primary reason for this was, that KStars uses ~C++14~
+which lacks variants (and the extremely useful
+~std::optional~). Furthermore the DSOs all share common structure, so
+this was just the simpler and thus preferable option. The second
+design decision was not to load all of the DSOs into memory, but
+instead to take inspiration from the deep star catalogs. For one they
+are dynamically loaded from a special trixel indexed format so this
+already was within the formulated goals of the endeavor. On the other
+hand the notion of having "canonical" copies of catalog objects in
+memory and syncing their mutation with the database system seemed
+overly complicated. The catalog database should be the single source
+of truth and not the (ephemeral) memory of KStars.
+
+When a specific object is needed, it should just be retrieved from the
+database locally in the code instead of searching some in memory list
+in KStars or shooting around with pointers. This notion is somewhat at
+odds with how things were and are done in KStars which created some
+interesting problems later on as we shall see. These ideas somewhat
+dictated the rest of the plan which I (for the first time in my
+programming career) completely wrote down in advance. The heart of it
+all is the database manager which abstracts maintaining, reading from
+and writing to the database. As always one should justify the creation
+of a special data type. In this case it was the requirement that the
+database access should be painless and could be handled locally
+anywhere in the code just by creating another instance of the database
+manager. The manager should handle retrieving objects and catalog meta
+information as well as importing, editing and exporting catalogs.
+
+The structure of the database itself was another point of
+consideration. Naturally each catalog should have its own table. But
+how should deduplication work?  The method I settled on is really
+quite simple. Each object gets a (relatively stable) hash that is
+calculated from some of its properties which is henceforth called the
+ID.  When two objects (from different catalogs or otherwise) are the
+same _physical_ object, then they will both be assigned the same
+object id (OID) which is just the ID of the object in the "oldest"
+catalog (with the lowest catalog id), trying to make it stable under
+the introduction of new catalogs. Additionally each catalog is
+assigned a priority value which is just a real number (conventionally
+between zero and one). When loading objects from the database into
+KStars and there are multiple objects with the same OID only the one
+from the catalog with the highest priority will be loaded. This simple
+mechanism should cover the requirements of KStars quite well and is
+relatively easy to implement.
+
+There I ran into an issue that demanded some research and
+table in the database.  The simplest option would be just to create a
+benchmarking. Remember that each catalog is represented by its own
+so-called view, a dynamic "virtual" table that combines all the
+catalog into one homogeneous table. SQL magic could automatically
+perform the deduplication algorithm outline above and everything would
+be fine and dandy. However, benchmarking revealed that actually
+writing the view into its own table, henceforth called the master
+catalog/table, increased the performance quite considerably, enough so
+to justify the increased complexity in the implementation. And then I
+discovered SQL indexes. A gift from the heavens! They increased
+performance on loading objects in a trixel from the master catalog
+roughly threefold and I was sold on the master catalog approach. So to
+summarize it all; a deduplicated view of the combined catalog tables
+is being created and then written into the master table. This has to
+be done for every modification of the catalogs but is relatively fast
+(just not fast enough to be done 20 times per second). Later
+experimentation showed that this approach could accommodate catalogs
+up to a million objects in size.
+
+I also created a catalog file format, which is just an sqlite database
+file with the application id set to a special value with almost the
+same structure as the catalog database proper. The application id
+enables KStars to check if the database is really a catalog file and
+not to rely just on the structure of the contained database for
+that. In the future the ~file~ command and other utilities like file
+managers could be made aware of this special application id to
+recognize the catalog files. We will leave it this level of detail for
+now. For more details please refer to my [[https://protagon.space/stuff/kstars_cleaned.org][notes]].
+
+Of course the operations on catalogs have to somehow be accessible in
+the GUI of KStars so this was another point of action. Before that
+however the glue between the database manager and the usual sky
+composite system had to be implemented. In KStars different types of
+objects (Stars, Comets, Asteroids, etc. pp.) all are implemented as
+components with a unified interface. These components provide methods
+for loading and drawing objects, as well as utilities to find objects
+near a certain point on the sky and similar things. The loading and
+drawing part was relatively simple to implement. The drawing code
+could be straight up reused from the old implementation and the
+loading was essentially covered by the database manager but with a
+twist.
+
+To support very large catalogs it would be desirable to only have
+objects in memory which are currently visible. Thus a LRU cache was
+implemented with the trixel id, which essentially labels a portion of
+the sky, as key. This cache is fully unit tested and relies completely
+on standard library containers so not a single pointer appears in the
+code.[fn:1] As an added bonus, the cache is completely transparent by
+default and only takes effect if configured to so and therefore
+includes the typical use case of comparatively small catalogs up to
+ten-thousands of objects.
+
+But here the culture clash between the new DSO implementation and the
+traditional KStars way of things became apparent. In many places
+KStars expects pointers to so called ~SkyObjects~ with no real clue as
+to where they are actually stored and how their memory is managed and
+with the implication that the object is expected to live
+forever. Well, the DSOs from the catalogs aren't supposed to be kept
+around forever and thus a compromise is in order. So whenever a
+pointer to an object is required, it is inserted into a linked
+list[fn:2] in a hash table with the trixel as index or is taken from
+there if it's already present. I hope that we can eventually
+transition away from raw pointers and manage life time either
+explicitly or with smart pointers.
+
+With this done and basic drawing working I went on to implement a
+basic GUI for catalog management[fn:3].  I also wrote unit tests for
+the database functionality which proved itself as very useful later
+on. After that I couldn't delay anymore. Back when I implemented the
+component for the new DSOs I went as far as getting it to compile and
+not much further[fn:4].
+
+Now I had to go around and find out what broke. A lot broke and I did
+not find all of it until the big merge :P.  A rather interesting
+source of work happened to be the way metadata like observation notes
+and image links were stored. They came from a text file and then were
+loaded into the sky objects at startup and somehow synchronized with
+the text files on mutation. This, of course, played not well with the
+new DSOs as they were ephemeral. So I replaced the whole shebang with
+a hash table which incidentally improved startup performance. The rest
+of the integration work was similarly interesting and continues
+today. I will not go into it further but feel free to look at the
+KStars commit history.
+
+Just yesterday I added a feature back in that I had axed accidentally
+to the dismay of its original author. That showed me that I am not
+entitled to judge the merit of individual features and whether they
+could be sacrificed for the "greater good". The answer is: They
+cannot! Another lesson I've learned is, that too much magic just ain't
+no good. I had created a variadic template wrapper for the ~QSqlQuery~
+type for syntactical convenience and shot myself in the food with
+it. It ended up obscuring an error message and prevented me from
+reproducing a crash that users on certain platforms were
+experiencing. After a not-so-great couple of days I, with the help of
+two kind people, finally found the lowest common denominator of the
+problem: an old, but still supported version of QT which bundled an
+old version of sqlite which in turn did not support the ~NULLS FIRST~
+directive that I was using. Turtles all the way down. Although I
+tested all my changes on KDE Neon (I am on NixOS primarily) the wise
+thing would have been to develop or at least test everything with an
+older QT version from the get go.
+
+Also, although I had put in version checking into the database code, I
+didn't provide a mechanism for upgrading the database format to new
+versions. This I now remedied by introducing a simple mechanism that
+applies database modifications successively for each version
+upgrade. So if I go from version two to version four it will be
+upgraded from version two to three and then to four which I understand
+is the way those things are usually done.
+
+Now, I did do at least some "constructive" work, adding a (admittedly
+ugly) CSV importer so that users can import arbitrary CSV-ish
+catalogs. The greater chunk however I will cover next week: The python
+catalog package tooling with continuous integration and
+deduplication. The catalogs churned out by that framework are then
+installed via the ~KNewStuff~ framework. I discovered two interesting
+bugs in this framework because KStars seems to be almost the only
+program using the framework in this specific way.
+
+If you made it this far, I applaud and thank you for your endurance.
+See you next time.
+
+Cheers,
+Valentin
+
+P.S. Currently I am working on documenting both the new DSO GUI and
+the python tooling. I hope eventually they will pass the "noob test"
+:P. But, as you may have recognized above, I am not the best explainer.
+
+**** Footnotes
+[fn:4] I really appreciate c++ as a compiled language.
+
+[fn:3] See the KStars Handbook.
+
+[fn:2] References to objects in linked lists are stable.
+
+[fn:1] As a matter of fact, I set out with the goal not to do any
+manual memory management and not to use a single pointer in the new
+code. I have been successful thus far if you would be so lenient not
+to count glue code for legacy KStars systems.

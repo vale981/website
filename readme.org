@@ -1,2 +1,7 @@
 * Valentin's new Website
 Valentin's new Hugo website powered by [[https://gohugo.io/][hugo]] and [[https://ox-hugo.scripter.co/][ox-hugo]]
+
+** Building
+1. ~git clone --recursive ...~
+2. ~hugo server -w -D~ for a preview
+3. ~hugo server -D~ for building
