@@ -30,8 +30,7 @@ I've got a [[file:static/docs/cv_ger.pdf][CV]] in German.
 
 ** Things Made
 - The source of this website lives [[https://github.com/vale981/website][here]].
-- I've written a bachelor's thesis about [[https://github.com/vale981/bachelor_thesis][Monte Carlo Event
-  Generators]].
+- I've written a bachelor's thesis about [[https://git.io/JBPZg][Monte Carlo Event Generators]].
   I even built my own in python.
 - A simple, easy-to-use and firewall penetrating [[https://gitlab.com/vale9811/doccam-pi][control software]] for
   streaming stuff from ~rtmp~ cams to youtube.
@@ -41,7 +40,7 @@ I've got a [[file:static/docs/cv_ger.pdf][CV]] in German.
 - The software behind [[https://klausurnoug.at][klausurnoug.at]].
 - A [[https://protagon.space/stuff/neutrino_oscillations/][visualization of neutrino oscillations]].
 - A [[https://github.com/vale981/SecondaryValue][python library]] to calculate the gaussian error propagation.
-- A [[https://github.com/vale981/vertiefungs_scraper][small hack]] to scrape and organize physics courses at the
+- A [[https://git.io/JBPZX][small hack]] to scrape and organize physics courses at the
   TU-Dresden. [[https://protagon.space/stuff/vertiefungs_scraper/][See it in action]].
 - A script [[https://github.com/vale981/wunderlist-to-org][to convert the wunderlist export to org-mode.]]
 - A script to create an arch linux image with [[https://github.com/vale981/archiso-bcachefs][bcachefs]] support.
