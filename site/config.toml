@@ -1,0 +1,55 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "Hiro's Stuff"
+theme = "smol"
+baseurl="https://protagon.space"
+
+[params]
+    subtitle = "Valentin Boettcher's Blog."
+    dateFmt = "02.01.2006 15:04"
+
+[menu]
+  [[menu.main]]
+        identifier = "Posts"
+        name = "Posts"
+        url = "/posts/"
+        weight = 1
+
+  [[menu.main]]
+        identifier = "about"
+        name = "About"
+        url = "/about"
+        weight = 3
+
+  [[menu.main]]
+        identifier = "contact"
+        name = "Contact"
+        url = "/contact"
+        weight = 3
+
+  [[menu.main]]
+        identifier = "categories"
+        name = "Categories"
+        url = "/categories/"
+        weight = 2
+
+  [[menu.main]]
+        identifier = "tags"
+        name = "Tags"
+        url = "/tags/"
+        weight = 3
+
+  [[menu.footer]]
+        name = "Github"
+        url = "https://github.com/vale981"
+        weight = 1
+
+  [[menu.footer]]
+        name = "Impressum/DSGVO"
+        url = "/DSGVO"
+        weight = 3
+
+  [[menu.footer]]
+        name = "RSS"
+        url = "./index.xml"
+        weight = 4
