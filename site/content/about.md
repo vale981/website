@@ -23,7 +23,8 @@ of my projects as I publish the source to most things I produce.
 
 -   The source of this website lives [here](https://github.com/vale981/website).
 -   I've written a bachelor's thesis about [Monte Carlo Event
-    Generations](https://github.com/vale981/bachelor%5Fthesis). I even built my own in python.
+    Generations](https://github.com/vale981/bachelor%5Fthesis).
+    I even built my own in python.
 -   A simple, easy-to-use and firewall penetrating [control software](https://gitlab.com/vale9811/doccam-pi) for
     streaming stuff from `rtmp` cams to youtube.
 -   Along with a commilitone I've written some lecture notes about
