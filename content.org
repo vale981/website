@@ -31,7 +31,7 @@ I've got a [[file:static/docs/cv_ger.pdf][CV]] in German.
 ** Things Made
 - The source of this website lives [[https://github.com/vale981/website][here]].
 - I've written a bachelor's thesis about [[https://github.com/vale981/bachelor_thesis][Monte Carlo Event
-  Generations]].
+  Generators]].
   I even built my own in python.
 - A simple, easy-to-use and firewall penetrating [[https://gitlab.com/vale9811/doccam-pi][control software]] for
   streaming stuff from ~rtmp~ cams to youtube.
