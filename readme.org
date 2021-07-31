@@ -1,0 +1,2 @@
+* Valentin's new Website
+Valentin's new Hugo website powered by [[https://gohugo.io/][hugo]] and [[https://ox-hugo.scripter.co/][ox-hugo]]
