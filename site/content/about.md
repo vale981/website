@@ -36,7 +36,7 @@ of my projects as I publish the source to most things I produce.
     TU-Dresden. [See it in action](https://protagon.space/stuff/vertiefungs%5Fscraper/).
 -   A script [to convert the wunderlist export to org-mode.](https://github.com/vale981/wunderlist-to-org)
 -   A script to create an arch linux image with [bcachefs](https://github.com/vale981/archiso-bcachefs) support.
--   I've made the [webiste](https://sherpa-team.gitlab.io/) and some of the continuous integration for the
+-   I've made the [website](https://sherpa-team.gitlab.io/) and some of the continuous integration for the
     SHERPA project.
 
 

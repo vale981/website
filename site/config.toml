@@ -52,3 +52,6 @@ baseURL = "https://protagon.space"
         name = "RSS"
         url = "./index.xml"
         weight = 4
+
+[permalinks]
+  posts = "/:year/:month/:title/"
