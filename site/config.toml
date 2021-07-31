@@ -1,8 +1,7 @@
-baseURL = "http://example.org/"
 languageCode = "en-us"
 title = "Hiro's Stuff"
 theme = "smol"
-baseurl="https://protagon.space"
+baseURL = "https://protagon.space"
 
 [params]
     subtitle = "Valentin Boettcher's Blog."
