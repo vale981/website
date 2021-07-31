@@ -292,7 +292,7 @@ Dies setzt immer voraus, dass die Drittanbieter dieser Inhalte, die IP-Adresse d
 
 Angepasst durch den Betreiber der Seite. Erstellt mit Datenschutz-Generator.de von RA Dr. Thomas Schwenke
 
-* KDE :@KDE:
+* KDE                                                                  :@KDE:
 ** KDE GSOC: Intro
 :PROPERTIES:
 :EXPORT_FILE_NAME: gsoc_intro
@@ -603,3 +603,83 @@ the python tooling. I hope eventually they will pass the "noob test"
 manual memory management and not to use a single pointer in the new
 code. I have been successful thus far if you would be so lenient not
 to count glue code for legacy KStars systems.
+
+* Small Insights                                                       :@Tricks:
+** How to use the Systemd userspace DBus API on Traivis-CI
+:PROPERTIES:
+:EXPORT_FILE_NAME: sysduser
+:EXPORT_DATE: [2020-07-11 14:00]
+:END:
+I am currently working on a project which involves talking to the
+~systemd~ userspace session via the session ~dbus~ instance.
+
+After some fiddling around and enabling debug mode on travis via the
+excellent user support, I came up with the following.
+
+Travis uses VMs that run ~ubuntu~ which comes with ~systemd~.  To
+enable the userspace ~dbus~ session, one has to install the
+~dbus-user-session~ package. After the installation, it has to be
+activated through ~systemctl --user start dbus~. Furthermore one has
+to set the ~DBUS_SESSION_BUS_ADDRESS~ environment variable through
+~export DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/$(id -u)/bus~.
+
+TL;DR
+#+begin_src yaml
+script:
+  - sudo apt update
+  - sudo apt install dbus-user-session
+  - systemctl --user start dbus
+  - export DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/$(id -u)/bus
+#+end_src
+
+** Fixing Linux Dualboot: Reinstalling the Windows EFI Bootloader Files
+:PROPERTIES:
+:EXPORT_FILE_NAME: dualboot
+:EXPORT_DATE: [2020-07-11 15:00]
+:END:
+Note to my future self :).
+
+Reloading my Linux install after a pretty radical 'nuke and pave' I
+had to get my Windows dualboot back to work.  There are a thousand
+guides on how to do that, but I'll add another one in case your setup
+is similar to mine.
+
+I have installed windows on a separate drive and Linux on my main
+drive, along with the efi partition.
+
+Don't follow this guide blindly. Think about every step you take,
+because you can seriously mess up your system :).
+
+With that out of the way, the things you have to do are:
+ 1. Boot a windows install medium.
+ 2. Choose your language and enter the 'repair options'.
+ 3. Go to advanced and select 'command line'.
+ 4. To mount the efi partition type diskpart and in diskpart then type
+    list volume. A list of volumes will be printed and one of them the
+    efi partition (usually around 500mb ). Select this partition
+    (select volume ~[number]~) and assign a drive letter (~X~ is the
+    drive letter you assign).
+ 5. Check where your windows partition is mounted. The diskpart list
+    volume output will probably include it. I will assume that it is
+    volume ~C~. Exit diskart with ~exit~.
+ 6. To finally install the boot files type the command ~bcdboot
+    c:\windows /s x:~. This will generate boot files based on
+    ~c:\windows~ and install them on the partition with the letter
+    ~X~.
+
+Thats it, you can reboot now.  You may have to reconfigure grub (or
+whatever loader you use). On arch-linux, make sure you have os-prober
+installed :).
+** Installing without Fear
+:PROPERTIES:
+:EXPORT_FILE_NAME: inst_without_fear
+:EXPORT_DATE: [2020-09-16 15:00]
+:END:
+Note to self:
+
+If you want to make saure some nice GNU/Linux installer does not touch
+certain drives just run ~echo 1 > /sys/block/sdX/device/delete~ in a
+**root** shell and the drive will vanish from the system.
+
+Shamelessly stolen from:
+https://askubuntu.com/questions/554398/how-do-i-permanently-disable-hard-drives
