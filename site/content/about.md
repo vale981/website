@@ -5,7 +5,7 @@ date = 2021-07-31T12:00:00+02:00
 draft = false
 +++
 
-This site is a Homepage of Valentin Boettcher a.k.a. Hiro98.
+This is the web presence of Valentin Boettcher a.k.a. Hiro98.
 
 Valentin:
 

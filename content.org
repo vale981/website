@@ -10,7 +10,7 @@
 :EXPORT_DATE: [2021-07-31 Sat 12:00]
 :END:
 
-This site is a Homepage of Valentin Boettcher a.k.a. Hiro98.
+This is the web presence of Valentin Boettcher a.k.a. Hiro98.
 
 Valentin:
   -  currently studies physics in Dresden.
