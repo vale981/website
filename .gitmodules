@@ -3,4 +3,4 @@
 	url = https://github.com/Yukuro/hugo-theme-shell.git
 [submodule "site/themes/smol"]
 	path = site/themes/smol
-	url = git@github.com:vale981/smol.git
+	url = https://github.com/vale981/smol.git
