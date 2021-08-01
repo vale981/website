@@ -12,11 +12,13 @@
 This is the web presence of Valentin Boettcher a.k.a. Hiro98.
 
 Valentin:
-  -  currently studies physics in Dresden.
-  -  codes stuff.
-  -  is a science-fiction junky and space enthusiast.
-  -  loves jamming with the saxophone.
-  -  is hooked on LISP and Clojure.
+  - currently studies physics in Dresden.
+  - codes stuff.
+  - is a science-fiction junky and space enthusiast.
+  - loves jamming with the saxophone.
+  - is hooked on LISP and Clojure.
+  - Appreciates C++.
+  - Likes his [[https://blog.splitkb.com/blog/introducing-the-kyria][Kyria]].
 
 You can check out my [[https://github.com/vale981][Github]], [[https://gitlab.com/vale9811/][Gitlab]] and [[https://invent.kde.org/vboettcher/][KDE Invent]] profiles for most
 of my projects as I publish the source to most things I produce.
