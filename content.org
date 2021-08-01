@@ -6,8 +6,8 @@
 # eval: (org-hugo-auto-export-mode)
 # End:
 
-
-* About
+* Pages
+** About
 :PROPERTIES:
 :EXPORT_HUGO_SECTION: /
 :EXPORT_FILE_NAME: about
@@ -27,7 +27,7 @@ of my projects as I publish the source to most things I produce.
 
 I've got a [[file:static/docs/cv_ger.pdf][CV]] in German.
 
-** Things Made
+*** Things Made
 - The source of this website lives [[https://github.com/vale981/website][here]].
 - I've written a bachelor's thesis about [[https://git.io/JBPZg][Monte Carlo Event Generators]].
   I even built my own in python.
@@ -46,7 +46,7 @@ I've got a [[file:static/docs/cv_ger.pdf][CV]] in German.
 - I've made the [[https://sherpa-team.gitlab.io/][website]] and some of the continuous integration for the
   SHERPA project.
 
-** Activities
+*** Activities
 - I am the admin and the most enthusiastic user of the [[https://physik.protagon.space][TU-Dresden
   Physics Forum]].
 - I am an occasional contributor to [[https://invent.kde.org/education/kstars][KStars]]. As of late I have
@@ -59,8 +59,7 @@ I've got a [[file:static/docs/cv_ger.pdf][CV]] in German.
   name "Abschreibung für Abnutzung".
 - I am also the maintainer of the [[https://www.doc.govt.nz/nature/][RolaCam]] backend which is also used
   by the [[https://www.urbanwildlifetrust.org/portfolio/live-cam/][Urban Wildlife Trust]] for their [[https://www.youtube.com/channel/UCLizlM6gpaVHTKPo7spoqlA][Wildcams]].
-
-* Contact
+** Contact
 :PROPERTIES:
 :EXPORT_HUGO_SECTION: /
 :EXPORT_FILE_NAME: contact
@@ -169,7 +168,7 @@ z9SvuganEEyWovdM1ojmJxkU7jPa6SztIaIUKsl6Zn7d8R7fJJSP3po38yuGcF+m
 =x6uy
 -----END PGP PUBLIC KEY BLOCK-----
 #+end_src
-* Impressum
+** Impressum
 :PROPERTIES:
 :EXPORT_HUGO_SECTION: /
 :EXPORT_FILE_NAME: DSGVO
@@ -380,9 +379,9 @@ Wir setzen innerhalb unseres Onlineangebotes auf Grundlage unserer berechtigten 
 Dies setzt immer voraus, dass die Drittanbieter dieser Inhalte, die IP-Adresse der Nutzer wahrnehmen, da sie ohne die IP-Adresse die Inhalte nicht an deren Browser senden könnten. Die IP-Adresse ist damit für die Darstellung dieser Inhalte erforderlich. Wir bemühen uns nur solche Inhalte zu verwenden, deren jeweilige Anbieter die IP-Adresse lediglich zur Auslieferung der Inhalte verwenden. Drittanbieter können ferner so genannte Pixel-Tags (unsichtbare Grafiken, auch als "Web Beacons" bezeichnet) für statistische oder Marketingzwecke verwenden. Durch die "Pixel-Tags" können Informationen, wie der Besucherverkehr auf den Seiten dieser Website ausgewertet werden. Die pseudonymen Informationen können ferner in Cookies auf dem Gerät der Nutzer gespeichert werden und unter anderem technische Informationen zum Browser und Betriebssystem, verweisende Webseiten, Besuchszeit sowie weitere Angaben zur Nutzung unseres Onlineangebotes enthalten, als auch mit solchen Informationen aus anderen Quellen verbunden werden.
 
 Angepasst durch den Betreiber der Seite. Erstellt mit Datenschutz-Generator.de von RA Dr. Thomas Schwenke
-
-* KDE                                                                  :@KDE:
-** KDE GSOC: Intro
+* Blog
+** KDE                                                                :@KDE:
+*** KDE GSOC: Intro
 :PROPERTIES:
 :EXPORT_FILE_NAME: gsoc_intro
 :EXPORT_DATE: [2021-06-27 15:00]
@@ -463,7 +462,7 @@ Valentin
 
 [^3]: which I knew from my school time when I used it on my netbook because there was a cool neon "Hacker" theme for it :P
 
-** KDE GSOC: Community Bonding and First Coding Period (May 17 - July 11)
+*** KDE GSOC: Community Bonding and First Coding Period (May 17 - July 11)
 :PROPERTIES:
 :EXPORT_FILE_NAME: gsoc_1
 :EXPORT_DATE: [2021-07-11 15:00]
@@ -681,7 +680,7 @@ P.S. Currently I am working on documenting both the new DSO GUI and
 the python tooling. I hope eventually they will pass the "noob test"
 :P. But, as you may have recognized above, I am not the best explainer.
 
-**** Footnotes
+***** Footnotes
 [fn:4] I really appreciate c++ as a compiled language.
 
 [fn:3] See the KStars Handbook.
@@ -693,8 +692,8 @@ manual memory management and not to use a single pointer in the new
 code. I have been successful thus far if you would be so lenient not
 to count glue code for legacy KStars systems.
 
-* Small Insights                                                       :@Tricks:
-** How to use the Systemd userspace DBus API on Traivis-CI
+** Small Insights                                                  :@Tricks:
+*** How to use the Systemd userspace DBus API on Traivis-CI
 :PROPERTIES:
 :EXPORT_FILE_NAME: sysduser
 :EXPORT_DATE: [2020-07-11 14:00]
@@ -721,7 +720,7 @@ script:
   - export DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/$(id -u)/bus
 #+end_src
 
-** Fixing Linux Dualboot: Reinstalling the Windows EFI Bootloader Files
+*** Fixing Linux Dualboot: Reinstalling the Windows EFI Bootloader Files
 :PROPERTIES:
 :EXPORT_FILE_NAME: dualboot
 :EXPORT_DATE: [2020-07-11 15:00]
@@ -759,7 +758,7 @@ With that out of the way, the things you have to do are:
 Thats it, you can reboot now.  You may have to reconfigure grub (or
 whatever loader you use). On arch-linux, make sure you have os-prober
 installed :).
-** Installing without Fear
+*** Installing without Fear
 :PROPERTIES:
 :EXPORT_FILE_NAME: inst_without_fear
 :EXPORT_DATE: [2020-09-16 15:00]
