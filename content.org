@@ -23,6 +23,14 @@ of my projects as I publish the source to most things I produce.
 
 I've got a [[file:static/docs/cv_ger.pdf][CV]] in German.
 
+My usual internet/user/nick name is /Hiro/ or /Hiro98/ after Hiro
+Protagonist from Neal Stephenson's novel "[[https://en.wikipedia.org/wiki/Snow_Crash][Snow Crash]]", who is usually
+depicted in profile pictures like the following one.
+
+#+DOWNLOADED: screenshot @ 2021-08-01 15:14:54
+#+CAPTION: By [[http://www.benzilla.com/?p=4209][Ben Towle]].
+[[file:static/images/Pages/2021-08-01_15-14-54_screenshot.png]]
+
 *** Things Made
 - The source of this website lives [[https://github.com/vale981/website][here]].
 - I've written a bachelor's thesis about [[https://git.io/JBPZg][Monte Carlo Event Generators]].

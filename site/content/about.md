@@ -19,6 +19,12 @@ of my projects as I publish the source to most things I produce.
 
 I've got a [CV](/docs/cv_ger.pdf) in German.
 
+My usual internet/user/nick name is _Hiro_ or _Hiro98_ after Hiro
+Protagonist from Neal Stephenson's novel "[Snow Crash](https://en.wikipedia.org/wiki/Snow%5FCrash)", who is usually
+depicted in profile pictures like the following one.
+
+{{< figure src="/images/Pages/2021-08-01_15-14-54_screenshot.png" caption="Figure 1: By [Ben Towle](http://www.benzilla.com/?p=4209)." >}}
+
 
 ## Things Made {#things-made}
 
