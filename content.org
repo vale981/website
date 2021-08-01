@@ -1,5 +1,6 @@
 #+hugo_base_dir: site
 #+hugo_section: posts
+#+STARTUP: logdone
 #+author:  Valentin Boettcher
 
 * Pages
