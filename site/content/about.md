@@ -1,7 +1,6 @@
 +++
 title = "About"
 author = ["Valentin Boettcher"]
-date = 2021-07-31T12:00:00+02:00
 draft = false
 +++
 
@@ -24,7 +23,7 @@ I've got a [CV](/docs/cv_ger.pdf) in German.
 ## Things Made {#things-made}
 
 -   The source of this website lives [here](https://github.com/vale981/website).
--   I've written a bachelor's thesis about [Monte Carlo Event Generators](https://github.com/vale981/bachelor%5Fthesis).
+-   I've written a bachelor's thesis about [Monte Carlo Event Generators](https://git.io/JBPZg).
     I even built my own in python.
 -   A simple, easy-to-use and firewall penetrating [control software](https://gitlab.com/vale9811/doccam-pi) for
     streaming stuff from `rtmp` cams to youtube.
@@ -34,7 +33,7 @@ I've got a [CV](/docs/cv_ger.pdf) in German.
 -   The software behind [klausurnoug.at](https://klausurnoug.at).
 -   A [visualization of neutrino oscillations](https://protagon.space/stuff/neutrino%5Foscillations/).
 -   A [python library](https://github.com/vale981/SecondaryValue) to calculate the gaussian error propagation.
--   A [small hack](https://github.com/vale981/vertiefungs%5Fscraper) to scrape and organize physics courses at the
+-   A [small hack](https://git.io/JBPZX) to scrape and organize physics courses at the
     TU-Dresden. [See it in action](https://protagon.space/stuff/vertiefungs%5Fscraper/).
 -   A script [to convert the wunderlist export to org-mode.](https://github.com/vale981/wunderlist-to-org)
 -   A script to create an arch linux image with [bcachefs](https://github.com/vale981/archiso-bcachefs) support.

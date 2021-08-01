@@ -11,7 +11,6 @@
 :PROPERTIES:
 :EXPORT_HUGO_SECTION: /
 :EXPORT_FILE_NAME: about
-:EXPORT_DATE: [2021-07-31 Sat 12:00]
 :END:
 
 This is the web presence of Valentin Boettcher a.k.a. Hiro98.
@@ -65,7 +64,6 @@ I've got a [[file:static/docs/cv_ger.pdf][CV]] in German.
 :PROPERTIES:
 :EXPORT_HUGO_SECTION: /
 :EXPORT_FILE_NAME: contact
-:EXPORT_DATE: [2021-07-31 Sat 12:00]
 :END:
 Just [mail](mailto:valentin@boettcher.cf) me. Spambots not welcome :P.
 I'm on [dev.to](https://dev.to/hiro98).

@@ -1,7 +1,6 @@
 +++
 title = "Contact"
 author = ["Valentin Boettcher"]
-date = 2021-07-31T12:00:00+02:00
 draft = false
 +++
 

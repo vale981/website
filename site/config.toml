@@ -48,10 +48,5 @@ baseURL = "https://protagon.space"
         url = "/DSGVO"
         weight = 3
 
-  [[menu.footer]]
-        name = "RSS"
-        url = "./index.xml"
-        weight = 4
-
 [permalinks]
   posts = "/:year/:month/:title/"
