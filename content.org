@@ -2,11 +2,6 @@
 #+hugo_section: posts
 #+author:  Valentin Boettcher
 
-# Local Variables:
-# eval: (org-hugo-auto-export-mode)
-# End:
-
-
 * Pages
 ** About
 :PROPERTIES:
@@ -772,3 +767,11 @@ certain drives just run ~echo 1 > /sys/block/sdX/device/delete~ in a
 
 Shamelessly stolen from:
 https://askubuntu.com/questions/554398/how-do-i-permanently-disable-hard-drives
+
+
+* Local Vars
+# Local Variables:
+# eval: (org-hugo-auto-export-mode)
+# org-download-image-dir: "./static/images"
+# org-download-heading-lvl: 3
+# End:
