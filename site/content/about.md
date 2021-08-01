@@ -13,8 +13,8 @@ Valentin:
 -   is a science-fiction junky and space enthusiast.
 -   loves jamming with the saxophone.
 -   is hooked on LISP and Clojure.
--   Appreciates C++.
--   Likes his [Kyria](https://blog.splitkb.com/blog/introducing-the-kyria).
+-   appreciates C++.
+-   likes his [Kyria](https://blog.splitkb.com/blog/introducing-the-kyria).
 
 You can check out my [Github](https://github.com/vale981), [Gitlab](https://gitlab.com/vale9811/) and [KDE Invent](https://invent.kde.org/vboettcher/) profiles for most
 of my projects as I publish the source to most things I produce.
