@@ -381,7 +381,7 @@ Dies setzt immer voraus, dass die Drittanbieter dieser Inhalte, die IP-Adresse d
 Angepasst durch den Betreiber der Seite. Erstellt mit Datenschutz-Generator.de von RA Dr. Thomas Schwenke
 * Blog
 ** KDE                                                                :@KDE:
-*** KDE GSOC: Intro
+*** KDE GSOC: Intro                                                  :GSOC:
 :PROPERTIES:
 :EXPORT_FILE_NAME: gsoc_intro
 :EXPORT_DATE: [2021-06-27 15:00]
@@ -462,7 +462,7 @@ Valentin
 
 [^3]: which I knew from my school time when I used it on my netbook because there was a cool neon "Hacker" theme for it :P
 
-*** KDE GSOC: Community Bonding and First Coding Period (May 17 - July 11)
+*** KDE GSOC: Community Bonding and First Coding Period (May 17 - July 11) :GSOC:
 :PROPERTIES:
 :EXPORT_FILE_NAME: gsoc_1
 :EXPORT_DATE: [2021-07-11 15:00]
@@ -693,7 +693,7 @@ code. I have been successful thus far if you would be so lenient not
 to count glue code for legacy KStars systems.
 
 ** Small Insights                                                  :@Tricks:
-*** How to use the Systemd userspace DBus API on Traivis-CI
+*** How to use the Systemd userspace DBus API on Traivis-CI       :DBUS:CI:
 :PROPERTIES:
 :EXPORT_FILE_NAME: sysduser
 :EXPORT_DATE: [2020-07-11 14:00]

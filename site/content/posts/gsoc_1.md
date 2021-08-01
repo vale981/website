@@ -2,6 +2,7 @@
 title = "KDE GSOC: Community Bonding and First Coding Period (May 17 - July 11)"
 author = ["Valentin Boettcher"]
 date = 2021-07-11T15:00:00+02:00
+tags = ["GSOC"]
 categories = ["KDE"]
 draft = false
 +++

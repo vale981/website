@@ -2,6 +2,7 @@
 title = "How to use the Systemd userspace DBus API on Traivis-CI"
 author = ["Valentin Boettcher"]
 date = 2020-07-11T14:00:00+02:00
+tags = ["DBUS", "CI"]
 categories = ["Tricks"]
 draft = false
 +++
