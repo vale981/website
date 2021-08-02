@@ -8,7 +8,7 @@ draft = false
 
 Note to self:
 
-If you want to make saure some nice GNU/Linux installer does not touch
+If you want to make sure some nice GNU/Linux installer does not touch
 certain drives just run `echo 1 > /sys/block/sdX/device/delete` in a
 ****root**** shell and the drive will vanish from the system.
 
