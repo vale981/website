@@ -6,6 +6,7 @@ baseURL = "https://protagon.space"
 [params]
     subtitle = "Valentin Boettcher's Site"
     dateFmt = "02.01.2006 15:04"
+    about = "/about"
 
 [menu]
   [[menu.main]]

@@ -25,6 +25,7 @@ You can check out my [[https://github.com/vale981][Github]], [[https://gitlab.co
 of my projects as I publish the source to most things I produce.
 
 I've got a [[file:static/docs/cv_ger.pdf][CV]] in German.
+<!--more-->
 
 My usual internet/user/nick name is /Hiro/ or /Hiro98/ after Hiro
 Protagonist from Neal Stephenson's novel "[[https://en.wikipedia.org/wiki/Snow_Crash][Snow Crash]]", who is usually
