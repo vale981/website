@@ -65,7 +65,7 @@ depicted in profile pictures like the following one.
   Repository]].
 - Sometimes I release some noises on [[https://soundcloud.com/the_dj_c][Soundcloud]] and [[https://afa-music.bandcamp.com/][Bandcamp]] under the
   name "Abschreibung für Abnutzung".
-- I am also the maintainer of the [[https://www.doc.govt.nz/nature/][RolaCam]] backend which is also used
+- I am also the maintainer of the [[https://www.doc.govt.nz/nature/][RoyalCam]] backend which is also used
   by the [[https://www.urbanwildlifetrust.org/portfolio/live-cam/][Urban Wildlife Trust]] for their [[https://www.youtube.com/channel/UCLizlM6gpaVHTKPo7spoqlA][Wildcams]].
 ** Contact
 :PROPERTIES:

@@ -62,5 +62,5 @@ depicted in profile pictures like the following one.
     Repository](https://invent.kde.org/vboettcher/kstars-catalogs).
 -   Sometimes I release some noises on [Soundcloud](https://soundcloud.com/the%5Fdj%5Fc) and [Bandcamp](https://afa-music.bandcamp.com/) under the
     name "Abschreibung für Abnutzung".
--   I am also the maintainer of the [RolaCam](https://www.doc.govt.nz/nature/) backend which is also used
+-   I am also the maintainer of the [RoyalCam](https://www.doc.govt.nz/nature/) backend which is also used
     by the [Urban Wildlife Trust](https://www.urbanwildlifetrust.org/portfolio/live-cam/) for their [Wildcams](https://www.youtube.com/channel/UCLizlM6gpaVHTKPo7spoqlA).
