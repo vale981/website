@@ -184,12 +184,14 @@ z9SvuganEEyWovdM1ojmJxkU7jPa6SztIaIUKsl6Zn7d8R7fJJSP3po38yuGcF+m
 
 Verantwortlich für den Inhalt nach § 55 Abs. 2 RStV:
 
+#+begin_src
 Valentin Boettcher
 Raecknitzhoehe 15
 01217 DD
 
 Kontakt:
 E-Mail: hiro at protagon dot space
+#+end_src
 
 * Blog
 ** KDE                                                                :@KDE:
