@@ -2336,8 +2336,7 @@ Daten einer Europa-Sonde (Jupiter Mond, nicht Kontinent). Was
 passiert, wenn wir auf einen Schlag wissen, dass Leben nicht
 Terra-Exklusiv ist?
 
-```
-      _       _
+#+begin_src
      (_\     /_)
        ))   ((
      .-"""""""-.
@@ -2355,8 +2354,7 @@ Terra-Exklusiv ist?
        \  |  /
      ___)=|=(___
 jgs {____/ \____}
-
-```
+#+end_src
 
 Weiter im Text: Es gab da natürlich die eine Sache, die mir
 Kopfzerbrechen bereitete. Nachdem ich das Auto, the Mighty Demio, auf

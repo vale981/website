@@ -31,31 +31,25 @@ Daten einer Europa-Sonde (Jupiter Mond, nicht Kontinent). Was
 passiert, wenn wir auf einen Schlag wissen, dass Leben nicht
 Terra-Exklusiv ist?
 
-\`\`\`
-      \_       \_
-     (<span class="underline">\\     /</span>)
+```nil
+     (_\     /_)
        ))   ((
      .-"""""""-.
- _^\\_  <span class="underline">.   <span class="underline">.  \\/^\\
- \\(   /</span></span>\\ _\_\_\\   )_
-  \\,  \o\_/\_\o\_/  ,/
-    \\    (\_)    /
-     \`-.'`=`'.-'
-      <span class="underline"><span class="underline">) - (</span></span>
-     /  \`~~~\`  \\
-    /  /     \\  \\
-    \\ :       ; /
-     \\|==(\*)==|/
-
-```text
-      :
+ /^\/  _.   _.  \/^\
+ \(   /__\ /__\   )/
+  \,  \o_/_\o_/  ,/
+    \    (_)    /
+     `-.'==='.-'
+      __) - (__
+     /  `~~~`  \
+    /  /     \  \
+    \ :       ; /
+     \|==(*)==|/
+      :       :
+       \  |  /
+     ___)=|=(___
+jgs {____/ \____}
 ```
-
-       \\  |  /
-     <span class="underline">\_</span>)=|=(<span class="underline">\_</span>
-jgs {<span class="underline"><span class="underline"><span class="underline"><span class="underline">/ \\</span></span></span></span>}
-
-\`\`\`
 
 Weiter im Text: Es gab da natürlich die eine Sache, die mir
 Kopfzerbrechen bereitete. Nachdem ich das Auto, the Mighty Demio, auf
