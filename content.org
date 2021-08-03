@@ -586,6 +586,1861 @@ certain drives just run ~echo 1 > /sys/block/sdX/device/delete~ in a
 Shamelessly stolen from:
 https://askubuntu.com/questions/554398/how-do-i-permanently-disable-hard-drives
 
+** Neuseeland                                                  :@Neuseeland:
+*** Hurra endlich Da
+:PROPERTIES:
+:EXPORT_FILE_NAME: HurraendlichDa
+:EXPORT_DATE: [2016-07-24 21:29:07]
+:END:
+Nun bin ich angekommen. (Ok, eigentlich schon vorgestern).  Der Jetlag
+peitscht mich immer noch um 3 Uhr aus dem Bett, aber das Wetter ist
+schön.
+
+Bilder sind in der iCloud Fotofreigabe zu finden, ich werde mich aber
+warscheinlich auf Flickr umstellen.  So weit so gut... Heute ist erst
+einmal der Papierkram dran, gefolgt von einer Besprechung der lokalen
+Geografischen gegebenheiten mit Matt.
+
+Grüße Valentin
+
+Blablabla, ein äußerst prosaischer Post.
+
+*** Eine erste woche
+:PROPERTIES:
+:EXPORT_FILE_NAME: Eineerstewoche
+:EXPORT_DATE: [2016-07-29 06:21:11]
+:END:
+Morgen bin ich schon (endlich?) eine Woche in Neuseeland.  Meine
+stimmung wechselt zwischen freude, begeisterung und überwältigung (von
+allem was auf mich zukommt).  Blablabla, heute bin ich endlich einmal
+gewandert, wobei der das Wandern während des wanderns ausführlich
+[dokumentiert](https://goo.gl/photos/J73GEXPfECn7JjYUA) wurde.
+
+*** Status
+:PROPERTIES:
+:EXPORT_FILE_NAME: Status
+:EXPORT_DATE: [2016-08-08 06:57:51]
+:END:
+Kia ora aus dem Land der langem weissen Wolke.  Um es kurz zu machen:
+ich habe einen Job beim department of conservation.  Zurzeit wird ein
+Video eines Albatross Nestes ueber YouTube live gestreamed.  Das ganze
+laeuft ueber einen raspberry pi. Ich soll die funtionsweise des
+systems dokumentieren, es verbessern und ein user interface basteln
+damit man einfach weitere kameras in neuseeland aufbauen
+kann. Nebenbei plane ich meinen wwoofing trip auf der Nord- oder doch
+Suedinsel...
+
+*** Statusbericht
+:PROPERTIES:
+:EXPORT_FILE_NAME: Statusbericht
+:EXPORT_DATE: [2016-08-19 06:24:58]
+:END:
+Nun bin ich schon vier Wochen in Neuseeland.
+
+Ich habe einen interessanten und anspruchsvollen Job beim Department
+of Conservation (freundlicher weise vermittelt durch Matt). Das DoC
+stream die Entwicklung eines Albatross Jungen Live auf YouTube und ich
+darf die Methode und Hardware dokumentieren und optimieren,
+bzw. software dafür entwickeln. Meine Arbeit trägt Früchte: der Stream
+muss schon seit zwei Tagen nicht täglich vier mal (oder noch öfter)
+manuell via TeamViever neu gestartet werden. Auch habe ich ein simples
+Übergangswebinterface (mit einem Relay Server!) geschrieben. Good bye
+Firewalls. Ich habe gestern 'zu lang' gearbeitet. So etwas kann in
+Neuseeland vorkommen!
+
+Btw. hier ist der [Link](https://www.youtube.com/watch?v=Gwy2IjA7z-I)
+zur Albatross Cam.
+
+Wenn die Sache vorüber ist fange ich mit dem WWOOFING (jetzt wohl doch
+auf der Nordinsel) an. Vielleicht schließt sich arbeitstechnisch auch
+noch was an... Je nachdem wie lange mich Edith und Matt noch aushalten
+bleibe ich vorerst in Wellington.
+
+Das mit den Bildern versuche ich ich noch hinzubekommen. Die neusten
+sind aus Zealandia. Ich weiß nun warum Neuseeland so reich an
+endemischen Spezies ist :).
+
+
+Jaja ich muss mal einen RSS feed für die Sache einrichten :)
+
+*** Na endlich ein neuer Post
+:PROPERTIES:
+:EXPORT_FILE_NAME: NaendlicheinneuerPost
+:EXPORT_DATE: [2016-09-14 07:39:10]
+:END:
+Abenteuer.  Ich habe diesen Blog die letzten paar Monde (o.k. Gott sei
+Dank nur einen Mond) sträflich vernachlässigt. Aber hurra! Ich habe
+etwas erlebt und kann nun einen tatsächlich einen Blogeintrag mit
+Inhalt schreiben.
+
+Ich habe mir ein Auto (Mazda Demio) gekauft, meinen Job beendet und
+bin Hals über Kopf losgeWWOOFt. Sprich: Ich habe ein paar Hosts
+angeschrieben und dem ersten (und einzigen), der mir antwortete,
+zugesagt.
+
+- Ich bin freudig losgefahren und nach fünf Stunden in Taumarunui
+  angekommen.
+- Ich melde mich beim WWOOFing Host und werde zum Grundstück gelozt.
+- Ich sehe, wie es im WWOOF Profil beschrieben war, einen Garten der
+  in der nächsten Woche Objekt meiner Arbeitsbemühungen werden
+  soll.
+
+Voller Optimismus sehe ich das als gutes Zeichen an. Ein paar Minuten
+später werden mir die Umstände meiner Unterbringung erläutert. Das
+flaue Gefühl was mir schon seit geraumer Zeit im Kopfe herumspukt
+explodiert im Angesicht einer unbeheizten nicht elektrifizierten
+Hütte, einen halben Kilometer vom Haus des Hosts entfernt. Ich, der
+ich von der Gastfreundschaft meiner lieben Tante (danke!) verwöhnt
+bin, halte erst einmal mit meinen Gefühlen hinter dem Damm und sage
+brav ja zu allem. Weiter bergab geht es als ich endgültig den
+Überblick verliere und mich fragen muss wie ich von ein paar
+Einmachdosen und einem Gaskocher leben soll. In meiner Verzweiflung
+(und in Tränen aufgelöst), weder ein noch aus wissend telefoniere ich
+mit Edith (meiner Tante) und ziehe in Betracht in einem Motel zu
+übernachten und am nächsten Tag den Rückweg anzutreten. Trés Bon. Das
+einzige worauf ich in Hinsicht auf diese Affäre stolz bin ist, dass
+ich dem Host höflich mitteilte, dass die Situation meinen Erwartungen
+nicht entspräche und ich mich für die Unannehmlichkeiten
+entschuldige. Der Host zeigte Verständnis und bot mir an, mich einem
+Freund zu vermitteln, der mehr Erfahrung mit WWOOFING hatte. Ich nahm
+das Angebot an und sah mich Gleichzeitig nach einem neuen Host
+um. Getrieben von einer Art Panik, fühlte ich mich doch auf irgend
+eine Weise in einen Schlamassel hineingeraten, sagte ich einem Zweiten
+WWOOFing Host zu. Bald darauf traf der Freund des Hosts mit einem
+weiteren österreichischem WWWOOFer ein. Der versichert mir, das sein
+Host und seine Unterbringung O.K. sei. Ich ganz vertieft in meinen
+Schlamassel kam mit den Beiden in der Erwartung auf ähnlich
+unerfreuliches zu anzutreffen und sehe mich positiv überrascht. Wir
+sind in einem alten Maori Kongresszentrum, das kürzlich den Besitzer
+gewechselt hat und nun wieder auf Fordermann gebracht wird. Ich lerne
+eine zweiten deutschen (!) WWOOFer kennen und darf übernachten. Am
+nächsten Tag will ich nach einem arbeitsamen Vormittag zum nächsten
+Host aufbrechen, entscheide mich dann aber doch zu bleiben. Nun bin
+ich schon den dritten Tag hier und habe mich mit allen
+angefreundet. Micha, der deutsche WWOOFer, koch gut und gerne und ich
+freue mich zu helfen und zu lernen (wir speisen vorzüglich!). Paora,
+unser Host, ist ein guter Gastgeber und bäckt ein Vorzügliches 'Fried
+Bread'. Ich habe bisher vormittags im Garten gearbeitet und
+Nachmittags frei gehabt. Heute aber war ein Hundswetter und wir haben
+eine Aufräum- und Putzaktion im Hause gestartet. Morgen ist wieder
+Hundswetter und wir gehen in die heißen Quellen! Langsam gewöhne ich
+mich an die Idee des WWOOFens, fühle mich nicht mehr so hilflos und
+plane Ausflüge (… ich war endlich mal in der 'Stadt' und habe das
+Visitor Centre besucht). Ich habe mich aber noch nicht entscheiden
+können, ob das WWOOFing leben für mich taugt. Nichtsdestotrotz geht es
+wieder bergauf.
+
+Nun muss ich eingestehen das Ich ein Esel war:
+1. Ich habe mir wohl nicht vorstellen können was es heißt, für sich
+   allein verantwortlich zu sein.
+2. Was hat mich geritten einen WWOOFing Host so weit im Norden (5h von Wellington) anzunehmen?
+3. Warum habe ich, naiv wie ich bin, nicht weiter über die Gegebenheiten recherchiert?
+
+Der Host hatte noch keine Bewertungen. Ich habe törichter weise
+angenommen ich könne der erste sein, der ihm eine gute Rezension
+schreibt. Tatsächlich wusste er wohl nicht wirklich über das WWOOFing
+Bescheid. Ich habe durch das 'We have WiFi' in der Beschreibung
+angenommen, ich sei im Wohnhaus untergebracht.
+
+Ich werde aus all dem lernen! Aber natürlich ist es empfehlenswert
+sich seiner Eseleien bewusst zu werden bevor man naiv drauf los rennt!
+
+Gehabt euch Gut!
+
+*** Abenteuer (Diesmal die erfreuliche Art)
+:PROPERTIES:
+:EXPORT_FILE_NAME: AbenteuerDiesmaldieerfreulicheArt
+:EXPORT_DATE: [2016-09-19 07:51:51]
+:END:
+Es war eine schöne Woche. Viel Regen, aber auch viele interessante
+Gespräche. Man reist durch Neuseeland und trifft: Deutsche. Wir waren
+4 Deutsche und ein Österreicher.
+
+Paora, unser WWOOFing Host lud uns Anfang der Woche zu einem ominösen
+'Cultural Event' ein. Im laufe der Woche konkretisierte sich der
+21igster Geburtstag seines Neffen als dieses Event heraus. Ein
+merkwürdiger Gedanke als Wildfremder auf einen Geburtstag zu gehen,
+eingeladen vom Onkel des 'Geburtstagskindes'. Wir wurden recht bald
+dahingehend beruhigt, dass es ein sehr formelles Fest mit vielen Reden
+und ähnlichem sei (was meine zweifel aber nicht völlig beräumte).
+
+Geweckt vom Gesang des Mobiltelefons von Micha (einem WWOOFer) brachen
+wir sechs Uhr in der Frühe auf, um 8 Uhr irgendwo im Nirgendwo bei
+einem Maori Marai, gedacht für Feierlichkeiten, ankommen. Da es zu
+diesem Zeitpunkt schon nichts mehr zu tun gab, ging es weiter die
+Straße (den Feldweg) hinab, um zu helfen frisch unter der Erde
+gebackene Fleischpacken in handliche Stücke zu zerlegen. Ich habe noch
+nie im Leben solch eine Fettschicht von einem Tisch wischen
+dürfen. Danach schloss sich der Offizielle Teil des Geburtstages an.
+
+Der einundzwanzigste Geburtstag markiert bei den Maori der Eintritt in
+das Erwachsenenalter und ist damit fast noch wichtiger als unser
+achtzehnter Geburtstag. Wo bei uns jeder Geburtstag anders, mehr oder
+weniger informell ist, so greift bei den Maori die Tradition, die
+Bewundernswert bewahrt wird und, wie man uns verriet, in viele
+Festivitäten gipfelt. So traten wir Gäste durch das (symbolische)
+Haupttor begleitet vom Sprechgesang der Familienältesten, einer
+beeindruckenden Frau mit schwarz tätowierten Lippen, in den Marai, die
+Frauen zuerst und danach die Männer, ein. Danach folgten Wechselreden
+von Gastgeber und Gästen. Zum einen um den 21 jährigen in die Welt der
+Erwachsenen einzuführen, aber auch um die guten Absichten als Besucher
+zu erklären und von den Gastebern akzeptiert zu werden. Anschließend
+gab es ein großes essen, unterbrochen von zahlreichen (und langen)
+Reden und beeindruckenden und lautstarken Einlagen seitens der Jungen
+Männer. Schließendlich halfen wir WWOOFer die Tische abzuräumen (schon
+das Zweite Extrem an diesem Tag: Ich habe noch nie so viel Chaos auf
+einem Tisch gesehen :P.) und das Geschirr zu spülen. Danach ging es
+ans Kuchen- bzw. Muffinbuffet und den informellen Teil. Wir hatten
+viele interessante Gespräche mit den Gästen, die uns so herzlich und
+selbstverständlich als Ihresgleichen betrachteten, wie es in
+Deutschland wohl nicht möglich gewesen wäre. Ein unvergleichliches und
+unbezahlbares Erlebnis, kaum wieder Gutzumachen, selbst durch
+Küchenarbeit :).
+
+Nun bin ich weiter Gezogen: Nach Levin an der Ost- (für unsere
+Begriffe West-) Küste zu einer älteren Dame, um im Garten zu
+helfen. Eine Wunderbare und herzliche Frau, bei der man sich sofort
+zuhause fühlt. Sie selbst lernt gerade Ukulele (Im buchstäblichen
+Sinne. Ich höre es gerade durch die Tür schallen :).) . Ihr Sohn macht
+Musik für Kinder (bzw. ist Instrumentallehrer).  Nun sehen wir mal was
+die Woche bringt.
+
+*** Noch mehr Abenteuer
+:PROPERTIES:
+:EXPORT_FILE_NAME: NochmehrAbenteuer
+:EXPORT_DATE: [2016-10-08 07:44:40]
+:END:
+Seit gegrüßt ihr, die ihr von mir so empörenswert lang vernachlässigt
+wurdet.  Nach einem interssanten und anstrengenden Arbeitstag sitze
+ich nun mal wieder vor der Mattscheibe und tippe frohgemut das
+Vorliegende ein.
+
+Die letzten zwei Wochen kann ich wohl zu den Schwierigsten in meinem
+Leben buchen. Nach einer zweiten, einwöchigen und äußerst angenehmen
+WWOOFing Erfahrung bei der Wunderbaren Jean Hollis, die mir das
+Ukulelespielen zeigte und mich zum Folk Club einlud, bin ich erst
+einmal zu den Robertsons zurückgekehrt und in ein tiefes Loch
+gefallen. Die Angst nistete sich als ständiger Hausgast bei mir ein
+und vertrieb über die zwei letzten Wochen hinweg allen Optimismus und
+den größten Teil der Motivation, verhängte die Fenster und schaltete
+das Licht aus. Sprich ich kam mit rationalen Gedanken nicht darüber
+hinweg. Merkwürdig! Ich hatte zwei wunderbare WWOOFing Stays und
+trotzdem hatte ich Angst weiter zu gehen, die Kontrolle zu verlieren
+und unglücklich zu enden.
+
+Aber ich habe das Richtige getan und bin weitergezogen. Und so kam es,
+dass der Zähler nach oben tickt und ich nun ganze drei tolle Hosts
+hatte/habe. Wir sind hier zu fünft: drei Deutsche und zwei
+Amerikaner. Ich habe noch nie solch warmherzige Menschen erlebt.
+
+Ich hoffe mein Ich lernt daraus und erspart mir weitere unschöne
+Episoden. Die Angst klopft nur von Zeit zu Zeit in den Morgenstunden
+an die Tür. Ich lasse sie nicht hinein und habe einen Weiteren tollen
+Tag.
+
+Nun gehabt euch gut. Bis zum nächsten mal :) .
+
+*** Mir fallen keine Uebrschriften ein
+:PROPERTIES:
+:EXPORT_FILE_NAME: MirfallenkeineUebrschriftenein
+:EXPORT_DATE: [2016-10-18 04:10:29]
+:END:
+Mal wieder eine Meldung…
+
+Es waren und sind schöne Tage bei den Darwins. Wir drei Deutsche
+verstehen uns prächtig und stellen uns taub sobald jemand ein
+deutsches Wort spricht. Ich habe mal wieder viel erlebt und nun die
+richtige Balance gefunden. ZU meinen Erlebnissen: Mount Victoria
+bestiegen (danach Nüsse gekauft! Mjamjam), Victoria Universität
+besichtigt (geschockt von Studiengebühren, Bibliothek ist umfangreich
+und kostenlos), gewandert (Allein, mit Hund, mit Deutschen, mit Edith
+und Carl) und Heute: Star Trek II im Planetarium. Die Decke der
+Schusseligkeit abwerfend fällt mir ein, dass wir gestern im Rivendell
+(LOTR, Stadt der Elben) Tal schwimmen waren! Es war so kalt, dass
+sogar der kühle Wind angenehm erschien. Alle LOTR Fans erblassen vor
+Neid! (Ich hätte es ohne Schild aber nicht erkannt.)
+
+Ein erfülltes Reiseerlebnis bisher! Hinweg du Trübsal!  Als Ausgleich
+habe ich begonnen an einem Machine Learning Kurs teilzunehmen (Hurra
+habe ein Stipendium bekommen und spare 400$). Die Mathematik dazu
+(Lineare Algebra) ist abwechslungsreich und wunderbar neu. Eine
+Matrizengleichung abzuleiten hat mich trotz Anleitung 4 Seiten Papier
+gekostet. Wie der Wind steht, werde ich mich beim Studium wohl dann
+eher mathematisch orientieren: Kybernetik oder Technomathematik.
+
+Ich lebe hier an den Grenzwerten für mein Empfinden für Sauberkeit
+(Hund in Wohnung, Renovierung etc.), bin aber allein dadurch schon
+weit über mich hinaus gewachsen (Eigenlob, Lob, Lob, Lob, Applaus
+bitte!). Alkohol werde ich aber auch weiterhin nicht anrühren, nachdem
+ich zwei, der Alkoholvergiftung nicht allzu ferne, Betrunkene in die
+Stadt gefahren habe und am nächsten Tag vom weiteren verlauf des
+Abdends des weniger Trinkfesten der beiden erfuhr. Derselbe wachte
+nämlich nach einem Filmriss auf der Straße auf, wurde von freundlichen
+Neuseeländern mit ins Haus gelassen, um auf dem Sofa zu nächtigen,
+entfloh aber wieder, um dann von einem Spanier ein Taxi nach Karori,
+wo wir wohnen, spendiert zu bekommen. Nachdem er sich nicht mehr an
+die Adresse unseres bescheidenen Heimes erinnern konnte, endete er
+nach Überkletterung des Zaunes ohne die Alarmanlage auszulösen, auf
+dem Rasen des High Comissioners, telefonierte so laut mit dem zweiten,
+schon Zuhause angekommenen, Deutschen, dass man es bis zu Uns hören
+konnte und fand nach erneutem, langwierigem, Beklettern des Zaunes in
+trunkener Tollpatschigkeit nach Hause.
+
+Damit gehabt euch Gut und bis zum nächsten mal liebe Kinder.
+
+*** Es leben die langen Ueberschriften - Na so lang ist sie ja auch wieder nicht - Jetzt schon hahahaha reingelegt
+:PROPERTIES:
+:EXPORT_FILE_NAME: EslebendielangenUeberschriftenNasolangistsiejaauchwiedernichtJetztschonhahahahareingelegt
+:EXPORT_DATE: [2016-10-22 08:55:38]
+:END:
+In dem Bemühen meine Post-Frequenz der Frequenz der kosmischen
+Hintergrundstrahlung anzupassen verfasse ich mal noch einen kleinen
+Beitrag in mein (öffentliches) 'Tagebuch'.
+
+Vorgestern waren wir im Weta-Workshop, benannt nach der indigenen
+gottesanbeterartigen Weta, die in Neuseeland einmal dieselbe Nische
+wie bei uns die Mäuse besetzt hat. Dort gab es allerlei Filmrequisit
+und Maskerade zu sehen. Genau das wird dort nämlich, unter anderem für
+LOTR und den Hobbit, produziert. Ein Schaumstoff Stahlschwert,
+allerlei Äxte und Saurons Rüstung in sicherer Schaustoff-Spitzen
+Variante und natürlich auch aus Vollmetal wahren erstaunlich
+anzusehen, jedoch am besten ist der Halo-Offroad-Truck. Der für einen
+Halo-3 Teaser geschaffene Truck ist, auf Wunsch der Producer, voll
+funktionsfähig und von Grund auf selbstgebaut. Abgefahren ist er aber
+nicht ... steht immer noch dort!
+
+Gestern dann bin ich früh aufgestanden, habe einen Deutschen zum Bus
+gefahren und recht früh angefangen zu arbeiten. Dem Plan nach wollte
+ich eigentlich um zwei wandern gehen, habe dann aber bis um vier
+getrieft, und habe meine Wanderung um fünf angetreten. Die Lower Hutt
+Region bot mir schon wieder einen neuen Natureindruck, jedoch störten
+die Industrieluft und der Naheliegende Highway. Generell war es ein
+Tag mit relativ wenig lichten Momenten. So etwas passiert. Ich habe
+gelernt nicht zu sehr unterzutauchen.
+
+.... Brzzzzt, schwarzer Bildschirm, Akku alle.
+
+Nächster Tag: Nichts Besonderes. Nur Mistwetter und mathematische
+Beweise mit Nicolai.
+
+Heute sollte ich eigentlich Edith, Matt und Carl gegen Zehn Uhr zum
+Flughafen fahren, jedoch wandelte sich das Ganze zu einer Fahrt mit
+der Fähre gegen Zwei am Nachmittag. Somit hatte ich am Vormittag
+reichlich Zeit, in der aus einem wolkenfreien Himmel knallenden Sonne
+zu lesen. (Das Komma ist korrekt gesetzt! Erweiterter Infinitiv mit
+zu!) Danach überkam mich die große Verzweiflung über der Frage, was
+denn mit dem restlichen sonnigen Samstag anzufangen sei. (Nun wir
+sehen: Das 'zu' kann auch mitten im Wort stehen.) Glücklicher Weise
+hatte Edith die Idee das ich doch den Makara-Loop-Walk machen könnte.
+
+Im Grunde gesagt ist der Makara-Beach ein Kalenderblatt, das Gott so
+sehr gefiel, dass er es in bequemer Entfernung zu Wellington entstehen
+lies. Eine der schönsten Wanderungen bisher, um es kurz zu
+machen. Danach wollte ich eigentlich noch das kühlende Nass ohne Sand,
+denn es war ein Kiesstrand, genießen, wurde aber nach dem Abstieg von
+den Klippen aus der Bahn geworfen. Ich stolperte über ein Stück
+Treibolz und geriet angesichts mehrer kleiner Schürfwunden ganz aus
+dem Häuschen. Ich war schon recht erschöpft, das jeder in mir einen
+schnellen, straffen Wanderer zu erkennen schien und mich
+vorbeilies. Das Blut aus meinen Schürfwunden an meiner Hose abwischend
+tropfte ich meinen Pullover mit Blut aus meiner Nase voll, allerdings
+ohne das mitzubekommen. Erst als ich eine Familienwandergruppe
+verstört hinter mir zurückließ fiel mir auf, dass mein Gesicht nicht
+nur vom Sonnenbrand rot war. Naja, kein Baden, aber ein schöner
+Ausflug.
+
+Cheers!
+
+*** Nun auch mit feed!
+:PROPERTIES:
+:EXPORT_FILE_NAME: Nunauchmitfeed
+:EXPORT_DATE: [2016-11-01 09:23:09]
+:END:
+Ich habe gute Tage aber manchmal eben auch bessere :)!  Die letzte
+Woche war an sich recht unspektakulär, obwohl ich einige Highlights
+unterbringen konnte.  So war ich dienstags bei einem Vortrag über die
+Raumfahrtmissionen zum Jupiter im Planetarium, mittwochs hörte ich ein
+progressive Rock Konzert (nicht so mein Ding, aber die erste Band
+“Opium Eater” war der trés Bon) und Donnerstags mit Edith Geburtstag
+feiern. Ich durfte sogar das Häusliche Ethernet verkabeln. Welche
+ehre!  Die letzten Tage habe ich verzweifelt versucht meine Routine am
+Laufen zu halten, danach aber erkannt, das das wohl nur ein Zeichen
+war, weiter zu ziehen.
+
+Gesagt, getan (naja, war ja schon seit Wochen geplant) bin ich Gestern
+nach Levin zu Jean Hollis gedüst und hatte schon einen sehr
+wunderbarschönen Tag. Nach dem Rasenmähen bin ich zum Ende der Straße,
+an der wir das Glück haben zu wohnen, gefahren, um dann durch ein
+wenig einladen mit: “PRIVATE PROPERTY! NO ACCESS PAST THIS POINT”
+(ok. das hat mich schon etwas verunsichert) gekennzeichnetes Stück
+Wildnis auf einem Trampelpfad zu Strand und ins Meer zu laufen. Sehr
+kalt und sehr erfrischend.
+
+Als dann, bis bald :)
+
+Anmerkung 1. Nov: Heute habe ich einen körperlich sehr auslastenden
+Kampf mit einer Flaxpflanze gewonnen.
+
+*** Regen
+:PROPERTIES:
+:EXPORT_FILE_NAME: Regen
+:EXPORT_DATE: [2016-11-08 04:46:58]
+:END:
+Hallo mal wieder. Wie es aussieht, gibt es mal wieder einen neuen
+Blogpost.  Es scheint paradox, ist jedoch zumindest für mich
+zutreffend: Partout habe ich das Gefühl, etwas nicht erwähnt zu
+haben. Eigentlich sollte man sich doch an seine letzte Woche erinnern
+können...  Nun, wie auch immer. Das was ich aus dem konfusen Brei, der
+sich bei mir Gedächtniss schimpft, fischen kann und dann auch noch
+ausreichend interessant erscheint, folgt nun.
+
+Die letzte Woche war vor allem durch ein ausgezeichnetes Regenwetter
+gekennzeichnet. Nicht einfach nur Regen, es kommt noch besser, auch
+viel Grau und noch mehr Sauna (Sonne erhitzt zwischen Boden und Wolken
+festsitzende Luft). Somit hatte ich wenig im Garten, dafür aber mehr
+im Haushalt zu tun und kann nun sehr effizient den gesamten Kern in
+einem Stück aus einer Walnuss schälen. Ja und die Tage verflogen. Ich
+weiß wirklich nicht wie, aber am Ende des Tages hatte ich immer keine
+Zeit mehr :). Einen Abend haben wir "Catch me if You Can" gesehen,
+trés amusant, wenigstens an Das kann ich mich noch erinnern.
+
+Mir kahm die zündende Idee ein Arbeitstagebuch zu führen, sodass ich
+wenigstens meinen Großtaten Pralen kann. Bisher sieht das Ganze ganz
+Ambitioniert so aus: (wobei ich schon einmal interpolieren musste...)
+
+
+1. Nov: cutting flax, bundling it, digging it out
+2. Nov: Cleaning Lamps in ceiling, cleaning inside of the car 100%
+3. Nov: Filling the flax hole, cleaning plant storage, salt-watering weeds
+4. Nov: Cracking Walnuts, Weeding and Pruning in Community Gardens
+5. Nov: Free Day, Hiking
+6. Nov: Nut Shelling, Cleanup of Garden Space, Sorting Pots
+7. Nov: Vacuuming, Free Day (Museum)
+8. Nov: Pruning, Weeding (long, 5h+)
+
+
+Am Samstag dann hatte ich einen freien Tag und entfloh in den relativ
+regenfreien Süden auf eine Wanderung am Kapiti Coast.  Nun, das Ganze
+ist ausreichend photographisch dokumentiert und somit habe ich nur zu
+berichten, dass ich auf dem Rückweg fast im aufgewühlten Meer baden
+wollte, mich aber nicht dazu durchringen konnte. Ich habe dann aber
+mit dem Auto ein paar Runden gedreht ... nicht ins Meer :P aber durch
+die Umgebung. Paraparaumu ist doch ein ganzes Stück großer, als ich
+zunächst annahm.
+
+Gestern dann unternahm ich einen noch besser durch Photographie
+dokumentierten Ausflug in das "Southward Car Museum".  Sir Len
+Southward fing irgendwann im letzten Jahrhundert an, als Mechaniker
+eine Automobilwerkstat zu führen. Das verhalf ihm dann einem Reichtum,
+der nur durch das Sammeln älterer, neuerer, schöner, hässlicher,
+ausgefallener, ... Automobile umgesetzt werden konnte. Und heute
+können wir dank seiner Generosität das Ganze als Museum
+erleben. Allein mit 10% der Ausstellung verbrachte ich meine erste
+Stunde und las fast alle kleinen Täfelchen zu den Exponaten. Später
+dann sparte ich mir das, um zugunsten der vollständigen Besichtigung
+des Museums (Die Halle, ein Motoradbalkon und ein großer Keller), ein
+schnelleres tempo an den Tag zu legen, nur noch interessantere
+Exponate näher zu studieren und meinen Aufenthalt von weiteren 9
+Stunden auf erträgliche 3 (insgesammt also 4) Stunden zu beschränken.
+
+Besonders interessant waren bei all dem die alten Kuriositäten wie
+das, erstaunlicher Weise zu seiner Zeit (in den 30iger Jahren
+des 20. Jhd.) recht populäre, Phänomobil. Das Phänomobil ist eine Art
+Dreiratswäglchen, bei dem der Motor direkt über dem Vorderrad sitzt
+und sich beim Steuern mitdreht. Man lenkt dabei mit einer,
+rechtwinklig zur Lenkachse angebrachten Stange und steuert den mit
+zwei roten Propellern gekühlten Motor über zwei Ventile.  Desweiteren
+fand ich viel Freude an diversen Sportwagen, aber auch an einem frühen
+Mercedes mit Flugzeugmotor und wassergekühlten Bremsen. Man konnte den
+Dreitonner nur im dritten Gang fahren, da bei den ersten beiden nur
+ein Burnout (Reifendurchdrehen) zu erwarten war. Neben allerhand
+verrückter Custom-Cars gab es auch verrückte Mini Autos wie die BMW
+Isetta (hergestellt nach einer Linzens einer Italienischen Firma mit
+einigen Verbesserungen seitens BMW), Oldtimer, motorisierte
+Tandemfahrräder und Flugzeuge. Ein höchst interessanter Aufenthalt,
+besonders wenn man sich die Produktionszahlen einiger Modelle
+ansieht. Wenn die alle heute noch fahren würden... Auch der
+Leistungsanstieg von mickrigen 8-12 PS der motorisierten ("Horseless"
+fancy, fancy!!) Pferdekutschen zu Sportwagen mit 300 PS und
+mehr. Zudem gab es zu Anfang einen recht großen Markt für die einfach
+zu handhabenden und leisen Elektromobile, die dann aber von der
+Entwicklung des Verbennungsmotors überholt wurden. Heute noch wird die
+Sammlung stetig erweitert und erstaunliches an halb verwrackten Wagen
+geleistet.
+
+Heute habe ich zur Abwechslung mal schönes Wetter und hart
+gearbeitet. Dabei hat mir Grübelei und Gudruns Modellansatz Podcast
+die Zeit versüßt. Schon wieder ein neues Wunschstudienfach:
+Technomathematik! Fast wie Kybernetik, aber noch vielseitiger.
+
+Nun denne, jetzt gehts für den Sonnenuntergang auf zum Strand! Bis zum
+nächsten mal.
+
+*** Fiji
+:PROPERTIES:
+:EXPORT_FILE_NAME: Fiji
+:EXPORT_DATE: [2016-11-23 03:48:56]
+:END:
+Frisch aus dem Urlaub im Urlaub. Ich grüße von Fiji, denn ich schreibe
+diesen Eintrag schon auf der Insel und veröffentliche ihn erst
+jetzt. Ein paar wunderbare und sehr komfortable Tage waren es.  Wir
+wohnen hier in einem sehr schönen Ferienhaus mit Pool, Meeresblick
+(bzw. Sonnenuntergangsblick) und erfrischender Brise zur
+Abendstunde. Viel Entspannung und viel Freizeit. Das ganze erinnert
+mich an Gozo mit ein bisschen mehr grün, der der gleichen Hitze.  Wir
+haben auch zwei “Bedienstete”, die das Haus in Ordnung halten und
+kochen. Auch wenn sie für Bezahlung arbeiten, so kann ich es doch
+nicht ab, bedient zu werden als stände ich über anderen. Nun überfällt
+mich also immer ein gewisses Unbehagen, wenn ich sie arbeiten sehe und
+ich versuche ab und an zu helfen.  Als wir am ersten Tag in die Stadt
+fuhren, um einzukaufen, durfte ich erfahren, was ein echter Markt
+ist. Viele, kleine Stände mit frischem Gemüse und allerhand
+interessanter Kleinigkeiten. Um die nötigen Preisverhandlungen
+kümmerte sich unserer lokaler Führer Stanley.  Auf dem Weg zurück fiel
+mir dann auf, wie arm das Land Fiji ist. Der Großteil der Bevölkerung
+lebt in Wellblechhütten und unsere “Bediensteten” schätzen sich mit
+einen überdurchschnittlich hohen Monatslohn von umgerechnet weniger
+als 300 Euro glücklich, wobei die Lebensmittelpreise auch gesalzen
+sind. Da ich gerade die Beweismethode der vollständigen Induktion
+verstanden hatte, suchte mein Geist nach einem neuen Problem und so
+stürzte mich die Ungleichheit auf der Welt in eine tiefe
+Verzweiflung. Wie kann es sein, dass ich so ein Glück habe und in Fiji
+auf einem Hügel (ja, auch im geographischen Sinne) über den in Armut
+lebenden Urlaub mache. Wie kann es sein, dass ich mir dieser
+Ungerechtigkeit bewusst war und dass sie mich aber nicht schon früher
+zur Verzweiflung getrieben hat. Wenn nur die geringste Möglichkeit
+besteht etwas ändern zu können, warum sollte ich nicht meine ganze
+Kraft darauf verwenden, anstatt zu entspannen.  Nun, da ich bei diesen
+Fragen zu keiner zufriedenstellenden Lösung kam, rumorte das Thema in
+meinen Gedanken (und im Chat mit Nicolai, der sich das gleiche schon
+etwas früher als ich gefragt hat). Arme und unterentwickelte Länder
+bleiben unterentwickelt und werden ärmer. Nun wenn wir “entwickelten”
+in unserem Eigennutz genau diese Umstände ausnutzen und geringe Löhne
+zahlen (siehe unsere “Bediensteten”) oder Land kaufen, um dann große
+Villen mit den eigenen Arbeitern anstatt den einheimischen zu
+bauen. All das zu verhindern ist schwierig, aber nicht unmöglich, wenn
+man im Alltag bewusster darauf achtet wo denn all das Zeug, was man so
+günstig kauft, her kommt. Auch sollte man natürlich nicht
+wirtschaften, um eigennützig Reichtum zu akkumulieren und auch einmal
+an andere denken. All das entspricht so ziemlich der Christlichen
+(oder allgemein religiösen) Lehre und wir tun nach wie vor gut daran,
+danach zu leben. Ok, andere nennen das dann eben unsere “Werte”. Man
+vergisst das alles aber sehr schnell und erkennt es nur wieder, wenn
+man mit der Nase darauf gestoßen wird. Ich mit meiner kleinen Reise
+nach Neuseeland, habe ja noch eigennütziger gehandelt, hätte ich ja
+auch nach Afrika gehen können, um zu helfen. Punkt. Das also als
+Auszug aus meinen Gedanken.  Nun sehe ich aber auch, dass die Leute
+hier glücklich, ja wirklich glücklich sind. Wahrscheinlich sogar
+glücklicher als wir, die wir uns sorgenfrei neue Sorgen schaffen und
+das dann Fortschrittlichkeit nennen.  Unsere Maßstäbe passen nicht
+überall, Werte aber manchmal schon eher. Auch wenn die Leute glücklich
+sind, sollte man ihre Lage nicht verschlechtern, nur um in seine
+Richtung weiter zu kommen. Mit welchem Recht zerstören wir eigentlich
+einen Planeten, auf dem Sie noch nicht einmal die Möglichkeit hatten
+genau so “toll” (schlimm) wie wir zu werden.  Wissen bringt
+“Macht”. Naja wohl eher “frei”. Hier auf Fiji weiß man um den
+westlichen Lebensstiel und steht darüber, auch wenn man den Touristen
+zuliebe ein paar Spiegelbilder aufstellt und seine Sprache zu einem
+einzelnen Wort “Bulla” (“Hallo”) verkrüppelt. Zur Erinnerung daran
+wird man dann von allen Seiten damit beschmissen. Bulla, sagt der
+Verkäufer, an dessen Stand ich einen Bullachino bestelle, nachdem ich
+mir ein Bulla-Shirt (Fiji braucht ja auch ”Hawai-Hemden”) bei
+Bulla-Looks (Ok, der Laden heißt Jack’s… und ich habe mir keines
+gekauft) gekauft habe. Aber zurück zum Text. Würde hier jedes Kind
+Zugang zu Bildung haben, so wäre es nicht zwangsläufig glücklicher,
+dafür jedoch freier zu werden was es eben werden will. Vielleicht ist
+das ein Ansatzpunkt.  Auch wenn ich aus dem Wust der Gedanken, den ich
+hier nicht noch weiter ausrollen möchte, den ich aber in einer OneNote
+Übersicht zu systematisieren versuche, noch keine klare Linie
+herausziehen kann, so habe ich doch schon eine gewisse Synthese
+gewonnen.  Umso mehr der einzelne voran kommt, ohne andere zurück zu
+stoßen, umso mehr kommt das ganze voran. Umso besser der einzelne
+wird, ohne anderen zu schaden, umso besser wird das ganze.  Das kling
+in meinen Ohren recht egoistisch, ist jedoch das zufriedenstellendste
+das ich bisher hervorgebracht habe. Lebe, so gut du kannst, und
+verschließe deine Augen nicht vor deinen Fehlern.  Sollte ich einmal
+zu Reichtum kommen, so setze ich ihn weise ein, sodass er zu einem
+Reichtum aller wird.  Holla Marx grüßt.  Bis dann, als Bald, euer
+Valentin, der sich das Ganze endlich einmal vom Herzen geschrieben
+hat.  Ps: Ich bin jetzt bei einem Neuen Host und es ist
+wunderschön. Mehr dazu später.
+
+*** Er lebt
+:PROPERTIES:
+:EXPORT_FILE_NAME: Erlebt
+:EXPORT_DATE: [2016-12-09 08:13:30]
+:END:
+Holla. Er lebt noch. Nach ein paar interessanten, angespannten und
+entspannten Wochen nehme mir endlich einmal Zeit, einen überfälligen
+und hoffentlich heiß ersehnten Blogeintrag zu schreiben.
+
+Selten kaum mir ein dermaßen praktischer Geistesblitz zu passe. So
+einleuchtend im Charakter die Idee auch war, lange blieb Sie mir
+dennoch Verborgen. Die Rede ist von einem, von mir nunmehr täglich in
+strenger Disziplin geführten, persönlichen Tagebuch, als kleines
+accompagnement zu meinem Work-Diary. Endlich muss man sich keine
+Sorgen machen, das unvergessliche erlebte in seiner schieren Masse zu
+vergessen. Jeden Abend also tippe ich also mehr oder manchmal auch,
+der Müdigkeit geschuldet, weniger einen kurzen Tagesbericht inklusive
+neuer Erkenntnisse und zwangsläufig auch Fragen. Zu eurem Leidwesen
+resultierte das Ganze in einer BlogPostFaulheit, der ich mit diesem
+Eintrag ein Ende zu setzen versuche.
+
+Hmm. Wo waren wir stehen geblieben … Ich war zurück von Fiji und bin
+nun…
+
+… In Whakatane, genauer nahe Thornton Beach. Die Reise von Wellington
+habe ich in zwei Hälften geteilt, um die Fahrt auch genießen zu
+können. Gesehen habe ich den Tongariro National Park, oder besser: ich
+habe ihn auf State Highway One durchfahren (wärmstens zu empfehlen),
+ich bin auch gewandert und im eisigen Lake Taupo
+geschwommen. Übernachtet habe ich in einem Backpacker Hostel und war
+sehr angenehm überrascht. Sauber, leise, gemütlich und preislich sehr
+attraktiv stand die Unterkunft, wie ich nun weiß, in angenehmen
+Kontrast zu anderen Herbergen.  Am zweiten Tag verfuhr ich mich erst
+einmal gründlich und endete an einer abgesperrten Forrest-Road, dann
+an einer Weiteren und schließlich auf dem Highway. Pünktlich zum Lunch
+fand ich beim dritten Versuch das Haus meiner Hosts und siehe da, eine
+weitere sehr positive Überraschung wartet auf mich. Wirklich direkt in
+den Sanddünen gelegen und liebevoll gestaltet, ein Ort, besser als
+jedes Ferienhaus. Es lebt sich sehr schön bei den Niederländern
+Wilhelmina und Gerrit und besonders das Essen ist unübertrefflich. Die
+Beiden haben eine unglaubliche Menge an Olivenbäumen und stellen mit
+ersten Plätzen und Goldzertifikaten ausgezeichnetes Oliven-Öl her (und
+das erst seit wenigen Jahren!). Die Arbeit ist relativ hart, aber
+abwechslungsreich. Sogar auf dem Markt verkaufen durfte ich! Sehr
+spannend. Aus vielerlei Perspektiven zähle Will und Gerrit zu den
+besten WWOOfing Hosts, bei denen ich das Glück hatte, aufgenommen zu
+werden. In Konjunktion mit meiner etwas merkwürdigen und gestressten
+Stimmung in den letzten Wochen muss ich aber auch gestehen, das ich
+die Sache etwas ambivalent sehe. Diese Ambivalenz hat mir in letzter
+Zeit sehr viel zu denken gegeben. Wir unterhalten uns wunderbar und
+sehr lang zu - und nach den meisten Mahlzeiten, dennoch sind die Hosts
+eher Gut, aber nicht “Warm”. Das mag von ihrer halb professionellen
+Einstellung gegenüber WWOOFern liegen, wobei ich damit, nun da ich
+weis, das der Garten und das Olivenöl wirklich nur Hobby sind, besser
+klar komme. Will und besonders Gerrit sind schon über das Berufsleben
+hinaus (Gerrit ist 69 Jahre alt, ich habe ihn auf Mitte 50 geschätzt),
+brauchen die Arbeit scheinbar aber doch, denn besonders Gerrit
+arbeitet bis zum Buchstäblichen Umfallen. Von uns wird das nicht
+erwartet, aber dennoch spiegelt sich das in einer gewissen
+Erwartungshaltung wider. In der Praxis erfährt man meistens nur, wenn
+etwas falsch ist und muss Lob “erfragen”. Das alles hat sich
+wahrscheinlich durch die schiere Masse an WOOFern, die hier über das
+Jahr arbeiten, so eingependelt und ist nun einfach hinzunehmen. Damit
+ist es auch schwieriger motiviert und effizient zu arbeiten, da einem
+immer die Angst vor dem Fehler im Nacken sitzt. Um einen Schluss damit
+zu machen: Es sind die ersten Hosts, bei denen ich mich in der
+schwachen Position des Bittstellers sehe. Daneben aber ist alles und
+besonders das Essen, Tip Top! Jeder WWOOFing Host ist anders und das
+ist auch gut so!
+
+Nun, zu entspannen das ist so eine Sache. Ich habe mich wohl etwas in
+eine “ich muss meine ToDo-Liste abarbeiten, es so viel zu tun”
+Stimmung hineingesteigert. Und da mir hier, weil ich endlich mal etwas
+unternehme und wir so lang am Esstisch reden, erstaunlich wenig Zeit
+bleibt, kann das sehr frustrierend werden. Ich sage mir jetzt: Du
+kannst nur das tun, was du auch wirklich jetzt tun kannst. Nun, das
+klappt mal mehr und manchmal weniger, aber die Tendenz sieht gut aus.
+
+Ich WWOOFe hier nicht allein. In den ersten zwei Wochen gab es noch
+eine Kiwi WWOOFerin in den 40igern namens Tracy. Und Tracy war und ist
+wirklich das beste hier. Unglaublich großherzig, humorvoll und auch
+tiefsinnig wurde Sie mir zur guten Freundin, so gut das es nur mit
+Mich zu vergleichen, nicht aber in Worte zu fassen ist. Es gab viel zu
+lernen vom Neuseeländischen Lebensstil der Entspanntest. Tracy selbst
+ist zwar viel Gereist, war nebenbei aber Work-A-Holic und Mutter. Um
+mal auszusteigen ist Sie geWWOOFt und schließlich hier gelandet. Das
+eigene Land zu bereisen ist eine gute Idee. Nun jetzt weiß ich, was
+ich mache, wenn ich zurück in Deutschland bin.
+
+Das wunderschöne Whakatane ist eine sehr offene, kleine aber schöne
+Stadt und so verbrachte ich meine Erste Woche hier damit zu arbeiten,
+mir Sorgen zu machen und die Stadt zu bewundern. Will und Gerrit
+schlugen eines Abends vor, wenn man schon einmal in der Gegend sei,
+die Coromandel Halbinsel zu besichtigen (einen der schönsten
+Landstriche Neuseelands). Ich, immer noch meschugge vom
+Ankunfts-Schock (irgendwie hab ich den bei neuen Hosts immer), legte
+die Idee erst einmal zu den Akten, bis Tracy vorschlug, man könne doch
+zusammen Reisen. Also setzten wir uns ans Planen (ich hasse planen,
+habe aber noch zwei Nachmittage mit dem Planen meines
+Südinselaufenthaltes verbracht) und brachen bald darauf zum
+wunderbaren 4-Tages Trip auf. Und wieder hatte ich großes Glück Tracys
+wunderbaren Bruder, dessen Frau und weitere Freunde kennen zu lernen,
+bei denen wir das Glück hatten, übernachten zu dürfen. Es war eine
+gute Erfahrung, zu sehen, wie viele warmherzige Menschen es auf der
+Welt gibt. Besagte Freunde von Tracy waren in ihrer Kindheit, wie
+zweite Eltern und somit waren viele Erinnerungen mit dem Besuch und
+dem wunderbaren Stück Land, auf dem sie oft spielte (an der
+Formulierung ist noch zu arbeiten), Verbunden. An Sommertagen als 13
+Jährige spontan auf dem Meer drauf los zu Segeln, das klingt für mich
+traumhaft und unvorstellbar.  Auch in anderen Hinsichten haben wir
+einen lohnendenTrip verbracht. Das meine ich buchstäblich, denn die
+Aussicht war wundervoll und ich durfte aus dem Fenster Gaffen (und
+Filmen, Verweis auf Google-Photos) währen Tracy halsbrecherisch im
+Kiwistyle fuhr. Um es Kurz zu machen: Wir sind einmal
+rundherumgefahren und haben viel gesehen. Dabei habe ich gelernt, dass
+Touristenattraktionen einfach lächerlich sind und man schon mit ein
+paar wenigen schritten in die Natur für sich selbst und mit guten
+Menschen noch viel Schöneres erleben kann. Nun ein gutes hat es dann
+doch gehabt: Den Touris am Hot-Water-Beach dabei zuzuschauen, wie sie
+sich, Schulter an Schulter stehend, gegenseitig die Sandlöcher
+zuschaufeln, war schon mit erheblichen Amusement verbunden. Auch war
+der Anblick von Mount Manganui atemberaubend.
+
+Nun bin ich wieder zurück und muss wieder einmal gestehen, das ich
+trotz der wunderbaren Reise froh bin, wieder Back-To-Normal zu sein
+(was auch immer das beim WWOOOFing bedeuten mag).
+
+Tracy ist weitergezogen, hilft ihrer Schwester beim Einrichten eines
+Kindergartens und wird, hinter ihrer Tochter her, nach Asien
+(Cambodia, Laos, etc…) reisen. Ich indessen vermisse sie sehr, komme
+aber in Genuss jetzt einmal den erfahrenen spielen zu dürfen.
+
+Das bedeutet, dass wir eine neue dänische WWOOFerin haben, mit der ich
+mich schon recht gut angefreundet habe. Sie ist Psychologie und
+Neure-Sciences Studentin und nimmt sich eine Auszeit vor ihrem
+Master-Studium. Nun heist es ihr die Neuseeländischen Verfahrensweisen
+näher zu bringen und Erfahrungen weiter zu geben. Ist auf jeden Fall
+sehr spannend für beide Seiten.  Es ist erstaunlich, wie gut ich schon
+zurechtkomme (immer noch entfernt vom Optimum). Leute kennenlernen, im
+Supermarkt oder den Hot Pool mit wild fremden Freundschaften zu
+schließen oder auf Mount Manganui mit einem Tschechen ohne großes
+Brimborium ins geschpräch zu kommen, all das währe für mich vor einem
+halben Jahr wohl noch nicht möglich gewesen. Nun ich hatte wohl keine
+Ahnung, worauf ich mich einließ und das bekomme ich auch zu spüren,
+aber es lohnt sich. Ich bin nicht frei von Zweifeln, was das WWOOFen
+betrifft, aber ich komme immer besser zurecht und es steht mir immer
+noch offen etwas anderes zu machen, auch wenn mir der aktuelle Modus
+Vivendi sehr gefällt. Merkwürdiger Weise lobt jeder mein
+Engisch... nun ja das Lernen einer Fremdsprache ist hier nicht so
+selbstverständlich, wie in Deutschland.
+
+Damit gab es mal eine grobe Zusammenfassung und ich Falle ins
+Bett. Heute war Markttag und ich in geschafft. :P
+
+*** Weihnachten
+:PROPERTIES:
+:EXPORT_FILE_NAME: Weihnachten
+:EXPORT_DATE: [2016-12-25 23:26:03]
+:END:
+Frohe Weihnachten euch allen.  Zu guter Letzt hat sich Vorgestern auch
+bei mir eine weihnachtliche Stimmung eingestellt. (Auch dank Mamas
+Lebkuchenpacket. Danke :P.)
+
+> Und so kaum es, dass Valentin, Sohn des Stefan (Sohn des Otto), über
+eine Straße, die das Folk der Neuseeländer zu jener Zeit
+State-Highway-One nannten, nach Wellington, der Wohnstätte der Familie
+der Robertsons, zog. Aber es kamen im allerlei Sorgen und Zweifel
+dabei. Jedoch als er sah, dass die Lande, an denen er vorbeizog, der
+Heimat [zunehmend] ähnlich sahen, so wusste er, dass er dem Hause des
+Matt und der Edith nahe war. Es ward wie ein Licht in seiner Seele und
+er rief aus Halleluja und er pries den Herrn zum Feste der Geburt Jesu
+mit Freunden und nicht in Einsamkeit zu sein.
+
+Nach meinem letzten Blogeintrag führte die ganze Situation zu einer
+kleinen, mehr oder weniger produktiven, Aussprache mit meinen WWOOFing
+Hosts. Um es zusammenzufassen, kann man wohl sagen, dass wir uns wohl
+etwas falsch verstanden haben und ich insbesondere die Kritik des
+brummigen Hosts wohl etwas zu streng nahm. In der Folge habe ich
+versucht, mich nach bestem Willen zu verbessern, war jedoch weiterhin
+das Gräuelventil für den überarbeiteten Gerrit. Wilhelmina war jedoch
+so freundlich, mir dann doch immer einmal zu signalisieren, dass ich
+nicht ganz so schlimm für die beiden bin, wie ich vielleicht
+annahm. Auch die, für die Weihnachtszeit angereiste Tochter Kina, trug
+zur Entspannung der Hosts, und damit auch zur Entspannung meiner
+Situation bei. Schließendlich bin ich dann am 19. Dezember im guten
+und mit guten Erinnerungen aufgebrochen, reich beschenkt mir einer
+Flasche Olivenöl und einem Glaß Honig.
+
+Aufgebrochen zu einer wunderbar interessanten Reisewoche. Ich, von mir
+aus, hätte wohl die letzte Woche vor Weihnachten einfach noch einmal
+geWWOOFt und habe es Ediths Aufmunterungen zu verdanken, mich zu einer
+kleinen Rundreise über die Ostküste bis zum Tongariro National Park
+aufgerafft zu haben. Es brauchte einem arbeitsamen, aber sehr
+interessanten, Nachmittag end die Route war ausgeplant und die wurden
+Hostels gebucht.
+
+Nach einer langen, aber sehr Pittoresken fahrt um das East Cape, auf
+dem der östlichste Leuchtturm der Welt steht und bei dem ich zwei
+nette deutsche Radler traf, wurde ich äußerst positiv von meinem
+Hostel überrascht. Nich allein waren die Umgebung und die Einrichtung
+wunderschön, nein auch bekam ich kostenfrei, aufgrund von
+Unterfüllung, ein Einzelzimmer mit Sonnenaufgangsblick, den ich, da
+ich ganz ohne Wecker um 5 Uhr am Morgen erwachte, alsbald genießen
+durfte. (Um ehrlich zu sein: die Sonne versteckte sich hinter einer
+Wolke, war also gar nicht direkt zu erkennen, aber das Farbenspiel war
+dennoch sehr ansehnlich.) Am nächsten Morgen war ich bereits auf dem
+besten Weg, nach Gisborne weiter zu fahren, kam aber zu meinem Glück,
+dass mich wohl die ganze Woche verfolgte, mit einem Schweizer
+Radreisenden ins Gespräch. Ich entschied, noch eine Nacht im Hostel zu
+verweilen und brach, zusammen mit dem Schweizer, zu einem sehr
+lohnenswerten Tagesausflug auf. Der East-Coast scheint sehr beliebt
+unter Radfahrern zu sein, sodass es im Hostel neben Anraud auch noch
+zwei niederländische- und einen britischen Radfahrer gab. Zurück zum
+Faden: Arnaud und ich wanderten also zu Cooks Cove, einer kleinen
+Bucht, die Captain Cook bei seiner Umsegelung Neuseelands entdeckt,
+und als besonders, außergewöhnlich schön befunden hat. Und auch wir
+konnten diesem Urteil nur zustimmen, bot die Bucht doch einen Anblick,
+wie ein Photo aus dem Reisemagazin. Sogar im eiskalten Wasser konnten
+wir planschen. Danach haben wir uns noch den längsten Anleger in der
+östlichen Hemisphere (jaja der Begriff ist inadequat...) angesehen und
+durchlaufen. Der besagte Anleger stammt noch aus der Zeit nach dem
+Weltkrieg, als man in Neuseeland die Schafe und Rinder zum Hafen trieb
+und direkt geschlachtet auf Kühlbote lud, um das verwüstete Europa zu
+versorgen. Besonders ausgeprägt war diese Verfahrensweise am
+East-Coast, der als ganzer Landzug bis weit ins Inland eine einzige
+Farm ist. Es gibt in Neuseeland Siebzig Millionen Kühe, Rinder und
+natürlich Schafe auf Viereinhalb Millionen Menschen und trotzdem sind
+Milch und Fleisch teuer. Das liegt, wie mir vom sympathischen
+Hotelbesitzer erklärt wurde, am wunderbaren, komplett freien
+Handelsmarkt in Neuseeland. So verkauft man lieber im Export und wer
+im eigenen Lande auch noch etwas abhaben möchte, der Zahlt doch bitte
+dieselben hohen Preise. Es gibt hier keine Zuschüsse und keine
+Unterstützung, sodass den Farmern nichts anderes übrig bleibt, als
+mitzuspielen, um im Geschäft zu bleiben.
+
+Da mir das nicht genug Aktivität für den Tag war und es mir nach
+Abenteuer (Querfeldeinmarsch) stand, habe ich am Abend noch den Hügel
+hinter dem Hostel erklommen. Mein Ehrgeiz peitschte mich bis zehn
+Meter unter den Gipfel, den ich dann aber im Angesicht eines
+Geröllhanges zu meiner Linken und Felsblöcken zu meiner Rechten nicht
+mit Sandalen an den Füßen beklettern wollte. Auf dem Weg nach Unten
+beschloss ich einen scheinbar direkteren Weg zu nehmen, endete im
+Dickicht und musste umdrehen, um nach einer anderen Route zu
+suchen. So habe ich gelernt: Nimm immer den Weg zurück, den du
+gekommen bist. (Denn du weißt, dass er funktioniert.) Aus einem
+zwanzigminütigen Spaziergang wurde also eine zwei Stunden
+Wanderung. Auch die Blasen, die ich mir in meinen Wanderschuhen beim
+Austragen von Werbezettelchen für meine Hosts (30km in zwei Tagen)
+gelaufen habe, dankten es mir. Zum Abend kochte ich mit Arnaud ein
+paar Nudeln, die wir dann zusammen mit zwei frisch angekommenen und
+recht planlosen deutschen Mädels (auf die meisten unserer Fragen gaben
+sie dieselbe Antwort: “Wir wissen [es] nicht…”) verspeisten.
+
+Am nächsten Tage ging es schließlich weiter zum Tongariro National
+Park. Einen Zwischenstopp machte ich in Gisborne, um mir im dortigen
+Park ein wenig die Füße zu vertreten, eine Statue von Captain Cook zu
+bewundern und das Östlichste Observatorium der Welt anzusehen (Naja,
+eben nur ein kleines weißes Haus mit Kuppel :P.). Im Anschluss daran
+durfte ich auf einer Sechsstündigen Fahrt allerhand schöhne Natur
+bewundern und legte mich im Hostel nach einem kleinen Abendbrot direkt
+Schlafen.
+
+Um fünf Uhr in der Frühe peitschte ich mich am folgenden Tage aus dem
+Bett, um das Shuttle zur Tongariro Alpine Crossing zu erwischen. Ja,
+auch ich habe mich mal wieder wie ein Tourist benommen und bin die
+berühmte 19 Kilometer lange Crossing gewandert. Trotz den, den Blick
+versperrender Wolken, habe ich Ansichten genossen, die mich erstaunten
+und die wohl in ihrer Unwirklichkeit unvergleichlich mit allem bisher
+gesehenem waren. Und trotzdem verspürte ich eine Ambivalenz, fühlte
+ich mich doch auf Grund der schieren Massen der anderen Wanderer, die
+auf dem Wege vor und hinter mir, mehr oder weniger motiviert
+marschierten, sehr gewöhnlich. Nachdem ich den großen Anstieg, der uns
+gleich am Anfang erwartete, fast rannte und viele überholt habe,
+traute ich mir zu, den, in Wolken verhüllten, Ngauruhoe (Mt. Doom aus
+TLOTR) zu besteigen. So machte ich mich, zusammen mit einem
+freundlichen Briten, an den Aufstieg. Als sich die Sicht sich dann
+aber auf einige Meter beschränkte und ich, in der Aussicht einen
+Geröllhang zu erklettern zunehmend die Nerven verlor, beschloss ich
+Umzukehren und meine Kräfte für die Verbleibenden 12 Kilometer auf der
+Crossing aufzusparen. Derselben Ansicht waren zwei junge Damen, denen
+ich für eine Weile der Wanderung anschloss. Gesellschaft ist manchmal
+eben doch dem einsamen Vor-sich-hin-grübeln vorzuziehen. Der weitere
+verlauf meiner Wanderung lässt sich besser Photographisch beschreiben
+und ich verweise hiermit wiedereinmal auf meine Photofreigabe. Nachdem
+mich über die letzten Kilometer die Massen, die ich zuvor überholte,
+ihrerseits überholten, weil meine mit Blasen übersäten Füße so
+furchtbar schmerzten, ging es zurück ins Hostel. Um an Toast zu
+sparen, kochte ich mir Pfannkuchen einer Herzhaften und sehr
+schmackhaften Füllung und auch am Folgetag fand ich große Freude an
+der Kocherei und versuchte meine Vorräte möglichst effizient zu
+verkochen (Spiegelei mit der restlichen Füllung und Crêpes als
+Toastersatz :P).
+
+Am 23. Dezember erwischte ich die letzten sonnigen und Regenfreien
+Stunden, um zu den überaus ansehnlichen Tarnaki Falls zu wandern,
+wobei man sowohl die typische Tongariro Steppe (mit Blick auf die
+Vulkane), als auch den grünen Native-Bush bewundern
+durfte. Witzigerweise waren wir fast genau vor drei Jahren schon
+einmal in der Gegen und mir Stand im erstklassigen Museum und Visitor
+Centre Vorort ein Deja-Vu bevor. Sowohl die Wanderung als auch das
+Visitor Centre befinden sich nahe des Whakapapa Village, eines von
+Ski-Enthusiasten gegründeten Feriendorfs mit allerlei Restaurants,
+Kaffees und Unterkünften (Unter ihnen auch das berühmte Baudenkmal und
+Skihotel Chateau Tongariro, endlich einmal ein Richtiges
+Steingebäude!). Aus Neugier fuhr ich zu guter Letzt auch die Straße
+zum Skigebiet hinauf, um in Mitten von Nebel, Regen und Wolken
+Skilifte und Felsklippen zu bewundern (sehr Surreal).
+
+Das Weuhnachtsfest mit Edith und Familie war sehr harmonisch und
+gemütlich, sodass ich es endlich einmal geschafft habe, richtig zu
+entspannen. Ich kann mich glücklich schätzen, so reich beschenkt
+worden zu sein (Danke Mutti und Papi und Omi und alle anderen
+;)!). Auch das Weihnachtsabendessen im ‘München’, einem deutschen
+Restaurant, schmeckte überaus gut. (Ich habe irgendwie das Talent,
+immer den größten Appetit mitzubringen und die kleinste Portion
+abzubekommen. :P)
+
+Am Weihnachtstage dann, ging ich (zum ersten Mal seit Langem) in die
+katholische Kirche in Khandallah und musste feststellen, das selbst
+ich die Gemeindegemeinschaft doch sehr vermisst habe. Auch die Predigt
+des humorvollen Pfarrers zum Thema “Ist Religion eine Ausflucht” (Sie
+ist keine, sie ist eine Hilfe … ein mittel gegen Spirituelle Armut …)
+war zugegebener Maßen sehr interessant.
+
+Punkt. :) Die nächsten Tage werden hoffentlich sehr entspannt :).
+
+Eine Frohe Weihnacht und vielen Dank für eure Geduld.
+
+*** Sueden
+:PROPERTIES:
+:EXPORT_FILE_NAME: Sueden
+:EXPORT_DATE: [2017-01-12 04:03:13]
+:END:
+Grüße von der Südinsel.
+
+Mit einem Tollen Blick auf das Gebirge im Norden der Südinsel verfasse
+ich mal wieder einen kleinen Bericht für euch. Da ich zur Zeit mal
+wieder dabei bin, neue Berge zu erklimmen, werde ich mich etwas kürzer
+fassen, als es im Anbetracht der seit dem letzten Post vergangenen
+Zeit vielleicht zu erwarten wäre.
+
+Nachdem mein Auto, in dem ich klugerweise ein Licht über die Nacht
+brennen ließ, nach einer in aller frühe durchgeführten Starthilfe mit
+dem fünften Versuch dann doch noch startete, habe die die Fähre zur
+Südinsel noch erwischt und bin nach einer langen Tagesreise bei meinem
+neuen WWOOFing Host angekommen. Irgendwo im Nirgendwo auf einem
+kleinen Hügel liegt ein kleinen Bed and Breakfast, in dem ich nun
+einen phänomenalen Ausblick genießen kann. Reg Turner, mein Host, hat
+die Idee der Luxus-Lodges überhaupt erst nach Neuseeland gebracht und
+sich jetzt hier zur Ruhe gesetzt. Ich nahm, nach meiner letzten
+WWOOFing Erfahrung, mit etwas verschobenen Erwartungen auf die
+Südinsel, nur um zu erkennen, das Whakatane wohl eine Ausnahme
+darstellt. Mit Reg ist es ein ganz anderes Gefühl. Die eigene Arbeit
+wird gewürdigt, Initiative begrüßt und vor allem werden Fehler
+verziehen.
+
+Ich wohne in einem kleinen Bungalow neben der Lodge und habe die
+ersten Nachmittage damit verbracht, denselben ein wenig zu säubern und
+herzurichten. Nichts Gravierendes, aber man möchte es ja gern ein
+wenig wohnlich haben. Ich genoss also die ersten Tage, allein zu sein
+und meinen Bungalow für mich zu haben. Doch bevor ich mich von der
+Gesellschaft abnabeln konnte, schneite ein Französischer WWOOFer
+herein. Welch ein Glück, denn zu mehreren macht WWOOFen immer mehr
+Spaß. Meddy ist Bäcker und buk, zu unserer großen Freude, gleich am
+ersten Tag ein wunderbares Brot. Fasziniert von dieser Kunst, bat ich
+darum, ich auch einmal an einem Brot versuchen zu dürfen. Gesagt,
+getan: Gestern habe ich schon mein drittes Brot gebacken und habe
+seitdem ich herausgefunden, wie schön das europäische Brot doch ist,
+bisher kein Toastbrot angerührt. Das Brot backen nimmt erstaunlich
+viel Zeit in Anspruch, ist aber, aufgrund der kreativen Freiheiten
+(Gemüse in’s Brot backen :P), eine sehr interessante
+Beschäftigung. Zwei Tage nach Meddys Ankunft waren wir dann schon vier
+WWOOFer. Zwei deutsche WWOOFer sind zu uns gestoßen und wir sind nun
+eine eifrige Task-Force für den Sommer-Cleanup. Ich selbst habe die
+letzten Tage, nachdem zuerst aufgrund des Regenwetters Hausarbeit
+angesagt war, die etwas abenteuerlich steile auffahrt mit dem
+Weedeater gemäht. Heute dann haben wir die Garage einmal gründlich
+aufgeräumt und durchetikettiert.
+
+Erstaunlicherweise habe ich schon am zweiten Tag frei bekommen und
+darauf hin versucht Most Stevens zu besteigen. Auf halben Wege zum
+Gipfel viel mir dann aber auf, dass ich zwar mein Wasser sehr
+vorausschauend aufgefüllt, aber nicht eingepackt hatte. Also kehrte
+ich um und das zu meinem Glück, denn der Berggipfel war auf einmal in
+bedrohlich dunkle Wolken gehüllt. Auf dem Rückweg motivierte ich dann
+noch eine ganze Reihe von Unentschlossenen in das eiskalte Flusswasser
+zu springen, indem ich mit gutem Beispiel voran ging. Ein paar Tage
+später, wanderte ich zu ein paar Höhlen (Große an Virus und Familie!)
+und traf einen amerikanischen Reisenden aus Australien, mit dem ich
+mich prächtig über dies und jenes unterhielt und den ich schon bald
+als Freund und Seelenbruder gewann. Da ich unmöglich alle Kontaktdaten
+meiner überaus glücklichen Begegnungen in Neuseeland festhalten kann,
+habe ich jetzt eine neue Datei eröffnen müssen. Erstaunlich, wie viele
+tolle Menschen es gibt.
+
+Ich war sehr glücklich als Kyle, so der Name der Wanderbekanntschaft,
+mir erzählte, dass ihm im Weka Workshop ähnliches widerfahren ist, wie
+mir. Der Wega Workshop, den ich auf einer kleinen Fahrradtour
+entdeckte, ist eine tolle Galerie von sehr ansehnlicher
+Holzarbeit. Wenn man das Grundstück, auf dem sich diese Ausstellung
+befinden soll, betritt, strahlt einem ein großes, rotes Schild: ‘OPEN’
+entgegen. Davon eingeladen, fange ich also an durch den Garten, auf
+den die Einfahrt führt, zu schlendern und eifrig zu photographisch zu
+dokumentieren, wie schön der Ort doch sei. Nach einer Weile kommt dann
+der Besitzer zu mir herüber und fragt mich, wer ich denn sei und warum
+ich denn einfach so in fremder Leute Gärten herumschlendere. Ganz
+perplex antworte ich ehrlich und wenig gewitzt, dass ich wohl von dem
+Schild in der Einfahrt verwirrt gewesen sein musste und ich
+normalerweise nicht die Gewohnheit Pflege, Grundstücke als öffentlich
+zu betrachten. Ich hätte natürlich behaupten können, das der sehr
+schön angelegte Garten an sich doch schon ein Kunstwerk oder eine
+Gallerie, wie sie auf dem Eingangsschild beworben wurde,
+darstellt. Wie auch immer. Der Herr erwiderte dann, dass er nicht
+hinter Schildern und Zäunen leben möchte und deshalb seinen Garten
+nicht als privat markiert hatte. Warum er dann aber vor sein Haus eine
+Kette mit dem Schild ‘Private’ aufgehängt hatte, war mir dann nicht
+ganz klar. Vielleicht sind Ketten O.K. oder er hat Spaß daran harmlose
+Touristen in die Irre zu führen, die annehmen, das alles was nicht als
+Privat gekennzeichnete erlaubt ist. Mit dem schrecken habe ich mir
+dann noch die eigentliche Ausstellung angesehen. Interessante Möbel,
+von Brettchen, verziert mit kleinen Holzpilzen, über Lampenständer,
+bis hin zu verrückten Tischen und Schränken, waren zu bestaunen. Falls
+also jemand Interesse an einem schön verzierten Holzlöffel hat, so
+melde er sich jetzt!
+
+Auch erwähnenswert ist der Ausflug zum Farewell Spit, den ich und
+Meddy unternommen haben. Das Farewell-Spit ist die lange, dünne aus
+einem einzigen langen Strand bestehende nördlichste Landzunge der
+Nordinsel, die man sogar mit exorbitant teueren Torbussen befahren
+kann. Wir sind über die nächstgelegen Hügel gewandert und hatten einen
+erstaunlichen Ausblick auf das von einem Sandsturm überholte Spit. Ich
+habe an diesem erstaunlich schöne Natur und noch viel schönere Strände
+sehen dürfen, muss aber zugeben, das ich selbst in Wellington noch nie
+so einen Wind erlebt habe. Der Wind machte alles aber noch viel
+interessanter, denn jeder hat Bilder vom Farewell Spit, aber wer hat
+schon Bilder von einem Sandsturm auf der Landzunge? Die wandernden
+Dünen und blauen Wellen auf dem Whariki-Beach zu betrachten, war auch
+eine sehr eindrucksvolle Erfahrung. Gleich zwei Landschaftswahrzeichen
+an einem Tag! Abends dann bin ich nach dem Brot Backen dann in mein
+Bett gefallen und erst gegen zwölf eingeschlafen.
+
+So weit so gut. Das waren die bisher südlichsten Abenteuer des
+Valentin in einer (sehr,) sehr kurzen Fassung.  Danke fürs einschalten
+und bis zum nächsten mal liebe Kinder :).
+
+*** Mehr Sueden
+:PROPERTIES:
+:EXPORT_FILE_NAME: MehrSueden
+:EXPORT_DATE: [2017-01-27 06:40:21]
+:END:
+Ein gefiddel ist das mit Gnu Emacs, aber man will ja nicht ewig mit
+Apple TextEdit weitermachen. Nachdem ich jetzt final auf Linux
+umgestiegen bin, versuche ich nur noch "professionelle" Linux-Hacker
+Software zu benutzen. In der Tat hat der Linux Umstieg in letzter Zeit
+den größten Teil derselben aufgefressen. Aber nun habe ich mein
+schönes Arch Linux Setup und kann dem Herumgetippe endlich ohne
+USB-Wlan Dongle und abrupte Systemabstürze frönen.
+
+[Farad fahren. Hechel... Sitz viel zu niedrig, lässt sich aber nicht
+auf meine außernormlichen Dimensionen einstellen.]
+
+Nun sitze ich, beschienen von der goldenen Abendsonne, auf einem
+Hügeln mit Blick auf den Tahunanui Beach und das unglaublich blaue
+Meer. Nach einem sehr interessanten Film im Pseudo-Dokumentarstiel
+musste ich mich noch einmal abreagieren und das schöne Wetter
+genießen.
+
+Auch meine letzten Tage in Collingwood wahren, wie auch die Wochen
+davor, sehr interessant und reich an Schönem. Ich durfte jeden Tag
+aufs neue die unglaublich fabülöse Aussicht auf die Berge genießen und
+als sei dem nicht schon Freude genug wurde auch meine Arbeit vom
+ausgesprochen gutherzigen Reg Turner geschätzt.
+
+Eines Abends fand ich einmal mehr besonderes Verknügen daran, mit dem
+ungefederten Farad der Lodge über die ungeteerte Straßen des
+Arorere-Valleys zu touren. Ich stürzte mich also die
+abeteuerlich-steile Auffahrt herunter, wurde mir unter großem
+entsetzen bewusst, dass das Betätigen der Bremsen meine
+halsbrecherische Tour nicht nennenswert verlangsamt und so kam ich
+dann mit sehr viel ungewollter Mountainbike-Action auch tatsächlich
+heil am Ausgangstor an. Und weiter ging es quer Feld (Staubstraße) ein
+bis ich irgendwann über eine Brücke mit toller Aussicht bis zum Anfang
+der Boulder Lake Wanderwegs radelte. Eigentlich trivial, aber wegen
+der schönen Aussicht auf die Berge und das Tal trotzdem
+erwähnenswert. Meinen Rückweg meinte ich durch die Wahl einer
+Privatstraße verkürzen zu können, hatte aber dabei nicht
+einkalkuliert, wie einschüchternd die geballte Neugier von einhundert
+Rindviechern sein kann.
+
+Tags darauf wollte ich den Milnthorpe Park besichtigen und entschloss
+mich, anstatt des Autos das Farad als Transportmittel zu
+wählen. Fleißig deichselte ich nach Collingwood, um einen Brief
+abzusenden und sah mir auf dem Weg einen Ausguck und den alten
+Friedhof anzusehen. Kurz darauf rutschte mein Hinterrad seitlich auf
+der Geröllstraße (Was für eine Deichselarbeit!) weg und ich führte ein
+sehr akrobatisches Ballett auf, um bis auf ein paar Schrammen an der
+rechten Hand unversehrt zu überleben. Ein paar ruhigere Minuten später
+durfte ich dann den Freuden von gut angelegten Spatzierwegen in
+schöner Natur und kostenloser Karten freuen, als ich den
+schattig-kühlen park erreichte. Nachdem man nicht endemische Bäume in
+das Brachland gepflanzt hatte, konnten auf deren 'Ausscheidungen' und
+in deren Schatten auch die nativen Pflanzenarten Fuß fassen und in den
+letzten 30 Jahren einen ganz ordentlichen Wald entstehen lassen. Auf
+einer schönen Bank mitten im Wald las ich dann ein wenig in Utas
+Neuseelandbuch, tunkte mich kurz ins kühlende Nass und fuhr zurück
+nach Hause. (Wobei es der Kühlung im verrückt-kalten Neuseeland Sommer
+nicht immer bedar…) Die letzten Meter bergauf musste ich schieben, um
+den Kampf mit Kälte und Hunger zu überstehen. Allein der Gedanke an
+das Abendbrot hielt mich auf Kurs und nach vielen mühen wurde die
+Hoffnung Wahrheit, sprich, ich aß doppelte Portion und war glücklich.
+
+Am Tage bevor meiner Abreise nach Nelson, beschloss ich um 5 Uhr am
+Nachmittag noch eine kleine Wanderung anzutreten. Ich zog auf den
+Knuckle-Hill, um die Aussicht noch ein letztes mal genießen zu
+können. Dabei verkalkulierte ich mich aber gründlich, nicht nur bei
+der Länge der Auffahrt, sondern auch bei der Wanderdauer und erschien
+erst um zehn Uhr abends zurück zum Abendessen! Aus einer zwei Stunden
+Tour wurde eine fünf stunden Odyssee. Verwirrender weise gab man auf
+dem Schild zwar die Entfernung für Hin- und Rückweg, aber nur die
+halbe Zeit an!
+
+# Nelson
+
+Gleich zum ersten Tage ein Abenteuer. Nachdem ich ausgepackt hatte,
+gingen Cathy Jones, mein neuer Host, und ich einkaufen. Ich war
+positiv überrascht, das man mir sogar Pineaplle-Lumps (Yummy)
+spendierte. Im verlaufe des Nachmittags ging es aber Cathys Rücken
+aber immer schlechter, bis sie kaum noch das Auto besteigen konnte und
+somit gab es Takeaways zum Abendbrot und wir fuhren zur Notaufnahme.
+Nachdem wir bis 12 Uhr in der Nacht gewartet hatten (ich unter äußerst
+spannender Lektüre von
+(http://www.catb.org/esr/faqs/hacker-howto.html)[http://www.catb.org/esr/faqs/hacker-howto.html])
+wurde dann ein weiterer kollabierter Wirbel diagnostiziert, Cathy
+bekam Schmerztabletten und es war an mir, den 4x4 nach Hause zu
+fahren.
+
+Nach kleinen Ausflügen in die Stadt am Folgetag ging, verbrachte ich
+den Samstag mit Edith und Konsorten und mir wurde lecker Abendessen im
+Lemongrass Restaurant beschert. Am Sonntag besuchte ich die
+Kathedrale, denn ich muss zugeben, dass mir der Gottesdienst sehr gut
+zur Gedankenstimulation gereicht und auch die Gemeinde etwas Schönes
+ist, wenn man der Heimat so fern, wie ich es bin, ist. (Meine
+ausführlichen Gedanken zur Religion schreibe ich aktuell nieder).
+Montags dann wanderte ich im Zealandia-Clon in der Nähe von Nelson und
+durfte ganze 3! unüberückte Bäche durchwaten. Eine sehr spannende
+Erfahrung, besonders, wenn das Wasser dermaßen kalt ist! Abends
+beglückte ich Carl dann bei Alex und Pauline mit einer kleinen
+Spiel-Session, nachdem er sich über die gesamte Weihnachtszeit über
+einen Mangel an Zuwendung meinerseits beschwert hatte. Finalement gab
+es ein wunderbares BBQ mit deutschen Würsten vom Markt.
+
+So viel Frischluft, wie in Neuseeland hatte ich wahrscheinlich noch
+nie, denn nicht nur arbeite ich meist draußen, sondern ich wandere
+auch des öfteren unter der Woche. So bestieg ich auch Vorgestern einen
+Hügel mit phänomenaler Aussicht über Nelson. Gestern dann war ich in
+Indoor Stimmung und so gingen Cathy und Ich ins Kino, um 'Operation
+Avalanche', zu sehen. (Siehe Anfang des Posts...)
+
+Cathy ist ein wunderbarer Host und wir schätzen uns beide sehr. So ist
+es schade, dass ich nächste Woche schon wieder weiterziehe, aber wozu
+bin ich denn sonst in Neuseeland?
+
+Ich sehe viel und erforsche die Umgebung. Dennoch ist es jedes mal
+aufs neue eine Schwierigkeit, sich umzustellen. Mittlerweile geht es
+aber immer einfacher über die Bühne und ich kann auch in andere
+Richtungen denken.
+
+So schwenkte mein Interesse in letzter Zeit auf das Programmieren und
+den Computer im Allgemeinen um. In den letzten zwei Wochen habe ich
+meiner Meinung nach sehr tiefe Einsichten gewonnen und verstehe nun
+endlich in allen Dimensionen wozu ein Betriebssystem überhaupt da ist.
+Mal sehen, wohin und wozu mich das führt …
+
+Bis dahin alles Gute Amigos!
+
+*** Sued Nord Westen
+:PROPERTIES:
+:EXPORT_FILE_NAME: SuedNordWesten
+:EXPORT_DATE: [2017-02-10 05:01:10]
+:END:
+Zumindest einen kleinen Bericht bin ich euch schuldig.
+
+Meine verbleibenden Tage in Nelson waren wunderbar und wieder empfinde
+ich gro�e Dankbarkeit, wahr Cathy Jones doch wieder so gut zu mir.
+Wenn man in der Gegend ist, dann gilt es unter Reisenden schon fast
+als Sakrileg, den Abel Tasman National Park nicht zu bewandern. Da ich
+ein Greenhorn bin, habe ich mich einmal mehr für die Tagestour
+entschieden. Also stehe ich pünktlich um 6:30 Uhr auf, um dann 9 Uhr
+gerade noch mit guter Not das Wassertaxi zu erreichen. Allein die
+Schiffsfahrt lohnte schon des Ausflugs. Mit einem Affenzahn ging es
+zuerst auf eine kleine Exkursion zum Split-Apple Rock, einem in der
+Mitte gespaltenen, aus dem Wasser ragenden, kugelförmigen und sehr
+apfelähnlichen Felsbrocken, und danach durch diverse Buchten, bis ich
+in der Torrent Bay aussteigen durfte. Unter anderem gab es auch
+Neuseeländische Pelzrobben zu bestaunen. Meine Sorge, der Wanderweg
+würde von den Horden in den Booten (die Wassertaxis wahren bis auf den
+letzten Platz besetzt) überrannt werden, wurde zuerst von mir
+genommen, als ich erfuhr, dass alle Fahrgäste au�er mir selbst bis
+ganz zum Anfang des Wanderweges Fahren (ich mache ja nur eine
+Tagestour). Einige Minuten später ging mir dann auf, dass die Bote
+schon seit Tagen Hochkonjunktur feierten und ich mich beim Wandern
+einer reichlichen Gesellschaft erfreuen durfte.  Und doch, war es wie
+im Paradies (und das Optische ist ja ausreichend photographisch
+dokumentiert und bedarf keiner weiteren Erläuterung). Alle
+Traumstrände wahren wie leergefegt. Kein Mensch, keine Robbe, keine
+Sandfly. Alle Welt wandelte auf den Wegen, denn zum Baden gab es zu
+viel ... .... naaa .... Niederschlag! (Wer ist jetzt in poetischer
+Stimmung?)  Immer munter zog ich also ohne Angst vor Sonnenbrand unter
+dem schützenden Wolkendach daher und lie� den Regen hinter mir. (Als
+ich einmal den Fehler machte, hinter mich zu schauen, jagte mir eine
+graue Regenwand einen Mordsschrecken ein!).  So wnaderte ich also für
+meine ersten sechs Kilometer fröhlich vor mich hin, bestaunte und
+entspannte. Plötzlich deutet eine Dame von durchaus seriöser
+Erscheinung auf den nächstgelegenen Felsbrocken und erklärt mir, das
+ich da einen Dinosaurier sehen könne. Bevor ich antworten kann, fährt
+sie fort, dass man weiter unten am Hügel noch einen Waal erkennen
+könne und generell die ganze Küste aus allerlei Versteinertem
+bestehe. Ich, der ich immer noch glaube, es gehe nur um visuelle
+�hnlichkeiten, möchte gerade einräumen, dass der zuerst erwähnte
+Felsbrocken für mich wie ein Fisch aussehe, als mir die Dame mit
+�berzeugung entgegnet, dass sie auf der Bootsfahrt (nicht auf meinem
+Bot...) Knochenstaub auf den Fü�en hatte und nur Dinosaurier und Wale,
+nicht aber Fische dieselben aufweisen. Danach wünscht sie mir einen
+schönen Tag und zieht schnurstrachs von dannen. Ich bin mir immer noch
+nicht ganz sicher, ob irgendeine Art Spa� mit mir getrieben wurde,
+hätte aber gern entgegnet, dass sich für allerlei unverstandene Dinge,
+allerlei mehr oder weniger plausible Erklärungen finden lassen
+können. Ich weis immer noch nicht, was ich davon halten
+soll. Vielleicht sollte mir das zeigen, dass jeder, der nur genügend
+Selbstbewusstsein besitzt, den grö�ten Humbug von sich geben, dabei
+aber immer überzeugend und seriös erscheinen kann.
+
+Nach meiner Mittagspause fühlte ich mich miserabel und begann daran zu
+zweifeln, das ich, wenn ich mich nach schon 6 Kilometern so schlapp
+bin, die restlichen 14 noch schaffen kann. Zwei Kilometer später wies
+auf einmal ein kleiner Wegweiser auf eine kurze Abzweigung (500m) zu
+Cleopatras Pool hin. Keine zwei Kilometer, wie ich irrtümlicherweise
+in meine Gratis-Karte hineininterpretiert hatte. Eine echte Gumpe, in
+Korsika Qualität: Phänomenal und dann zeigt sich auch, zum einzigen
+mal an diesem Tag, der Sonnenschein. Nichts wie ... ... in's Wasser
+(ätsch, schon wieder nicht gereimt). Wirklich kalt, aber ebenso
+erfrischend! Nach dieser kleinen Planscherei, verging der Rest der
+Wanderung durch die fast schon monotone Schönheit des Abel Tasman
+Parks wie im Fluge.  Zum Abendbrot gab es nach einer, durch enorme
+Nachfrage bedingten, halbstündigen Wartezeit einen überaus
+bemerkenswert schmackhaften Burger aus dem Fat-Tui Food-Truck.
+
+An meinem letzten Tag in Nelson war ich noch einmal in der Suter Art
+Gallery und habe wieder nur einen Raum geschafft, weil man schon um
+4:30 Uhr schlie�t! Auf der Suche nach einer neuen Mechanik für meinen
+Bass bin ich dreifach am Musikladen vorbeigefahren. Danach schien mir
+das Glück hold zu sein, so gab es Tatsächlich einzelne Mechaniken zu
+kaufen. Aber immer waren die Tuner für die falsche Seite, aus welchen
+Ecken der Verkäufer Sie auch hervorzauberte (und der dieser Ecken gab
+es viele). Danach bin ich aus Zufall noch einem Schild zum "Center of
+New Zealand" gefolgt und hatte einen tollen Ausblick auf Nelson und
+das quietschblaue Meer.
+
+Jetzt bin ich am Westcoast und schreibe diesen Blogpost im gemütlichen
+Sofa des netten Hosts. Ich wohne hier einmal mehr irgendwo im
+Nirgendwo und wir haben nur Solarstrom und Regenwasser. 'Nur' ist
+vielleicht zu kurz getreten, denn wir kommen damit ohne gro�e
+Limitierungen über die Runden und ich bin erstaunt, wie wenig
+Solarpaneele er auf dem Dach hat.  Schon an meinem ersten Tag wurde
+mir eröffnet, dass man (John, der Host, sein Freund Michael und die 3
+anderen WWOOFer) am Wochenende einen Campingausflug in die Berge
+antreten wollte, um den Weg mit Sägen und Scheren wieder gangbar zu
+machen aund zu markieren. Hurra ... soll ich jetzt in Freude oder
+Angst ausbrechen? Ich habe noch nie in der Natur gecampt ... will ich
+diese Erfahrung überhaupt machen? Ich nahm die Herausforderung an und
+so ging es 5:30 in der Frühe los und ab in den Bush! Motivierende
+Sprüche wie: "Das Gefühl Durst zu haben ist nichts schlimmes" (im
+Angesicht unserer begrenzten Wasservorräte) brachten uns schon einmal
+in die rechte Stimmung :).
+
+Zusammenfassend ausgedrückt muss ich eingestehen, dass der Trip
+schrecklich grausam, aber lehrreich und eine tolle, besser nicht zu
+Wiederhohlende Erfahrung war. Selbst der "professionelle" und
+abgehärtete Host John, der als Arzt schon in Afganistan und am Südpol
+war, musste zugeben, dass der Trip wohl eher "extrem" war. Im Grunde
+sind wir zwei Tage lang klitschnass einen Berg hinauf (leider nicht
+ganz bis zum Gipfel) und danach eben wieder hinab gestiegen. Dabei
+hatten John und Michael den Zustand des Tracks an beiden Tagen etwas
+sehr optimistisch eingeschätzt. Da meine Regenjacke leider nicht
+wasserdicht war und ich zu wenig Wechselsachen eingepackt hatte, war
+ich wohl aber wohl eher selbst an meinem Unglück schuld. Der sonnige
+Abend auf einem Hügel auf halben Weg bergauf (unserer "Camp-Site")
+belohnte die Mühe mit tollen Ausblicken, **Trockenheit** und einem
+gewissen Siegesgefühl.
+
+Während der letzten Tage habe ich den Westcoast auf weniger
+dramatische Weise erforscht und sehr viel Schönes gesehen. Die Fotos
+werden folgen, sobald ich wieder eine gute Internetverbindung habe.
+
+Bis dahin: Alles Gute und danke für's lesen.
+
+
+*** Episoden
+:PROPERTIES:
+:EXPORT_FILE_NAME: Episoden
+:EXPORT_DATE: [2017-03-03 00:42:02]
+:END:
+So vieles habe ich erlebt. Um nicht gleich im Angesicht der
+Niederschrift meiner Erlebnisse zusammenzubrechen, teile ich meinen
+Post in kleinere, auch für den Leser angenehmere Stücke auf.  So folgt
+auch gleich:
+
+## Erster Teil: West nach Ost Nach eineinhalb sehr interessanten
+Wochen nahe Westport, ward es einmal mehr an der Zeit das Heft in die
+Hand zu nehmen und weiterzuziehen. Da mein Host und ich in mancherlei
+Hinsicht nicht ganz auf einer Wellenlänge wahren, waren wir beide
+Glücklich, dass sich zwei neue WWOOFer ankündigten und er somit einen
+einigermaßen höflichen Grund gefunden hatte, mich vorzeitig
+fortzuschicken. Wie tief das Problem lag, wurde mir dann erst wirklich
+bewusst, als ich ein wunderbar übertriebenes Review auf meinem
+WWOOFing Profil bestaunen durfte, indem zwar ein wahrer Kern, aber
+auch viel Falsches und, soweit ich es Beurteilen kann, eine blanke
+Lüge steckt. Trotzdem erschien mir mein Host als ehrlicher und auch
+umgänglicher Mensch und es fällt mir schwer, diese, seine Reaktion zu
+verstehen. Kultivierte Unzufriedenheit führt oft zu irrationalem
+Verhalten und das auf beiden Seiten. Vielleicht dachte John, er müsste
+die Gemeinschaft der WWOOFing Hosts vor einer so schrecklichen Gefahr,
+wie ich sie in seinen Augen für den ehrlichen Arbeitgeber darstelle,
+warnen. Ich für meinen Teil hatte einen deftigen Kratzer im
+Lack. Meine aktuellen Hosts schätzen meine Arbeit aber sehr und siehe
+da: Die Welt sieht schon viel Besser aus.
+
+Wo ich schon einmal über vier freie Tage verfügte und es eine recht
+weite Strecke bis zu meinem nächsten Ziel (Christchurch) war, lag es
+nahe, die Zeit reisend (im touristischen Sinne) zu verbringen. Nach
+anfänglichem Regenguss, verbesserte sich die Lage in Punakaiki zu
+einem Grauen aber Regenfreien Regen. Mit einem deutschen Hichthiker,
+den ich auf dem Wege eingesammelt hatte, spazierte ich um die
+sagenumwobenen Pancacke Rocks. Ein echter Touristenfang und dazu noch
+ein recht Schöner. Aber im Angesicht von geteerten Wanderwegen und
+Menschenmassen, deren Autos den Parkplatz selbst an einem Regentag mit
+Leichtigkeit blockieren, erkannte ich wieder einmal, welch ein Glück
+ich habe, kein Tourist zu sein.
+
+Mit dem letzten Liter Benzin und einer leuchtenden Warnanzeige
+schafften wir es zuletzt noch nach Greymouth, die größte Stadt am
+Westcoast und der Standort der ersten Tankstelle (Tankstellen: Plural!
+Welch eine Dekadenz!) in 100 Kilometern. Greymouth wirkt auf den
+ersten Blick wie Stephen Kings Derry und auch auf den zweiten Blick
+und erst recht auf den Dritten. Dennoch konnte ich bei klärendem
+Himmel einen schönen Spatziergang an der kilometerlangen Flutmauer,
+hin zum (sehr) kleinen Greymouth-Museum unternehmen. Als Bergbaustadt
+kann man in Greymouth allerlei Gerät und sogar einen (ehemaligen?)
+Hafen bestaunen. Das Museum erzähl viele kleine und interessante
+Geschichten, unterfüttert mit allerlei Fotographie.
+
+> Da gab es einen Unternehmer, der das schnellste Dampfschiff
+Neuseelands besaß. Eines Tages lief sein Schiff auf Grund und wurde
+damit, um Strafzahlungen zu vermeiden, automatisch Eigentum der Stadt
+Greymouth. Das Wrack wurde alsbald durch einen Mittelsmann günstig
+zurück ersteigert (... wer will schon ein Schiff kaufen, dass selbst
+der ehemalige stolze Besitzer nicht mehr haben möchte ...) und der
+Antrieb in ein großes ehemaliges Segelschiff verpflanzt. Das neue
+Schiff dampfte mit demselben Motor, aber einem vielfachen an
+Frachtkapazität, immer noch mit fast derselben Geschwindigkeit seines
+Vorgängers und damit weitaus schneller, als all seine Konkurrenten.
+
+In einem Hinterzimmer fand sich eine komplette Sammlung aller National
+Geographic Heften seit den 70igern und mir stach sofort eine Ausgabe
+aus den späteren 80igern ins Auge. Eine recht amüsante Lektüre, aus
+einer Zeit, in der Computergrafik noch ganz neu, primitiv und
+unglaublich spannend war. Ich bin heute so sehr an die Wunder des
+Computers gewöhnt, dass mir diese neue Perspektive eine kleine
+Erleuchtung bescherte.
+
+Stahlgraue Wellen und silberne Kieselstrände. Palmen und
+Flaxbüsche. Im südlichsten subtropischen Bush Neuseelands beschloss
+ich den Tag auf einer kleinen Wanderung. Der Queens Point Lookout bot
+mir einen überwältigenden Ausblick auf ein Meer aus Flax, das auf
+einem geradezu geometrisch abfallenden Kliff in Zerfurchte Felsen und
+schließlich in den Ozean übergeht.
+
+Ein weiter Pluspunkt für Greymouth ist das hervorragende Global
+Village Hostel, das mit gemütlichen Betten, kostenlosen Kajaks und
+allerhand anderen Extras besticht. Die Küche in zunehmendes Chaos
+versetzend, verbrachte ich den Abend mit der Zubereitung einer frei
+erfundenen Pasta-Sauce (mit echten Tomaten, nicht aus dem Glas!) und
+verschätzte mich dermaßen in der Quantität, dass ich mir die Kocherei
+am nächsten Tag sparen konnte. An der Qualität allerdings, gab es
+nichts auszusetzen.
+
+So kommen ein ereignisreicher Tag und ein kurzer Blogpost zu einem
+Ende
+
+*Es folgt: "Berge"*.
+
+Gehabt euch gut.
+
+*** Berge
+:PROPERTIES:
+:EXPORT_FILE_NAME: Berge
+:EXPORT_DATE: [2017-03-04 07:13:55]
+:END:
+Ein nächster Tag auf Reisen. Dieses mal in die Berge. Nach
+unschuldiger Fahrt durch ein Flachland um Greymouth, eröffnet sich
+plötzlich ein unerwartet beeindruckender Anblick und ich drücke auf
+die Bremse, damit mir die Sicht nicht so schnell wieder vom Bush
+verschluckt wird. Von einer kleiner Anhöhe aus erstreckte sich einmal
+mehr ein Flachland, dass sich als bald jedoch in ein echtes Tal
+überging, umflankt von Wendelsteinen. Es waren bei weitem nicht meine
+ersten Berge auf der Südinsel, doch vielleicht die schönsten. Jeder
+kennt die besondere Mächtigkeit der Berge.
+
+Zusammen mit 100 Lastwagen, die allesamt schneller vorankamen als mein
+grüner Demio, hatte ich noch eine Interessante und beeindruckende
+Fahrt über Brücken und durch halboffene Tunnel.  Unter wechselhaftem
+Wolken, die mir mal Regenschauer und mal Sonne bescherten, kletterte
+ich in kurzen Hosen und mit gegen den Wind modifizierten Sonnenhut
+(umgedreht und die Krempen mit dem Halteband über meine Ohren
+gebunden) hinauf zum Temple Basin Ski Field, bei dessen Anblick sich
+mir die Natur der neuseeländischen Skifahrer bewusst wurde. Steile
+Hänge, endend in Furchen und Wasserfällen. Und auch schneebedeckte
+Gipfel boten sich mir auf der anderen Seite des Tales da. Und es ward
+windig, es ward kalt und Valentin stieg hinab ins Tal geschwindig oder
+er ward nicht mehr alt.
+
+Zum Abend ging es weiter ins Arthurs Pass Village zur Übernachtung im
+"The Sanctuary" Hostel. Zugegeben, das Hostel war _sehr_ Basic, nicht
+mehr als eine Tramping Hütte mit einer Küche und, Gott sei Dank, einer
+Heizung, aber die Leute waren nett. Unter ihnen auch ein deutscher
+Informatiker, mit dem ich im Dunkeln noch zu ein paar beleuchteten
+Wasserfällen spazierte.
+
+Der besitzer des Hostels war auch ein lustiger Kauz, mit einem
+Kajakverlei in Lyttleton bei Christchurch. Bezahlt wird im Hostel über
+eine Vertrauenskasse, wenn er absent ist :).  Müde ward ich und so
+ging es zu Bett. Am nächsten Morgen folgten: _Mehr Berge_ .
+
+
+*** Mehr Berge
+:PROPERTIES:
+:EXPORT_FILE_NAME: MehrBerge
+:EXPORT_DATE: [2017-04-05 21:36:53]
+:END:
+Welch Turbulenzen! Eddies und wirbel haben den Blog ganz aus meinem
+Geiste geblasen! Jetzt ist es aber h?chste Eisenbahn, die n?chste
+Fortsetzung zu schreiben. Also dann mal ran an den Speck.
+
+Wo wahren wir stehen geblieben ...
+
+Endlich einmal hatte ich das Verg?gen, meinen Schlafsack auch einmal
+sinnvoll zu nutzen und wirklich, das Geld hat sich gelohnt und ich kam
+warm durch eine recht k?hle Nacht. Am n?chsten Morgen war ich einmal
+mehr dabei, meine sieben (acht) Sachen zusammenzusuchen und weiter zu
+fahren, als, es kommt uns bekannt vor, ich mit einem netten, deutschen
+Informatiker ins Gespr?ch kam. Wir hatten schon am vorherigen Abend
+zusammen eine kleine Exkursion zu ein paar beleuchteten Wasserf?llen
+unternommen und wollten jetzt eine kleine drei-stunden Wanderung auf
+dem Arthur's Pass Walkway angehen. Frisch und munter ?chzten wir
+dahin, als wir, emp?rt ?ber unserer beider Kondition, ein paar stufen
+zu einem weiteren Wasserfall emporkletterten. Der Wasserf?lle gibt es
+viele in Neuseeland, fast zu viele, als dass man sie w?rdigen k?nnte,
+aber an Gr??e konnte bisher keiner mit dem vor uns dahin rauschenden
+Exemplar mithalten! Weiter ging es mit allerhand Abstechern, bis wir
+zu einer kleinen Br?cke gelangten, nach der der Weg nur noch f?r
+"Mountaineers" (Bergsteiger) geeignet war. Und w?hrend all dem gab es
+eine so wunderbare Szenerie. Jeder Berg hat seine Eigenheiten, mit
+unter sogar eine andere Vegetation und geht man nur ein paar Minuten
+voran, hat man wieder eine v?llig andere Perspektive und kann sich auf
+ein Neues sattsehen. Auf dem R?ckweg qu?lte ich mich ein bisschen, da
+ich in der Erwartung, nur sechs Kilometer zu laufen, keine Verpflegung
+mitgenommen hatte! Zur?ck im Hostel st?rzte ich mich nach dieser 16
+Kilometerwanderung auf meinen Vorrat an K?se und
+Supermarkt-Baguette. Alles schmeckt delicieus, wenn man nur gen?gend
+Hunger hat.
+
+Nach einer kleinen Ruhepause ging es ab nach Christchurch. Ich hatte
+Schwierigkeiten meine Konzentration auf die Stra?e bei solch einer
+Szenerie aufrecht zu erhalten. Ein paar Anblicke mit kahlen Bergen,
+die wie gigantische Sand- und Schutthaufen aussahen, erinnerten sogar
+an Ronneburg vor der Bundes-Gartenschau :P.
+
+Auf dem Wege wollte ich mir noch den ber?hmten Castle-Rock mit seinen
+Steinformationen ansehen und folgte brav dem Navi, dass mich dann aber
+in ein Feriendorf ohne erkennbaren Zugang zum H?gel lotzte. Entt?uscht
+fuhr ich vondannen, nur um f?nf Minuten sp?ter und voller Freude den
+richtigen Parkplatz zu entdecken. Der Farmer, der das umliegende Land
+sein eigen nennt, hatte nicht an Warnschildern und Draht gespart,
+sodass man sich fragte, ob er nun Touristen oder Rinder einz?unt.
+
+Der Castle-Rock selbst sieht aus, wie eine Cyberpunk Steinstadt oder
+das Gebiss eines Riesens und konnte mich, selbst nach all dem in
+Neuseeland gesehenen, noch erfreulich ?berraschen. Reichlich
+beeindruckt von meinem Tag legte ich auch die letzten Kilometer nach
+Christchurch zur?ck.
+
+Das Hostel, in dem ich die Nacht verbrachte, kann ich wohl getrost zu
+meinen Favoriten z?hlen. Klein aber fein und sehr gem?tlich. So
+freundete ich mich auch gleich mit einer sympathischen Amerikanerin an
+und wir erz?hlten so ?ber dies und jenes. Ihr R?ckflug nach Amerika
+ging ?ber ein von Trumps Travel-Ban betroffenes Land, dessen Konsulat
+freundlicherweise ein Schreiben an ihre Airline verfasste, da diese
+ihren Flug nicht umbuchen wollte.
+
+Ein Tag mit noch gr??eren Erlebnissen als der letzte!
+
+Danke f?r's mitmachen! Schalten Sie auch morgen wieder ein, denn es
+folgt: Christchurch.
+
+*** Christchurch
+:PROPERTIES:
+:EXPORT_FILE_NAME: Christchurch
+:EXPORT_DATE: [2017-04-05 21:37:41]
+:END:
+Äonen lang schrieb er nichts und ward vergessen.
+
+Doch nun ist er zurück und beginnt den Post gleich hochmotiviert mit
+einem Umlaut: **Funky :)**.  In all den besagten Äonen gab es genug
+Zeit, um reichlich neue Erfahrungen zu sammeln, so werde ich, um die
+Geduld des Lesenden nicht zu sehr zu strapazieren, einen gröberen
+Überblick geben.
+
+Ich habe das letzte Mal vergessen zu erwähnen, das mir während der
+Fahrt von Arthurs Pass nach Christchurch ein sonderliches Phänomen der
+Atmosphäre ins Auge viel: Eine breite, dichte und tief schwarze
+Wolkenfront. Ein dunkler Horizont lag vor mir und ich machte mich auf
+ein erstaunliches Gewitter gefasst. Einige Kilometer später jedoch,
+musste ich meine Belüftung kurzzeitig auf Innenluft umschalten, da das
+vermeintlich meteorologische Phänomen eines gewaltigen Waldbrandes mit
+allen Manieren inklusive des Geruchs in den Port-Hills entsprang.
+
+In Christchurch selbst war aber außer der Wolke nichts zu sehen und zu
+bemerken. So hatte ich einen wunderbaren Tag im beeindruckend schönen
+Christchurch. Ich denke, ich habe bewusst nur die schönen Dinge
+wahrgenommen und dennoch kann ich nicht verstehen, das Christchurch so
+wenig geschätzt wird. Am morgen hatte ich eine nette Studentin aus
+meinem Hostel zur Universität gefahren und so hatten wir uns auch
+gleich für die Christchurch Gondola verabredet. Während Sie sich also
+in der Universität einschrieb, spielte ich Tourist und ließ mich von
+den botanischen Gärten und der Innenstadt erfreuen. Besonders der
+kleine Strom "Avon" und das neu entstandene Earthquake-Memorial
+beeindruckten mich sehr.  Zum späten Nachmittag durfte ich schließlich
+einen phänomenalen Ausblick von der Christchurch Gondola- und im
+dazughörigen Restaurant ein Stück Käsekiuchen genießen.
+
+Noch im Schatten meiner letzten WWOOFing Erfahrung versuchte ich,
+durch Pünktlichkeit einen guten Eindruck bei meinen nächsten Hosts zu
+machen. Allerdings hatte ich nicht wirklich mit der phänomenalen
+Verkehrslage in Christchurch gerechnet und so kam ich eine halbe
+Stunde zu spät. Anscheinend wurde das aber schon erwartet und so hatte
+ich einen herzlichen und entspannten Start mit Martyn (meinem
+Host). Auch Sue (dessen Gattin) war und ist Herzensgut, auch wenn Sie
+mich mit ihrer Direktheit zu Anfang etwas erschreckte. Da ich immer
+noch Probleme mit meinem Handgelenk hatte trug ich zum Autofahren als
+meine Handgelenkstütze, die dann gleich als Beeinträchtigung meiner
+Arbeitseffizienz gefürchtet wurde :P. Martyn versuchte zu schlichten,
+aber Sue meinte, Ich wäre unfair gewesen, Sie nicht über meinen
+Gesundheitszustand aufgeklärt zu haben. Nach meiner ehrlichen
+Entschuldigung, hatte ich mir doch wirklich nichts in dieser Hinsicht
+gedacht, und einer guten Arbeitsleistung am Folgetag war das Problem
+dann vergessen.
+
+Damit sehen wir uns Morgen auf der *Banks Peninsula* wieder.
+
+:)
+
+*** Viel Neues
+:PROPERTIES:
+:EXPORT_FILE_NAME: VielNeues
+:EXPORT_DATE: [2017-04-13 07:46:55]
+:END:
+Welch turbulente Tage.  Nach einer großen Panik, die sich bei mir
+schon das ganze Wochenende mit einem Unwohlsein angekündigt hat, sitze
+ich jetzt auf der Rückbank unseres sehr kleinen Campervans und habe
+ein wenig Ruhe, um endlich mal wieder von meinen Abenteuern zu
+berichten. Die erste Nacht ist erstaunlich komfortabel überstanden und
+ich bin wieder entspannt :).
+
+Den letzten Monat habe ich noch einmal etwas Neues ausprobiert und
+mich ins kalte Wasser gestürzt. Und wirklich, ich habe mich am ersten
+Abend gefragt, was ich mir eigentlich gedacht habe. Harsch enttäuscht
+von Dunedin und überwältigt von der Aussicht, einen Monat einmal ganz
+für mich allein zu sorgen, sah ich am ersten Abend wirklich kein
+Licht. Ein paar Tage später war meine "Reisekrankheit" aber auch schon
+wieder kuriert. Ich hatte mich in Hogwartz, dem Hostel in dem ich
+arbeitete, eingelebt und auch mit meiner Programmierarbeit ging es
+voran. Zu meinen Kollegen im Hostel konnte ich zuerst keinen Draht
+finden und besonders Lukas, ein Musiker und Programmierer, gab sich
+sehr verschlossen. Ich fand jedoch recht schnell heraus, dass jeder,
+außer einem Langzeitgast des Hostels, dasselbe Problem hatte und
+knüpfte darauf hin schnell Freundschaften mit zwei Belgierinnen. Im
+Allgemeinen war ich überrascht, wie gesselig ich mich auf einmal in
+der Flut der neuen Menschen, die jeden Tag über mich hereinbrach,
+verhielt. So unternahm ich regelmäßig Ausflüge und immer fand sich
+genug Gesellschaft, um mein Auto zu füllen. Es gibt diesen ganz
+bestimmten schlag von jungen Reisenden, die sich immer mit uns (der
+Belegschaft) in der kleinen und meist übersehenden Küche neben der
+Großküche zusammenfanden und mit denen man immer prächtig auskam. In
+besagter Küche, die ich auf Grund ihrer geringen Popularität immer
+ganz für mich selbst hatte, konnte ich nach Herzenslust Kochen, Braten
+und Backen, ohne mich in Rivalitäten um Töpfe und Herdplatten zu
+verstricken. Auch wenn ich zuvor schon gelegentlich ein paar Nudeln
+eingeweicht und Fertiggerichte nach Anleitung zubereitet hatte, konnte
+ich nicht auf einen großen Erfahrungsschatz zurückblicken. Es sei mir
+das Eigenlob vergeben, aber ich meine, mich sehr gut geschlagen zu
+haben. Von Bolognese über gebackene Kumara bis hin zur Lasagne hatte
+ich nicht unter Nahrungsmangel zu leiden. Und im Kühlschrank stapelte
+sich das im ersten Einkauf erstandene Toastbrot, denn gleich an meinem
+ersten Tag hatte ich wieder angefangen Brot zu backen. In Wirklichkeit
+ist Brotbacken ziemlich einfach, aber sehr lohnend und schindet
+deswegen nur umso mehr Eindruck. Fleißig teilte ich mein Brot und mein
+Wissen, war aber der Einzige, der bis zum Ende alle halbe Woche Brot
+buk.
+
+Welch bemerkenswerte Phänomene durfte ich in unserem kleinen
+(mittelgroße) Hostel beobachten. Wenn man sieben Uhr aufstand, hatte
+man das ganze Hostel für sich, um acht konnte man den Schleier der
+Trägheit noch förmlich sehen und in meinem sehr dunklen aber
+gemütlichen Schlafzimmer konnte ich des Öfteren selbst um zehn Uhr
+nicht staubsaugen, weil einige besonders bequeme Individuen, immer
+noch in ihren Betten ruhten.  Reisende sind ein lustiges Volk,
+besonders die Sorte, die mehrere Monate unterwegs ist. Hört man die
+Geschichten eines solchen Weltenbummlers, so kann man sich kaum
+vorstellen, wie auf Reisen auch nur ein Tag ohne neue, atemberaubende
+und phänomenale Eindrücke vergehen kann. In Wirklichkeit kam mir der
+Eindruck, das die meisten Tage solcher Menschen von an Lethargie
+grenzender Trägheit gekennzeichnet sind. Relativierend muss ich aber
+gestehen, dass dieser Eindruck wahrscheinlich von Extremfällen
+herrührt, die am Ende der Saison nicht mehr mit der alten Energie
+umherziehen. Ich selbst hatte, da man erst um 10 Uhr zur Arbeit
+antrat, alle mühe, meinen Schlafrhythmus aufrecht zu erhalten.
+
+Wie dem auch sei. Besonders ein besonders bemerkenswertes Exemplar des
+Homo Instrenuus wurde mir zu einem guten Freund, auch wenn ich ihren
+Namen immer noch nicht kenne. Sie, eine Chinesin, entfloh dem Stress,
+kahm für ein Jahr nach Neuseeland und blieb dann irgendwie in Dunedin
+hängengeblieben. Auch wenn ihre Ansichten zur "Partei" sehr chinesisch
+sind, war sie doch als biertrinkender Fußballfan so ganz und gar
+untypisch.  Ich konnte ihr, die sie ihren Lebtag noch kein Saxophon
+gesehen oder gar gehört hatte, mit meinem Saxophonspiel eine große
+Freude machen. Das ging soweit, dass ich eines Abends, nachdem wir in
+einem sehr schönen Café namens "The Dog with two Tails" (Sehr
+untypisch wollte Sie mir unbedingt einen Drink ausgeben. Ich habe das
+Bier probiert, konnte aber immer noch nichts daran finden.) waren,
+mitten im nächtlichen Stadtzentrum herumjazzte. Nachdem wir eines
+anderen Abends zum beeindruckend kunstvollen Choral Evensong in der
+wunderbar hellen neogotischen Kathedrale gepilgert waren, fragte
+erstaunte ich Sie mit meiner Ansicht, das Reich Gottes würde niemals
+kommen. Nicht, dass ich der Menschheit besonders zynisch
+gegenüberstehe, aber es ist so, dass sich Religion über das Streben
+zum besseren definiert. Ohne dieses Streben verlören die Menschen
+recht schnell die Motivation ihr Paradies aufrecht zu
+erhalten. Vielleicht ist es also besser wenn, zumindest für die
+jetzigen Menschen, das Reich Gottes unerreichbar bleibt. Wir leben in
+interessanten Zeiten, in denen Religion teilweise an Signifikanz
+verliert und wir Chancen haben, Religion ohne Autorität und Zwang in
+ihren guten Seiten zu entdecken. Die Tage der Chinesin entwickeln sich
+zu einem Rhytmus von besorgniserregender Abnormalität und ich hoffe,
+dass Sie sich selbst etwas Gutes tut und weitergezogen ist, wenn wir
+wieder in Dunedin sind.
+
+Auch wenn man sich nach fünf Tagen Toilettenputzen entsprechend
+motiviert fühlt, war die Hostel Arbeit, wenn auch keine angenehme,
+aber doch eine interessante Angelegenheit. Abendliche Jammsessions,
+komfortable Betten, nette Besitzer und eine gemütliche Atmosphäre
+machten mir das Hostel zu einem hervorragenden Heim. Als ich dann auch
+noch ein (sehr klappriges) Fahrrad leihen durfte, mit dem ich zum
+Arbeiten (Programmieren) in die schmucke und sehr ruhige
+Universitätsbibliothek fahren konnte, war mein Glück Perfekt. Am
+ersten Tage mit dem Fahrad habe ich das Fliegen und meinen Schutzengel
+kennengelernt! Wie immer grub ich mir selbst ein paar löcher und
+grämte mich des Öfteren, sodass mir erst, als ich die letzten Tage in
+einem nicht so angenehmen Hostel verbrachte, bewusst wurde, wie gut
+ich es hatte und welche Erfahrung ich gesammelt habe. Auch mein
+Programmierjob brachte mir einen unermesslichen Schatz an Erfahrung,
+der mir jetzt ermöglicht an einer Open-Source Planetariumssoftware
+mitzuwirken. Schon auf der Banks Peninsula habe ich Grundsteine
+gelegt, fleißig C++ gebüffelt und mich in QT geübt.
+
+Sehr schöne drei Wochen wahren das. Wenn wir nicht gerade **in** den
+Wolken lagen (Ich wollte schon immer mal wissen, wie das ist :P, aber
+man wird dem Nebel schnell überdrüssig.), hatten wir eine wunderbare
+Sonne und ich konnte sogar ein paar mal vom Anleger aus in die kühle
+und tropisch blaue See hüpfen. Auf unserem Hügel sah ich
+Sonnenuntergänge und genoss so manchen Tee auf der Veranda. Noch nie
+war ich so glücklich über mein Auto, denn ohne ist man auf der
+Halbinsel verloren. James Cook hielt den ehemaligen Vulkan sogar für
+eine Insel und taufte Sie, nach seinem Bortbotaniker Joseph Banks, die
+"Banks Island". Auch als ich das Land mit Panoramablick auf einem der
+dortigen Hügel examinierte, konnte ich mir nur schwerlich vorstellen,
+dass ich auf den Überresten eines mehrere tausend Meter hohen Vulkans
+stehe. Bei genauerem hinsehen kann man jedoch erkennen, das diese
+zerklüfteten Hügel, die eine Halbinsel aus tentakelartigen Landzungen
+bilden und im Flachland von Canterbury so fehl am Platz wirken,
+Vulkanischen Ursprungs sein müssen.
+
+Des weiteren kam ich in den Genuss der Gesellschaft eines
+sympathischen, französischen Game-Developers. Nachdem ich Raphael, so
+ist sein Name, mächtig über die Spielentwicklung ausquetscht hatte,
+war ich sehr erstaunt, wie viel wissenschaftliche Forschung hinter der
+Computergrafik steckt, auch wenn ich so etwas schon geahnt hatte
+(verweis auf das National Geographic Magazin in Greymouth). Dem
+schlossen sich viele Diskussionen über Politik, soziales und sogar die
+Kernfusion an und ich verstehe nun, warum er am Sinn seiner Arbeit als
+Game Developer zweifelt und Bienen züchten will. (Welchen Dienst tut
+man an der Gesellschaft, indem man den Tag vor dem Computer verbringt,
+um anderen zu ermöglichen, das gleiche zu tun und die unmittelbaren
+Probleme zu vergessen. Auch wenn Ich glaube, das allein die Freude,
+die man sich und anderen bringt, gewissermaßen ausgleichend wirkt. Die
+Dosis macht das Gift. Auch sollte man bemerken, dass die Welt auch bei
+all den Problemen nicht unbedingt vor die Hunde gehen muss. Wenn man
+beispielsweise Projekte wie Wikipedia betrachtet wird klar, dass
+Menschen nicht für Geld sondern aus eigenem Interesse arbeiten
+können. Ferner ist die Qualität dieser Arbeit meist sogar erstaunlich
+hoch. So etwas wie Open Source dürfte intuitiv gesehen eigentlich gar
+nicht funktionieren, in der Realität jedoch entsteht
+Erstaunliches. Komplexe Systeme, wie unser Gehirn, ein Bienenstock
+oder eben Kollaboration, lassen sich weder reduktionistisch durch das
+Beschreiben der einzelnen Bestandteile, noch durch die holistische
+Betrachtung des Ganzen verstehen. Besonders für uns Menschen, die an
+bewusste Kontrolle und Planung als menschliche Errungenschaft gewöhnt
+sind, ist es schwer zu akzeptieren, dass solche stabilen und
+produktiven Systeme sich zwangsläufig so gefügt (adaptiert) haben,
+dass sie funktionieren. Das hat doch fast etwas Poetisches, wenn man
+die Logik des Anthropischen Prinzips vernachlässigt.) Über dieses und
+weiteres konnte man sich Prima Austauschen. So gut sogar, dass wir
+zuletzt nicht mehr zusammen arbeiten durften, weil wir nur noch
+quatschten. So mussten wir uns auf Spatziergänge und Wanderungen
+Verlegen :).
+
+Viele Ausflüge wurden unternommen: Ich wanderte, ich hörte Konzerte
+und ich habe sogar eine gratis Tour zu den Albatrossen auf der Otago
+Peninsula gemacht (zur Webcam, für die ich programmiert habe). Ich
+habe viel gelernt. Und ich hatte viel Freude. Ich bitte die so
+spärliche Berichterstattung zu verzeihen, aber es ist so schwer,
+Schritt zu halten.
+
+Jetzt geht es eine Runde Reisen mit Mama, Noemi und Falko :). Auch
+wenn jeder vom Wetter etwas vom Wetter und der Umstellung angereizt
+ist, wird es bestimmt ein Spaß.
+
+Zur Reiseberichterstattung verweise ich fauler Weise einmal an Falkos
+Blog: http://nz2017.trojahn.de
+
+Gehabt euch gut ;)
+
+*** Late Days
+:PROPERTIES:
+:EXPORT_FILE_NAME: LateDays
+:EXPORT_DATE: [2017-05-18 10:50:30]
+:END:
+Was ist nur mit dem jungen Mann. Man hört ja gar nichts mehr...
+
+Wie immer beginne ich auch diesmal mit einer Entschuldigung. Alles ist
+beim alten und Valentin schiebt den Blog immer noch vor sich her.  Der
+aufwändige Produktionsprozess hat es aber auch in sich! Schreiben,
+durchlesen, ausbessern und schließlich der Grammatisch-Orthografische
+Korrekturgang (Ohh Ja, den gibt es wirklich! Ungelogen! Ich habe ja
+kein Wort über die Effektivität verloren :P.). All das verlangt
+einiges an Arbeit und damit auch Überwindung.
+
+Wie dem auch sei (another frequently used term). Nach ein paar schönen
+Reisewochen mit Muddi und F4lk0 und N03m1 und ner ganzen Packung
+R0b3ts0ns gab es noch zwei schöne, aber unspektakuläre Wochen in
+Wellington unter dem Dach der sehr hospitablen Frau Edith. Thank You!
+Ich habe mir einen recht bereichernden Vortrag über (Sonnen)Uhren bei
+einem Meeting der Wellington Astronomical Society angehört, besuchte
+das "Space & Science Festival" und ward erleuchtet über Titan und die
+NASA Mission zum Mars.
+
+Wenn ich unseren roten Nachbarn auch als interessant und möglichen
+Kandidaten für Kolonialisierung handle, warte ich gespannt auf die
+Daten einer Europa-Sonde (Jupiter Mond, nicht Kontinent). Was
+passiert, wenn wir auf einen Schlag wissen, dass Leben nicht
+Terra-Exklusiv ist?
+
+```
+      _       _
+     (_\     /_)
+       ))   ((
+     .-"""""""-.
+ /^\/  _.   _.  \/^\
+ \(   /__\ /__\   )/
+  \,  \o_/_\o_/  ,/
+    \    (_)    /
+     `-.'==='.-'
+      __) - (__
+     /  `~~~`  \
+    /  /     \  \
+    \ :       ; /
+     \|==(*)==|/
+      :       :
+       \  |  /
+     ___)=|=(___
+jgs {____/ \____}
+
+```
+
+Weiter im Text: Es gab da natürlich die eine Sache, die mir
+Kopfzerbrechen bereitete. Nachdem ich das Auto, the Mighty Demio, auf
+Trademe gestellt hatte, erwartete ich, demnächst ein
+vielbeschäftigter, in Anfragen ertrinkender Mann zu sein. Nichts Da!
+Kein Muchs. Also senkte ich den Preis und pumpte 50 Dollar in Trademe,
+in der Hoffnung die fehlgeleiteten Menschen da draußen, die
+offensichtlich keinen guten Wagen erkennen, wenn sie einen sehen, zum
+Kauf zu überreden. Immer noch nichts. Was ist das, dass kann nicht
+sein! Da habe ich tatsächlich, bei einer allzu trüben Insoektion der
+elektronischen Post eine (die!)  Nachfrage übersehen. Die Autorin
+Derselben hatte zu meiner Erleichterung auch eine Woche später
+Interesse und so stand der Deal. Ich pilgerte nach Lower Hutt, ließ
+das Auto durchchecken und siehe da, man nahm mir den guten, grünen
+Demio ohne jegliche Testfahrt oder persönliche Inspektion ab! Edith
+witterte Betrug und Matt deichselte freundlicherweise die reibungslose
+Übergabe mit mir!
+
+Noch etwas zu meiner Schande: Ich Horst habe es nicht hinbekommen,
+mich mit meinen Arbeitgebern zu treffen :/.
+
+Einige Eskapaden gab es auch mit Matt, dem ich beim Einrichten einer
+weiteren Webcam geholfen habe. Alles was schiefgehen kann geht auch
+schief! Aber damit gehe ich nicht weiter ins Detail...
+
+Dank eines Mitwagen-Transfer-Deals hatte ich den Luxus, mit all meiner
+Baggage gemächlich nach Auckland fahren zu können. Auf dem Weg machte
+ich mal hier, mal da, ohne genauen Plan halt und besuchte alte
+Freunde. Zuerst Jean Hollis, deren Garten noch schöner ist, als ich
+mich zu erinnern wägte, mit der ich wieder einmal Ukulele spielte und
+die mir reichlich Äpfel und Fejoas bescherte. Eine wunderbare Sache
+und eine merkwürdige Perspektive, wenn man jetzt, am Ende, zurück
+schaut. Jean Hollis war/ist MONATE her. Welch zeitlichen Dimensionen.
+
+Weiter Nördlich, in Tauranga, hatte ich noch ein Bonbon. Ich habe
+Tracy (wer erinnert sich), meine Kiwi-Mum, besucht und es nicht
+bereut. Reichlich zu erzählen hatten wir und gut zu Essen hatten wir
+auch (denn ich habe gekocht). Was wäre bloß gewesen, hätte ich den
+Flieger genommen... Tracy macht gerade dies und jenes, erfreut sich
+der Diversität und hat anscheinend ihr Ding gefunden. Housesitting,
+lawn-mowing, Arbeit in einem Animal-Sanctuary (mit erstaunlich vielen
+Tieren) zählen dabei zu ihren momentanen Tätigkeiten.
+
+Gestern segelte ich dann, nach einem Entspannten Kaffee mit Tracy, in
+einer Nervenaufreibenden und sehr spannenden Odyssey nach
+Auckland. Zuerst Stau, dann Verkehr! Und schließlich stirbt mein
+Telefon. Ich erfahrener Reisender verlasse mich natürlich exklusiv auf
+mein Navi und denke nicht einmal an old-fashioned Karten... Zum Glück
+war ich gerade in der Nähe des "Museum of Transport and Technology"
+und die freundlichen Menschen dort druckten mir eine Karte, mit der
+ich dann eine halbe Stunde brauchte, um das Hostel (ein Wunderbares)
+zu finden. Und warm war es. Schweißgebadet und zitternd, war ich ein
+paar Kollisionen nur Haarscharf entronnen, entlud ich mein Auto und
+kämpfte mich zurück zum Flughafen, den ich dann Unfreiwillig auf der
+Suche nach Ace Rentals erkunde. Bei der Autovermietung war natürlich
+schon keine Seele mehr und in einem Augenblick der Panik übersah ich
+die Schlüsselbox. Wanderung zur Bushaltestelle + Toilette Suchen +
+Wanderung in Auckland + tagelang kein guter Schlaf = Guter Schlaf. Was
+für ein Abenteuer. Aber mir gefällt Auckland und dabei hört man soviel
+schlechtes. Wenn man an den richtigen Orten verweilt, ist es
+prima. Ich lebe gerade in Ponsonby, auf dem Hügel.
+
+
+Heute habe ich mir ein Paar Teslas angeschaut. Schöne Autos, auch wenn
+die Weiße Farbe der Sitze wohl etwas unglücklich gewählt ist. Ich bin
+gespannt, wann Tesla ein erschwingliches Modell produzieren wird... Es
+war schon interessant das Auto zu sehen, nachdem man die Biografie
+(eine Ode auf Musk..., es wird fast schon langweilig) gelesen hat.
+Danach, es regnete, ging es ins bereits erwähnte "Museum of Transport
+and Technology", indem ich den Rest des Tages verbrachte. Selbst
+nachdem man das Berliner Technikmuseum gesehen hat, wird es nicht
+langweilig. Viel gab es zu erkunden und besonders das
+Multiplikationslineal hat mich fasziniert. Auch gab es eine
+Ausstellung mit Neuseeländischen Startups, unter denen sogar ein
+Raumfahrtunternehmen zu finden war. Ich habe natürlich jedes Täfelchen
+gelesen und musste durch einen Anruf auf die Öffnungszeiten aufmerksam
+gemacht werden. Morgen gehe ich wieder hin :).
+
+PS: Interessante Dampfmaschinen gab es auch: Sogar einen, in einer
+Butterfabrik benutzten, ehemaligen Schiffsmotor!
+
+Und jetzt gehts schlafen.  Bis nächste Woche in Deutschland.
+
+** Uncategorized                                            :@Uncategorized:
 * Local Vars
 # Local Variables:
 # eval: (org-hugo-auto-export-mode)
