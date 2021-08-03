@@ -12,26 +12,27 @@ Post in kleinere, auch für den Leser angenehmere Stücke auf.  So folgt
 auch gleich:
 
 
-## Erster Teil: West nach Ost Nach eineinhalb sehr interessanten {#erster-teil-west-nach-ost-nach-eineinhalb-sehr-interessanten}
+## Erster Teil: West nach Ost {#erster-teil-west-nach-ost}
 
-Wochen nahe Westport, ward es einmal mehr an der Zeit das Heft in die
-Hand zu nehmen und weiterzuziehen. Da mein Host und ich in mancherlei
-Hinsicht nicht ganz auf einer Wellenlänge wahren, waren wir beide
-Glücklich, dass sich zwei neue WWOOFer ankündigten und er somit einen
-einigermaßen höflichen Grund gefunden hatte, mich vorzeitig
-fortzuschicken. Wie tief das Problem lag, wurde mir dann erst wirklich
-bewusst, als ich ein wunderbar übertriebenes Review auf meinem
-WWOOFing Profil bestaunen durfte, indem zwar ein wahrer Kern, aber
-auch viel Falsches und, soweit ich es Beurteilen kann, eine blanke
-Lüge steckt. Trotzdem erschien mir mein Host als ehrlicher und auch
-umgänglicher Mensch und es fällt mir schwer, diese, seine Reaktion zu
-verstehen. Kultivierte Unzufriedenheit führt oft zu irrationalem
-Verhalten und das auf beiden Seiten. Vielleicht dachte John, er müsste
-die Gemeinschaft der WWOOFing Hosts vor einer so schrecklichen Gefahr,
-wie ich sie in seinen Augen für den ehrlichen Arbeitgeber darstelle,
-warnen. Ich für meinen Teil hatte einen deftigen Kratzer im
-Lack. Meine aktuellen Hosts schätzen meine Arbeit aber sehr und siehe
-da: Die Welt sieht schon viel Besser aus.
+Nach eineinhalb sehr interessanten Wochen nahe Westport,
+ward es einmal mehr an der Zeit das Heft in die Hand zu nehmen und
+weiterzuziehen. Da mein Host und ich in mancherlei Hinsicht nicht ganz
+auf einer Wellenlänge wahren, waren wir beide Glücklich, dass sich
+zwei neue WWOOFer ankündigten und er somit einen einigermaßen
+höflichen Grund gefunden hatte, mich vorzeitig fortzuschicken. Wie
+tief das Problem lag, wurde mir dann erst wirklich bewusst, als ich
+ein wunderbar übertriebenes Review auf meinem WWOOFing Profil
+bestaunen durfte, indem zwar ein wahrer Kern, aber auch viel Falsches
+und, soweit ich es Beurteilen kann, eine blanke Lüge steckt. Trotzdem
+erschien mir mein Host als ehrlicher und auch umgänglicher Mensch und
+es fällt mir schwer, diese, seine Reaktion zu verstehen. Kultivierte
+Unzufriedenheit führt oft zu irrationalem Verhalten und das auf beiden
+Seiten. Vielleicht dachte John, er müsste die Gemeinschaft der
+WWOOFing Hosts vor einer so schrecklichen Gefahr, wie ich sie in
+seinen Augen für den ehrlichen Arbeitgeber darstelle, warnen. Ich für
+meinen Teil hatte einen deftigen Kratzer im Lack. Meine aktuellen
+Hosts schätzen meine Arbeit aber sehr und siehe da: Die Welt sieht
+schon viel Besser aus.
 
 Wo ich schon einmal über vier freie Tage verfügte und es eine recht
 weite Strecke bis zu meinem nächsten Ziel (Christchurch) war, lag es
