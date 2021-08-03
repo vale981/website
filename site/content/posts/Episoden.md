@@ -11,7 +11,9 @@ Niederschrift meiner Erlebnisse zusammenzubrechen, teile ich meinen
 Post in kleinere, auch für den Leser angenehmere Stücke auf.  So folgt
 auch gleich:
 
-\## Erster Teil: West nach Ost Nach eineinhalb sehr interessanten
+
+## Erster Teil: West nach Ost Nach eineinhalb sehr interessanten {#erster-teil-west-nach-ost-nach-eineinhalb-sehr-interessanten}
+
 Wochen nahe Westport, ward es einmal mehr an der Zeit das Heft in die
 Hand zu nehmen und weiterzuziehen. Da mein Host und ich in mancherlei
 Hinsicht nicht ganz auf einer Wellenlänge wahren, waren wir beide
