@@ -6,6 +6,9 @@ categories = ["Uncategorized"]
 draft = false
 +++
 
+TL;DR Die Neuseeland-Blogposts sind Und damit koennt ihr nun unter
+[wieder da](/categories/neuseeland) und korrekt datiert.
+
 Zwar lagen mir die Neuseeland-Blog posts als `markdown` quelle vor,
 jedoch hatte ich den Erstellungszeitpunk unvorteilhafter Weise aus den
 Dateisystem-Metadaten[^fn:1] ausgelesen. Nach der Neuinstallation meines
@@ -52,6 +55,6 @@ with open(sys.argv[1], "r") as f:
 {content}""")
 ```
 
-Und damit koennt ihr nun unter [Neuseeland](posts/.org) die alten posts lesen.
+Und damit koennt ihr nun unter [Neuseeland](/categories/neuseeland) die alten posts lesen.
 
 [^fn:1]: `ctime`, creation time
