@@ -153,4 +153,4 @@ Engisch... nun ja das Lernen einer Fremdsprache ist hier nicht so
 selbstverständlich, wie in Deutschland.
 
 Damit gab es mal eine grobe Zusammenfassung und ich Falle ins
-Bett. Heute war Markttag und ich in geschafft. :P
+Bett. Heute war Markttag und ich bin geschafft. :P
