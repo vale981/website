@@ -2468,7 +2468,7 @@ Index in ~git~ eingecheckt hatte.
 Und schon hattte ich die ganze Suppe (sogar vollstaendig) in einem
 maschinenlesbaren Format.
 
-Ein wenig python verwandelte das ganze in das neue Blog format.
+Ein wenig python verwandelte das Ganze in das neue Blog format.
 #+begin_src python
   import sys
   import json

@@ -30,7 +30,7 @@ $ git show b1cf78b7182f0364343d2a87a1b361e7dc833688^1:data/indexes/post.json
 Und schon hattte ich die ganze Suppe (sogar vollstaendig) in einem
 maschinenlesbaren Format.
 
-Ein wenig python verwandelte das ganze in das neue Blog format.
+Ein wenig python verwandelte das Ganze in das neue Blog format.
 
 ```python
 import sys
