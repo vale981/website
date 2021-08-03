@@ -2444,8 +2444,7 @@ CLOSED: [2021-08-03 Tue 14:53]
 :PROPERTIES:
 :EXPORT_FILE_NAME: neuseeland-restauration
 :END:
-TL;DR Die Neuseeland-Blogposts sind Und damit koennt ihr nun unter
-[[/categories/neuseeland][wieder da]] und korrekt datiert.
+TL;DR Die Neuseeland-Blogposts sind nun [[/categories/neuseeland][wieder da]] und korrekt datiert.
 
 Zwar lagen mir die Neuseeland-Blog posts als ~markdown~ quelle vor,
 jedoch hatte ich den Erstellungszeitpunk unvorteilhafter Weise aus den

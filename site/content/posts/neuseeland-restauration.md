@@ -6,8 +6,7 @@ categories = ["Uncategorized"]
 draft = false
 +++
 
-TL;DR Die Neuseeland-Blogposts sind Und damit koennt ihr nun unter
-[wieder da](/categories/neuseeland) und korrekt datiert.
+TL;DR Die Neuseeland-Blogposts sind nun [wieder da](/categories/neuseeland) und korrekt datiert.
 
 Zwar lagen mir die Neuseeland-Blog posts als `markdown` quelle vor,
 jedoch hatte ich den Erstellungszeitpunk unvorteilhafter Weise aus den
