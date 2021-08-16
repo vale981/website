@@ -505,7 +505,8 @@ manual memory management and not to use a single pointer in the new
 code. I have been successful thus far if you would be so lenient not
 to count glue code for legacy KStars systems.
 
-*** GSOC: Second Coding Period; Some Notes on the Catalog Repo.
+*** KDE GSOC: Second Coding Period; Some Notes on the Catalog Repo.  :GSOC:
+
 CLOSED: [2021-08-08 Sun 12:15]
 :PROPERTIES:
 :EXPORT_FILE_NAME: gsoc-some-notes
@@ -625,6 +626,101 @@ with the following picture.
 
 #+DOWNLOADED: screenshot @ 2021-08-08 13:09:43
 [[file:static/images/GSOC:_Second_Coding_Period;_Some_Notes_on_the_Catalog_Repo./2021-08-08_13-09-43_screenshot.png]]
+
+Cheers,
+Valentin
+
+*** KDE GSOC: Wrapping it up...                                 :GSOC:
+CLOSED: [2021-08-16 Mon 18:53]
+:PROPERTIES:
+:EXPORT_FILE_NAME: kde-gsoc-wrapping-it-up-dot
+:END:
+
+Well, we all know that the work on open source projects is never truly
+finished, but most of the core goals have been achieved and the time
+is up :). In this post I'll briefly summarize my GSOC work and then
+talk about one last small but user-facing feature that I've
+implemented.
+
+I've successfully implemented a new DSO backend and smoothed out most
+of the bugs. The [[*KDE GSOC: Second Coding Period; Some Notes on the Catalog Repo.][python framework]] does work satisfactory and all
+existing catalogs have been ported. There remains the UGC catalog
+which will be imported in the future, either by me or by another
+member of the project. The latter option would be a good way to
+battle-test the documentation and I would prefer this option because I
+do not want to remain the only person familiar with the system.
+
+To quantify my contributions during the GSOC period see the snippet
+below, although I do not think such numbers have much to say[fn::I
+deleted the old OpenNGC text catalog which contained more than ten
+thousand lines :P.].
+#+begin_src shell
+   Valentin Boettcher <hiro@protagon.space>:
+          insertions:    15193  (19%)
+          deletions:     23402  (35%)
+          files:         312    (21%)
+          commits:       76     (23%)
+          lines changed: 38595  (26%)
+#+end_src
+Furthermore there is [[https://invent.kde.org/education/kstars/-/merge_requests?scope=all&state=merged&author_username=vboettcher][the list of my merge requests]] which does go into
+more detail.
+
+The user-facing side of my work is not very prominent. There is a
+small GUI for managing catalogs that allows importing, exporting,
+creating and editing catalogs.
+
+#+DOWNLOADED: screenshot @ 2021-08-16 20:13:41
+[[file:static/images/KDE_GSOC:_Wrapping_it_up.../2021-08-16_20-13-41_screenshot.png]]
+
+#+DOWNLOADED: screenshot @ 2021-08-16 20:18:49
+[[file:static/images/KDE_GSOC:_Wrapping_it_up.../2021-08-16_20-18-49_screenshot.png]]
+
+There is also a basic CSV importer that should make it easier for
+users to get their own custom data into KStars.
+
+#+DOWNLOADED: /home/hiro/Documents/Projects/kstars/doc/csv_openngc.png @ 2021-08-16 20:30:54
+#+CAPTION: The CSV importer. It sure needs some prettying up :P.
+[[file:static/images/KDE_GSOC:_Wrapping_it_up.../2021-08-16_20-30-54_csv_openngc.png]]
+
+Nevertheless, the main goal of my work was to create a seamless
+replacement for the old DSO system of which the user should not be too
+aware. To that end, I've implemented a feature that should have been
+in my overhaul from the beginning: a mechanism to import custom
+objects [[https://invent.kde.org/education/kstars/-/merge_requests/377][from the old DSO database]]. Now, on startup the user is being
+asked whether the old database should be imported if it is present.
+#+DOWNLOADED: screenshot @ 2021-08-16 20:38:10
+[[file:static/images/KDE_GSOC:_Wrapping_it_up.../2021-08-16_20-38-10_screenshot.png]]
+
+And finally: Colors!
+
+The DSOs always had a distinct color depending on the catalog they're
+from. Right from the outset one complaint from early testers were the
+garish colors that I chose for the catalogs. I "fixed" this problem by
+simply choosing more subdued colors. But colors are a matter of
+personal taste. Also, a single color can't fit all of KStars' color
+schemes. Therefore colors can now be customized for each catalog and
+color scheme through a "pretty" dialog.
+
+#+DOWNLOADED: screenshot @ 2021-08-16 20:52:46
+#+CAPTION: The "pretty" color picker.
+[[file:static/images/KDE_GSOC:_Wrapping_it_up.../2021-08-16_20-52-46_screenshot.png]]
+
+Now you can do things like this:
+
+#+DOWNLOADED: screenshot @ 2021-08-16 20:49:03
+#+CAPTION: Color Scheme: Moonless Night
+[[file:static/images/KDE_GSOC:_Wrapping_it_up.../2021-08-16_20-49-03_screenshot.png]]
+
+#+DOWNLOADED: screenshot @ 2021-08-16 20:51:16
+#+CAPTION: Color Scheme: Starchart
+[[file:static/images/KDE_GSOC:_Wrapping_it_up.../2021-08-16_20-51-16_screenshot.png]]
+
+And again I've learned that user feedback is very important. I would
+never have thought of this feature on my own but must admit that it
+enhances the usability of KStars greatly.
+
+With that oddly specific foray into the world of colors I now conclude
+this blog post and thank you for your attention.
 
 Cheers,
 Valentin
