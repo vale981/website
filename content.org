@@ -663,8 +663,10 @@ thousand lines :P.].
           commits:       76     (23%)
           lines changed: 38595  (26%)
 #+end_src
-Furthermore there is [[https://invent.kde.org/education/kstars/-/merge_requests?scope=all&state=merged&author_username=vboettcher][the list of my merge requests]] which does go into
-more detail.
+Furthermore there is
+=https://invent.kde.org/education/kstars/-/merge_requests?scope=all&state=merged&author_username=vboettcher=
+(the list of my merge requests)[fn::You have to paste this link into
+the url bar manually to make it work!] which does go into more detail.
 
 The user-facing side of my work is not very prominent. There is a
 small GUI for managing catalogs that allows importing, exporting,

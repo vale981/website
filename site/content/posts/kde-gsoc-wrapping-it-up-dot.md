@@ -33,8 +33,9 @@ Valentin Boettcher <hiro@protagon.space>:
        lines changed: 38595  (26%)
 ```
 
-Furthermore there is [the list of my merge requests](https://invent.kde.org/education/kstars/-/merge%5Frequests?scope=all&state=merged&author%5Fusername=vboettcher) which does go into
-more detail.
+Furthermore there is
+`https://invent.kde.org/education/kstars/-/merge_requests?scope=all&state=merged&author_username=vboettcher`
+(the list of my merge requests)[^fn:2] which does go into more detail.
 
 The user-facing side of my work is not very prominent. There is a
 small GUI for managing catalogs that allows importing, exporting,
@@ -87,3 +88,4 @@ Cheers,
 Valentin
 
 [^fn:1]: I deleted the old OpenNGC text catalog which contained more than ten thousand lines :P.
+[^fn:2]: You have to paste this link into the url bar manually to make it work!
