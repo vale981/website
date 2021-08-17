@@ -8,7 +8,7 @@ draft = false
 +++
 
 Well, we all know that the work on open source projects is never truly
-finished, but most of the core goals have been achieved and the time
+finished, but all of the core goals have been achieved and the time
 is up :). In this post I'll briefly summarize my GSOC work and then
 talk about one last small but user-facing feature that I've
 implemented.
