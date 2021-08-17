@@ -14,7 +14,7 @@ talk about one last small but user-facing feature that I've
 implemented.
 
 I've successfully implemented a new DSO backend and smoothed out most
-of the bugs. The [python framework](posts/.org) does work satisfactory and all
+of the bugs. The [python framework]({{< relref "gsoc-some-notes" >}}) does work satisfactory and all
 existing catalogs have been ported. There remains the UGC catalog
 which will be imported in the future, either by me or by another
 member of the project. The latter option would be a good way to

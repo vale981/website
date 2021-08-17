@@ -1,5 +1,5 @@
 +++
-title = "GSOC: Second Coding Period; Some Notes on the Catalog Repo."
+title = "KDE GSOC: Second Coding Period; Some Notes on the Catalog Repo."
 author = ["Valentin Boettcher"]
 date = 2021-08-08T12:15:00+02:00
 tags = ["GSOC"]

@@ -280,6 +280,7 @@ Valentin
 :PROPERTIES:
 :EXPORT_FILE_NAME: gsoc_1
 :EXPORT_DATE: [2021-07-11 15:00]
+:ID:       b8c4e6f0-186b-4623-9d98-3110a5d8942c
 :END:
 
 Of course the task I described in the [[*KDE GSOC: Intro][last post]] looks and is quite
@@ -506,10 +507,10 @@ code. I have been successful thus far if you would be so lenient not
 to count glue code for legacy KStars systems.
 
 *** KDE GSOC: Second Coding Period; Some Notes on the Catalog Repo.  :GSOC:
-
 CLOSED: [2021-08-08 Sun 12:15]
 :PROPERTIES:
 :EXPORT_FILE_NAME: gsoc-some-notes
+:ID:       8f16ce69-3ed9-4e09-992a-47e511e9bb0b
 :END:
 
 #+BEGIN_QUOTE
@@ -517,7 +518,7 @@ TL;DR DSO catalogs in KStars are now generated reproducibly in the
 CI. A list of available catalogs and documentation can be found [[https://protagon.space/catalogs/pages/catalogs.html][here]].
 #+END_QUOTE
 
-As promised [[*KDE GSOC: Community Bonding and First Coding Period (May 17 - July 11)][last time]] I'll now go a little into the [[https://invent.kde.org/vboettcher/kstars-catalogs][Catalogs
+As promised [[id:b8c4e6f0-186b-4623-9d98-3110a5d8942c][last time]] I'll now go a little into the [[https://invent.kde.org/vboettcher/kstars-catalogs][Catalogs
 Repository]].
 
 Usually DSO catalogs are pretty static and rarely change due to the
@@ -643,7 +644,7 @@ talk about one last small but user-facing feature that I've
 implemented.
 
 I've successfully implemented a new DSO backend and smoothed out most
-of the bugs. The [[*KDE GSOC: Second Coding Period; Some Notes on the Catalog Repo.][python framework]] does work satisfactory and all
+of the bugs. The [[id:8f16ce69-3ed9-4e09-992a-47e511e9bb0b][python framework]] does work satisfactory and all
 existing catalogs have been ported. There remains the UGC catalog
 which will be imported in the future, either by me or by another
 member of the project. The latter option would be a good way to
