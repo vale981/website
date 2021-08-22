@@ -73,6 +73,8 @@ For a list with the MRs linked see [here](https://invent.kde.org/education/kstar
     -   !383
     -   !384
         -   I should have added a "Thumbnail Odyssey" :P
+    -   !392
+    -   !381
 -   "Bullet Proof" database initialization
     -   !314
 -   Label Density Odyssey

@@ -728,7 +728,7 @@ this blog post and thank you for your attention.
 Cheers,
 Valentin
 
-*** KDE GSOC: Thanks and Work Product :GSOC:
+*** KDE GSOC: Thanks and Work Product                                :GSOC:
 CLOSED: [2021-08-21 Sat 10:17]
 :PROPERTIES:
 :EXPORT_FILE_NAME: kde-gsoc-thanks-and-work-product
@@ -799,6 +799,8 @@ For a list with the MRs linked see [[https://invent.kde.org/education/kstars/-/w
   - !383
   - !384
     - I should have added a "Thumbnail Odyssey" :P
+  - !392
+  - !381
 - "Bullet Proof" database initialization
   - !314
 - Label Density Odyssey
