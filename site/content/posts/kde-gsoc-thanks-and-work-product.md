@@ -1,7 +1,7 @@
 +++
 title = "KDE GSOC: Thanks and Work Product"
 author = ["Valentin Boettcher"]
-date = 2021-08-21T10:17:00+02:00
+date = 2021-08-23T00:17:00+02:00
 tags = ["GSOC"]
 categories = ["KDE"]
 draft = false

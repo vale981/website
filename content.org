@@ -729,7 +729,7 @@ Cheers,
 Valentin
 
 *** KDE GSOC: Thanks and Work Product                                :GSOC:
-CLOSED: [2021-08-21 Sat 10:17]
+CLOSED: [2021-08-23 Mon 00:17]
 :PROPERTIES:
 :EXPORT_FILE_NAME: kde-gsoc-thanks-and-work-product
 :END:
