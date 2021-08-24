@@ -4,8 +4,8 @@ author = ["Valentin Boettcher"]
 draft = false
 +++
 
-Just [mail](<mailto:valentin@boettcher.cf>) me. Spambots not welcome :P.
-I'm on [dev.to](<https://dev.to/hiro98>).
+Just write an email to <hiro at protagon.space>. Spambots not welcome
+:P.  I'm on [dev.to](<https://dev.to/hiro98>).
 
 Here is my `GPG` public key.
 
