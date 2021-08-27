@@ -83,7 +83,7 @@ Of course there remains some cleanup to be done (datatypes in the
 source code). Most urgently I want to implement release velocity.
 You can find the code and my personal documentation for the
 project[^fn:3]
-over on [GitHub](https://github.com/vale981/KSP-30%5FHack/).
+over on [GitHub](https://github.com/vale981/KSP-30-Hack/).
 
 Maybe this was of interest you. If not, then thanks for reading this
 far anyways :P.
