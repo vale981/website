@@ -48,6 +48,7 @@ depicted in profile pictures like the following one.
 -   A script to create an arch linux image with [bcachefs](https://github.com/vale981/archiso-bcachefs) support.
 -   I've made the [website](https://sherpa-team.gitlab.io/) and some of the continuous integration for the
     SHERPA project.
+-   A new [midi brain]({{< relref "converting-a-kawai-ksp-30-to-pure-midi" >}}) for my KSP-30.
 
 
 ## Activities {#activities}

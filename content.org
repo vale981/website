@@ -56,6 +56,7 @@ depicted in profile pictures like the following one.
 - A script to create an arch linux image with [[https://github.com/vale981/archiso-bcachefs][bcachefs]] support.
 - I've made the [[https://sherpa-team.gitlab.io/][website]] and some of the continuous integration for the
   SHERPA project.
+- A new [[id:88b5d68b-2010-4a36-bb3d-8313afdcb2b6][midi brain]] for my KSP-30.
 
 *** Activities
 - I am the admin and the most enthusiastic user of the [[https://physik.protagon.space][TU-Dresden
@@ -2766,6 +2767,7 @@ Und jetzt gehts schlafen.  Bis nächste Woche in Deutschland.
 CLOSED: [2021-08-27 Fri 21:57]
 :PROPERTIES:
 :EXPORT_FILE_NAME: converting-a-kawai-ksp-30-to-pure-midi
+:ID:       88b5d68b-2010-4a36-bb3d-8313afdcb2b6
 :END:
 
 My Kawai KSP-30 digital piano has been on its last leg for some time
