@@ -11,7 +11,7 @@ bios/uefi-setup. Annoyingly, it defaults to legacy boot and there is no
 way to change that.
 
 My previous workaround was rather involved and is documented in the
-[Arch wiki](https://wiki.archlinux.org/title/Lenovo%5FThinkPad%5FT470#UEFI%5Fboot). Today however I bricked my system at work and had to
+[Arch wiki](https://wiki.archlinux.org/title/Lenovo%5FThinkPad%5FT470#UEFI%5Fboot). Today however, I bricked my system at work and had to
 restore it in a hurry.
 
 It turns out that you can nuke the `MBR` of the live stick to remove
