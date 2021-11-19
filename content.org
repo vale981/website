@@ -2865,7 +2865,7 @@ over on [[https://github.com/vale981/KSP-30-Hack/][GitHub]].
 
 Maybe this was of interest you. If not, then thanks for reading this
 far anyways :P.
-*** Removing legacy boot from a Linux live stick.
+*** Removing legacy boot from a Linux live stick
 CLOSED: [2021-11-19 Fri 13:48]
 :PROPERTIES:
 :EXPORT_FILE_NAME: removing-legacy-boot-from-a-linux-live-stick-dot
