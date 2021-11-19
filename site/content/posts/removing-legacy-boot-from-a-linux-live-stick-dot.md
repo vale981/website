@@ -2,7 +2,7 @@
 title = "Removing legacy boot from a Linux live stick."
 author = ["Valentin Boettcher"]
 date = 2021-11-19T13:48:00+01:00
-categories = ["Uncategorized"]
+categories = ["Hacks"]
 draft = false
 +++
 
