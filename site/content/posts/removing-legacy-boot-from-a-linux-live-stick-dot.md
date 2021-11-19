@@ -7,7 +7,7 @@ draft = false
 +++
 
 I got my ThinkPad used for a bargain price but with locked
-bios/uefi-setup. Annyingly, it defaults to legacy boot and there is no
+bios/uefi-setup. Annoyingly, it defaults to legacy boot and there is no
 way to change that.
 
 My previous workaround was rather involved and is documented in the
