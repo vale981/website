@@ -2944,7 +2944,6 @@ Ein wenig python verwandelte das Ganze in das neue Blog format.
 Und damit koennt ihr nun unter [[/categories/neuseeland][Neuseeland]] die alten posts lesen.
 [fn:5] =ctime=, creation time
 
-
 * Local Vars
 # Local Variables:
 # eval: (org-hugo-auto-export-mode)
