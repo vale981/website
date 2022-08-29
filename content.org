@@ -2949,7 +2949,7 @@ CLOSED: [2022-08-29 Mon 12:50]
 :PROPERTIES:
 :EXPORT_FILE_NAME: test-new
 :END:
-toast
+toast new
 ** Canada                                                   :@Canada:
 *** DONE Entscheidung
 CLOSED: [2022-08-28 Sun 17:53]

@@ -6,4 +6,4 @@ categories = ["Uncategorized"]
 draft = false
 +++
 
-toast
+toast new
