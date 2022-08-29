@@ -2952,10 +2952,10 @@ CLOSED: [2022-08-28 Sun 17:53]
 :EXPORT_FILE_NAME: entscheidung
 :END:
 
-Da der Neuseeland Blog damals so gut lief, werde ich nun dasselbe mit
+Da der [[/categories/neuseeland][Neuseeland Blog]] damals so gut lief, werde ich nun dasselbe mit
 Montreal machen. Vielleicht wird das Ganze weniger spektakulär als der
-[[/categories/neuseeland][Neuseeland Blog]], da ich ja "nur" einen PhD in Kanada mache, aber das
-wage ich zu bezweifeln.
+meine Reiseerfahrungen, da ich ja "nur" einen PhD in Kanada mache,
+aber das wage ich zu bezweifeln.
 
 Nach langer Agonie, habe ich mich jetzt für Canada entschieden, obwohl
 Innsbruck auch eine sehr gute und solide Option ist. Ich bin sogar so
@@ -3017,6 +3017,13 @@ geklaehrt sind, kann ich weitere details planen.
 - [ ] Study Permit beantragen sobalt moeglich
 
 
+**** Update: Zulassung
+Es scheint so, als koennte ich den "Offer of Admittance" letter von
+McGill nutzen. Jetzt haengt es noch am Reisepass.
+
+Ich habe den Pass damals im normalen Verfahren beantragt obwohl das
+Expressverfahren nur 30 Euro mehr kostet. Ich versuche jetzt auf das
+Expressverfahren umzusatteln.
 
 * Local Vars
 # Local Variables:

@@ -6,10 +6,10 @@ categories = ["Canada"]
 draft = false
 +++
 
-Da der Neuseeland Blog damals so gut lief, werde ich nun dasselbe mit
+Da der [Neuseeland Blog](/categories/neuseeland) damals so gut lief, werde ich nun dasselbe mit
 Montreal machen. Vielleicht wird das Ganze weniger spektakulär als der
-[Neuseeland Blog](/categories/neuseeland), da ich ja "nur" einen PhD in Kanada mache, aber das
-wage ich zu bezweifeln.
+meine Reiseerfahrungen, da ich ja "nur" einen PhD in Kanada mache,
+aber das wage ich zu bezweifeln.
 
 Nach langer Agonie, habe ich mich jetzt für Canada entschieden, obwohl
 Innsbruck auch eine sehr gute und solide Option ist. Ich bin sogar so
@@ -70,3 +70,13 @@ geklaehrt sind, kann ich weitere details planen.
 -   [ ] Reisepass
 -   [ ] TUD Veranlassen die entsprechenden Dokumente PER POST nach Canada zu schicken
 -   [ ] Study Permit beantragen sobalt moeglich
+
+
+## Update: Zulassung {#update-zulassung}
+
+Es scheint so, als koennte ich den "Offer of Admittance" letter von
+McGill nutzen. Jetzt haengt es noch am Reisepass.
+
+Ich habe den Pass damals im normalen Verfahren beantragt obwohl das
+Expressverfahren nur 30 Euro mehr kostet. Ich versuche jetzt auf das
+Expressverfahren umzusatteln.
