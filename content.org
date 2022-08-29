@@ -2944,7 +2944,6 @@ Ein wenig python verwandelte das Ganze in das neue Blog format.
 
 Und damit koennt ihr nun unter [[/categories/neuseeland][Neuseeland]] die alten posts lesen.
 [fn:5] =ctime=, creation time
-
 ** Canada                                                   :@Canada:
 *** DONE Entscheidung
 CLOSED: [2022-08-28 Sun 17:53]
@@ -3017,7 +3016,11 @@ geklaehrt sind, kann ich weitere details planen.
 - [ ] Study Permit beantragen sobalt moeglich
 
 
-**** Update: Zulassung
+*** DONE Update: Zulassung
+CLOSED: [2022-08-29 Mon 10:07]
+:PROPERTIES:
+:EXPORT_FILE_NAME: update-zulassung
+:END:
 Es scheint so, als koennte ich den "Offer of Admittance" letter von
 McGill nutzen. Jetzt haengt es noch am Reisepass.
 
