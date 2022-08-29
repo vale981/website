@@ -2944,6 +2944,12 @@ Ein wenig python verwandelte das Ganze in das neue Blog format.
 
 Und damit koennt ihr nun unter [[/categories/neuseeland][Neuseeland]] die alten posts lesen.
 [fn:5] =ctime=, creation time
+*** DONE test
+CLOSED: [2022-08-29 Mon 12:43]
+:PROPERTIES:
+:EXPORT_FILE_NAME: test
+:END:
+test
 ** Canada                                                   :@Canada:
 *** DONE Entscheidung
 CLOSED: [2022-08-28 Sun 17:53]
