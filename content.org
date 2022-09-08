@@ -3009,11 +3009,11 @@ Soweit so, interessant. Salut und bis zum nächsten Mal.
 Ich werde diese liste ab und zu updaten :). Wenn diese Punkte
 geklaehrt sind, kann ich weitere details planen.
 
-- [x] McGill fragen, wie wir das mit der Zulassung machen
+- [X] McGill fragen, wie wir das mit der Zulassung machen
   - Kann man zuerst mit einem Vistor-Visa einreisen, um eine Wohnung zu finden?
     - Lieber nicht!
   - Ich kann meinen "Offer of Admission" fuer das Visazeug nutzen.
-- [x] Reisepass
+- [X] Reisepass
   - Eine Odyssey. Nein, auf ein Expressverfahren kann man das nicht
     umsteigen wenn der Pass ersteinmal beantragt ist. Anfang der
     Woche (5.9.) habe ich mich zum Empfangsschalter des
