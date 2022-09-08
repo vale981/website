@@ -65,8 +65,30 @@ Soweit so, interessant. Salut und bis zum nächsten Mal.
 Ich werde diese liste ab und zu updaten :). Wenn diese Punkte
 geklaehrt sind, kann ich weitere details planen.
 
--   [ ] McGill fragen, wie wir das mit der Zulassung machen
+-   McGill fragen, wie wir das mit der Zulassung machen
     -   Kann man zuerst mit einem Vistor-Visa einreisen, um eine Wohnung zu finden?
--   [ ] Reisepass
+        -   Lieber nicht!
+    -   Ich kann meinen "Offer of Admission" fuer das Visazeug nutzen.
+-   Reisepass
+    -   Eine Odyssey. Nein, auf ein Expressverfahren kann man das nicht
+        umsteigen wenn der Pass ersteinmal beantragt ist. Anfang der
+        Woche (5.9.) habe ich mich zum Empfangsschalter des
+        Buergerbueros durchgekaempft genau das in Erfahrung
+        gebracht. Mit etwas Glueck koennte der Pass naechste Woche schon
+        da sein.
+
+        Letzte woche habe ich ein paar duzend mal bei der Terminvergabe
+        angerufen, was mir heute (8.9.) einen Termin verschafft
+        hat. Allerdings fuer die Beantragung eines **weiteren**
+        Passes. Nun wollte ich schon fast nicht hingehen, weil der Pass
+        ja schon in Produktion ist.
+
+        Ich gehe trotzdem hin, denn ein Geschenk eines Termins ist
+        anzunehmen! Wunder aller Wunder, der Pass ist schon da!
+
 -   [ ] TUD Veranlassen die entsprechenden Dokumente PER POST nach Canada zu schicken
--   [ ] Study Permit beantragen sobalt moeglich
+    -   Geht auch elektronisch und hat ein wenig Zeit.
+-   [-] Study Permit beantragen sobalt moeglich
+    -   [-] Certificate of Acceptance of Quebec ist beantragt.
+    -   [ ] Study Permit
+        -   Geht erst mit Certificate of Acceptance of Quebec
