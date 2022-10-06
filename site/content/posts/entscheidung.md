@@ -88,7 +88,10 @@ geklaehrt sind, kann ich weitere details planen.
 
 -   [ ] TUD Veranlassen die entsprechenden Dokumente PER POST nach Canada zu schicken
     -   Geht auch elektronisch und hat ein wenig Zeit.
--   [-] Study Permit beantragen sobalt moeglich
-    -   [-] Certificate of Acceptance of Quebec ist beantragt.
-    -   [ ] Study Permit
-        -   Geht erst mit Certificate of Acceptance of Quebec
+-   [X] Study Permit beantragen sobalt moeglich
+    -   [X] Certificate of Acceptance of Quebec ist beantragt.
+
+        Yay. Ich habe es jetzt schon ne ganze Weile.
+
+    -   [X] Study Permit
+        -   Ist beantragt. Ich muss noch die Fingerabdruecke abgeben.

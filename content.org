@@ -3033,9 +3033,12 @@ geklaehrt sind, kann ich weitere details planen.
 - [ ] TUD Veranlassen die entsprechenden Dokumente PER POST nach Canada zu schicken
   - Geht auch elektronisch und hat ein wenig Zeit.
 - [-] Study Permit beantragen sobalt moeglich
-  - [-] Certificate of Acceptance of Quebec ist beantragt.
-  - [ ] Study Permit
-    - Geht erst mit Certificate of Acceptance of Quebec
+  - [X] Certificate of Acceptance of Quebec ist beantragt.
+
+    Yay. Ich habe es jetzt schon ne ganze Weile.
+
+  - [X] Study Permit
+    - Ist beantragt. Ich muss noch die Fingerabdruecke abgeben.
 
 
 *** DONE Update: Zulassung
@@ -3049,6 +3052,29 @@ McGill nutzen. Jetzt haengt es noch am Reisepass.
 Ich habe den Pass damals im normalen Verfahren beantragt obwohl das
 Expressverfahren nur 30 Euro mehr kostet. Ich versuche jetzt auf das
 Expressverfahren umzusatteln.
+
+*** DONE Kleines Update zur Lage
+CLOSED: [2022-10-06 Thu 11:48]
+:PROPERTIES:
+:EXPORT_FILE_NAME: kleines-update-zur-lage
+:END:
+
+Ich sitze gerade im Zug nach Berlin, um meine Fingerabdrücke für den
+Study Permit abzugeben. Nachdem ich den Termin gebucht hatte, schaute
+ich nach, ob es ein lohnenswertes Konzert gibt. Und siehe da [[https://www.youtube.com/watch?v=I75uynYUjJs][Toro y
+Moi]] spielt!
+
+Ich kann leider erst einen Flug buchen, wenn ich meinen Study Permit
+bekomme. Wann das ist, weiß ich nicht. Für mein Zimmer suche ich
+gerade Nachmieter und ertrinke förmlich in Anfragen. Kilian hätte
+gerne wieder Physiker und tatsächlich haben sich da zwei gefunden. Der
+Erste besuchte uns gestern und würde neben meinen Möbeln sogar mein
+Schlagzeug kaufen. Der zweite Physiker wird am Samstag vorstellig.
+
+Auch habe ich schon mal Inventur gemacht und werde dann ab morgen
+meine Technik zum Verkauf anbieten.
+
+Cheers und bis zum nächsten mal.
 
 * Local Vars
 # Local Variables:
