@@ -24,13 +24,11 @@ Valentin:
   - appreciates C++.
   - uses python a fair bit.
   - likes his [[https://blog.splitkb.com/blog/introducing-the-kyria][Kyria]].
-  - experiences a temporary lack of meaning in life.
 
 You can check out my [[https://github.com/vale981][Github]], [[https://gitlab.com/vale9811/][Gitlab]] and [[https://invent.kde.org/vboettcher/][KDE Invent]] profiles for most
 of my projects as I publish the source to most things I produce.
 
-I've got a [[file:static/docs/cv_ger.pdf][CV]] in German.
-<!--more-->
+I've got a [[file:static/docs/cv_en.pdf][CV]].
 
 My usual internet/user/nick name is /Hiro/ or /Hiro98/ after Hiro
 Protagonist from Neal Stephenson's novel "[[https://en.wikipedia.org/wiki/Snow_Crash][Snow Crash]]", who is usually
