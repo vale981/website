@@ -3467,9 +3467,6 @@ Stützgerüstes dieser Ikone der neuen Welt verantwortlich.
 
 Und damit hatten wir den ersten Tag hinter uns.
 
-#+DOWNLOADED: file:///home/hiro/Pictures/Paris%202022/IMG_20221109_100837616.jpg @ 2022-11-10 22:41:33
-[[file:static/images/Paris_und_Abflug/2022-11-10_22-41-33_IMG_20221109_100837616.jpg]]
-
 Mehr als eine Woche später schreibe ich nun weiter :). Der Flug war
 so gut wie vorbei und Ich dachte mir, der Blogeintrag konnte auch in
 Ruhe vollendet werden, sobald ich angekommen bin. Ich sitze jetzt bei
@@ -3478,10 +3475,9 @@ Wäsche durchläuft, da unsere Waschmaschine immer noch defekt
 ist. Aber das ist eine Story für den nächsten Post.
 
 Nun zum zweiten Tag in Paris, beginnend mit dem Gare du Nord ...
-#+DOWNLOADED: file:///home/hiro/Pictures/Paris%202022/IMG_20221109_101456914.jpg @ 2022-11-22 02:11:03
+#+DOWNLOADED: file:///home/hiro/Pictures/Paris%202022/IMG_20221109_100837616.jpg @ 2022-11-10 22:41:33
 #+CAPTION: Gare du Nord.
-[[file:static/images/Paris_und_Abflug/2022-11-22_02-11-03_IMG_20221109_101456914.jpg]]
-
+[[file:static/images/Paris_und_Abflug/2022-11-10_22-41-33_IMG_20221109_100837616.jpg]]
 ... von dem aus wir uns zu Montmartre begaben. Der erste Touristenstop
 war natürlich Sacré-Cœur.
 
@@ -3551,11 +3547,6 @@ Und ploetzlich wird es Weihnachten.
 #+DOWNLOADED: file:///home/hiro/Pictures/Paris%202022/IMG_20221109_131526598.jpg @ 2022-11-23 21:21:44
 #+CAPTION: Verengung der Gasse und gutes Wetter.
 [[file:static/images/Paris_und_Abflug/2022-11-23_21-21-44_IMG_20221109_131526598.jpg]]
-
-
-#+DOWNLOADED: file:///home/hiro/Pictures/Paris%202022/IMG_20221109_133252033.dng @ 2022-11-23 21:25:01
-#+CAPTION: Die besten Falafel der Stadt.
-[[file:static/images/Paris_und_Abflug/2022-11-23_21-25-01_IMG_20221109_133252033.dng]]
 
 
 #+DOWNLOADED: file:///home/hiro/Pictures/Paris%202022/IMG_20221109_135522109.jpg @ 2022-11-23 21:26:15

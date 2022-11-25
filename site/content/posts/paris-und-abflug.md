@@ -227,8 +227,6 @@ Stützgerüstes dieser Ikone der neuen Welt verantwortlich.
 
 Und damit hatten wir den ersten Tag hinter uns.
 
-{{< figure src="/images/Paris_und_Abflug/2022-11-10_22-41-33_IMG_20221109_100837616.jpg" >}}
-
 Mehr als eine Woche später schreibe ich nun weiter :). Der Flug war
 so gut wie vorbei und Ich dachte mir, der Blogeintrag konnte auch in
 Ruhe vollendet werden, sobald ich angekommen bin. Ich sitze jetzt bei
@@ -238,8 +236,7 @@ ist. Aber das ist eine Story für den nächsten Post.
 
 Nun zum zweiten Tag in Paris, beginnend mit dem Gare du Nord ...
 
-{{< figure src="/images/Paris_und_Abflug/2022-11-22_02-11-03_IMG_20221109_101456914.jpg" caption="Figure 1: Gare du Nord." >}}
-
+![](/images/Paris_und_Abflug/2022-11-10_22-41-33_IMG_20221109_100837616.jpg)
 ... von dem aus wir uns zu Montmartre begaben. Der erste Touristenstop
 war natürlich Sacré-Cœur.
 
@@ -293,8 +290,6 @@ Und ploetzlich wird es Weihnachten.
 {{< figure src="/images/Paris_und_Abflug/2022-11-23_21-19-25_IMG_20221109_131031468.jpg" caption="Figure 1: Neben dem Rathaus wird es schon Weihnachten." >}}
 
 {{< figure src="/images/Paris_und_Abflug/2022-11-23_21-21-44_IMG_20221109_131526598.jpg" caption="Figure 1: Verengung der Gasse und gutes Wetter." >}}
-
-<static/images/Paris_und_Abflug/2022-11-23_21-25-01_IMG_20221109_133252033.dng>
 
 {{< figure src="/images/Paris_und_Abflug/2022-11-23_21-26-15_IMG_20221109_135522109.jpg" caption="Figure 1: Fragwürdige Fassade nahe einer Veganen Backstube." >}}
 
