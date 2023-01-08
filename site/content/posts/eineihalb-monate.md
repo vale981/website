@@ -2,7 +2,7 @@
 title = "Eineinhalb Monate"
 author = ["Valentin Boettcher"]
 date = 2022-12-29T15:21:00-05:00
-categories = ["Uncategorized"]
+categories = ["Canada"]
 draft = false
 +++
 
