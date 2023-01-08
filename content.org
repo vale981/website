@@ -3652,7 +3652,7 @@ Kanada und meinen Putzwahn der vergangenen Woche zusammen.
 
 Cheers.
 *** Eineinhalb Monate
-CLOSED: <2023-01-08 Sun 16:00>
+CLOSED: <2022-12-29 Thu 15:21>
 :PROPERTIES:
 :EXPORT_FILE_NAME: eineihalb-monate
 :ID:       ed13c2e6-030e-45d2-9978-b7e5aa82027a
