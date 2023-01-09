@@ -4093,7 +4093,7 @@ heute die Annahme des Pakets erneut verweigert, aber der Bote hatte es
 einfach vor die Tür gelegt und anscheinend den Aufkleber übersehen.
 Ende gut alles gut.
 
-*** DONE Doubt Day                                                 :ATTACH:
+*** DONE Doubt Day
 CLOSED: [2023-01-09 Mon 17:16]
 :PROPERTIES:
 :EXPORT_FILE_NAME: doubt-day

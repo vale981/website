@@ -2,7 +2,6 @@
 title = "Doubt Day"
 author = ["Valentin Boettcher"]
 date = 2023-01-09T17:16:00-05:00
-tags = ["ATTACH"]
 categories = ["Canada"]
 draft = false
 +++
