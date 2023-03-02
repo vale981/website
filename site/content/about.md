@@ -8,7 +8,8 @@ This is the web presence of Valentin Boettcher a.k.a. Hiro98.
 
 Valentin:
 
--   is preparing to travel to Montreal to pursue a phd.
+-   is a PhD student @ McGill University under the supervision of the
+    wonderful [Bill Coish](https://www.physics.mcgill.ca/~coish/).
 -   codes stuff.
 -   is a science-fiction junky and space enthusiast.
 -   loves jamming with the saxophone.
@@ -20,8 +21,7 @@ Valentin:
 You can check out my [Github](https://github.com/vale981), [Gitlab](https://gitlab.com/vale9811/) and [KDE Invent](https://invent.kde.org/vboettcher/) profiles for most
 of my projects as I publish the source to most things I produce.
 
-I've got a [CV](/static/docs/cv_en.pdf).
-<!--more-->
+I've got a [CV](static/docs/cv_en.pdf).
 
 My usual internet/user/nick name is _Hiro_ or _Hiro98_ after Hiro
 Protagonist from Neal Stephenson's novel "[Snow Crash](https://en.wikipedia.org/wiki/Snow_Crash)", who is usually

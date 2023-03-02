@@ -18,7 +18,8 @@
 This is the web presence of Valentin Boettcher a.k.a. Hiro98.
 
 Valentin:
-  - is preparing to travel to Montreal to pursue a phd.
+  - is a PhD student @ McGill University under the supervision of the
+    wonderful [[https://www.physics.mcgill.ca/~coish/][Bill Coish]].
   - codes stuff.
   - is a science-fiction junky and space enthusiast.
   - loves jamming with the saxophone.
