@@ -21,7 +21,8 @@ Valentin:
 You can check out my [Github](https://github.com/vale981), [Gitlab](https://gitlab.com/vale9811/) and [KDE Invent](https://invent.kde.org/vboettcher/) profiles for most
 of my projects as I publish the source to most things I produce.
 
-I've got a [CV](static/docs/cv_en.pdf).
+I've got a [CV](/static/docs/cv_en.pdf).
+<!--more-->
 
 My usual internet/user/nick name is _Hiro_ or _Hiro98_ after Hiro
 Protagonist from Neal Stephenson's novel "[Snow Crash](https://en.wikipedia.org/wiki/Snow_Crash)", who is usually
