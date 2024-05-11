@@ -1,7 +1,7 @@
 +++
 title = "KDE GSOC: Community Bonding and First Coding Period (May 17 - July 11)"
 author = ["Valentin Boettcher"]
-date = 2021-07-11T15:00:00+02:00
+date = 2021-07-11T15:00:00-04:00
 tags = ["GSOC"]
 categories = ["KDE"]
 draft = false
@@ -117,7 +117,7 @@ not to rely just on the structure of the contained database for
 that. In the future the `file` command and other utilities like file
 managers could be made aware of this special application id to
 recognize the catalog files. We will leave it this level of detail for
-now. For more details please refer to my [notes](https://protagon.space/stuff/kstars%5Fcleaned.org).
+now. For more details please refer to my [notes](https://protagon.space/stuff/kstars_cleaned.org).
 
 Of course the operations on catalogs have to somehow be accessible in
 the GUI of KStars so this was another point of action. Before that
@@ -219,7 +219,10 @@ P.S. Currently I am working on documenting both the new DSO GUI and
 the python tooling. I hope eventually they will pass the "noob test"
 :P. But, as you may have recognized above, I am not the best explainer.
 
-[^fn:1]: As a matter of fact, I set out with the goal not to do any manual memory management and not to use a single pointer in the new code. I have been successful thus far if you would be so lenient not to count glue code for legacy KStars systems.
+[^fn:1]: As a matter of fact, I set out with the goal not to do any
+    manual memory management and not to use a single pointer in the new
+    code. I have been successful thus far if you would be so lenient not
+    to count glue code for legacy KStars systems.
 [^fn:2]: References to objects in linked lists are stable.
 [^fn:3]: See the KStars Handbook.
 [^fn:4]: I really appreciate c++ as a compiled language.

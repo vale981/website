@@ -1,7 +1,7 @@
 +++
 title = "Episoden"
 author = ["Valentin Boettcher"]
-date = 2017-03-03T00:42:00+01:00
+date = 2017-03-03T00:42:00-05:00
 categories = ["Neuseeland"]
 draft = false
 +++
@@ -58,7 +58,7 @@ kann man in Greymouth allerlei Gerät und sogar einen (ehemaligen?)
 Hafen bestaunen. Das Museum erzähl viele kleine und interessante
 Geschichten, unterfüttert mit allerlei Fotographie.
 
-> Da gab es einen Unternehmer, der das schnellste Dampfschiff
+&gt; Da gab es einen Unternehmer, der das schnellste Dampfschiff
 Neuseelands besaß. Eines Tages lief sein Schiff auf Grund und wurde
 damit, um Strafzahlungen zu vermeiden, automatisch Eigentum der Stadt
 Greymouth. Das Wrack wurde alsbald durch einen Mittelsmann günstig

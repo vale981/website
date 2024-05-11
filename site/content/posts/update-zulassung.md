@@ -1,7 +1,7 @@
 +++
 title = "Update: Zulassung"
 author = ["Valentin Boettcher"]
-date = 2022-08-29T10:07:00+02:00
+date = 2022-08-29T10:07:00-04:00
 categories = ["Canada"]
 draft = false
 +++

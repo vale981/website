@@ -1,7 +1,7 @@
 +++
 title = "Fiji"
 author = ["Valentin Boettcher"]
-date = 2016-11-23T03:48:00+01:00
+date = 2016-11-23T03:48:00-05:00
 categories = ["Neuseeland"]
 draft = false
 +++

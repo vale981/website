@@ -1,7 +1,7 @@
 +++
 title = "KDE GSOC: Second Coding Period; Some Notes on the Catalog Repo."
 author = ["Valentin Boettcher"]
-date = 2021-08-08T12:15:00+02:00
+date = 2021-08-08T12:15:00-04:00
 tags = ["GSOC"]
 categories = ["KDE"]
 draft = false
@@ -19,7 +19,7 @@ around in the sky, catalogs still get updates to correct typos or
 update coordinates with more precise measurement. Our primary catalog
 [OpenNGC](https://github.com/mattiaverga/OpenNGC) for example gets updates quite regularly.
 
-{{< figure src="/images/GSOC:_Second_Coding_Period;_Some_Notes_on_the_Catalog_Repo./2021-08-08_12-21-27_screenshot.png" caption="Figure 1: OpenNGC is being updated regularly." >}}
+{{< figure src="/images/GSOC:_Second_Coding_Period;_Some_Notes_on_the_Catalog_Repo./2021-08-08_12-21-27_screenshot.png" caption="<span class=\"figure-number\">Figure 1: </span>OpenNGC is being updated regularly." >}}
 
 And even though a catalog might not change, it would nevertheless be
 desirable to have a record on how it was derived from its original
@@ -117,6 +117,9 @@ with the following picture.
 Cheers,
 Valentin
 
-[^fn:1]: And in a way that hopefully lasts for some time. Currently very few people know how to generate KStars' deep star catalogs...
+[^fn:1]: And in a way that hopefully lasts
+    for some time. Currently very few people know how to generate KStars'
+    deep star catalogs...
 [^fn:2]: I haven't yet worked those out yet TBH.
-[^fn:3]: The catalog package files actually do have the same format as the main DSO database :).
+[^fn:3]: The catalog package files actually
+    do have the same format as the main DSO database :).

@@ -1,7 +1,7 @@
 +++
 title = "KDE GSOC: Thanks and Work Product"
 author = ["Valentin Boettcher"]
-date = 2021-08-23T00:17:00+02:00
+date = 2021-08-23T00:17:00-04:00
 tags = ["GSOC"]
 categories = ["KDE"]
 draft = false
@@ -101,4 +101,5 @@ For a list with the MRs linked see [here](https://invent.kde.org/education/kstar
 -   Import old Database
     -   !377
 
-[^fn:1]: Akarsh prompted the color stuff...
+[^fn:1]: Akarsh prompted
+    the color stuff...

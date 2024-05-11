@@ -49,7 +49,7 @@ Die Dunstabzugshaube tauschte ich kurzerhand aus, wobei mir beim
 Verdrehen der Kontakte etwas mulmig zumute war (habe ich wirklich die
 richtige Sicherung herausgedreht?).
 
-{{< figure src="/ox-hugo/2022-12-30_19-44-48_photo_2022-12-30_19-42-26.jpg" caption="<span class=\"figure-number\">Figure 1: </span>Der alte Dunstabzug ist nicht mehr ganz koscher." >}}
+{{< figure src="/ox-hugo/2022-12-30_19-44-48_photo_2022-12-30_19-42-26.jpg" caption="<span class=\"figure-number\">Figure 3: </span>Der alte Dunstabzug ist nicht mehr ganz koscher." >}}
 
 Parallel dazu suche ich noch im Internet nach alternativen Wohnungen,
 fand aber tatsächlich nichts mit einer ähnlich schönen Lage. Zwar
@@ -71,7 +71,7 @@ wir schon mehrere Fahrradtouren in der Umgebung gemacht. Ich habe
 gebraucht ein sehr leichtes Rennrad erstanden und Fahrradtouren mit
 Neil machen mächtig Spaß.
 
-{{< figure src="/ox-hugo/2022-12-30_20-40-35_LMC_20221127_130442_OP6.T-BASIC.jpg" caption="<span class=\"figure-number\">Figure 1: </span>Auf Tour mit Neil." >}}
+{{< figure src="/ox-hugo/2022-12-30_20-40-35_LMC_20221127_130442_OP6.T-BASIC.jpg" caption="<span class=\"figure-number\">Figure 4: </span>Auf Tour mit Neil." >}}
 
 Es gibt ein paar Eigenarten in MTL/Quebec/Canada. So sind die
 Lichtschalter und Steckdosen anders als in Europa, der Strom kommt
@@ -102,27 +102,27 @@ wandern sowie joggen gegangen. Zwecks dessen bin ich Mitglied beim
 örtlichen Carsharing geworden. Wenn man das Auto schön vollpackt,
 kann man am Wochenende für circa 20$ sehr schöne Ausflüge machen.
 
-{{< figure src="/ox-hugo/2022-12-30_20-57-51_LMC_20221120_125324_OP6.T-BASIC.jpg" caption="<span class=\"figure-number\">Figure 1: </span>Ausflug zu Mont Saint-Bruno. MTL liegt in einem großen Flachland und jeder Hügel heißt hier gleich Berg." >}}
+{{< figure src="/ox-hugo/2022-12-30_20-57-51_LMC_20221120_125324_OP6.T-BASIC.jpg" caption="<span class=\"figure-number\">Figure 5: </span>Ausflug zu Mont Saint-Bruno. MTL liegt in einem großen Flachland und jeder Hügel heißt hier gleich Berg." >}}
 
-{{< figure src="/ox-hugo/2022-12-30_21-00-31_LMC_20221210_114138_OP6.T-BASIC.PANO.jpg" caption="<span class=\"figure-number\">Figure 1: </span>Aussicht von Mont Saint-Hilaire." >}}
+{{< figure src="/ox-hugo/2022-12-30_21-00-31_LMC_20221210_114138_OP6.T-BASIC.PANO.jpg" caption="<span class=\"figure-number\">Figure 6: </span>Aussicht von Mont Saint-Hilaire." >}}
 
-{{< figure src="/ox-hugo/2022-12-30_21-03-45_LMC_20221208_144607_OP6.T-BASIC.jpg" caption="<span class=\"figure-number\">Figure 1: </span>Radeln am alten Hafen." >}}
+{{< figure src="/ox-hugo/2022-12-30_21-03-45_LMC_20221208_144607_OP6.T-BASIC.jpg" caption="<span class=\"figure-number\">Figure 7: </span>Radeln am alten Hafen." >}}
 
-{{< figure src="/ox-hugo/2022-12-30_21-04-48_LMC_20221205_084655_OP6.T-BASIC.jpg" caption="<span class=\"figure-number\">Figure 1: </span>Aussicht auf MTL beim Joggen." >}}
+{{< figure src="/ox-hugo/2022-12-30_21-04-48_LMC_20221205_084655_OP6.T-BASIC.jpg" caption="<span class=\"figure-number\">Figure 8: </span>Aussicht auf MTL beim Joggen." >}}
 
-{{< figure src="/ox-hugo/2023-01-02_21-46-52_LMC_20221204_122308_OP6.T-BASIC.jpg" caption="<span class=\"figure-number\">Figure 1: </span>Murals in MTL." >}}
+{{< figure src="/ox-hugo/2023-01-02_21-46-52_LMC_20221204_122308_OP6.T-BASIC.jpg" caption="<span class=\"figure-number\">Figure 9: </span>Murals in MTL." >}}
 
-{{< figure src="/ox-hugo/2023-01-02_21-47-14_LMC_20221204_124412_OP6.T-BASIC.jpg" caption="<span class=\"figure-number\">Figure 1: </span>Old Port Gegend." >}}
+{{< figure src="/ox-hugo/2023-01-02_21-47-14_LMC_20221204_124412_OP6.T-BASIC.jpg" caption="<span class=\"figure-number\">Figure 10: </span>Old Port Gegend." >}}
 
-{{< figure src="/ox-hugo/2023-01-02_21-47-53_LMC_20221204_125848_OP6.T-BASIC.jpg" caption="<span class=\"figure-number\">Figure 1: </span>Blick auf ein Futuristisches 70iger Bauprojekt." >}}
+{{< figure src="/ox-hugo/2023-01-02_21-47-53_LMC_20221204_125848_OP6.T-BASIC.jpg" caption="<span class=\"figure-number\">Figure 11: </span>Blick auf ein Futuristisches 70iger Bauprojekt." >}}
 
-{{< figure src="/ox-hugo/2023-01-02_21-48-33_LMC_20221204_125857_OP6.T-BASIC.jpg" caption="<span class=\"figure-number\">Figure 1: </span>Der Blick vom alten Hafen in seiner vollen Hässlichkeit." >}}
+{{< figure src="/ox-hugo/2023-01-02_21-48-33_LMC_20221204_125857_OP6.T-BASIC.jpg" caption="<span class=\"figure-number\">Figure 12: </span>Der Blick vom alten Hafen in seiner vollen Hässlichkeit." >}}
 
-{{< figure src="/ox-hugo/2023-01-02_21-50-30_LMC_20221204_135302_OP6.T-BASIC.jpg" caption="<span class=\"figure-number\">Figure 1: </span>Blick auf die Skyline mit Riesenrad." >}}
+{{< figure src="/ox-hugo/2023-01-02_21-50-30_LMC_20221204_135302_OP6.T-BASIC.jpg" caption="<span class=\"figure-number\">Figure 13: </span>Blick auf die Skyline mit Riesenrad." >}}
 
-{{< figure src="/ox-hugo/2022-12-30_21-12-34_LMC_20221218_103641_OP6.T-BASIC.PANO.jpg" caption="<span class=\"figure-number\">Figure 1: </span>Rougemont, die Apfelhauptstadt Quebecs im Winter." >}}
+{{< figure src="/ox-hugo/2022-12-30_21-12-34_LMC_20221218_103641_OP6.T-BASIC.PANO.jpg" caption="<span class=\"figure-number\">Figure 14: </span>Rougemont, die Apfelhauptstadt Quebecs im Winter." >}}
 
-{{< figure src="/ox-hugo/2023-01-01_20-49-03_LMC_20221216_112004_OP6.T-BASIC.jpg" caption="<span class=\"figure-number\">Figure 1: </span>Schneesturm auf dem Mont-Royal." >}}
+{{< figure src="/ox-hugo/2023-01-01_20-49-03_LMC_20221216_112004_OP6.T-BASIC.jpg" caption="<span class=\"figure-number\">Figure 15: </span>Schneesturm auf dem Mont-Royal." >}}
 
 Mit meinen Gruppenkollegen habe ich mich bereits zum Fußballschauen
 beim Professor getroffen und auch die Uni habe ich schon
@@ -148,11 +148,11 @@ Am sah [Pond](https://en.wikipedia.org/wiki/Pond_(Australian_band)) live, besuch
 welches drei Minuten von mir zu Hause entfernt stattfand und besuchte
 einen kleinen Jazz Workshop.
 
-{{< figure src="/ox-hugo/2023-01-01_20-07-33_LMC_20221203_213611_OP6.T-BASIC.jpg" caption="<span class=\"figure-number\">Figure 1: </span>Auf dem Pond Konzert." >}}
+{{< figure src="/ox-hugo/2023-01-01_20-07-33_LMC_20221203_213611_OP6.T-BASIC.jpg" caption="<span class=\"figure-number\">Figure 16: </span>Auf dem Pond Konzert." >}}
 
-{{< figure src="/ox-hugo/2023-01-01_20-21-55_LMC_20221213_202914_OP6.T-BASIC.jpg" caption="<span class=\"figure-number\">Figure 1: </span>Konzert um die Ecke." >}}
+{{< figure src="/ox-hugo/2023-01-01_20-21-55_LMC_20221213_202914_OP6.T-BASIC.jpg" caption="<span class=\"figure-number\">Figure 17: </span>Konzert um die Ecke." >}}
 
-{{< figure src="/ox-hugo/2023-01-01_20-15-24_LMC_20221213_220722_OP6.T-BASIC.jpg" caption="<span class=\"figure-number\">Figure 1: </span>Ein Konzertbesucher gibt mir einen Tipp." >}}
+{{< figure src="/ox-hugo/2023-01-01_20-15-24_LMC_20221213_220722_OP6.T-BASIC.jpg" caption="<span class=\"figure-number\">Figure 18: </span>Ein Konzertbesucher gibt mir einen Tipp." >}}
 
 Mal sehen, ob ich mein Vorhaben einmal wöchentlich live Musik zu
 höheren umsetzen kann.
@@ -179,7 +179,7 @@ Tochter in den Laurentiden, den örtlichen "Bergen", ein. Die Tochter
 war mit ihrem Mann und zwei Kindern nach Frankreich zu ihren
 Schwiegereltern entflohen und Neil sollte ihren Hasen hüten.
 
-{{< figure src="/ox-hugo/2023-01-02_20-30-13_LMC_20221224_101812_OP6.T-BASIC.jpg" caption="<span class=\"figure-number\">Figure 1: </span>Das Haus in den Laurentians." >}}
+{{< figure src="/ox-hugo/2023-01-02_20-30-13_LMC_20221224_101812_OP6.T-BASIC.jpg" caption="<span class=\"figure-number\">Figure 19: </span>Das Haus in den Laurentians." >}}
 
 Das Haus war in Holztönen gehalten und recht gemütlich. Neben der
 Elektroheizung gab es auch einen Holzofen, welcher uns auch am zweiten
@@ -190,7 +190,7 @@ Zeitpunkt fantastischen Winterlandschaft. Da ich Neils Schuhgröße
 habe, konnte ich sein großzügiges Angebot seine Ski zu leihen
 annehmen.
 
-{{< figure src="/ox-hugo/2023-01-02_20-39-20_LMC_20221222_113656_OP6.T-BASIC.jpg" caption="<span class=\"figure-number\">Figure 1: </span>Erste Skitour." >}}
+{{< figure src="/ox-hugo/2023-01-02_20-39-20_LMC_20221222_113656_OP6.T-BASIC.jpg" caption="<span class=\"figure-number\">Figure 20: </span>Erste Skitour." >}}
 
 Um rechtzeitig umzukehren hatte ich mir die Uhr gestellt und auch die
 Steigung auf dem Rückweg eingeplant. Tatsächlich war ich dann aber
@@ -213,9 +213,9 @@ Spaziergang im Schneesturm. Man konnte keine zwanzig Meter weit sehen
 und alle, die keine 4x4's hatten steckten auf der Straße fest. Mamas
 Lebkuchen und auch die von Lebkuchen Schmidt mundeten allen hervorragend.
 
-{{< figure src="/ox-hugo/2023-01-02_21-04-50_LMC_20221223_084514_OP6.T-BASIC.jpg" caption="<span class=\"figure-number\">Figure 1: </span>Schneesturm." >}}
+{{< figure src="/ox-hugo/2023-01-02_21-04-50_LMC_20221223_084514_OP6.T-BASIC.jpg" caption="<span class=\"figure-number\">Figure 21: </span>Schneesturm." >}}
 
-{{< figure src="/ox-hugo/2023-01-02_21-08-14_LMC_20221221_183914_OP6.T-BASIC.jpg" caption="<span class=\"figure-number\">Figure 1: </span>Der Kamin." >}}
+{{< figure src="/ox-hugo/2023-01-02_21-08-14_LMC_20221221_183914_OP6.T-BASIC.jpg" caption="<span class=\"figure-number\">Figure 22: </span>Der Kamin." >}}
 
 Neils Online-Shop hat nie geschlossen und so unternahm er zwei
 fruchtlose Trips zur (geschlossenen) Bibliothek auf der Suche nach
@@ -237,9 +237,9 @@ wurde ich trotz der in Mamas Paket angekommenen Winterjacke und
 meiner frisch erstandenen Winterstiefel bei meiner Rückkehr gegen den
 Wind arg durchgefroren.
 
-{{< figure src="/ox-hugo/2023-01-02_21-28-28_LMC_20221224_103326_OP6.T-BASIC.jpg" caption="<span class=\"figure-number\">Figure 1: </span>Reichlich Schnee auf der ersten Wanderung." >}}
+{{< figure src="/ox-hugo/2023-01-02_21-28-28_LMC_20221224_103326_OP6.T-BASIC.jpg" caption="<span class=\"figure-number\">Figure 23: </span>Reichlich Schnee auf der ersten Wanderung." >}}
 
-{{< figure src="/ox-hugo/2023-01-02_21-30-14_LMC_20221224_105839_OP6.T-BASIC.jpg" caption="<span class=\"figure-number\">Figure 1: </span>Es wird Stürmisch." >}}
+{{< figure src="/ox-hugo/2023-01-02_21-30-14_LMC_20221224_105839_OP6.T-BASIC.jpg" caption="<span class=\"figure-number\">Figure 24: </span>Es wird Stürmisch." >}}
 
 Am Nachmittag/Abend hatte ich dann dadurch aber genug Zeit Omas/Mamas
 Lebkuchensoße zu kochen und ein Brot zu backen. Purer Buchweizen
@@ -258,31 +258,31 @@ Schnee Ski und wurde mit tollen anblicken belohnt. Diesmal schaffte
 ich 20 Kilometer bevor mit die Finger in den Handschuhen arg zu kalt
 wurden.
 
-{{< figure src="/ox-hugo/2023-01-02_21-52-57_LMC_20221225_110457_OP6.T-BASIC.jpg" caption="<span class=\"figure-number\">Figure 1: </span>Hmmm, kann man hier überhaupt Ski fahren?" >}}
+{{< figure src="/ox-hugo/2023-01-02_21-52-57_LMC_20221225_110457_OP6.T-BASIC.jpg" caption="<span class=\"figure-number\">Figure 25: </span>Hmmm, kann man hier überhaupt Ski fahren?" >}}
 
-{{< figure src="/ox-hugo/2023-01-02_21-53-32_LMC_20221225_113935_OP6.T-BASIC.jpg" caption="<span class=\"figure-number\">Figure 1: </span>Keine Spur von der Loipe." >}}
+{{< figure src="/ox-hugo/2023-01-02_21-53-32_LMC_20221225_113935_OP6.T-BASIC.jpg" caption="<span class=\"figure-number\">Figure 26: </span>Keine Spur von der Loipe." >}}
 
 Nach dem ersten Drittel kam mir eine nette kältere Dame entgegen mit
 der ich mich erstaunlicherweise sogar etwas auf französisch
 austauschen konnte. Sie wies mich darauf hin, dass wir unsere jeweils
 gezogenen Spuren verwenden könnten.
 
-{{< figure src="/ox-hugo/2023-01-02_21-56-38_LMC_20221225_123755_OP6.T-BASIC.jpg" caption="<span class=\"figure-number\">Figure 1: </span>Winterwunderland." >}}
+{{< figure src="/ox-hugo/2023-01-02_21-56-38_LMC_20221225_123755_OP6.T-BASIC.jpg" caption="<span class=\"figure-number\">Figure 27: </span>Winterwunderland." >}}
 
 Am Abend gab es dann mit einem Tag Verspätung Kartoffeln und
 Sauerkraut mit meiner Soße, sowie japanischen Kohl-Pfannkuchen von
 Naomi.
 
-{{< figure src="/ox-hugo/2023-01-03_20-14-03_LMC_20221225_181302_OP6.T-BASIC.jpg" caption="<span class=\"figure-number\">Figure 1: </span>Das Weihnachtsessen. Anrichten muss ich noch üben." >}}
+{{< figure src="/ox-hugo/2023-01-03_20-14-03_LMC_20221225_181302_OP6.T-BASIC.jpg" caption="<span class=\"figure-number\">Figure 28: </span>Das Weihnachtsessen. Anrichten muss ich noch üben." >}}
 
 Den Tag darauf wanderte ich bei zuerst tollem Wetter dieselbe Runde
 wie zuvor und schreckte dabei diesmal nicht vor der Privatstraße
 zurück. Diese stellte sich aber nach wenigen hundert Metern als
 nicht passabel heraus.
 
-{{< figure src="/ox-hugo/2023-01-03_20-17-17_LMC_20221226_103028_OP6.T-BASIC.PANO.jpg" caption="<span class=\"figure-number\">Figure 1: </span>Bombenwetter." >}}
+{{< figure src="/ox-hugo/2023-01-03_20-17-17_LMC_20221226_103028_OP6.T-BASIC.PANO.jpg" caption="<span class=\"figure-number\">Figure 29: </span>Bombenwetter." >}}
 
-{{< figure src="/ox-hugo/2023-01-03_20-17-52_LMC_20221226_103045_OP6.T-BASIC.jpg" caption="<span class=\"figure-number\">Figure 1: </span>Mein Rubikon des ersten Spaziergangs." >}}
+{{< figure src="/ox-hugo/2023-01-03_20-17-52_LMC_20221226_103045_OP6.T-BASIC.jpg" caption="<span class=\"figure-number\">Figure 30: </span>Mein Rubikon des ersten Spaziergangs." >}}
 
 Ich entschloss mich kurzerhand einfach den geräumten Landstraßen zu
 folgen und damit eine 20 Kilometer Runde anzusetzen. Manche Autofahrer schauten
@@ -292,9 +292,9 @@ nachgeforscht, ob in Quebec Fußgänger auf Landstraßen erlaubt
 sind. Natürlich sind sie es, sofern sie auf der linken Straßenseite
 laufen.
 
-{{< figure src="/ox-hugo/2023-01-03_20-21-19_LMC_20221226_103423_OP6.T-BASIC.jpg" caption="<span class=\"figure-number\">Figure 1: </span>Die Privatstraße." >}}
+{{< figure src="/ox-hugo/2023-01-03_20-21-19_LMC_20221226_103423_OP6.T-BASIC.jpg" caption="<span class=\"figure-number\">Figure 31: </span>Die Privatstraße." >}}
 
-{{< figure src="/ox-hugo/2023-01-03_20-22-21_LMC_20221226_115741_OP6.T-BASIC_v1.jpg" caption="<span class=\"figure-number\">Figure 1: </span>Ein gefrorener Wasserfall." >}}
+{{< figure src="/ox-hugo/2023-01-03_20-22-21_LMC_20221226_115741_OP6.T-BASIC_v1.jpg" caption="<span class=\"figure-number\">Figure 32: </span>Ein gefrorener Wasserfall." >}}
 
 Am letzten Tag in den "Bergen" erklomm ich mit Neil den Huegel, auf
 dessen Flanke das Haus seiner Tochter steht. Beide waren wir mächtig
@@ -303,11 +303,11 @@ knietiefen Schnee stapfen. Dabei war der Trick, zu versuchen in die
 Spuren von uns vorangegangenen Schneeschuhen zu treten, in denen der
 Schnee zumindest etwas verdichtet war.
 
-{{< figure src="/ox-hugo/2023-01-03_20-26-19_LMC_20221227_112846_OP6.T-BASIC.jpg" caption="<span class=\"figure-number\">Figure 1: </span>Neil stapft im Schnee." >}}
+{{< figure src="/ox-hugo/2023-01-03_20-26-19_LMC_20221227_112846_OP6.T-BASIC.jpg" caption="<span class=\"figure-number\">Figure 33: </span>Neil stapft im Schnee." >}}
 
-{{< figure src="/ox-hugo/2023-01-03_20-26-48_LMC_20221227_115204_OP6.T-BASIC.jpg" caption="<span class=\"figure-number\">Figure 1: </span>Das Kreuz." >}}
+{{< figure src="/ox-hugo/2023-01-03_20-26-48_LMC_20221227_115204_OP6.T-BASIC.jpg" caption="<span class=\"figure-number\">Figure 34: </span>Das Kreuz." >}}
 
-{{< figure src="/ox-hugo/2023-01-03_20-27-32_LMC_20221227_122212_OP6.T-BASIC.jpg" caption="<span class=\"figure-number\">Figure 1: </span>Aussicht auf Mont-Blanc." >}}
+{{< figure src="/ox-hugo/2023-01-03_20-27-32_LMC_20221227_122212_OP6.T-BASIC.jpg" caption="<span class=\"figure-number\">Figure 35: </span>Aussicht auf Mont-Blanc." >}}
 
 Am Nachmittag ging es dann mit Bus und Bahn zurück nach MTL, welches
 mir bei meiner Ankunft nass, hässlich und grau vorkam. Generell traf
@@ -354,7 +354,7 @@ einem neuen Bett, wiederum mit seiner Hilfe. Nachdem ich in den Bergen
 so gut geschlafen hatte, wollte ich nun auch zu Hause auf einer
 ordentlichen Matratze in einem Bett von ausreichender Länge schlafen.
 
-{{< figure src="/ox-hugo/2023-01-08_11-51-52_photo_2023-01-08_11-41-28.jpg" caption="<span class=\"figure-number\">Figure 1: </span>Das neue Bett ist etwas zu breit, aber ich hab ja lange Beine." >}}
+{{< figure src="/ox-hugo/2023-01-08_11-51-52_photo_2023-01-08_11-41-28.jpg" caption="<span class=\"figure-number\">Figure 36: </span>Das neue Bett ist etwas zu breit, aber ich hab ja lange Beine." >}}
 
 Am Silvesterabend lud er mich dann netterweise zu einer "Siedler von
 Catan" Runde mit Informatikstudenten ein.

@@ -1,7 +1,7 @@
 +++
 title = "Weihnachten"
 author = ["Valentin Boettcher"]
-date = 2016-12-25T23:26:00+01:00
+date = 2016-12-25T23:26:00-05:00
 categories = ["Neuseeland"]
 draft = false
 +++
@@ -10,7 +10,7 @@ Frohe Weihnachten euch allen.  Zu guter Letzt hat sich Vorgestern auch
 bei mir eine weihnachtliche Stimmung eingestellt. (Auch dank Mamas
 Lebkuchenpacket. Danke :P.)
 
-> Und so kaum es, dass Valentin, Sohn des Stefan (Sohn des Otto), über
+&gt; Und so kaum es, dass Valentin, Sohn des Stefan (Sohn des Otto), über
 eine Straße, die das Folk der Neuseeländer zu jener Zeit
 State-Highway-One nannten, nach Wellington, der Wohnstätte der Familie
 der Robertsons, zog. Aber es kamen im allerlei Sorgen und Zweifel

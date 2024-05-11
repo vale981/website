@@ -1,7 +1,7 @@
 +++
 title = "Status"
 author = ["Valentin Boettcher"]
-date = 2016-08-08T06:57:00+02:00
+date = 2016-08-08T06:57:00-04:00
 categories = ["Neuseeland"]
 draft = false
 +++

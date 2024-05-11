@@ -1,7 +1,7 @@
 +++
 title = "Installing without Fear"
 author = ["Valentin Boettcher"]
-date = 2020-09-16T15:00:00+02:00
+date = 2020-09-16T15:00:00-04:00
 categories = ["Tricks"]
 draft = false
 +++

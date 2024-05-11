@@ -1,7 +1,7 @@
 +++
 title = "Nun auch mit feed!"
 author = ["Valentin Boettcher"]
-date = 2016-11-01T09:23:00+01:00
+date = 2016-11-01T09:23:00-04:00
 categories = ["Neuseeland"]
 draft = false
 +++

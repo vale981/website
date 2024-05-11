@@ -1,7 +1,7 @@
 +++
 title = "Entscheidung"
 author = ["Valentin Boettcher"]
-date = 2022-08-28T17:53:00+02:00
+date = 2022-08-28T17:53:00-04:00
 categories = ["Canada"]
 draft = false
 +++

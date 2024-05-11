@@ -1,7 +1,7 @@
 +++
 title = "Late Days"
 author = ["Valentin Boettcher"]
-date = 2017-05-18T10:50:00+02:00
+date = 2017-05-18T10:50:00-04:00
 categories = ["Neuseeland"]
 draft = false
 +++
@@ -22,7 +22,7 @@ R0b3ts0ns gab es noch zwei schöne, aber unspektakuläre Wochen in
 Wellington unter dem Dach der sehr hospitablen Frau Edith. Thank You!
 Ich habe mir einen recht bereichernden Vortrag über (Sonnen)Uhren bei
 einem Meeting der Wellington Astronomical Society angehört, besuchte
-das "Space & Science Festival" und ward erleuchtet über Titan und die
+das "Space &amp; Science Festival" und ward erleuchtet über Titan und die
 NASA Mission zum Mars.
 
 Wenn ich unseren roten Nachbarn auch als interessant und möglichen

@@ -1,7 +1,7 @@
 +++
 title = "KDE GSOC: Wrapping it up…"
 author = ["Valentin Boettcher"]
-date = 2021-08-16T18:53:00+02:00
+date = 2021-08-16T18:53:00-04:00
 tags = ["GSOC"]
 categories = ["KDE"]
 draft = false
@@ -48,13 +48,13 @@ creating and editing catalogs.
 There is also a basic CSV importer that should make it easier for
 users to get their own custom data into KStars.
 
-{{< figure src="/images/KDE_GSOC:_Wrapping_it_up.../2021-08-16_20-30-54_csv_openngc.png" caption="Figure 1: The CSV importer. It sure needs some prettying up :P." >}}
+{{< figure src="/images/KDE_GSOC:_Wrapping_it_up.../2021-08-16_20-30-54_csv_openngc.png" caption="<span class=\"figure-number\">Figure 1: </span>The CSV importer. It sure needs some prettying up :P." >}}
 
 Nevertheless, the main goal of my work was to create a seamless
 replacement for the old DSO system of which the user should not be too
 aware. To that end, I've implemented a feature that should have been
 in my overhaul from the beginning: a mechanism to import custom
-objects [from the old DSO database](https://invent.kde.org/education/kstars/-/merge%5Frequests/377). Now, on startup the user is being
+objects [from the old DSO database](https://invent.kde.org/education/kstars/-/merge_requests/377). Now, on startup the user is being
 asked whether the old database should be imported if it is present.
 
 {{< figure src="/images/KDE_GSOC:_Wrapping_it_up.../2021-08-16_20-38-10_screenshot.png" >}}
@@ -69,13 +69,13 @@ personal taste. Also, a single color can't fit all of KStars' color
 schemes. Therefore colors can now be customized for each catalog and
 color scheme through a "pretty" dialog.
 
-{{< figure src="/images/KDE_GSOC:_Wrapping_it_up.../2021-08-16_20-52-46_screenshot.png" caption="Figure 2: The \"pretty\" color picker." >}}
+{{< figure src="/images/KDE_GSOC:_Wrapping_it_up.../2021-08-16_20-52-46_screenshot.png" caption="<span class=\"figure-number\">Figure 2: </span>The \"pretty\" color picker." >}}
 
 Now you can do things like this:
 
-{{< figure src="/images/KDE_GSOC:_Wrapping_it_up.../2021-08-16_20-49-03_screenshot.png" caption="Figure 3: Color Scheme: Moonless Night" >}}
+{{< figure src="/images/KDE_GSOC:_Wrapping_it_up.../2021-08-16_20-49-03_screenshot.png" caption="<span class=\"figure-number\">Figure 3: </span>Color Scheme: Moonless Night" >}}
 
-{{< figure src="/images/KDE_GSOC:_Wrapping_it_up.../2021-08-16_20-51-16_screenshot.png" caption="Figure 4: Color Scheme: Starchart" >}}
+{{< figure src="/images/KDE_GSOC:_Wrapping_it_up.../2021-08-16_20-51-16_screenshot.png" caption="<span class=\"figure-number\">Figure 4: </span>Color Scheme: Starchart" >}}
 
 And again I've learned that user feedback is very important. I would
 never have thought of this feature on my own but must admit that it
@@ -87,5 +87,8 @@ this blog post and thank you for your attention.
 Cheers,
 Valentin
 
-[^fn:1]: I deleted the old OpenNGC text catalog which contained more than ten thousand lines :P.
-[^fn:2]: You have to paste this link into the url bar manually to make it work!
+[^fn:1]: I
+    deleted the old OpenNGC text catalog which contained more than ten
+    thousand lines :P.
+[^fn:2]: You have to paste this link into
+    the url bar manually to make it work!

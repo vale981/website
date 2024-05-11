@@ -1,7 +1,7 @@
 +++
 title = "Fixing Linux Dualboot: Reinstalling the Windows EFI Bootloader Files"
 author = ["Valentin Boettcher"]
-date = 2020-07-11T15:00:00+02:00
+date = 2020-07-11T15:00:00-04:00
 categories = ["Tricks"]
 draft = false
 +++

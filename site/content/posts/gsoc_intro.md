@@ -1,7 +1,7 @@
 +++
 title = "KDE GSOC: Intro"
 author = ["Valentin Boettcher"]
-date = 2021-06-27T15:00:00+02:00
+date = 2021-06-27T15:00:00-04:00
 tags = ["GSOC"]
 categories = ["KDE"]
 draft = false

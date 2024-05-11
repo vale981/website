@@ -1,7 +1,7 @@
 +++
 title = "Removing legacy boot from a Linux live stick"
 author = ["Valentin Boettcher"]
-date = 2021-11-19T13:48:00+01:00
+date = 2021-11-19T13:48:00-05:00
 categories = ["Hacks"]
 draft = false
 +++
@@ -11,7 +11,7 @@ bios/uefi-setup. Annoyingly, it defaults to legacy boot and there is no
 way to change that.
 
 My previous workaround was rather involved and is documented in the
-[Arch wiki](https://wiki.archlinux.org/title/Lenovo%5FThinkPad%5FT470#UEFI%5Fboot). Today however, I bricked my system at work and had to
+[Arch wiki](https://wiki.archlinux.org/title/Lenovo_ThinkPad_T470#UEFI_boot). Today however, I bricked my system at work and had to
 restore it in a hurry.
 
 It turns out that you can nuke the `MBR` of the live stick to remove

@@ -1,7 +1,7 @@
 +++
 title = "Eine erste woche"
 author = ["Valentin Boettcher"]
-date = 2016-07-29T06:21:00+02:00
+date = 2016-07-29T06:21:00-04:00
 categories = ["Neuseeland"]
 draft = false
 +++
