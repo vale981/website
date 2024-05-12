@@ -2899,6 +2899,7 @@ zeros.  Find the device path of the live stick with ~lsblk~ and then
 CLOSED: [2024-05-11 Sat 17:57]
 :PROPERTIES:
 :EXPORT_FILE_NAME: poetry2nix-development-flake-with-matplotlib-gtk-support
+:ID:       e816f747-a7de-4111-af8d-63725df90a99
 :END:
 
 I recently had the pleasure to dive back into python for work. In the
@@ -2987,6 +2988,42 @@ before the above works with ~preferWheels = true~.
 
 You might want to checkout [[https://direnv.net/][direnv]] and [[https://github.com/nix-community/nix-direnv][nix-direnv]] for added convenience.
 
+*** Modern Python REPL in Emacs using VTerm                  :emacs:python:
+CLOSED: [2024-05-11 Sat 19:47]
+:PROPERTIES:
+:EXPORT_FILE_NAME: modern-python-repl-in-emacs-with-vterm
+:ID:       eb07ad1b-134b-408e-9aa8-ce33b5ba1815
+:END:
+
+As alluded to in [[id:e816f747-a7de-4111-af8d-63725df90a99][Poetry2Nix Development Flake with Matplotlib GTK
+Support]], I'm currently in the process of getting my "new" python
+workflow up to speed. My second problem, after dependency and
+environment management, was that fancy REPLs like [[https://ipython.org/][ipython]] or [[https://github.com/prompt-toolkit/ptpython.git][ptpython]]
+don't jazz well with the standard =comint= based inferior python repl
+that comes with =python-mode=. One can basically only run ipython with
+the =--simple-prompt= flag which removes features like
+syntax-highlighting and auto-completion. Especially annoying is, that
+only the =tkinter= backend for =matplotlib= works in this mode.
+
+The package =elpy= comes with some improvements, especially when it
+comes to sending part of a buffer to the repl, but it comes with all
+sorts of baggage that interfere with my emacs setup.
+
+From my jolly [[https://julialang.org/][Julia]] day I'm used to [[https://github.com/shg/julia-vterm.el][julia-vterm]]. This emacs package
+runs a Julia REPL using a full terminal emulator ([[https://github.com/akermu/emacs-libvterm][emacs-libvterm]]). So
+in the pursuit of a nice hack, I ~M-x replace-string~'d the word =julia=
+with =python= and gave it a shot. Remarkably, the whole thing just
+worked without much tweaking and you can enjoy the result by checking
+out the [[https://github.com/vale981/python-vterm.el][GitHub repo]].
+
+The idea of extending the original =julia-vterm= package to support
+python as well is not without elegance. However, the code base is not
+too large and -- owing to the differing sensibilities of the julia and
+python communities -- the feature-set is likely to diverge in the
+future.
+
+#+CAPTION: And this is the result!
+[[attachment:2024-05-11_20-12-52_screenshot.png]]
 
 ** Uncategorized                                            :@Uncategorized:
 *** Neuseeland Restauration
@@ -3043,6 +3080,7 @@ Ein wenig python verwandelte das Ganze in das neue Blog format.
 
 Und damit koennt ihr nun unter [[/categories/neuseeland][Neuseeland]] die alten posts lesen.
 [fn:5] =ctime=, creation time
+
 ** Canada                                                   :@Canada:
 *** DONE Entscheidung
 CLOSED: [2022-08-28 Sun 17:53]
