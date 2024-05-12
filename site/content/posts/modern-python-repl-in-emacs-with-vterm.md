@@ -21,7 +21,7 @@ The package `elpy` comes with some improvements, especially when it
 comes to sending part of a buffer to the repl, but it comes with all
 sorts of baggage that interfere with my emacs setup.
 
-From my jolly [Julia](https://julialang.org/) day I'm used to [julia-vterm](https://github.com/shg/julia-vterm.el). This emacs package
+From my jolly [Julia](https://julialang.org/) days I'm used to [julia-vterm](https://github.com/shg/julia-vterm.el). This emacs package
 runs a Julia REPL using a full terminal emulator ([emacs-libvterm](https://github.com/akermu/emacs-libvterm)). So
 in the pursuit of a nice hack, I `M-x replace-string`'d the word `julia`
 with `python` and gave it a shot. Remarkably, the whole thing just
