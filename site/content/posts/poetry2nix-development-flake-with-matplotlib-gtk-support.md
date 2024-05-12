@@ -25,7 +25,7 @@ project in full nix using [poetry2nix](https://github.com/nix-community/poetry2n
     flake-utils.url = "github:numtide/flake-utils";
     nixpkgs.url = "github:NixOS/nixpkgs/nixos-unstable-small";
     poetry2nix = {
-      url = "github:vale981/nix-community/poetry2nix";
+      url = "github:nix-community/poetry2nix";
       inputs.nixpkgs.follows = "nixpkgs";
     };
   };
