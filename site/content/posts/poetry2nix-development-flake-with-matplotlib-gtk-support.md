@@ -46,12 +46,10 @@ project in full nix using [poetry2nix](https://github.com/nix-community/poetry2n
 
             # this enables interactive plotting support with GTK
             overrides = poetry2nix.overrides.withDefaults (final: prev: {
-              matplotlib = with pkgs; prev.matplotlib.overridePythonAttrs (
-                old:
+              matplotlib = with pkgs; prev.matplotlib.override
                 {
                   passthru.args.enableGtk3 = true;
-                }
-              );
+                };
             });
           };
           default = self.packages.${system}.yourPackage;
