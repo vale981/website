@@ -45,6 +45,8 @@ that I can see eight pages at a glance (see figure below).
 
 {{< figure src="/ox-hugo/screen:d22fec54-83c6-4cc6-a701-c29270868804.png" caption="<span class=\"figure-number\">Figure 1: </span>An example of what my ugly handwriting looks like :)," >}}
 
+[demo](/ox-hugo/output.gif)
+
 Additionally, the following elisp snippet allows me to attach the
 latest note to an org-roam node with a couple of keystrokes.
 
