@@ -3069,7 +3069,7 @@ that I can see eight pages at a glance (see figure below).
 [[attachment:screen:d22fec54-83c6-4cc6-a701-c29270868804.png]]
 
 #+CAPTION: A little demo (sped up).
-[[attachment:output.gif][demo]]
+[[attachment:output.gif]]
 
 Additionally, the following elisp snippet allows me to attach the
 latest note to an org-roam node with a couple of keystrokes.
