@@ -4,7 +4,7 @@ author = ["Valentin Boettcher"]
 draft = false
 +++
 
-Just write an email to <hiro at protagon.space>. Spambots not welcome
+Just write an email to &lt;hiro at protagon.space&gt;. Spambots not welcome
 :P.  I'm on [dev.to](<https://dev.to/hiro98>).
 
 Here is my `GPG` public key.

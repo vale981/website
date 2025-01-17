@@ -34,4 +34,4 @@ too large and -- owing to the differing sensibilities of the julia and
 python communities -- the feature-set is likely to diverge in the
 future.
 
-{{< figure src="/ox-hugo/2024-05-11_20-12-52_screenshot.png" caption="<span class=\"figure-number\">Figure 1: </span>And this is the result!" >}}
+{{< figure src="/home/hiro/Documents/Projects/website_new/2024-05-11_20-12-52_screenshot.png" caption="<span class=\"figure-number\">Figure 1: </span>And this is the result!" >}}

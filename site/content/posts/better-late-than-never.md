@@ -1,7 +1,7 @@
 +++
 title = "Better Late than Never"
 author = ["Valentin Boettcher"]
-date = 2023-04-30T20:28:00-04:00
+date = 2023-10-08T19:14:00-04:00
 categories = ["Canada"]
 draft = false
 +++
@@ -127,11 +127,11 @@ holprige Radwege an viel befahrenen Straßen durch eine Suburbane
 Höllenlandschaft, eingekeilt zwischen zwei Highways. Das lässt mich
 mein Zimmer im Plateau umso mehr schätzen!
 
-{{< figure src="/ox-hugo/2023-04-30_20-25-07_LMC_20230418_125547_OP6.T-BASIC.jpg" caption="<span class=\"figure-number\">Figure 1: </span>Wilkommen and der Nordsee." >}}
+{{< figure src="/home/hiro/Documents/Projects/website_new/2023-04-30_20-25-07_LMC_20230418_125547_OP6.T-BASIC.jpg" caption="<span class=\"figure-number\">Figure 1: </span>Wilkommen and der Nordsee." >}}
 
-{{< figure src="/ox-hugo/2023-04-30_20-25-59_LMC_20230418_142829_OP6.T-BASIC.jpg" caption="<span class=\"figure-number\">Figure 2: </span>Eher trist..." >}}
+{{< figure src="/home/hiro/Documents/Projects/website_new/2023-04-30_20-25-59_LMC_20230418_142829_OP6.T-BASIC.jpg" caption="<span class=\"figure-number\">Figure 2: </span>Eher trist..." >}}
 
-{{< figure src="/ox-hugo/2023-04-30_20-26-32_LMC_20230418_154105_OP6.T-BASIC.jpg" caption="<span class=\"figure-number\">Figure 3: </span>Suburbane Hoelle..." >}}
+{{< figure src="/home/hiro/Documents/Projects/website_new/2023-04-30_20-26-32_LMC_20230418_154105_OP6.T-BASIC.jpg" caption="<span class=\"figure-number\">Figure 3: </span>Suburbane Hoelle..." >}}
 
 Die darauffolgende Woche war ich sehr darauf erpicht irgendwie
 Resultate zu erwirtschaften, da mein bisheriger Fortschritt nicht
@@ -193,9 +193,9 @@ vorliegende Roman ist schon lang genug.
 Damit: Bis zum nächsten Mal. Hoffentlich in Bälde und weniger
 chaotisch.
 
-{{< figure src="/ox-hugo/2023-04-30_20-27-18_LMC_20230405_223709_OP6.T-BASIC.jpg" caption="<span class=\"figure-number\">Figure 4: </span>Montreal bei Nacht." >}}
+{{< figure src="/home/hiro/Documents/Projects/website_new/2023-04-30_20-27-18_LMC_20230405_223709_OP6.T-BASIC.jpg" caption="<span class=\"figure-number\">Figure 4: </span>Montreal bei Nacht." >}}
 
-{{< figure src="/ox-hugo/2023-04-30_20-28-08_LMC_20230327_191348_OP6.T-BASIC.jpg" caption="<span class=\"figure-number\">Figure 5: </span>Sonnenuntergang an der Belvedere Outremont." >}}
+{{< figure src="/home/hiro/Documents/Projects/website_new/2023-04-30_20-28-08_LMC_20230327_191348_OP6.T-BASIC.jpg" caption="<span class=\"figure-number\">Figure 5: </span>Sonnenuntergang an der Belvedere Outremont." >}}
 
 [^fn:1]: See what I did here :P?
 [^fn:2]: Ich liebe

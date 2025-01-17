@@ -1,90 +1,87 @@
-# -*- org-image-actual-width: 400; -*-
++++
+author = ["Valentin Boettcher"]
+draft = false
++++
 
-:PROPERTIES:
 :ID:       5116403f-0c79-4ccf-a33a-fdcc66f08bcc
-:END:
-#+hugo_base_dir: site
-#+hugo_section: posts
-#+STARTUP: logdone
-#+author:  Valentin Boettcher
 
-* Pages
-** About
-:PROPERTIES:
-:EXPORT_HUGO_SECTION: /
-:EXPORT_FILE_NAME: about
-:END:
+
+## Pages {#pages}
+
+
+### About {#about}
 
 This is the web presence of Valentin Boettcher a.k.a. Hiro98.
 
 Valentin:
-  - is a PhD student @ McGill University under the supervision of the
-    wonderful [[https://www.physics.mcgill.ca/~coish/][Bill Coish]].
-  - codes stuff.
-  - is a science-fiction junky and space enthusiast.
-  - loves jamming with the saxophone.
-  - is hooked on LISP and Clojure.
-  - appreciates C++.
-  - uses python a fair bit.
-  - likes his [[https://blog.splitkb.com/blog/introducing-the-kyria][Kyria]].
 
-You can check out my [[https://github.com/vale981][Github]], [[https://gitlab.com/vale9811/][Gitlab]] and [[https://invent.kde.org/vboettcher/][KDE Invent]] profiles for most
+-   is preparing to travel to Montreal to pursue a phd.
+-   codes stuff.
+-   is a science-fiction junky and space enthusiast.
+-   loves jamming with the saxophone.
+-   is hooked on LISP and Clojure.
+-   appreciates C++.
+-   uses python a fair bit.
+-   likes his [Kyria](https://blog.splitkb.com/blog/introducing-the-kyria).
+
+You can check out my [Github](https://github.com/vale981), [Gitlab](https://gitlab.com/vale9811/) and [KDE Invent](https://invent.kde.org/vboettcher/) profiles for most
 of my projects as I publish the source to most things I produce.
 
-I've got a [[file:docs/cv_en.pdf][CV]].
-<!--more-->
+I've got a [CV](static/docs/cv_en.pdf).
 
-My usual internet/user/nick name is /Hiro/ or /Hiro98/ after Hiro
-Protagonist from Neal Stephenson's novel "[[https://en.wikipedia.org/wiki/Snow_Crash][Snow Crash]]", who is usually
+My usual internet/user/nick name is _Hiro_ or _Hiro98_ after Hiro
+Protagonist from Neal Stephenson's novel "[Snow Crash](https://en.wikipedia.org/wiki/Snow_Crash)", who is usually
 depicted in profile pictures like the following one.
 
-#+DOWNLOADED: screenshot @ 2021-08-01 15:14:54
-#+CAPTION: By [[http://www.benzilla.com/?p=4209][Ben Towle]].
-[[file:static/images/Pages/2021-08-01_15-14-54_screenshot.png]]
+{{< figure src="/images/Pages/2021-08-01_15-14-54_screenshot.png" caption="<span class=\"figure-number\">Figure 1: </span>By [Ben Towle](http://www.benzilla.com/?p=4209)." >}}
 
-*** Things Made
-- The source of this website lives [[https://github.com/vale981/website][here]].
-- I've written a bachelor's thesis about [[https://git.io/JBPZg][Monte Carlo Event Generators]].
-  I even built my own in python.
-- A simple, easy-to-use and firewall penetrating [[https://gitlab.com/vale9811/doccam-pi][control software]] for
-  streaming stuff from ~rtmp~ cams to youtube.
-- Along with a commilitone I've written some lecture notes about
-  [[https://gitlab.hrz.tu-chemnitz.de/strunz/skript-quanteninformation][Quantum Information]].
-- The website of [[https://simunova.com/][SimuNova]].
-- The software behind [[https://klausurnoug.at][klausurnoug.at]].
-- A [[https://protagon.space/stuff/neutrino_oscillations/][visualization of neutrino oscillations]].
-- A [[https://github.com/vale981/SecondaryValue][python library]] to calculate the gaussian error propagation.
-- A [[https://git.io/JBPZX][small hack]] to scrape and organize physics courses at the
-  TU-Dresden. [[https://protagon.space/stuff/vertiefungs_scraper/][See it in action]].
-- A script [[https://github.com/vale981/wunderlist-to-org][to convert the wunderlist export to org-mode.]]
-- A script to create an arch linux image with [[https://github.com/vale981/archiso-bcachefs][bcachefs]] support.
-- I've made the [[https://sherpa-team.gitlab.io/][website]] and some of the continuous integration for the
-  SHERPA project.
-- A new [[id:88b5d68b-2010-4a36-bb3d-8313afdcb2b6][midi brain]] for my KSP-30.
 
-*** Activities
-- I am the admin and the most enthusiastic user of the [[https://physik.protagon.space][TU-Dresden
-  Physics Forum]].
-- I am an occasional contributor to [[https://invent.kde.org/education/kstars][KStars]]. As of late I have
-  participated in the Google Summer of Code to implement a better
-  Deep-Sky-Object backend.
+#### Things Made {#things-made}
 
-  I also implemented and now maintain the [[https://invent.kde.org/vboettcher/kstars-catalogs][KStars DSO Catalog
-  Repository]].
-- Sometimes I release some noises on [[https://soundcloud.com/the_dj_c][Soundcloud]] and [[https://afa-music.bandcamp.com/][Bandcamp]] under the
-  name "Abschreibung für Abnutzung".
-- I am also the maintainer of the [[https://www.doc.govt.nz/nature/][RoyalCam]] backend which is also used
-  by the [[https://www.urbanwildlifetrust.org/portfolio/live-cam/][Urban Wildlife Trust]] for their [[https://www.youtube.com/channel/UCLizlM6gpaVHTKPo7spoqlA][Wildcams]].
-** Contact
-:PROPERTIES:
-:EXPORT_HUGO_SECTION: /
-:EXPORT_FILE_NAME: contact
-:END:
-Just write an email to <hiro at protagon.space>. Spambots not welcome
-:P.  I'm on [dev.to](https://dev.to/hiro98).
+-   The source of this website lives [here](https://github.com/vale981/website).
+-   I've written a bachelor's thesis about [Monte Carlo Event Generators](https://git.io/JBPZg).
+    I even built my own in python.
+-   A simple, easy-to-use and firewall penetrating [control software](https://gitlab.com/vale9811/doccam-pi) for
+    streaming stuff from `rtmp` cams to youtube.
+-   Along with a commilitone I've written some lecture notes about
+    [Quantum Information](https://gitlab.hrz.tu-chemnitz.de/strunz/skript-quanteninformation).
+-   The website of [SimuNova](https://simunova.com/).
+-   The software behind [klausurnoug.at](https://klausurnoug.at).
+-   A [visualization of neutrino oscillations](https://protagon.space/stuff/neutrino_oscillations/).
+-   A [python library](https://github.com/vale981/SecondaryValue) to calculate the gaussian error propagation.
+-   A [small hack](https://git.io/JBPZX) to scrape and organize physics courses at the
+    TU-Dresden. [See it in action](https://protagon.space/stuff/vertiefungs_scraper/).
+-   A script [to convert the wunderlist export to org-mode.](https://github.com/vale981/wunderlist-to-org)
+-   A script to create an arch linux image with [bcachefs](https://github.com/vale981/archiso-bcachefs) support.
+-   I've made the [website](https://sherpa-team.gitlab.io/) and some of the continuous integration for the
+    SHERPA project.
+-   A new [midi brain](#converting-a-kawai-ksp-30-to-pure-midi) for my KSP-30.
 
-Here is my ~GPG~ public key.
-#+begin_src
+
+#### Activities {#activities}
+
+-   I am the admin and the most enthusiastic user of the [TU-Dresden
+    Physics Forum](https://physik.protagon.space).
+-   I am an occasional contributor to [KStars](https://invent.kde.org/education/kstars). As of late I have
+    participated in the Google Summer of Code to implement a better
+    Deep-Sky-Object backend.
+
+    I also implemented and now maintain the [KStars DSO Catalog
+    Repository](https://invent.kde.org/vboettcher/kstars-catalogs).
+-   Sometimes I release some noises on [Soundcloud](https://soundcloud.com/the_dj_c) and [Bandcamp](https://afa-music.bandcamp.com/) under the
+    name "Abschreibung für Abnutzung".
+-   I am also the maintainer of the [RoyalCam](https://www.doc.govt.nz/nature/) backend which is also used
+    by the [Urban Wildlife Trust](https://www.urbanwildlifetrust.org/portfolio/live-cam/) for their [Wildcams](https://www.youtube.com/channel/UCLizlM6gpaVHTKPo7spoqlA).
+
+
+### Contact {#contact}
+
+Just write an email to &lt;hiro at protagon.space&gt;. Spambots not welcome
+:P.  I'm on [dev.to](<https://dev.to/hiro98>).
+
+Here is my `GPG` public key.
+
+```nil
 -----BEGIN PGP PUBLIC KEY BLOCK-----
 
 mQENBFsw8ywBCADP+YJLyntBCNgld21x2FG811w2VFLizjrYRakgIwqSCEYyeUd0
@@ -183,31 +180,30 @@ z9SvuganEEyWovdM1ojmJxkU7jPa6SztIaIUKsl6Zn7d8R7fJJSP3po38yuGcF+m
 4gcGTSpBB5xsqnc=
 =x6uy
 -----END PGP PUBLIC KEY BLOCK-----
-#+end_src
-** Impressum
-:PROPERTIES:
-:EXPORT_HUGO_SECTION: /
-:EXPORT_FILE_NAME: DSGVO
-:END:
+```
+
+
+### Impressum {#DSGVO}
 
 Verantwortlich für den Inhalt nach § 55 Abs. 2 RStV:
 
-#+begin_src
+```nil
 Valentin Boettcher
 Raecknitzhoehe 15
 01217 DD
 
 Kontakt:
 E-Mail: hiro at protagon dot space
-#+end_src
+```
 
-* Blog
-** KDE                                                                :@KDE:
-*** KDE GSOC: Intro                                                  :GSOC:
-:PROPERTIES:
-:EXPORT_FILE_NAME: gsoc_intro
-:EXPORT_DATE: [2021-06-27 15:00]
-:END:
+
+## Blog {#blog}
+
+
+### KDE <span class="tag"><span class="_KDE">@KDE</span></span> {#kde}
+
+
+#### KDE GSOC: Intro <span class="tag"><span class="GSOC">GSOC</span></span> {#gsoc_intro}
 
 Hi folks, talking to you over the interwebs is Valentin Boettcher who
 is overhauling the Deep Sky Object (DSO) system in the KStars Desktop
@@ -230,7 +226,7 @@ should funnel my enthusiasm into familiarizing myself with software
 development and the open source software community. I promptly wiped
 my hackintosh laptop to put Linux with KDE on it[^3]. After reading
 ESR's famous ["How To Become A
-Hacker"](http://www.catb.org/~esr/faqs/hacker-howto.html), I followed
+Hacker"](<http://www.catb.org/~esr/faqs/hacker-howto.html>), I followed
 the advice given therein, which was to find an open source project and
 start hacking on it. I already liked KDE and space, so KStars was in
 the center of the Venn-diagram :P.  I went ahead and busied myself
@@ -275,23 +271,18 @@ I will be detailing how it's going so far :).
 Cheers,
 Valentin
 
-
 [^1]: In KStars the sky is subdivided into triangular pixels "Trixels".
 
-    Assigning each object to a trixel makes it efficient to retrieve all objects from a certain part of the sky.
+Assigning each object to a trixel makes it efficient to retrieve all objects from a certain part of the sky.
 
 [^2]: which had to do with figuring out why some faint asteroids where missing
 
 [^3]: which I knew from my school time when I used it on my netbook because there was a cool neon "Hacker" theme for it :P
 
-*** KDE GSOC: Community Bonding and First Coding Period (May 17 - July 11) :GSOC:
-:PROPERTIES:
-:EXPORT_FILE_NAME: gsoc_1
-:EXPORT_DATE: [2021-07-11 15:00]
-:ID:       b8c4e6f0-186b-4623-9d98-3110a5d8942c
-:END:
 
-Of course the task I described in the [[*KDE GSOC: Intro][last post]] looks and is quite
+#### KDE GSOC: Community Bonding and First Coding Period (May 17 - July 11) <span class="tag"><span class="GSOC">GSOC</span></span> {#gsoc_1}
+
+Of course the task I described in the [last post](#gsoc_intro) looks and is quite
 monumental. That is why I laid some of the groundwork for my GSOC
 beforehand (in the actual German semester breaks). This work continued
 in the community bonding and first coding period and will therefore be
@@ -326,11 +317,11 @@ Simha.
 
 With this knowledge I was able to go forward and devise a concrete
 plan for implementing the new DSO system. First of all, albeit I would
-love to use ~std::variant~ and some kind of entity component system
+love to use `std::variant` and some kind of entity component system
 for the different DSO types I settled with a one-for-all type for deep
-sky objects. The primary reason for this was, that KStars uses ~C++14~
+sky objects. The primary reason for this was, that KStars uses `C++14`
 which lacks variants (and the extremely useful
-~std::optional~). Furthermore the DSOs all share common structure, so
+`std::optional`). Furthermore the DSOs all share common structure, so
 this was just the simpler and thus preferable option. The second
 design decision was not to load all of the DSOs into memory, but
 instead to take inspiration from the deep star catalogs. For one they
@@ -362,7 +353,7 @@ how should deduplication work?  The method I settled on is really
 quite simple. Each object gets a (relatively stable) hash that is
 calculated from some of its properties which is henceforth called the
 ID.  When two objects (from different catalogs or otherwise) are the
-same _physical_ object, then they will both be assigned the same
+same <span class="underline">physical</span> object, then they will both be assigned the same
 object id (OID) which is just the ID of the object in the "oldest"
 catalog (with the lowest catalog id), trying to make it stable under
 the introduction of new catalogs. Additionally each catalog is
@@ -398,10 +389,10 @@ file with the application id set to a special value with almost the
 same structure as the catalog database proper. The application id
 enables KStars to check if the database is really a catalog file and
 not to rely just on the structure of the contained database for
-that. In the future the ~file~ command and other utilities like file
+that. In the future the `file` command and other utilities like file
 managers could be made aware of this special application id to
 recognize the catalog files. We will leave it this level of detail for
-now. For more details please refer to my [[https://protagon.space/stuff/kstars_cleaned.org][notes]].
+now. For more details please refer to my [notes](https://protagon.space/stuff/kstars_cleaned.org).
 
 Of course the operations on catalogs have to somehow be accessible in
 the GUI of KStars so this was another point of action. Before that
@@ -421,30 +412,30 @@ objects in memory which are currently visible. Thus a LRU cache was
 implemented with the trixel id, which essentially labels a portion of
 the sky, as key. This cache is fully unit tested and relies completely
 on standard library containers so not a single pointer appears in the
-code.[fn:1] As an added bonus, the cache is completely transparent by
+code.[^fn:1] As an added bonus, the cache is completely transparent by
 default and only takes effect if configured to so and therefore
 includes the typical use case of comparatively small catalogs up to
 ten-thousands of objects.
 
 But here the culture clash between the new DSO implementation and the
 traditional KStars way of things became apparent. In many places
-KStars expects pointers to so called ~SkyObjects~ with no real clue as
+KStars expects pointers to so called `SkyObjects` with no real clue as
 to where they are actually stored and how their memory is managed and
 with the implication that the object is expected to live
 forever. Well, the DSOs from the catalogs aren't supposed to be kept
 around forever and thus a compromise is in order. So whenever a
 pointer to an object is required, it is inserted into a linked
-list[fn:2] in a hash table with the trixel as index or is taken from
+list[^fn:2] in a hash table with the trixel as index or is taken from
 there if it's already present. I hope that we can eventually
 transition away from raw pointers and manage life time either
 explicitly or with smart pointers.
 
 With this done and basic drawing working I went on to implement a
-basic GUI for catalog management[fn:3].  I also wrote unit tests for
+basic GUI for catalog management[^fn:3].  I also wrote unit tests for
 the database functionality which proved itself as very useful later
 on. After that I couldn't delay anymore. Back when I implemented the
 component for the new DSOs I went as far as getting it to compile and
-not much further[fn:4].
+not much further[^fn:4].
 
 Now I had to go around and find out what broke. A lot broke and I did
 not find all of it until the big merge :P.  A rather interesting
@@ -463,14 +454,14 @@ to the dismay of its original author. That showed me that I am not
 entitled to judge the merit of individual features and whether they
 could be sacrificed for the "greater good". The answer is: They
 cannot! Another lesson I've learned is, that too much magic just ain't
-no good. I had created a variadic template wrapper for the ~QSqlQuery~
+no good. I had created a variadic template wrapper for the `QSqlQuery`
 type for syntactical convenience and shot myself in the food with
 it. It ended up obscuring an error message and prevented me from
 reproducing a crash that users on certain platforms were
 experiencing. After a not-so-great couple of days I, with the help of
 two kind people, finally found the lowest common denominator of the
 problem: an old, but still supported version of QT which bundled an
-old version of sqlite which in turn did not support the ~NULLS FIRST~
+old version of sqlite which in turn did not support the `NULLS FIRST`
 directive that I was using. Turtles all the way down. Although I
 tested all my changes on KDE Neon (I am on NixOS primarily) the wise
 thing would have been to develop or at least test everything with an
@@ -489,7 +480,7 @@ ugly) CSV importer so that users can import arbitrary CSV-ish
 catalogs. The greater chunk however I will cover next week: The python
 catalog package tooling with continuous integration and
 deduplication. The catalogs churned out by that framework are then
-installed via the ~KNewStuff~ framework. I discovered two interesting
+installed via the `KNewStuff` framework. I discovered two interesting
 bugs in this framework because KStars seems to be almost the only
 program using the framework in this specific way.
 
@@ -503,47 +494,26 @@ P.S. Currently I am working on documenting both the new DSO GUI and
 the python tooling. I hope eventually they will pass the "noob test"
 :P. But, as you may have recognized above, I am not the best explainer.
 
-[fn:4] I really appreciate c++ as a compiled language.
 
-[fn:3] See the KStars Handbook.
+#### KDE GSOC: Second Coding Period; Some Notes on the Catalog Repo. <span class="tag"><span class="GSOC">GSOC</span></span> {#gsoc-some-notes}
 
-[fn:2] References to objects in linked lists are stable.
+> TL;DR DSO catalogs in KStars are now generated reproducibly in the
+> CI. A list of available catalogs and documentation can be found [here](https://protagon.space/catalogs/pages/catalogs.html).
 
-[fn:1] As a matter of fact, I set out with the goal not to do any
-manual memory management and not to use a single pointer in the new
-code. I have been successful thus far if you would be so lenient not
-to count glue code for legacy KStars systems.
-
-*** KDE GSOC: Second Coding Period; Some Notes on the Catalog Repo.  :GSOC:
-CLOSED: [2021-08-08 Sun 12:15]
-:PROPERTIES:
-:EXPORT_FILE_NAME: gsoc-some-notes
-:ID:       8f16ce69-3ed9-4e09-992a-47e511e9bb0b
-:END:
-
-#+BEGIN_QUOTE
-TL;DR DSO catalogs in KStars are now generated reproducibly in the
-CI. A list of available catalogs and documentation can be found [[https://protagon.space/catalogs/pages/catalogs.html][here]].
-#+END_QUOTE
-
-As promised [[id:b8c4e6f0-186b-4623-9d98-3110a5d8942c][last time]] I'll now go a little into the [[https://invent.kde.org/vboettcher/kstars-catalogs][Catalogs
-Repository]].
+As promised [last time](#gsoc_1) I'll now go a little into the [Catalogs
+Repository](https://invent.kde.org/vboettcher/kstars-catalogs).
 
 Usually DSO catalogs are pretty static and rarely change due to the
 nature of their contents. But although galaxies do not tend to jump
 around in the sky, catalogs still get updates to correct typos or
 update coordinates with more precise measurement. Our primary catalog
-[[https://github.com/mattiaverga/OpenNGC][OpenNGC]] for example gets updates quite regularly.
+[OpenNGC](https://github.com/mattiaverga/OpenNGC) for example gets updates quite regularly.
 
-#+DOWNLOADED: screenshot @ 2021-08-08 12:21:27
-#+CAPTION: OpenNGC is being updated regularly.
-[[file:static/images/GSOC:_Second_Coding_Period;_Some_Notes_on_the_Catalog_Repo./2021-08-08_12-21-27_screenshot.png]]
+{{< figure src="/images/GSOC:_Second_Coding_Period;_Some_Notes_on_the_Catalog_Repo./2021-08-08_12-21-27_screenshot.png" caption="<span class=\"figure-number\">Figure 2: </span>OpenNGC is being updated regularly." >}}
 
 And even though a catalog might not change, it would nevertheless be
 desirable to have a record on how it was derived from its original
-format in a /reproducible/ way[fn::And in a way that hopefully lasts
-for some time. Currently very few people know how to generate KStars'
-deep star catalogs...]. Last but not least, having all catalogs in a
+format in a _reproducible_ way[^fn:5]. Last but not least, having all catalogs in a
 central place in kind of the same format would make deduplication a
 lot easier.
 
@@ -554,55 +524,55 @@ Well, basically every catalog is just a python module that must
 implement a class. By overwriting certain methods, the catalog can be
 built up. The framework provides certain support functionality and an
 interface to some catalog database features by way of a python binding
-to some =KStars= code. Apart from that one has complete freedom in
+to some `KStars` code. Apart from that one has complete freedom in
 implementing the details although some conventions should be
-followed[fn::I haven't yet worked those out yet TBH.].
+followed[^fn:6].
 
 A simple random catalog looks like the following listing.
 
-#+begin_src python
-  def generate_random_string(str_size, allowed_chars=string.ascii_letters):
-      return "".join(random.choice(allowed_chars) for x in range(str_size))
+```python
+def generate_random_string(str_size, allowed_chars=string.ascii_letters):
+    return "".join(random.choice(allowed_chars) for x in range(str_size))
 
 
-  class RandomCatalogBase(Factory):
-      SIZE = 100
-      meta = Catalog(
-          id=999,
-          name="random",
-          maintainer="Valentin Boettcher <hiro@protagon.space>",
-          license="DWYW Do what ever you want with it!",
-          description="A huge catalog of random DSOs",
-          precedence=1,
-          version=1,
-      )
+class RandomCatalogBase(Factory):
+    SIZE = 100
+    meta = Catalog(
+        id=999,
+        name="random",
+        maintainer="Valentin Boettcher <hiro@protagon.space>",
+        license="DWYW Do what ever you want with it!",
+        description="A huge catalog of random DSOs",
+        precedence=1,
+        version=1,
+    )
 
-      def load_objects(self):
-          for _ in range(self.SIZE):
-              ob_type = random.choice(
-                  [ObjectType.STAR, ObjectType.GALAXY, ObjectType.GASEOUS_NEBULA]
-              )
-              ra = random.uniform(0, 360)
-              dec = random.uniform(-90, 90)
-              mag = random.uniform(4, 16)
-              name = generate_random_string(5)
-              long_name = generate_random_string(10)
+    def load_objects(self):
+        for _ in range(self.SIZE):
+            ob_type = random.choice(
+                [ObjectType.STAR, ObjectType.GALAXY, ObjectType.GASEOUS_NEBULA]
+            )
+            ra = random.uniform(0, 360)
+            dec = random.uniform(-90, 90)
+            mag = random.uniform(4, 16)
+            name = generate_random_string(5)
+            long_name = generate_random_string(10)
 
-              yield self._make_catalog_object(
-                  type=ob_type,
-                  ra=ra,
-                  dec=dec,
-                  magnitude=mag,
-                  name=name,
-                  long_name=long_name,
-                  position_angle=random.uniform(0, 180),
-#+end_src
+            yield self._make_catalog_object(
+                type=ob_type,
+                ra=ra,
+                dec=dec,
+                magnitude=mag,
+                name=name,
+                long_name=long_name,
+                position_angle=random.uniform(0, 180),
+```
 
-It implements only the ~load_objects~ build phase and is a kind of
+It implements only the `load_objects` build phase and is a kind of
 minimum viable catalog.
 
 The basic idea behind the structure of a catalog implementation is
-that the build process can be subdivided into four /phases/ which can
+that the build process can be subdivided into four _phases_ which can
 be partially parallelized by the framework.
 
 In the download phase each catalog defines how its content may be
@@ -612,19 +582,18 @@ the framework which takes care of molding it into the correct
 format. During the deduplication phase each catalog can query the
 catalog database to detect and flag duplicates. And in the final dump
 phase the contents of each catalog are written into separate files
-which =KStars= can then import[fn::The catalog package files actually
-do have the same format as the main DSO database :).].
+which `KStars` can then import[^fn:7].
 
-If you are interested in the details I can recommend the [[https://protagon.space/catalogs/][documentation]]
+If you are interested in the details I can recommend the [documentation](https://protagon.space/catalogs/)
 for the catalog repository.
 
 After implementing the framework porting over all the existing
 catalogs to the new system, I went on to configure the KDE Invent CI
 to rebuild the catalogs upon changes. The CI artifacts are sync-ed to
-the ~KNewStuff~ data server for KStars periodically and users are able
+the `KNewStuff` data server for KStars periodically and users are able
 to update their catalogs to the latest version.
 
-To get the CI working I had to create a [[https://invent.kde.org/vboettcher/python-kstars-docker][Docker image]] that encapsulates
+To get the CI working I had to create a [Docker image](https://invent.kde.org/vboettcher/python-kstars-docker) that encapsulates
 the more or less complicated build process for the KStars python
 bindings. This container is updated weekly by CI and is also suitable
 as a quick-and-easy development environment for new catalogs.
@@ -633,17 +602,13 @@ That's it for today but do not fret. This is not all that I've
 done. There's still more to come including something that has to do
 with the following picture.
 
-#+DOWNLOADED: screenshot @ 2021-08-08 13:09:43
-[[file:static/images/GSOC:_Second_Coding_Period;_Some_Notes_on_the_Catalog_Repo./2021-08-08_13-09-43_screenshot.png]]
+{{< figure src="/images/GSOC:_Second_Coding_Period;_Some_Notes_on_the_Catalog_Repo./2021-08-08_13-09-43_screenshot.png" >}}
 
 Cheers,
 Valentin
 
-*** KDE GSOC: Wrapping it up...                                 :GSOC:
-CLOSED: [2021-08-16 Mon 18:53]
-:PROPERTIES:
-:EXPORT_FILE_NAME: kde-gsoc-wrapping-it-up-dot
-:END:
+
+#### KDE GSOC: Wrapping it up... <span class="tag"><span class="GSOC">GSOC</span></span> {#kde-gsoc-wrapping-it-up-dot}
 
 Well, we all know that the work on open source projects is never truly
 finished, but all of the core goals have been achieved and the time
@@ -652,7 +617,7 @@ talk about one last small but user-facing feature that I've
 implemented.
 
 I've successfully implemented a new DSO backend and smoothed out most
-of the bugs. The [[id:8f16ce69-3ed9-4e09-992a-47e511e9bb0b][python framework]] does work satisfactory and all
+of the bugs. The [python framework](#gsoc-some-notes) does work satisfactory and all
 existing catalogs have been ported. There remains the UGC catalog
 which will be imported in the future, either by me or by another
 member of the project. The latter option would be a good way to
@@ -660,47 +625,42 @@ battle-test the documentation and I would prefer this option because I
 do not want to remain the only person familiar with the system.
 
 To quantify my contributions during the GSOC period see the snippet
-below, although I do not think such numbers have much to say[fn::I
-deleted the old OpenNGC text catalog which contained more than ten
-thousand lines :P.].
-#+begin_src shell
-   Valentin Boettcher <hiro@protagon.space>:
-          insertions:    15193  (19%)
-          deletions:     23402  (35%)
-          files:         312    (21%)
-          commits:       76     (23%)
-          lines changed: 38595  (26%)
-#+end_src
+below, although I do not think such numbers have much to say[^fn:8].
+
+```shell
+Valentin Boettcher <hiro@protagon.space>:
+       insertions:    15193  (19%)
+       deletions:     23402  (35%)
+       files:         312    (21%)
+       commits:       76     (23%)
+       lines changed: 38595  (26%)
+```
+
 Furthermore there is
-=https://invent.kde.org/education/kstars/-/merge_requests?scope=all&state=merged&author_username=vboettcher=
-(the list of my merge requests)[fn::You have to paste this link into
-the url bar manually to make it work!] which does go into more detail.
+`https://invent.kde.org/education/kstars/-/merge_requests?scope=all&state=merged&author_username=vboettcher`
+(the list of my merge requests)[^fn:9] which does go into more detail.
 
 The user-facing side of my work is not very prominent. There is a
 small GUI for managing catalogs that allows importing, exporting,
 creating and editing catalogs.
 
-#+DOWNLOADED: screenshot @ 2021-08-16 20:13:41
-[[file:static/images/KDE_GSOC:_Wrapping_it_up.../2021-08-16_20-13-41_screenshot.png]]
+{{< figure src="/images/KDE_GSOC:_Wrapping_it_up.../2021-08-16_20-13-41_screenshot.png" >}}
 
-#+DOWNLOADED: screenshot @ 2021-08-16 20:18:49
-[[file:static/images/KDE_GSOC:_Wrapping_it_up.../2021-08-16_20-18-49_screenshot.png]]
+{{< figure src="/images/KDE_GSOC:_Wrapping_it_up.../2021-08-16_20-18-49_screenshot.png" >}}
 
 There is also a basic CSV importer that should make it easier for
 users to get their own custom data into KStars.
 
-#+DOWNLOADED: /home/hiro/Documents/Projects/kstars/doc/csv_openngc.png @ 2021-08-16 20:30:54
-#+CAPTION: The CSV importer. It sure needs some prettying up :P.
-[[file:static/images/KDE_GSOC:_Wrapping_it_up.../2021-08-16_20-30-54_csv_openngc.png]]
+{{< figure src="/images/KDE_GSOC:_Wrapping_it_up.../2021-08-16_20-30-54_csv_openngc.png" caption="<span class=\"figure-number\">Figure 1: </span>The CSV importer. It sure needs some prettying up :P." >}}
 
 Nevertheless, the main goal of my work was to create a seamless
 replacement for the old DSO system of which the user should not be too
 aware. To that end, I've implemented a feature that should have been
 in my overhaul from the beginning: a mechanism to import custom
-objects [[https://invent.kde.org/education/kstars/-/merge_requests/377][from the old DSO database]]. Now, on startup the user is being
+objects [from the old DSO database](https://invent.kde.org/education/kstars/-/merge_requests/377). Now, on startup the user is being
 asked whether the old database should be imported if it is present.
-#+DOWNLOADED: screenshot @ 2021-08-16 20:38:10
-[[file:static/images/KDE_GSOC:_Wrapping_it_up.../2021-08-16_20-38-10_screenshot.png]]
+
+{{< figure src="/images/KDE_GSOC:_Wrapping_it_up.../2021-08-16_20-38-10_screenshot.png" >}}
 
 And finally: Colors!
 
@@ -712,19 +672,13 @@ personal taste. Also, a single color can't fit all of KStars' color
 schemes. Therefore colors can now be customized for each catalog and
 color scheme through a "pretty" dialog.
 
-#+DOWNLOADED: screenshot @ 2021-08-16 20:52:46
-#+CAPTION: The "pretty" color picker.
-[[file:static/images/KDE_GSOC:_Wrapping_it_up.../2021-08-16_20-52-46_screenshot.png]]
+{{< figure src="/images/KDE_GSOC:_Wrapping_it_up.../2021-08-16_20-52-46_screenshot.png" caption="<span class=\"figure-number\">Figure 1: </span>The \"pretty\" color picker." >}}
 
 Now you can do things like this:
 
-#+DOWNLOADED: screenshot @ 2021-08-16 20:49:03
-#+CAPTION: Color Scheme: Moonless Night
-[[file:static/images/KDE_GSOC:_Wrapping_it_up.../2021-08-16_20-49-03_screenshot.png]]
+{{< figure src="/images/KDE_GSOC:_Wrapping_it_up.../2021-08-16_20-49-03_screenshot.png" caption="<span class=\"figure-number\">Figure 1: </span>Color Scheme: Moonless Night" >}}
 
-#+DOWNLOADED: screenshot @ 2021-08-16 20:51:16
-#+CAPTION: Color Scheme: Starchart
-[[file:static/images/KDE_GSOC:_Wrapping_it_up.../2021-08-16_20-51-16_screenshot.png]]
+{{< figure src="/images/KDE_GSOC:_Wrapping_it_up.../2021-08-16_20-51-16_screenshot.png" caption="<span class=\"figure-number\">Figure 1: </span>Color Scheme: Starchart" >}}
 
 And again I've learned that user feedback is very important. I would
 never have thought of this feature on my own but must admit that it
@@ -736,11 +690,8 @@ this blog post and thank you for your attention.
 Cheers,
 Valentin
 
-*** KDE GSOC: Thanks and Work Product                                :GSOC:
-CLOSED: [2021-08-23 Mon 00:17]
-:PROPERTIES:
-:EXPORT_FILE_NAME: kde-gsoc-thanks-and-work-product
-:END:
+
+#### KDE GSOC: Thanks and Work Product <span class="tag"><span class="GSOC">GSOC</span></span> {#kde-gsoc-thanks-and-work-product}
 
 First of all: A big thanks to my mentor Jasem Mutlaq and the KStars
 Team.
@@ -752,122 +703,123 @@ certain that this will continue to be the case.
 
 Furthermore, the rest of the KStars Team, especially Akarsh Simha,
 Wolfgang Reissenberger and Robert Lancaster who have found bugs,
-helped me to debug them and suggested improvements[fn::Akarsh prompted
-the color stuff...].
+helped me to debug them and suggested improvements[^fn:10].
 
 I also thank Yuri Chornoivan for correcting all the typos that I've
 inadvertently introduced into the handbook and the comments in the
 code.
 
-**** Work Product
-See also the previous posts with the =GSOC= tag.
-For a list with the MRs linked see [[https://invent.kde.org/education/kstars/-/wikis/GSOC-2021:-Work-Product][here]].
+<!--list-separator-->
 
-- DSO Overhaul Main MR
-  - !93
-  - this constitutes the bulk of the contributions
-  - the main GSOC coding period was mainly used to add more features
-    and fix integration bugs
-- Python Framework
-  - https://invent.kde.org/vboettcher/kstars-catalogs
-  - this is also a rather BIG part of the GSOC effort
-  - see also [[https://protagon.space/catalogs/][the documentation]]
-- Minor Fixes...
-  - !308
-  - !309
-  - !310
-  - !312
-  - !313
-  - !313
-  - !315
-    - that one was hard to find... Thanks Wolfgang :)
-  - !317
-  - !321
-  - !322
-  - !323
-  - !325
-  - !326
-    - and again !327
-  - !330
-    - slight design improvement for the hashing of objects
-  - !335
-  - !338
-  - !339
-    - not a bug introduced by me for a change :P
-  - !342
-  - !343
-  - !354
-  - !355
-  - !362
-  - !373
-  - !374
-  - !380
-  - !382
-    - low hanging fruit :)
-  - !383
-  - !384
-    - I should have added a "Thumbnail Odyssey" :P
-  - !392
-  - !381
-- "Bullet Proof" database initialization
-  - !314
-- Label Density Odyssey
-  - !316
-  - !319
-- Is the moon really not there if you don't look?
-  - !320
-- What's Interesting Fixes
-  - !328
-  - !352
-    - Thanks Robert for pointing this out.
-- Search Dialog
-  - !331
-  - !348
-- Database Migration
-  - !337
-- Handbook Updates
-  - !349
-  - !357
-  - see also the =Config= section in the handbook
-- Colors :)
-  - !375
-  - Thanks Akarsh for pointing this out.
-- Import old Database
-  - !377
+-  Work Product
 
-** Small Insights                                                  :@Tricks:
-*** How to use the Systemd userspace DBus API on Traivis-CI       :DBUS:CI:
-:PROPERTIES:
-:EXPORT_FILE_NAME: sysduser
-:EXPORT_DATE: [2020-07-11 14:00]
-:END:
+    See also the previous posts with the `GSOC` tag.
+    For a list with the MRs linked see [here](https://invent.kde.org/education/kstars/-/wikis/GSOC-2021:-Work-Product).
+
+    -   DSO Overhaul Main MR
+        -   !93
+        -   this constitutes the bulk of the contributions
+        -   the main GSOC coding period was mainly used to add more features
+            and fix integration bugs
+    -   Python Framework
+        -   <https://invent.kde.org/vboettcher/kstars-catalogs>
+        -   this is also a rather BIG part of the GSOC effort
+        -   see also [the documentation](https://protagon.space/catalogs/)
+    -   Minor Fixes...
+        -   !308
+        -   !309
+        -   !310
+        -   !312
+        -   !313
+        -   !313
+        -   !315
+            -   that one was hard to find... Thanks Wolfgang :)
+        -   !317
+        -   !321
+        -   !322
+        -   !323
+        -   !325
+        -   !326
+            -   and again !327
+        -   !330
+            -   slight design improvement for the hashing of objects
+        -   !335
+        -   !338
+        -   !339
+            -   not a bug introduced by me for a change :P
+        -   !342
+        -   !343
+        -   !354
+        -   !355
+        -   !362
+        -   !373
+        -   !374
+        -   !380
+        -   !382
+            -   low hanging fruit :)
+        -   !383
+        -   !384
+            -   I should have added a "Thumbnail Odyssey" :P
+        -   !392
+        -   !381
+    -   "Bullet Proof" database initialization
+        -   !314
+    -   Label Density Odyssey
+        -   !316
+        -   !319
+    -   Is the moon really not there if you don't look?
+        -   !320
+    -   What's Interesting Fixes
+        -   !328
+        -   !352
+            -   Thanks Robert for pointing this out.
+    -   Search Dialog
+        -   !331
+        -   !348
+    -   Database Migration
+        -   !337
+    -   Handbook Updates
+        -   !349
+        -   !357
+        -   see also the `Config` section in the handbook
+    -   Colors :)
+        -   !375
+        -   Thanks Akarsh for pointing this out.
+    -   Import old Database
+        -   !377
+
+
+### Small Insights <span class="tag"><span class="_Tricks">@Tricks</span></span> {#small-insights}
+
+
+#### How to use the Systemd userspace DBus API on Traivis-CI <span class="tag"><span class="DBUS">DBUS</span><span class="CI">CI</span></span> {#sysduser}
+
 I am currently working on a project which involves talking to the
-~systemd~ userspace session via the session ~dbus~ instance.
+`systemd` userspace session via the session `dbus` instance.
 
 After some fiddling around and enabling debug mode on travis via the
 excellent user support, I came up with the following.
 
-Travis uses VMs that run ~ubuntu~ which comes with ~systemd~.  To
-enable the userspace ~dbus~ session, one has to install the
-~dbus-user-session~ package. After the installation, it has to be
-activated through ~systemctl --user start dbus~. Furthermore one has
-to set the ~DBUS_SESSION_BUS_ADDRESS~ environment variable through
-~export DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/$(id -u)/bus~.
+Travis uses VMs that run `ubuntu` which comes with `systemd`.  To
+enable the userspace `dbus` session, one has to install the
+`dbus-user-session` package. After the installation, it has to be
+activated through `systemctl --user start dbus`. Furthermore one has
+to set the `DBUS_SESSION_BUS_ADDRESS` environment variable through
+`export DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/$(id -u)/bus`.
 
 TL;DR
-#+begin_src yaml
+
+```yaml
 script:
   - sudo apt update
   - sudo apt install dbus-user-session
   - systemctl --user start dbus
   - export DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/$(id -u)/bus
-#+end_src
+```
 
-*** Fixing Linux Dualboot: Reinstalling the Windows EFI Bootloader Files
-:PROPERTIES:
-:EXPORT_FILE_NAME: dualboot
-:EXPORT_DATE: [2020-07-11 15:00]
-:END:
+
+#### Fixing Linux Dualboot: Reinstalling the Windows EFI Bootloader Files {#dualboot}
+
 Note to my future self :).
 
 Reloading my Linux install after a pretty radical 'nuke and pave' I
@@ -882,56 +834,45 @@ Don't follow this guide blindly. Think about every step you take,
 because you can seriously mess up your system :).
 
 With that out of the way, the things you have to do are:
- 1. Boot a windows install medium.
- 2. Choose your language and enter the 'repair options'.
- 3. Go to advanced and select 'command line'.
- 4. To mount the efi partition type diskpart and in diskpart then type
+
+1.  Boot a windows install medium.
+2.  Choose your language and enter the 'repair options'.
+3.  Go to advanced and select 'command line'.
+4.  To mount the efi partition type diskpart and in diskpart then type
     list volume. A list of volumes will be printed and one of them the
     efi partition (usually around 500mb ). Select this partition
-    (select volume ~[number]~) and assign a drive letter (~X~ is the
+    (select volume `[number]`) and assign a drive letter (`X` is the
     drive letter you assign).
- 5. Check where your windows partition is mounted. The diskpart list
+5.  Check where your windows partition is mounted. The diskpart list
     volume output will probably include it. I will assume that it is
-    volume ~C~. Exit diskart with ~exit~.
- 6. To finally install the boot files type the command ~bcdboot
-    c:\windows /s x:~. This will generate boot files based on
-    ~c:\windows~ and install them on the partition with the letter
-    ~X~.
+    volume `C`. Exit diskart with `exit`.
+6.  To finally install the boot files type the command `bcdboot
+        c:\windows /s x:`. This will generate boot files based on
+    `c:\windows` and install them on the partition with the letter
+    `X`.
 
 Thats it, you can reboot now.  You may have to reconfigure grub (or
 whatever loader you use). On arch-linux, make sure you have os-prober
 installed :).
-*** Installing without Fear
-:PROPERTIES:
-:EXPORT_FILE_NAME: inst_without_fear
-:EXPORT_DATE: [2020-09-16 15:00]
-:END:
+
+
+#### Installing without Fear {#inst_without_fear}
+
 Note to self:
 
 If you want to make sure some nice GNU/Linux installer does not touch
-certain drives just run ~echo 1 > /sys/block/sdX/device/delete~ in a
-**root** shell and the drive will vanish from the system.
+certain drives just run `echo 1 > /sys/block/sdX/device/delete` in a
+****root**** shell and the drive will vanish from the system.
 
 Shamelessly stolen from:
-https://askubuntu.com/questions/554398/how-do-i-permanently-disable-hard-drives
-*** DONE Hours of my life
-CLOSED: [2025-01-10 Fri 03:57]
-:PROPERTIES:
-:EXPORT_FILE_NAME: hours-of-my-life
-:END:
-have been wasted why the line spacing and ~DIV~ calculation (typearea) of KOMA script was hanging with ~LuaTeX~.
+<https://askubuntu.com/questions/554398/how-do-i-permanently-disable-hard-drives>
 
-TL;DR: ~LuaTeX~ and ~setspace~ don't go together.
 
-I stripped out the custom fonts, I removed (seemingly) every package, I ported my document to ~PDFTex~. At long last after HOURS spent over several days if found the culprit. This time, I actually removed /everything/ and there it was: ~\usepackage{setspace}~ was the culprit. Why did I include it? I don't anymore and I wont spend any more time on this.
+### Neuseeland <span class="tag"><span class="_Neuseeland">@Neuseeland</span></span> {#neuseeland}
 
-** Neuseeland                                                  :@Neuseeland:
-*** Hurra endlich Da
-:PROPERTIES:
-:EXPORT_FILE_NAME: HurraendlichDa
-:EXPORT_DATE: [2016-07-24 21:29:07]
-:ID:       80dd6370-281d-4370-bf97-d884681033b3
-:END:
+
+#### Hurra endlich Da {#HurraendlichDa}
+
 Nun bin ich angekommen. (Ok, eigentlich schon vorgestern).  Der Jetlag
 peitscht mich immer noch um 3 Uhr aus dem Bett, aber das Wetter ist
 schön.
@@ -945,22 +886,18 @@ Grüße Valentin
 
 Blablabla, ein äußerst prosaischer Post.
 
-*** Eine erste woche
-:PROPERTIES:
-:EXPORT_FILE_NAME: Eineerstewoche
-:EXPORT_DATE: [2016-07-29 06:21:11]
-:END:
+
+#### Eine erste woche {#Eineerstewoche}
+
 Morgen bin ich schon (endlich?) eine Woche in Neuseeland.  Meine
 stimmung wechselt zwischen freude, begeisterung und überwältigung (von
 allem was auf mich zukommt).  Blablabla, heute bin ich endlich einmal
 gewandert, wobei der das Wandern während des wanderns ausführlich
-[dokumentiert](https://goo.gl/photos/J73GEXPfECn7JjYUA) wurde.
+[dokumentiert](<https://goo.gl/photos/J73GEXPfECn7JjYUA>) wurde.
 
-*** Status
-:PROPERTIES:
-:EXPORT_FILE_NAME: Status
-:EXPORT_DATE: [2016-08-08 06:57:51]
-:END:
+
+#### Status {#Status}
+
 Kia ora aus dem Land der langem weissen Wolke.  Um es kurz zu machen:
 ich habe einen Job beim department of conservation.  Zurzeit wird ein
 Video eines Albatross Nestes ueber YouTube live gestreamed.  Das ganze
@@ -970,11 +907,9 @@ damit man einfach weitere kameras in neuseeland aufbauen
 kann. Nebenbei plane ich meinen wwoofing trip auf der Nord- oder doch
 Suedinsel...
 
-*** Statusbericht
-:PROPERTIES:
-:EXPORT_FILE_NAME: Statusbericht
-:EXPORT_DATE: [2016-08-19 06:24:58]
-:END:
+
+#### Statusbericht {#Statusbericht}
+
 Nun bin ich schon vier Wochen in Neuseeland.
 
 Ich habe einen interessanten und anspruchsvollen Job beim Department
@@ -988,7 +923,7 @@ manuell via TeamViever neu gestartet werden. Auch habe ich ein simples
 Firewalls. Ich habe gestern 'zu lang' gearbeitet. So etwas kann in
 Neuseeland vorkommen!
 
-Btw. hier ist der [Link](https://www.youtube.com/watch?v=Gwy2IjA7z-I)
+Btw. hier ist der [Link](<https://www.youtube.com/watch?v=Gwy2IjA7z-I>)
 zur Albatross Cam.
 
 Wenn die Sache vorüber ist fange ich mit dem WWOOFING (jetzt wohl doch
@@ -1000,14 +935,11 @@ Das mit den Bildern versuche ich ich noch hinzubekommen. Die neusten
 sind aus Zealandia. Ich weiß nun warum Neuseeland so reich an
 endemischen Spezies ist :).
 
-
 Jaja ich muss mal einen RSS feed für die Sache einrichten :)
 
-*** Na endlich ein neuer Post
-:PROPERTIES:
-:EXPORT_FILE_NAME: NaendlicheinneuerPost
-:EXPORT_DATE: [2016-09-14 07:39:10]
-:END:
+
+#### Na endlich ein neuer Post {#NaendlicheinneuerPost}
+
 Abenteuer.  Ich habe diesen Blog die letzten paar Monde (o.k. Gott sei
 Dank nur einen Mond) sträflich vernachlässigt. Aber hurra! Ich habe
 etwas erlebt und kann nun einen tatsächlich einen Blogeintrag mit
@@ -1018,12 +950,12 @@ bin Hals über Kopf losgeWWOOFt. Sprich: Ich habe ein paar Hosts
 angeschrieben und dem ersten (und einzigen), der mir antwortete,
 zugesagt.
 
-- Ich bin freudig losgefahren und nach fünf Stunden in Taumarunui
-  angekommen.
-- Ich melde mich beim WWOOFing Host und werde zum Grundstück gelozt.
-- Ich sehe, wie es im WWOOF Profil beschrieben war, einen Garten der
-  in der nächsten Woche Objekt meiner Arbeitsbemühungen werden
-  soll.
+-   Ich bin freudig losgefahren und nach fünf Stunden in Taumarunui
+    angekommen.
+-   Ich melde mich beim WWOOFing Host und werde zum Grundstück gelozt.
+-   Ich sehe, wie es im WWOOF Profil beschrieben war, einen Garten der
+    in der nächsten Woche Objekt meiner Arbeitsbemühungen werden
+    soll.
 
 Voller Optimismus sehe ich das als gutes Zeichen an. Ein paar Minuten
 später werden mir die Umstände meiner Unterbringung erläutert. Das
@@ -1071,10 +1003,11 @@ können, ob das WWOOFing leben für mich taugt. Nichtsdestotrotz geht es
 wieder bergauf.
 
 Nun muss ich eingestehen das Ich ein Esel war:
-1. Ich habe mir wohl nicht vorstellen können was es heißt, für sich
-   allein verantwortlich zu sein.
-2. Was hat mich geritten einen WWOOFing Host so weit im Norden (5h von Wellington) anzunehmen?
-3. Warum habe ich, naiv wie ich bin, nicht weiter über die Gegebenheiten recherchiert?
+
+1.  Ich habe mir wohl nicht vorstellen können was es heißt, für sich
+    allein verantwortlich zu sein.
+2.  Was hat mich geritten einen WWOOFing Host so weit im Norden (5h von Wellington) anzunehmen?
+3.  Warum habe ich, naiv wie ich bin, nicht weiter über die Gegebenheiten recherchiert?
 
 Der Host hatte noch keine Bewertungen. Ich habe törichter weise
 angenommen ich könne der erste sein, der ihm eine gute Rezension
@@ -1087,11 +1020,9 @@ sich seiner Eseleien bewusst zu werden bevor man naiv drauf los rennt!
 
 Gehabt euch Gut!
 
-*** Abenteuer (Diesmal die erfreuliche Art)
-:PROPERTIES:
-:EXPORT_FILE_NAME: AbenteuerDiesmaldieerfreulicheArt
-:EXPORT_DATE: [2016-09-19 07:51:51]
-:END:
+
+#### Abenteuer (Diesmal die erfreuliche Art) {#AbenteuerDiesmaldieerfreulicheArt}
+
 Es war eine schöne Woche. Viel Regen, aber auch viele interessante
 Gespräche. Man reist durch Neuseeland und trifft: Deutsche. Wir waren
 4 Deutsche und ein Österreicher.
@@ -1145,11 +1076,9 @@ Sinne. Ich höre es gerade durch die Tür schallen :).) . Ihr Sohn macht
 Musik für Kinder (bzw. ist Instrumentallehrer).  Nun sehen wir mal was
 die Woche bringt.
 
-*** Noch mehr Abenteuer
-:PROPERTIES:
-:EXPORT_FILE_NAME: NochmehrAbenteuer
-:EXPORT_DATE: [2016-10-08 07:44:40]
-:END:
+
+#### Noch mehr Abenteuer {#NochmehrAbenteuer}
+
 Seit gegrüßt ihr, die ihr von mir so empörenswert lang vernachlässigt
 wurdet.  Nach einem interssanten und anstrengenden Arbeitstag sitze
 ich nun mal wieder vor der Mattscheibe und tippe frohgemut das
@@ -1180,11 +1109,9 @@ Tag.
 
 Nun gehabt euch gut. Bis zum nächsten mal :) .
 
-*** Mir fallen keine Uebrschriften ein
-:PROPERTIES:
-:EXPORT_FILE_NAME: MirfallenkeineUebrschriftenein
-:EXPORT_DATE: [2016-10-18 04:10:29]
-:END:
+
+#### Mir fallen keine Uebrschriften ein {#MirfallenkeineUebrschriftenein}
+
 Mal wieder eine Meldung…
 
 Es waren und sind schöne Tage bei den Darwins. Wir drei Deutsche
@@ -1228,11 +1155,9 @@ trunkener Tollpatschigkeit nach Hause.
 
 Damit gehabt euch Gut und bis zum nächsten mal liebe Kinder.
 
-*** Es leben die langen Ueberschriften - Na so lang ist sie ja auch wieder nicht - Jetzt schon hahahaha reingelegt
-:PROPERTIES:
-:EXPORT_FILE_NAME: EslebendielangenUeberschriftenNasolangistsiejaauchwiedernichtJetztschonhahahahareingelegt
-:EXPORT_DATE: [2016-10-22 08:55:38]
-:END:
+
+#### Es leben die langen Ueberschriften - Na so lang ist sie ja auch wieder nicht - Jetzt schon hahahaha reingelegt {#EslebendielangenUeberschriftenNasolangistsiejaauchwiedernichtJetztschonhahahahareingelegt}
+
 In dem Bemühen meine Post-Frequenz der Frequenz der kosmischen
 Hintergrundstrahlung anzupassen verfasse ich mal noch einen kleinen
 Beitrag in mein (öffentliches) 'Tagebuch'.
@@ -1291,11 +1216,9 @@ Ausflug.
 
 Cheers!
 
-*** Nun auch mit feed!
-:PROPERTIES:
-:EXPORT_FILE_NAME: Nunauchmitfeed
-:EXPORT_DATE: [2016-11-01 09:23:09]
-:END:
+
+#### Nun auch mit feed! {#Nunauchmitfeed}
+
 Ich habe gute Tage aber manchmal eben auch bessere :)!  Die letzte
 Woche war an sich recht unspektakulär, obwohl ich einige Highlights
 unterbringen konnte.  So war ich dienstags bei einem Vortrag über die
@@ -1321,11 +1244,9 @@ Als dann, bis bald :)
 Anmerkung 1. Nov: Heute habe ich einen körperlich sehr auslastenden
 Kampf mit einer Flaxpflanze gewonnen.
 
-*** Regen
-:PROPERTIES:
-:EXPORT_FILE_NAME: Regen
-:EXPORT_DATE: [2016-11-08 04:46:58]
-:END:
+
+#### Regen {#Regen}
+
 Hallo mal wieder. Wie es aussieht, gibt es mal wieder einen neuen
 Blogpost.  Es scheint paradox, ist jedoch zumindest für mich
 zutreffend: Partout habe ich das Gefühl, etwas nicht erwähnt zu
@@ -1348,16 +1269,14 @@ Mir kahm die zündende Idee ein Arbeitstagebuch zu führen, sodass ich
 wenigstens meinen Großtaten Pralen kann. Bisher sieht das Ganze ganz
 Ambitioniert so aus: (wobei ich schon einmal interpolieren musste...)
 
-
-1. Nov: cutting flax, bundling it, digging it out
-2. Nov: Cleaning Lamps in ceiling, cleaning inside of the car 100%
-3. Nov: Filling the flax hole, cleaning plant storage, salt-watering weeds
-4. Nov: Cracking Walnuts, Weeding and Pruning in Community Gardens
-5. Nov: Free Day, Hiking
-6. Nov: Nut Shelling, Cleanup of Garden Space, Sorting Pots
-7. Nov: Vacuuming, Free Day (Museum)
-8. Nov: Pruning, Weeding (long, 5h+)
-
+1.  Nov: cutting flax, bundling it, digging it out
+2.  Nov: Cleaning Lamps in ceiling, cleaning inside of the car 100%
+3.  Nov: Filling the flax hole, cleaning plant storage, salt-watering weeds
+4.  Nov: Cracking Walnuts, Weeding and Pruning in Community Gardens
+5.  Nov: Free Day, Hiking
+6.  Nov: Nut Shelling, Cleanup of Garden Space, Sorting Pots
+7.  Nov: Vacuuming, Free Day (Museum)
+8.  Nov: Pruning, Weeding (long, 5h+)
 
 Am Samstag dann hatte ich einen freien Tag und entfloh in den relativ
 regenfreien Süden auf eine Wanderung am Kapiti Coast.  Nun, das Ganze
@@ -1416,11 +1335,9 @@ Technomathematik! Fast wie Kybernetik, aber noch vielseitiger.
 Nun denne, jetzt gehts für den Sonnenuntergang auf zum Strand! Bis zum
 nächsten mal.
 
-*** Fiji
-:PROPERTIES:
-:EXPORT_FILE_NAME: Fiji
-:EXPORT_DATE: [2016-11-23 03:48:56]
-:END:
+
+#### Fiji {#Fiji}
+
 Frisch aus dem Urlaub im Urlaub. Ich grüße von Fiji, denn ich schreibe
 diesen Eintrag schon auf der Insel und veröffentliche ihn erst
 jetzt. Ein paar wunderbare und sehr komfortable Tage waren es.  Wir
@@ -1505,11 +1422,9 @@ Valentin, der sich das Ganze endlich einmal vom Herzen geschrieben
 hat.  Ps: Ich bin jetzt bei einem Neuen Host und es ist
 wunderschön. Mehr dazu später.
 
-*** Er lebt
-:PROPERTIES:
-:EXPORT_FILE_NAME: Erlebt
-:EXPORT_DATE: [2016-12-09 08:13:30]
-:END:
+
+#### Er lebt {#Erlebt}
+
 Holla. Er lebt noch. Nach ein paar interessanten, angespannten und
 entspannten Wochen nehme mir endlich einmal Zeit, einen überfälligen
 und hoffentlich heiß ersehnten Blogeintrag zu schreiben.
@@ -1659,16 +1574,14 @@ selbstverständlich, wie in Deutschland.
 Damit gab es mal eine grobe Zusammenfassung und ich Falle ins
 Bett. Heute war Markttag und ich bin geschafft. :P
 
-*** Weihnachten
-:PROPERTIES:
-:EXPORT_FILE_NAME: Weihnachten
-:EXPORT_DATE: [2016-12-25 23:26:03]
-:END:
+
+#### Weihnachten {#Weihnachten}
+
 Frohe Weihnachten euch allen.  Zu guter Letzt hat sich Vorgestern auch
 bei mir eine weihnachtliche Stimmung eingestellt. (Auch dank Mamas
 Lebkuchenpacket. Danke :P.)
 
-> Und so kaum es, dass Valentin, Sohn des Stefan (Sohn des Otto), über
+&gt; Und so kaum es, dass Valentin, Sohn des Stefan (Sohn des Otto), über
 eine Straße, die das Folk der Neuseeländer zu jener Zeit
 State-Highway-One nannten, nach Wellington, der Wohnstätte der Familie
 der Robertsons, zog. Aber es kamen im allerlei Sorgen und Zweifel
@@ -1833,11 +1746,9 @@ Punkt. :) Die nächsten Tage werden hoffentlich sehr entspannt :).
 
 Eine Frohe Weihnacht und vielen Dank für eure Geduld.
 
-*** Sueden
-:PROPERTIES:
-:EXPORT_FILE_NAME: Sueden
-:EXPORT_DATE: [2017-01-12 04:03:13]
-:END:
+
+#### Sueden {#Sueden}
+
 Grüße von der Südinsel.
 
 Mit einem Tollen Blick auf das Gebirge im Norden der Südinsel verfasse
@@ -1950,11 +1861,9 @@ So weit so gut. Das waren die bisher südlichsten Abenteuer des
 Valentin in einer (sehr,) sehr kurzen Fassung.  Danke fürs einschalten
 und bis zum nächsten mal liebe Kinder :).
 
-*** Mehr Sueden
-:PROPERTIES:
-:EXPORT_FILE_NAME: MehrSueden
-:EXPORT_DATE: [2017-01-27 06:40:21]
-:END:
+
+#### Mehr Sueden {#MehrSueden}
+
 Ein gefiddel ist das mit Gnu Emacs, aber man will ja nicht ewig mit
 Apple TextEdit weitermachen. Nachdem ich jetzt final auf Linux
 umgestiegen bin, versuche ich nur noch "professionelle" Linux-Hacker
@@ -2026,8 +1935,6 @@ Tour wurde eine fünf stunden Odyssee. Verwirrender weise gab man auf
 dem Schild zwar die Entfernung für Hin- und Rückweg, aber nur die
 halbe Zeit an!
 
-# Nelson
-
 Gleich zum ersten Tage ein Abenteuer. Nachdem ich ausgepackt hatte,
 gingen Cathy Jones, mein neuer Host, und ich einkaufen. Ich war
 positiv überrascht, das man mir sogar Pineaplle-Lumps (Yummy)
@@ -2036,7 +1943,7 @@ aber immer schlechter, bis sie kaum noch das Auto besteigen konnte und
 somit gab es Takeaways zum Abendbrot und wir fuhren zur Notaufnahme.
 Nachdem wir bis 12 Uhr in der Nacht gewartet hatten (ich unter äußerst
 spannender Lektüre von
-(http://www.catb.org/esr/faqs/hacker-howto.html)[http://www.catb.org/esr/faqs/hacker-howto.html])
+(<http://www.catb.org/esr/faqs/hacker-howto.html>)[<http://www.catb.org/esr/faqs/hacker-howto.html>])
 wurde dann ein weiterer kollabierter Wirbel diagnostiziert, Cathy
 bekam Schmerztabletten und es war an mir, den 4x4 nach Hause zu
 fahren.
@@ -2080,11 +1987,9 @@ Mal sehen, wohin und wozu mich das führt …
 
 Bis dahin alles Gute Amigos!
 
-*** Sued Nord Westen
-:PROPERTIES:
-:EXPORT_FILE_NAME: SuedNordWesten
-:EXPORT_DATE: [2017-02-10 05:01:10]
-:END:
+
+#### Sued Nord Westen {#SuedNordWesten}
+
 Zumindest einen kleinen Bericht bin ich euch schuldig.
 
 Meine verbleibenden Tage in Nelson waren wunderbar und wieder empfinde
@@ -2192,7 +2097,7 @@ sehr optimistisch eingeschätzt. Da meine Regenjacke leider nicht
 wasserdicht war und ich zu wenig Wechselsachen eingepackt hatte, war
 ich wohl aber wohl eher selbst an meinem Unglück schuld. Der sonnige
 Abend auf einem Hügel auf halben Weg bergauf (unserer "Camp-Site")
-belohnte die Mühe mit tollen Ausblicken, **Trockenheit** und einem
+belohnte die Mühe mit tollen Ausblicken, ****Trockenheit**** und einem
 gewissen Siegesgefühl.
 
 Während der letzten Tage habe ich den Westcoast auf weniger
@@ -2201,108 +2106,107 @@ werden folgen, sobald ich wieder eine gute Internetverbindung habe.
 
 Bis dahin: Alles Gute und danke für's lesen.
 
-*** Episoden
-:PROPERTIES:
-:EXPORT_FILE_NAME: Episoden
-:EXPORT_DATE: [2017-03-03 00:42:02]
-:END:
+
+#### Episoden {#Episoden}
+
 So vieles habe ich erlebt. Um nicht gleich im Angesicht der
 Niederschrift meiner Erlebnisse zusammenzubrechen, teile ich meinen
 Post in kleinere, auch für den Leser angenehmere Stücke auf.  So folgt
 auch gleich:
 
-****  Erster Teil: West nach Ost
-Nach eineinhalb sehr interessanten Wochen nahe Westport,
-ward es einmal mehr an der Zeit das Heft in die Hand zu nehmen und
-weiterzuziehen. Da mein Host und ich in mancherlei Hinsicht nicht ganz
-auf einer Wellenlänge wahren, waren wir beide Glücklich, dass sich
-zwei neue WWOOFer ankündigten und er somit einen einigermaßen
-höflichen Grund gefunden hatte, mich vorzeitig fortzuschicken. Wie
-tief das Problem lag, wurde mir dann erst wirklich bewusst, als ich
-ein wunderbar übertriebenes Review auf meinem WWOOFing Profil
-bestaunen durfte, indem zwar ein wahrer Kern, aber auch viel Falsches
-und, soweit ich es Beurteilen kann, eine blanke Lüge steckt. Trotzdem
-erschien mir mein Host als ehrlicher und auch umgänglicher Mensch und
-es fällt mir schwer, diese, seine Reaktion zu verstehen. Kultivierte
-Unzufriedenheit führt oft zu irrationalem Verhalten und das auf beiden
-Seiten. Vielleicht dachte John, er müsste die Gemeinschaft der
-WWOOFing Hosts vor einer so schrecklichen Gefahr, wie ich sie in
-seinen Augen für den ehrlichen Arbeitgeber darstelle, warnen. Ich für
-meinen Teil hatte einen deftigen Kratzer im Lack. Meine aktuellen
-Hosts schätzen meine Arbeit aber sehr und siehe da: Die Welt sieht
-schon viel Besser aus.
+<!--list-separator-->
 
-Wo ich schon einmal über vier freie Tage verfügte und es eine recht
-weite Strecke bis zu meinem nächsten Ziel (Christchurch) war, lag es
-nahe, die Zeit reisend (im touristischen Sinne) zu verbringen. Nach
-anfänglichem Regenguss, verbesserte sich die Lage in Punakaiki zu
-einem Grauen aber Regenfreien Regen. Mit einem deutschen Hichthiker,
-den ich auf dem Wege eingesammelt hatte, spazierte ich um die
-sagenumwobenen Pancacke Rocks. Ein echter Touristenfang und dazu noch
-ein recht Schöner. Aber im Angesicht von geteerten Wanderwegen und
-Menschenmassen, deren Autos den Parkplatz selbst an einem Regentag mit
-Leichtigkeit blockieren, erkannte ich wieder einmal, welch ein Glück
-ich habe, kein Tourist zu sein.
+-  Erster Teil: West nach Ost
 
-Mit dem letzten Liter Benzin und einer leuchtenden Warnanzeige
-schafften wir es zuletzt noch nach Greymouth, die größte Stadt am
-Westcoast und der Standort der ersten Tankstelle (Tankstellen: Plural!
-Welch eine Dekadenz!) in 100 Kilometern. Greymouth wirkt auf den
-ersten Blick wie Stephen Kings Derry und auch auf den zweiten Blick
-und erst recht auf den Dritten. Dennoch konnte ich bei klärendem
-Himmel einen schönen Spatziergang an der kilometerlangen Flutmauer,
-hin zum (sehr) kleinen Greymouth-Museum unternehmen. Als Bergbaustadt
-kann man in Greymouth allerlei Gerät und sogar einen (ehemaligen?)
-Hafen bestaunen. Das Museum erzähl viele kleine und interessante
-Geschichten, unterfüttert mit allerlei Fotographie.
+    Nach eineinhalb sehr interessanten Wochen nahe Westport,
+    ward es einmal mehr an der Zeit das Heft in die Hand zu nehmen und
+    weiterzuziehen. Da mein Host und ich in mancherlei Hinsicht nicht ganz
+    auf einer Wellenlänge wahren, waren wir beide Glücklich, dass sich
+    zwei neue WWOOFer ankündigten und er somit einen einigermaßen
+    höflichen Grund gefunden hatte, mich vorzeitig fortzuschicken. Wie
+    tief das Problem lag, wurde mir dann erst wirklich bewusst, als ich
+    ein wunderbar übertriebenes Review auf meinem WWOOFing Profil
+    bestaunen durfte, indem zwar ein wahrer Kern, aber auch viel Falsches
+    und, soweit ich es Beurteilen kann, eine blanke Lüge steckt. Trotzdem
+    erschien mir mein Host als ehrlicher und auch umgänglicher Mensch und
+    es fällt mir schwer, diese, seine Reaktion zu verstehen. Kultivierte
+    Unzufriedenheit führt oft zu irrationalem Verhalten und das auf beiden
+    Seiten. Vielleicht dachte John, er müsste die Gemeinschaft der
+    WWOOFing Hosts vor einer so schrecklichen Gefahr, wie ich sie in
+    seinen Augen für den ehrlichen Arbeitgeber darstelle, warnen. Ich für
+    meinen Teil hatte einen deftigen Kratzer im Lack. Meine aktuellen
+    Hosts schätzen meine Arbeit aber sehr und siehe da: Die Welt sieht
+    schon viel Besser aus.
 
-> Da gab es einen Unternehmer, der das schnellste Dampfschiff
-Neuseelands besaß. Eines Tages lief sein Schiff auf Grund und wurde
-damit, um Strafzahlungen zu vermeiden, automatisch Eigentum der Stadt
-Greymouth. Das Wrack wurde alsbald durch einen Mittelsmann günstig
-zurück ersteigert (... wer will schon ein Schiff kaufen, dass selbst
-der ehemalige stolze Besitzer nicht mehr haben möchte ...) und der
-Antrieb in ein großes ehemaliges Segelschiff verpflanzt. Das neue
-Schiff dampfte mit demselben Motor, aber einem vielfachen an
-Frachtkapazität, immer noch mit fast derselben Geschwindigkeit seines
-Vorgängers und damit weitaus schneller, als all seine Konkurrenten.
+    Wo ich schon einmal über vier freie Tage verfügte und es eine recht
+    weite Strecke bis zu meinem nächsten Ziel (Christchurch) war, lag es
+    nahe, die Zeit reisend (im touristischen Sinne) zu verbringen. Nach
+    anfänglichem Regenguss, verbesserte sich die Lage in Punakaiki zu
+    einem Grauen aber Regenfreien Regen. Mit einem deutschen Hichthiker,
+    den ich auf dem Wege eingesammelt hatte, spazierte ich um die
+    sagenumwobenen Pancacke Rocks. Ein echter Touristenfang und dazu noch
+    ein recht Schöner. Aber im Angesicht von geteerten Wanderwegen und
+    Menschenmassen, deren Autos den Parkplatz selbst an einem Regentag mit
+    Leichtigkeit blockieren, erkannte ich wieder einmal, welch ein Glück
+    ich habe, kein Tourist zu sein.
 
-In einem Hinterzimmer fand sich eine komplette Sammlung aller National
-Geographic Heften seit den 70igern und mir stach sofort eine Ausgabe
-aus den späteren 80igern ins Auge. Eine recht amüsante Lektüre, aus
-einer Zeit, in der Computergrafik noch ganz neu, primitiv und
-unglaublich spannend war. Ich bin heute so sehr an die Wunder des
-Computers gewöhnt, dass mir diese neue Perspektive eine kleine
-Erleuchtung bescherte.
+    Mit dem letzten Liter Benzin und einer leuchtenden Warnanzeige
+    schafften wir es zuletzt noch nach Greymouth, die größte Stadt am
+    Westcoast und der Standort der ersten Tankstelle (Tankstellen: Plural!
+    Welch eine Dekadenz!) in 100 Kilometern. Greymouth wirkt auf den
+    ersten Blick wie Stephen Kings Derry und auch auf den zweiten Blick
+    und erst recht auf den Dritten. Dennoch konnte ich bei klärendem
+    Himmel einen schönen Spatziergang an der kilometerlangen Flutmauer,
+    hin zum (sehr) kleinen Greymouth-Museum unternehmen. Als Bergbaustadt
+    kann man in Greymouth allerlei Gerät und sogar einen (ehemaligen?)
+    Hafen bestaunen. Das Museum erzähl viele kleine und interessante
+    Geschichten, unterfüttert mit allerlei Fotographie.
 
-Stahlgraue Wellen und silberne Kieselstrände. Palmen und
-Flaxbüsche. Im südlichsten subtropischen Bush Neuseelands beschloss
-ich den Tag auf einer kleinen Wanderung. Der Queens Point Lookout bot
-mir einen überwältigenden Ausblick auf ein Meer aus Flax, das auf
-einem geradezu geometrisch abfallenden Kliff in Zerfurchte Felsen und
-schließlich in den Ozean übergeht.
+    &gt; Da gab es einen Unternehmer, der das schnellste Dampfschiff
+    Neuseelands besaß. Eines Tages lief sein Schiff auf Grund und wurde
+    damit, um Strafzahlungen zu vermeiden, automatisch Eigentum der Stadt
+    Greymouth. Das Wrack wurde alsbald durch einen Mittelsmann günstig
+    zurück ersteigert (... wer will schon ein Schiff kaufen, dass selbst
+    der ehemalige stolze Besitzer nicht mehr haben möchte ...) und der
+    Antrieb in ein großes ehemaliges Segelschiff verpflanzt. Das neue
+    Schiff dampfte mit demselben Motor, aber einem vielfachen an
+    Frachtkapazität, immer noch mit fast derselben Geschwindigkeit seines
+    Vorgängers und damit weitaus schneller, als all seine Konkurrenten.
 
-Ein weiter Pluspunkt für Greymouth ist das hervorragende Global
-Village Hostel, das mit gemütlichen Betten, kostenlosen Kajaks und
-allerhand anderen Extras besticht. Die Küche in zunehmendes Chaos
-versetzend, verbrachte ich den Abend mit der Zubereitung einer frei
-erfundenen Pasta-Sauce (mit echten Tomaten, nicht aus dem Glas!) und
-verschätzte mich dermaßen in der Quantität, dass ich mir die Kocherei
-am nächsten Tag sparen konnte. An der Qualität allerdings, gab es
-nichts auszusetzen.
+    In einem Hinterzimmer fand sich eine komplette Sammlung aller National
+    Geographic Heften seit den 70igern und mir stach sofort eine Ausgabe
+    aus den späteren 80igern ins Auge. Eine recht amüsante Lektüre, aus
+    einer Zeit, in der Computergrafik noch ganz neu, primitiv und
+    unglaublich spannend war. Ich bin heute so sehr an die Wunder des
+    Computers gewöhnt, dass mir diese neue Perspektive eine kleine
+    Erleuchtung bescherte.
 
-So kommen ein ereignisreicher Tag und ein kurzer Blogpost zu einem
-Ende
+    Stahlgraue Wellen und silberne Kieselstrände. Palmen und
+    Flaxbüsche. Im südlichsten subtropischen Bush Neuseelands beschloss
+    ich den Tag auf einer kleinen Wanderung. Der Queens Point Lookout bot
+    mir einen überwältigenden Ausblick auf ein Meer aus Flax, das auf
+    einem geradezu geometrisch abfallenden Kliff in Zerfurchte Felsen und
+    schließlich in den Ozean übergeht.
 
-*Es folgt: "Berge"*.
+    Ein weiter Pluspunkt für Greymouth ist das hervorragende Global
+    Village Hostel, das mit gemütlichen Betten, kostenlosen Kajaks und
+    allerhand anderen Extras besticht. Die Küche in zunehmendes Chaos
+    versetzend, verbrachte ich den Abend mit der Zubereitung einer frei
+    erfundenen Pasta-Sauce (mit echten Tomaten, nicht aus dem Glas!) und
+    verschätzte mich dermaßen in der Quantität, dass ich mir die Kocherei
+    am nächsten Tag sparen konnte. An der Qualität allerdings, gab es
+    nichts auszusetzen.
 
-Gehabt euch gut.
+    So kommen ein ereignisreicher Tag und ein kurzer Blogpost zu einem
+    Ende
 
-*** Berge
-:PROPERTIES:
-:EXPORT_FILE_NAME: Berge
-:EXPORT_DATE: [2017-03-04 07:13:55]
-:END:
+    **Es folgt: "Berge"**.
+
+    Gehabt euch gut.
+
+
+#### Berge {#Berge}
+
 Ein nächster Tag auf Reisen. Dieses mal in die Berge. Nach
 unschuldiger Fahrt durch ein Flachland um Greymouth, eröffnet sich
 plötzlich ein unerwartet beeindruckender Anblick und ich drücke auf
@@ -2327,7 +2231,7 @@ windig, es ward kalt und Valentin stieg hinab ins Tal geschwindig oder
 er ward nicht mehr alt.
 
 Zum Abend ging es weiter ins Arthurs Pass Village zur Übernachtung im
-"The Sanctuary" Hostel. Zugegeben, das Hostel war _sehr_ Basic, nicht
+"The Sanctuary" Hostel. Zugegeben, das Hostel war <span class="underline">sehr</span> Basic, nicht
 mehr als eine Tramping Hütte mit einer Küche und, Gott sei Dank, einer
 Heizung, aber die Leute waren nett. Unter ihnen auch ein deutscher
 Informatiker, mit dem ich im Dunkeln noch zu ein paar beleuchteten
@@ -2336,13 +2240,11 @@ Wasserfällen spazierte.
 Der besitzer des Hostels war auch ein lustiger Kauz, mit einem
 Kajakverlei in Lyttleton bei Christchurch. Bezahlt wird im Hostel über
 eine Vertrauenskasse, wenn er absent ist :).  Müde ward ich und so
-ging es zu Bett. Am nächsten Morgen folgten: _Mehr Berge_ .
+ging es zu Bett. Am nächsten Morgen folgten: <span class="underline">Mehr Berge</span> .
 
-*** Mehr Berge
-:PROPERTIES:
-:EXPORT_FILE_NAME: MehrBerge
-:EXPORT_DATE: [2017-04-05 21:36:53]
-:END:
+
+#### Mehr Berge {#MehrBerge}
+
 Welch Turbulenzen! Eddies und wirbel haben den Blog ganz aus meinem
 Geiste geblasen! Jetzt ist es aber h?chste Eisenbahn, die n?chste
 Fortsetzung zu schreiben. Also dann mal ran an den Speck.
@@ -2408,15 +2310,13 @@ Ein Tag mit noch gr??eren Erlebnissen als der letzte!
 Danke f?r's mitmachen! Schalten Sie auch morgen wieder ein, denn es
 folgt: Christchurch.
 
-*** Christchurch
-:PROPERTIES:
-:EXPORT_FILE_NAME: Christchurch
-:EXPORT_DATE: [2017-04-05 21:37:41]
-:END:
+
+#### Christchurch {#Christchurch}
+
 Äonen lang schrieb er nichts und ward vergessen.
 
 Doch nun ist er zurück und beginnt den Post gleich hochmotiviert mit
-einem Umlaut: **Funky :)**.  In all den besagten Äonen gab es genug
+einem Umlaut: ****Funky :)****.  In all den besagten Äonen gab es genug
 Zeit, um reichlich neue Erfahrungen zu sammeln, so werde ich, um die
 Geduld des Lesenden nicht zu sehr zu strapazieren, einen gröberen
 Überblick geben.
@@ -2461,15 +2361,13 @@ Entschuldigung, hatte ich mir doch wirklich nichts in dieser Hinsicht
 gedacht, und einer guten Arbeitsleistung am Folgetag war das Problem
 dann vergessen.
 
-Damit sehen wir uns Morgen auf der *Banks Peninsula* wieder.
+Damit sehen wir uns Morgen auf der **Banks Peninsula** wieder.
 
 :)
 
-*** Viel Neues
-:PROPERTIES:
-:EXPORT_FILE_NAME: VielNeues
-:EXPORT_DATE: [2017-04-13 07:46:55]
-:END:
+
+#### Viel Neues {#VielNeues}
+
 Welch turbulente Tage.  Nach einer großen Panik, die sich bei mir
 schon das ganze Wochenende mit einem Unwohlsein angekündigt hat, sitze
 ich jetzt auf der Rückbank unseres sehr kleinen Campervans und habe
@@ -2578,7 +2476,7 @@ der mir jetzt ermöglicht an einer Open-Source Planetariumssoftware
 mitzuwirken. Schon auf der Banks Peninsula habe ich Grundsteine
 gelegt, fleißig C++ gebüffelt und mich in QT geübt.
 
-Sehr schöne drei Wochen wahren das. Wenn wir nicht gerade **in** den
+Sehr schöne drei Wochen wahren das. Wenn wir nicht gerade ****in**** den
 Wolken lagen (Ich wollte schon immer mal wissen, wie das ist :P, aber
 man wird dem Nebel schnell überdrüssig.), hatten wir eine wunderbare
 Sonne und ich konnte sogar ein paar mal vom Anleger aus in die kühle
@@ -2641,15 +2539,13 @@ wenn jeder vom Wetter etwas vom Wetter und der Umstellung angereizt
 ist, wird es bestimmt ein Spaß.
 
 Zur Reiseberichterstattung verweise ich fauler Weise einmal an Falkos
-Blog: http://nz2017.trojahn.de
+Blog: <http://nz2017.trojahn.de>
 
 Gehabt euch gut ;)
 
-*** Late Days
-:PROPERTIES:
-:EXPORT_FILE_NAME: LateDays
-:EXPORT_DATE: [2017-05-18 10:50:30]
-:END:
+
+#### Late Days {#LateDays}
+
 Was ist nur mit dem jungen Mann. Man hört ja gar nichts mehr...
 
 Wie immer beginne ich auch diesmal mit einer Entschuldigung. Alles ist
@@ -2666,7 +2562,7 @@ R0b3ts0ns gab es noch zwei schöne, aber unspektakuläre Wochen in
 Wellington unter dem Dach der sehr hospitablen Frau Edith. Thank You!
 Ich habe mir einen recht bereichernden Vortrag über (Sonnen)Uhren bei
 einem Meeting der Wellington Astronomical Society angehört, besuchte
-das "Space & Science Festival" und ward erleuchtet über Titan und die
+das "Space &amp; Science Festival" und ward erleuchtet über Titan und die
 NASA Mission zum Mars.
 
 Wenn ich unseren roten Nachbarn auch als interessant und möglichen
@@ -2675,7 +2571,7 @@ Daten einer Europa-Sonde (Jupiter Mond, nicht Kontinent). Was
 passiert, wenn wir auf einen Schlag wissen, dass Leben nicht
 Terra-Exklusiv ist?
 
-#+begin_src
+```nil
      (_\     /_)
        ))   ((
      .-"""""""-.
@@ -2693,7 +2589,7 @@ Terra-Exklusiv ist?
        \  |  /
      ___)=|=(___
 jgs {____/ \____}
-#+end_src
+```
 
 Weiter im Text: Es gab da natürlich die eine Sache, die mir
 Kopfzerbrechen bereitete. Nachdem ich das Auto, the Mighty Demio, auf
@@ -2756,7 +2652,6 @@ für ein Abenteuer. Aber mir gefällt Auckland und dabei hört man soviel
 schlechtes. Wenn man an den richtigen Orten verweilt, ist es
 prima. Ich lebe gerade in Ponsonby, auf dem Hügel.
 
-
 Heute habe ich mir ein Paar Teslas angeschaut. Schöne Autos, auch wenn
 die Weiße Farbe der Sitze wohl etwas unglücklich gewählt ist. Ich bin
 gespannt, wann Tesla ein erschwingliches Modell produzieren wird... Es
@@ -2777,13 +2672,11 @@ Butterfabrik benutzten, ehemaligen Schiffsmotor!
 
 Und jetzt gehts schlafen.  Bis nächste Woche in Deutschland.
 
-** Hacks                                                    :@Hacks:
-*** Converting a Kawai KSP-30 to pure MIDI
-CLOSED: [2021-08-27 Fri 21:57]
-:PROPERTIES:
-:EXPORT_FILE_NAME: converting-a-kawai-ksp-30-to-pure-midi
-:ID:       88b5d68b-2010-4a36-bb3d-8313afdcb2b6
-:END:
+
+### Hacks <span class="tag"><span class="_Hacks">@Hacks</span></span> {#hacks}
+
+
+#### Converting a Kawai KSP-30 to pure MIDI {#converting-a-kawai-ksp-30-to-pure-midi}
 
 My Kawai KSP-30 digital piano has been on its last leg for some time
 now. To get it to work at all, I had to unplug the amplification
@@ -2791,9 +2684,7 @@ circuit whose interface on the main PCB was burnt out. Of course is
 wasn't of much use by itself after that bit of crude surgery but
 worked fine as a midi keyboard.
 
-#+DOWNLOADED: screenshot @ 2021-08-27 18:05:08
-#+CAPTION: The main PCB.
-[[file:static/images/Converting_a_Kawai_KSP-30_to_pure_MIDI/2021-08-27_18-05-08_screenshot.png]]
+{{< figure src="/images/Converting_a_Kawai_KSP-30_to_pure_MIDI/2021-08-27_18-05-08_screenshot.png" caption="<span class=\"figure-number\">Figure 1: </span>The main PCB." >}}
 
 There must have been some creeping currents because the piano got more
 and more unreliable requiring hectic powercycling to boot and finally
@@ -2804,39 +2695,31 @@ Kawai entirely.
 
 First I had to find out how the keyboard matrix was scanned. Luckily I
 had a logic analyzer lying around to test the ports on the keyboard
-connector [fn::Before I remembered having a logic analyzer however, I
-fried my Raspberry Pi with the 5V logic :P.]
+connector&nbsp;[^fn:11]
 
-#+DOWNLOADED: screenshot @ 2021-08-27 18:15:55
-#+CAPTION: Figuring out the keyboard matrix.
-[[file:static/images/Converting_a_Kawai_KSP-30_to_pure_MIDI/2021-08-27_18-15-55_screenshot.png]]
+{{< figure src="/images/Converting_a_Kawai_KSP-30_to_pure_MIDI/2021-08-27_18-15-55_screenshot.png" caption="<span class=\"figure-number\">Figure 1: </span>Figuring out the keyboard matrix." >}}
 
-Furthermore, I found the service manual for the KSP on =archive.org=
+Furthermore, I found the service manual for the KSP on `archive.org`
 and with a little trial and error was able to puzzle it together.
 
-#+DOWNLOADED: screenshot @ 2021-08-27 18:26:41
-#+CAPTION: The keyboard connector.
-[[file:static/images/Converting_a_Kawai_KSP-30_to_pure_MIDI/2021-08-27_18-26-41_screenshot.png]]
+{{< figure src="/images/Converting_a_Kawai_KSP-30_to_pure_MIDI/2021-08-27_18-26-41_screenshot.png" caption="<span class=\"figure-number\">Figure 1: </span>The keyboard connector." >}}
 
-The keyboard matrix has eight columns that can be read through =KD0=
-through =KD7= [fn::Annoyingly the KDX numbers are shifted by one at
-other places in the manual]. To scan all 88 keys three multiplexers
-are employed that can be enabled individually by the =SA4= and =SA6=
-ports (see figure above). The other three =SAX= connectors select one
+The keyboard matrix has eight columns that can be read through `KD0`
+through `KD7`&nbsp;[^fn:12]. To scan all 88 keys three multiplexers
+are employed that can be enabled individually by the `SA4` and `SA6`
+ports (see figure above). The other three `SAX` connectors select one
 of eight rows through the currently enabled multiplexer. Because the
 piano is velocity sensitive, each key actually has two sensors with
 one triggered shortly before the other. The time difference between
 these signals can be measured to obtain the key velocity. Therefore
-the =KDX= ports are split into two groups =S1= and =S2= that
+the `KDX` ports are split into two groups `S1` and `S2` that
 correspond to the two triggers.
 
-#+DOWNLOADED: screenshot @ 2021-08-27 18:35:47
-#+CAPTION: The two-switch mechanism.
-[[file:static/images/Converting_a_Kawai_KSP-30_to_pure_MIDI/2021-08-27_18-35-47_screenshot.png]]
+{{< figure src="/images/Converting_a_Kawai_KSP-30_to_pure_MIDI/2021-08-27_18-35-47_screenshot.png" caption="<span class=\"figure-number\">Figure 1: </span>The two-switch mechanism." >}}
 
 Putting all this together one arrives at the following matrix.
-#+DOWNLOADED: screenshot @ 2021-08-27 18:37:23
-[[file:static/images/Converting_a_Kawai_KSP-30_to_pure_MIDI/2021-08-27_18-37-23_screenshot.png]]
+
+{{< figure src="/images/Converting_a_Kawai_KSP-30_to_pure_MIDI/2021-08-27_18-37-23_screenshot.png" >}}
 
 In practice one just cycles through the multiplexers while running a
 counter to obtain the correct note because they are consecutive.
@@ -2846,15 +2729,13 @@ actual project by sawing out the port for the keyboard connector from
 the PCB because the connector is not compatible with the usual jumper
 spacings.
 
-#+DOWNLOADED: screenshot @ 2021-08-27 18:42:56
-[[file:static/images/Converting_a_Kawai_KSP-30_to_pure_MIDI/2021-08-27_18-42-55_screenshot.png]]
+{{< figure src="/images/Converting_a_Kawai_KSP-30_to_pure_MIDI/2021-08-27_18-42-55_screenshot.png" >}}
 
 Then I soldered jumper cables to one side of the connector (a real
 hack job :P) and done was my not-too-fragile interface which I
 promptly connected to an Arduino Nano clone I had to spare.
 
-#+DOWNLOADED: screenshot @ 2021-08-27 18:47:12
-[[file:static/images/Converting_a_Kawai_KSP-30_to_pure_MIDI/2021-08-27_18-47-12_screenshot.png]]
+{{< figure src="/images/Converting_a_Kawai_KSP-30_to_pure_MIDI/2021-08-27_18-47-12_screenshot.png" >}}
 
 And finally the nasty hardware part was done and I could begin to
 prototype the software on the Nano while waiting for a Pro Micro with
@@ -2862,9 +2743,7 @@ native USB capabilities to arrive. It suffices to say that it worked
 :) with key velocity and all. After the Pro Micro arrived I even got
 the sustain pedal to work :).
 
-#+DOWNLOADED: screenshot @ 2021-08-27 18:51:45
-#+CAPTION: The final assembly.
-[[file:static/images/Converting_a_Kawai_KSP-30_to_pure_MIDI/2021-08-27_18-51-45_screenshot.png]]
+{{< figure src="/images/Converting_a_Kawai_KSP-30_to_pure_MIDI/2021-08-27_18-51-45_screenshot.png" caption="<span class=\"figure-number\">Figure 1: </span>The final assembly." >}}
 
 With the Pro Micro set up I went on to calibrate the key sensitivity
 which was less of a hassle than I thought and the project was
@@ -2875,277 +2754,45 @@ The end.
 Of course there remains some cleanup to be done (datatypes in the
 source code). Most urgently I want to implement release velocity.
 You can find the code and my personal documentation for the
-project[fn::In the file named =project.org=]
-over on [[https://github.com/vale981/KSP-30-Hack/][GitHub]].
+project[^fn:13]
+over on [GitHub](https://github.com/vale981/KSP-30-Hack/).
 
 Maybe this was of interest you. If not, then thanks for reading this
 far anyways :P.
-*** Removing legacy boot from a Linux live stick
-CLOSED: [2021-11-19 Fri 13:48]
-:PROPERTIES:
-:EXPORT_FILE_NAME: removing-legacy-boot-from-a-linux-live-stick-dot
-:END:
+
+
+#### Removing legacy boot from a Linux live stick {#removing-legacy-boot-from-a-linux-live-stick-dot}
+
 I got my ThinkPad used for a bargain price but with locked
 bios/uefi-setup. Annoyingly, it defaults to legacy boot and there is no
 way to change that.
 
 My previous workaround was rather involved and is documented in the
-[[https://wiki.archlinux.org/title/Lenovo_ThinkPad_T470#UEFI_boot][Arch wiki]]. Today however, I bricked my system at work and had to
+[Arch wiki](https://wiki.archlinux.org/title/Lenovo_ThinkPad_T470#UEFI_boot). Today however, I bricked my system at work and had to
 restore it in a hurry.
 
-It turns out that you can nuke the =MBR= of the live stick to remove
+It turns out that you can nuke the `MBR` of the live stick to remove
 the legacy boot.
 
-**Make sure you know what the device path of the USB stick is. You
-  don't want to nuke some innocent hard drive :)!**
+****Make sure you know what the device path of the USB stick is. You
+  don't want to nuke some innocent hard drive :)!****
 
-Over at [[https://askubuntu.com/questions/1100086/removing-extra-option-from-boot-manager-in-legacy-mode-after-deleting-ubuntu][stack exchange]] someone had a similar problem and one proposed
-solution was to overwrite the first ~446~ Byte of the =MBR= with
-zeros.  Find the device path of the live stick with ~lsblk~ and then
-~dd if=/dev/zero of=/dev/sdx bs=446 count=1~ as root and you're set.
-
-
-*** Poetry2Nix Development Flake with Matplotlib GTK Support
-CLOSED: [2024-05-11 Sat 17:57]
-:PROPERTIES:
-:EXPORT_FILE_NAME: poetry2nix-development-flake-with-matplotlib-gtk-support
-:ID:       e816f747-a7de-4111-af8d-63725df90a99
-:END:
-
-I recently had the pleasure to dive back into python for work. In the
-past, I was happily using =org-babel= notebooks through
-[[https://github.com/nnicandro/emacs-jupyter][emacs-jupyter]]. However, I have since switched to a more REPL/script
-driven workflow as I find that programming notebooks require a great
-deal of discipline to not end up as a horrible mess. For my new
-workflow, I need interactive plotting to work.
-
-So let's get straight to the meat. The following =Flake= dives you a
-development shell that tries to replicate the underlying [[https://python-poetry.org/][poetry]]
-project in full nix using [[https://github.com/nix-community/poetry2nix][poetry2nix]].
-
-#+begin_src nix
-  {
-    description = "[your description]";
-
-    inputs = {
-      flake-utils.url = "github:numtide/flake-utils";
-      nixpkgs.url = "github:NixOS/nixpkgs/nixos-unstable-small";
-      poetry2nix = {
-        url = "github:nix-community/poetry2nix";
-        inputs.nixpkgs.follows = "nixpkgs";
-      };
-    };
-
-    outputs = inputs @ { self, nixpkgs, flake-utils, ... }:
-      flake-utils.lib.eachDefaultSystem (system:
-        let
-          pkgs = nixpkgs.legacyPackages.${system};
-          poetry2nix = inputs.poetry2nix.lib.mkPoetry2Nix { inherit pkgs; };
-        in
-        {
-          packages = {
-            yourPackage = poetry2nix.mkPoetryApplication {
-              projectDir = self;
-
-              # set this to true to use premade wheels rather than the source
-              preferWheels = false;
-
-              # this enables interactive plotting support with GTK
-              overrides = poetry2nix.overrides.withDefaults (final: prev: {
-                matplotlib = with pkgs; prev.matplotlib.override
-                  {
-                    passthru.args.enableGtk3 = true;
-                  };
-              });
-            };
-            default = self.packages.${system}.yourPackage;
-          };
-
-          # Shell for app dependencies.
-          #
-          #     nix develop
-          #
-          # Use this shell for developing your app.
-          devShells.default = pkgs.mkShell {
-            inputsFrom = [ self.packages.${system}.yourPackage ];
-            package = with pkgs; [
-              # any development dependencies that you might have in nixpkgs
-              ruff
-              pyright
-            ];
-          };
-
-          # Shell for poetry.
-          #
-          #     nix develop .#poetry
-          #
-          # Use this shell for changes to pyproject.toml and poetry.lock.
-          devShells.poetry = pkgs.mkShell {
-            packages = [ pkgs.poetry ];
-          };
-        });
-  }
-#+end_src
-
-The workflow is as follows. Running ~nix develop .#poetry~ will give you
-a shell with poetry available. You can then ~poetry init~ and ~poetry add~
-and ~poetry lock~ (not install) to your hearts content. A plain ~nix
-develop~ will then set up the environment according to the ~poetry.lock~
-that poetry generates. Note that [[https://github.com/nix-community/poetry2nix/pull/1651][this pull request]] has to be resolved
-before the above works with ~preferWheels = true~.
-
-You might want to checkout [[https://direnv.net/][direnv]] and [[https://github.com/nix-community/nix-direnv][nix-direnv]] for added convenience.
-
-*** Modern Python REPL in Emacs using VTerm                  :emacs:python:
-CLOSED: [2024-05-11 Sat 19:47]
-:PROPERTIES:
-:EXPORT_FILE_NAME: modern-python-repl-in-emacs-with-vterm
-:ID:       eb07ad1b-134b-408e-9aa8-ce33b5ba1815
-:END:
-
-As alluded to in [[id:e816f747-a7de-4111-af8d-63725df90a99][Poetry2Nix Development Flake with Matplotlib GTK
-Support]], I'm currently in the process of getting my "new" python
-workflow up to speed. My second problem, after dependency and
-environment management, was that fancy REPLs like [[https://ipython.org/][ipython]] or [[https://github.com/prompt-toolkit/ptpython.git][ptpython]]
-don't jazz well with the standard =comint= based inferior python repl
-that comes with =python-mode=. One can basically only run ipython with
-the =--simple-prompt= flag which removes features like
-syntax-highlighting and auto-completion. Especially annoying is, that
-only the =tkinter= backend for =matplotlib= works in this mode.
-
-The package =elpy= comes with some improvements, especially when it
-comes to sending part of a buffer to the repl, but it comes with all
-sorts of baggage that interfere with my emacs setup.
-
-From my jolly [[https://julialang.org/][Julia]] days I'm used to [[https://github.com/shg/julia-vterm.el][julia-vterm]]. This emacs package
-runs a Julia REPL using a full terminal emulator ([[https://github.com/akermu/emacs-libvterm][emacs-libvterm]]). So
-in the pursuit of a nice hack, I ~M-x replace-string~'d the word =julia=
-with =python= and gave it a shot. Remarkably, the whole thing just
-worked without much tweaking and you can enjoy the result by checking
-out the [[https://github.com/vale981/python-vterm.el][GitHub repo]].
-
-The idea of extending the original =julia-vterm= package to support
-python as well is not without elegance. However, the code base is not
-too large and -- owing to the differing sensibilities of the julia and
-python communities -- the feature-set is likely to diverge in the
-future.
-
-#+CAPTION: And this is the result!
-[[attachment:2024-05-11_20-12-52_screenshot.png]]
-*** DONE Kindle Scribe Sync                  :org:roam:emacs:python:python:
-CLOSED: [2024-11-17 Sun 12:13]
-:PROPERTIES:
-:EXPORT_FILE_NAME: kindle-scribe-monitor
-:ID:       e8b12ed0-2a34-4ef3-a89a-716a6c26e191
-:END:
-TL;DR check out https://github.com/vale981/kindle_fetch.
+Over at [stack exchange](https://askubuntu.com/questions/1100086/removing-extra-option-from-boot-manager-in-legacy-mode-after-deleting-ubuntu) someone had a similar problem and one proposed
+solution was to overwrite the first `446` Byte of the `MBR` with
+zeros.  Find the device path of the live stick with `lsblk` and then
+`dd if=/dev/zero of=/dev/sdx bs=446 count=1` as root and you're set.
 
 
-I "recently" treated myself to a Kindle Scribe e-ink tablet which is
-somewhat like a ReMarkable[fn:7] but on the cheap. There is no free
-lunch however, and price you pay is a somewhat sub-par software. One
-quite essential missing feature is convenient synchronization with
-other devices.  As I use the tablet mainly for calculations, I rely on
-having the previous pages available at a glance (just as they would be
-if I were using paper). Furthermore, I would like to integrate the
-handwritten notes into my [[https://www.orgroam.com/][org-roam]] note taking system.
+### Uncategorized <span class="tag"><span class="_Uncategorized">@Uncategorized</span></span> {#uncategorized}
 
-One solution would be to jailbreak the kindle, ssh into it and
-automatically download a notebook when it changes. The conversion to
-PDF could then be handled by the [[https://www.mobileread.com/forums/showthread.php?t=291290][Calibre KFX input plugin]]. However,
-that ship has sailed for me as the firmware on my Kindle is too new.
 
-This led me to come up with the following [[https://www.youtube.com/watch?v=lIFE7h3m40U][bodge]]. Amazon offers a
-service that converts a notebook to PDF and sends it to your email
-upon request and this we can exploit to our heart's content. I wrote a
-[[https://github.com/vale981/kindle_fetch][script]] which monitors your email inbox via IMAP[fn:8] using [[https://github.com/bamthomas/aioimaplib][aioimaplib]]
-and detects incoming emails from Amazon containing download links for
-the exported notebooks. Once such an email is detected, the associated
-PDF is downloaded into a directory on the local file system
-(=~/kindle_dump= on my machine). The name is inferred from the contents
-of the email, although at the moment this doesn't include any hint
-about which folder in the directory structure on the Kindle it came
-from. The email is then conveniently deleted so as to not clutter your
-inbox[fn:9].
+#### Neuseeland Restauration {#neuseeland-restauration}
 
-Additionally, the latest downloaded PDF is copied into to a file of
-your choice (=~/kindle_dump/.latest= in my case). I then run =zathura
-~/kindle_dump/.latest= which displays that PDF on my large 4K monitor
-and auto refreshes each time a new Kindle email comes in. I also
-configured Zathura to show four pages per row (=set pages-per-row 4=) so
-that I can see eight pages at a glance (see figure below).
+TL;DR Die Neuseeland-Blogposts sind nun [wieder da](/categories/neuseeland) und korrekt datiert.
 
-#+CAPTION: An example of what my ugly handwriting looks like :),
-[[attachment:screen:d22fec54-83c6-4cc6-a701-c29270868804.png]]
-
-#+CAPTION: A little demo (sped up).
-[[attachment:output.gif]]
-
-Additionally, the following elisp snippet allows me to attach the
-latest note to an org-roam node with a couple of keystrokes.
-#+begin_src elisp
-  (defun attach-kindle-note (text)
-    "Attaches the latest kindle note to the current org buffer and links to it with TEXT."
-    (interactive "sText: ")
-    (let* ((name (org-id-new "kindle"))
-           (tmp (format "/tmp/%s.pdf" name))
-           (file "/home/hiro/kindle_dump/.latest.pdf")
-           (text (if (string-empty-p text)
-                     (format "handwritten note %s" (current-time-string)) text)))
-      (copy-file file tmp t)
-      (org-attach-attach tmp nil 'mv)
-      (insert (format "[[attachment:%s.pdf][%s]]" name text))))
-#+end_src
-
-The integration into my note-taking system is the most important part
-the whole bodge for me.
-
-Annoyingly, Amazon has already changed the email format twice since I
-initially hacked together this solution. However, each time I come up
-with a more robust way to get the PDF download link and one's free
-time has to be spent in some way or another anyways.
-
-And if you're reading this sentence, you've made it to the end of this
-rather redundant post. Thank you for reading. I hope that at least
-some people find this bodge useful. If there's sufficient interest, I
-might add OAuth2 support.
-
-On the road-map for future (think of years, not months) posts are my
-mu4e/mbsync setup with OAuth support on NixOS, my Xournal++ setup with
-vim-like keybindings and a patch to make the output files more
-compatible with version management and finally, my org-roam braindump.
-
-In other news, my fork of [[https://github.com/vale981/julia-vterm.el][julia-vterm]] is now called
-[[https://github.com/vale981/py-vterm-interaction.el][py-vterm-interaction]] and available on MELPA.
-
-[fn:7]
-Years ago, I sold my ReMarkable in to buy a cheap drum-set and used a
-graphics tablet instead. I have a pretty neat set-up for that, too but
-that's a tale for another time.
-
-[fn:8]
-Unfortunately, OAuth is not supported, so GMail/Outlook won't work out
-of the box.
-
-[fn:9]
-I additionally have a Sieve filter running on my server that
-automatically sorts the Kindle emails into a specific folder, although
-that is not strictly necessary anymore. You might want to setup a
-separate email account for this purpose altogether if you're not
-comfortable with having a (potentially buggy) python script mucking
-around in your emails.
-
-** Uncategorized                                            :@Uncategorized:
-*** Neuseeland Restauration
-CLOSED: [2021-08-03 Tue 14:53]
-:PROPERTIES:
-:EXPORT_FILE_NAME: neuseeland-restauration
-:END:
-TL;DR Die Neuseeland-Blogposts sind nun [[/categories/neuseeland][wieder da]] und korrekt datiert.
-
-Zwar lagen mir die Neuseeland-Blog posts als ~markdown~ quelle vor,
+Zwar lagen mir die Neuseeland-Blog posts als `markdown` quelle vor,
 jedoch hatte ich den Erstellungszeitpunk unvorteilhafter Weise aus den
-Dateisystem-Metadaten[fn:5] ausgelesen. Nach der Neuinstallation meines
+Dateisystem-Metadaten[^fn:14] ausgelesen. Nach der Neuinstallation meines
 servers vor ein paar Jahren waren diese Metadaten vollends verloren.
 
 Meine erste Idee war zu versuchen die Zeitpunkte anhand der Email
@@ -3155,360 +2802,49 @@ zurueckreicht.
 
 Zu meiner grossen Freude war letztendlich gar keine aufwaendige
 Archeologie notwendig, da ich damals ausversehen einmal meinen Blog
-Index in ~git~ eingecheckt hatte.
+Index in `git` eingecheckt hatte.
 
-#+begin_src shell
-  $ git show b1cf78b7182f0364343d2a87a1b361e7dc833688^1:data/indexes/post.json
-#+end_src
+```shell
+$ git show b1cf78b7182f0364343d2a87a1b361e7dc833688^1:data/indexes/post.json
+```
 
 Und schon hattte ich die ganze Suppe (sogar vollstaendig) in einem
 maschinenlesbaren Format.
 
 Ein wenig python verwandelte das Ganze in das neue Blog format.
-#+begin_src python
-  import sys
-  import json
-  import datetime
 
-  with open(sys.argv[1], "r") as f:
-      data = json.load(f)
+```python
+import sys
+import json
+import datetime
 
-      for post in data:
-          export_name = (post["content"]).split("/")[-1][:-5]
-          with open(post["content"][1:], "r") as cont:
-              content = cont.read()
-          date = datetime.datetime.strptime(post["created"], "%Y-%m-%dT%H:%M:%S.%fZ")
-          print(
-              f"""
-  ,*** {post["title"]}
-  :PROPERTIES:
-  :EXPORT_FILE_NAME: {export_name}
-  :EXPORT_DATE: [{date}]
-  :END:
-  {content}""")
-#+end_src
+with open(sys.argv[1], "r") as f:
+    data = json.load(f)
 
-Und damit koennt ihr nun unter [[/categories/neuseeland][Neuseeland]] die alten posts lesen.
-[fn:5] =ctime=, creation time
-*** TODO Zwischenbericht
+    for post in data:
+        export_name = (post["content"]).split("/")[-1][:-5]
+        with open(post["content"][1:], "r") as cont:
+            content = cont.read()
+        date = datetime.datetime.strptime(post["created"], "%Y-%m-%dT%H:%M:%S.%fZ")
+        print(
+            f"""
+*** {post["title"]}
 :PROPERTIES:
-:EXPORT_FILE_NAME: zwischenbericht
+:EXPORT_FILE_NAME: {export_name}
+:EXPORT_DATE: [{date}]
 :END:
+{content}""")
+```
 
-Hallo miteinander. Vielleicht ist dies nun der Anfang einer wunderbar
-regelmaessigen Post-Serie, aber ich habe da aus historischer
-Perspektive so meine Zweifel.
-
-Schon halb im finsteren sitze ich hier auf dem Blakon und beschaue die
-Silhouette der Baeumer entgegen dem mit den letzten uber den Horizont
-reflektierten Sonnenstralen leuchtenden Himmel. Das ein oder andere
-Flugzeug zieht unshoerbar blinkend seine Bahnen in der Ferne und die
-im Gebaeude, welches ich irrtuemlich fuer das Ubisoft Buero hielt,
-brennt noch licht. Mein Sitzmoebel ist ein hoelzerner Klappstul, den
-ich auf offener Strasse auf dem Weg zur Uni erbeutete. Es gibt viele
-klappstuele wie diesen, doch dies ist meiner. Mein Klappstuhl ist mein
-bester freund. Er ist mein Leben. Ich muss ihn Meistern, wie ich auch
-mein Leben zu meistern habe.
-
-Spass beiseite. Der Balkon macht mein Zimmer glatt unendlich mahl
-groesser und ein dediziertes Sitzmoebel erleichtert dessen Genuss
-erheblich. In meinem gewieften Planzkuebel mit Wasserreservoir lebt
-nun eine Tomate und mehrere Sonnenblumensamen, wobei ich mir einbilde,
-dass die Tomate in der letzten Woche tatsaechlich schon gewachsen ist.
-
-Heute habe ich mich schon an Nachmittag von der Arbeit verabschiedet
-um mal wieder eine Generalputzaktion zu starten. Alle Boeden, mein
-Zimmer und das Bad mussten dran glauben. Auch drei Maschienen hatte
-ich gewaschen; Ein Zeugniss meiner vernachlaessigung der
-Haushaltspflichten in den letzten Zwei wochen.
-
-In meinem letzten Post klang ich nahezu euphorisch der Arbeitswoche
-entgegenblickte, musste ich dann leider Feststellen, dass ich der
-Numerik ein weiteres Mal auf den Leim gegangen bin. Eine recht
-primitive Berechnung, die ich gleich zu Anfang haette anstellen
-sollten, schaffte dann aber abhilfe und der Rest folgte.
-
-Auf der anderen Seite musste ich mich nun endlich auch wieder der
-Arbeit am Paper mit meiner alten Gruppe in DD ertuechtigen und
-versuchte krampfhaft mich zu errinern wo ich stehengeblieben
-war. Solch ein hoffnungslos ueberkompliziertes wenngleich truegerisch
-nutzerfreundliches Softwareungetuem hatte ich geschaffen, dass es
-tatsaechlich einiger Bemuehungen bedarf die Simulationsdaten aus allen
-Ecken herbreizukratzen und sicherzustellen, dass nichts dabei kaputt
-geht. Ich gab mir muehe, den Code der die Grafiken erzeugt
-praesentierfaeig zu machen, nur um mit der Anforderung konfrontiert zu
-werden, ich solle doche bitte alle roh-daten und plots als
-eigenstaendige Programme buendeln. Leider existieren zwischen den
-Rohdaten und den Plotroutinen mehrere Schichten an code-abstraktionen,
-sodass die geforderten Programme nicht weniger aufwaendig waehren, als
-der existierende code. Da aber meine erste Prioritaet in diesem
-Projekt ein baldiger Abschluss unter Vermeidung jeglicher Arbeit ist,
-suchte ich nach Alternativloesungen. Zur Hilfe kam mir dann der
-Umstand, dass die Grafiken von der Bibliothek, welche sie erzeugt, als
-eigenstaendige datenstruktur darstellt, sodass die Grafik auch im
-Nachhinein modifiziert werden kann. Problem geloest.
-
-In unseren Gruppenmeetings gibt es immer einen Auserwaelten, der ein
-Paper praesentiert oder anderweitig einen beitrag gestaltet. Da ich
-dies im Vorhergehenden Semester nur einmal getan hatte, meldete ich
-mich freiwillig. Ich hatte auch zwei Paper, welche ich interessant und
-verstaendlich genug fand, allerdings meinte Bill, ich koenne ja auch
-ueber mein Projekt reden. Mein erster reflex war die kategorische
-Ablehnung dieses Vorschlages, da ich meine Arbeit keinesfalls fuer
-praesentabel oder gahr interessant hielt. Andereseits zwang mich der
-Vortrag, meine Ergebnisse zu resumieren und mich zu organisieren. Also
-biss ich in den sauren Apfel und setzte ein neues LaTeX dokument auf,
-um die Sache aufzuschreiben. Und ehe ich mich's versah, war die Woche
-herum und ich hatte zwischen lauter bemuehen noch schnell dies und das
-fertigzustellen am Freitag immer noch keine Folien fuer den Vortrag am
-Montag.
-*** TODO Busy Times
-:PROPERTIES:
-:EXPORT_FILE_NAME: busy-times
-:END:
-
-Kurios. Ich sehe hier einen fast fertigen blog post, den ich
-allerdings nie zu ende gebracht habe.
-
-Das ist fast das Thema der Zeit, die seit dem letzen Blogpost
-vergangen ist. So viel um die Ohren und, zumindest dem Gefuehl nach,
-so wenig fertig gebracht. Diese Einschaetzung ist des Pudels Kern und
-die Ursache all meinen Leids! Jeden Arbeitstag verzweifle ich an der
-Vielzahl der vor mir liegenden Aufgaben. Aus Angst das Falsche zu tun,
-mache ich lieber garnichts und prokrastiniere. Natuerlich laeuft das
-nicht immer so und manchmal ist auch die Prokrastination produktiv,
-aber irgendwie Macht das alles wenig spass. Dummerweise habe ich im
-Sommer nicht richtig pause gemacht und nun krieche ich gewissermassen
-auf dem Zahnfleisch, was die Situation nicht wirklich verbessert.
-*** TODO At Home / In Transit
-:PROPERTIES:
-:EXPORT_FILE_NAME: at-home-in-transit
-:END:
-Ich ziehe sehr ernsthaft in Erwaegung hinzuschmeissen.
-
-Man stelle sich vor man bewandert eine Bergkette. Der erste Gipfel ist
-wirkt einschüchternd -- ist schon aus der Entfernung zu erkennen. Man
-sucht sich seine Ausrüstung sorgfältig aus und plant die
-Route. Sicher, einige Dinge werden auf der Strecke bleiben, aber am
-Ende wird doch alles geregelt ablaufen. Aber nach dem ersten Gipfel
-setzt sich die Bergkette fort und man beginnt, den "Ballast"
-abzuwerfen und alles links liegen zu lassen, nur um endlich das Tal
-hinter der Spitze zu sehen. Natürlich gibt es das Tal nicht, zumindest
-nicht wie zu Zeiten meines Bachelorstudiums -- ausser man ignoriert
-einfach die Berge fuer eine Weile.
-
-Das Modell ein paar Monate auf Verschleiß zu fahren und alles andere
-links liegen zu lassen ist nicht nachhaltig. Manche brennen so fuer
-ihre Forschung, dass sie genau das machen können, allen voran mein
-Betreuer[fn::Was aber nicht bedeutet, dass er das Selbe von mir
-erwartet.]. Entweder habe ich noch nichts gefunden was mich wirklich
-interessiert, oder ich ticke halt anders. Natuerlich ist es grandios
-ein PhD Student zu sein: all die Freiheit, flexible Arbeitszeiten,
-Montreal, Konferenzen, etc... Aber die Angst versauert es einem
-gewaltig. Dann bricht die Disziplin weg und man gibt dem Weg des
-geringsten Wiederstandes nach. Man bleibt bis spaet am Abend im Buero
-und laesst alles andere Schleifen. Selbst Erholung wird zur
-Aufgabe. Die Freiheit ist auch ein Fluch. Staendig versuche ich
-moeglichst "Produktiv" zu sein und gebe mir nie genug Zeit vernuenftig
-nachzudenken.
-
-All dies und noch mehr sind Faktoren, welche voellig unabhaengig vom
-eigentlichen Projekt an dem ich arbeite. Vielleicht liegt es daran,
-dass ich gewissermassen gezwungen wurde an etwas zu Arbeiten was ich
-anfaenglich fuer Sinnlos hielt. Dieses Resentiment und meine
-Starrsinnigkeit tragen bis heute dazu bei, dass ich meine Meinung
-ueber das Projekt nicht wirklich veraendert habe. Ich bin bei fast
-jedem Treffen mit unseren Kollaborateueren gereizt -- aus
-Enttäuschung. Ich bin enttaeuscht weil das Thema so "doof ist" und ich
-lieber an etwas "coolerem" arbeiten will (auf der anderen Seite ist
-das Grass immer gruener). Noch viel mehr enttaeuscht, ja beschaemt,
-mich mein langsamer Fortschritt. All das ist natuerlich hochgradig
-subjektiv und warscheinlich nicht einmal zutreffend, aber wenn man 90%
-der Zeit damit zubringt, sich so zu fuehlen macht nichts mehr Freude
-im Leben.
-
-Da es mir im Master aehnlich ging bezweifle ich mittlerweile, dass ein
-Wechsel helfen wuerde. Es ist an mir: entweder ich Krieg "meinen
-Scheiss auf die Reihe", oder ich suche mir eine andere Profession.
-
-Das mag jetzt alles uebermaessig negativ klingen, aber es gibt auch
-Licht am Horizont. Ich glaube, ich konnte meinem Betreuer letzten
-Mittwoch klarmachen, wie weit ich mit dem aktuellen Projekt noch
-mitgehe und dass sich unsere Ansichten unterscheiden. Zwar versucht er
-immer noch an jeder stelle, alles mit dieser einen Idee zu verspinnen,
-aber ich denke, dass ich mich nun mit meiner Meinung durchsetzen
-kann. Letztes Semester bestand ich das "Prelim Exam", den
-"Idioten-Filter" und musste dafuer auch einen "Bericht" schreiben. Ich
-habe die Gelegenheit genutzt mich mal ein wenig im Feld umzusehen und
-konkrete Projektideen zu entwickel, auch wenn ich das Gefuehl habe,
-dass mein Betreuer diese nicht so interessant findet. Aber das ist
-/sein/ Problem! Ich denke, dass ich nach einem weiteren crash-reset
-cycle ueber Weihnachten wieder einen klareren Kopf bekomme und
-hoffentlich im neuen Jahr daraus lerne.
-
-Ein weiterer Faktor in meiner Misere war, dass ich zu vieles
-gleichzeitig jongliert habe und dass nicht wirklich effizient. Alles
-in allem hatte ich letztes Semester folgende verpflichtungen:
-
-1. PhD Projekt
-2. Paper mit der Gruppe in Dresden
-3. Prelim Exam: Bericht und muendliche Pruefung
-4. FRQNT Stipendiumsbewerbung: Eine Woche voll munterer Hektik. Ich
-   war gerade mit meinem Prelim-Bericht fertig geworden...
-5. CMC Workshop: Im Juni nahm ich an einem Workshop teil, indem wir
-   in die Kunst der Supraleitenden Quantenschaltkreise eingefuehrt
-   wurden. Dem schloss sich eine Gruppenarbeit an, in deren Verlauf
-   man einen eigenen Schaltkreis entwirft, fabriziert und
-   testet. Unsere Gruppe gewann im Juni den Projekt-Vorschlags-Wettbewerb.
-6. Lehre: Ich habe den Kurs "Computational Physics" mitbetreut und
-   durfte auch Zwei-1/2 Hausaufgaben bewerten. Ein GRAUEN. Ich habe
-   mich damals ueber den CP Kurs in Dresden beschwert, da ich mehr
-   Zeit auf Form als auf das Loesen der Aufgabe verwenden musste. Aber
-   es stellt sich herraus: Ohne Form ist das Bewerten der Hausaufgaben
-   recht anspruchsvoll und es ist schwiereg bei 40+ Studenten
-   konsistent zu bleiben. Besonders wenn der Code subtil Falsch ist,
-   weil niemand sich damit beschaeftigt warum globale Variablen
-   schlecht sind. Nachdem ich nach dem Bewerten meiner ersten
-   Hausaufgabe (der zweiten Abgaben der Studenten) einigermassen
-   geschockt war, schrieb ich ersteinmal einen
-   [[https://andrewcumming.github.io/phys512/homework_notes/hw2_common_issues.html][halben Roman]]. Doch es ist alles vergebene Liebesmuehe, denn selbst der
-   Professor schreibt teilweise schrecklichen Code in seinen
-   Musterloesungen. Naja, ich bin da also etwas zu pedantisch. Leider
-   waren einige der Hausaufgaben fast unmoeglich richtig zu
-   beantworten, da die Zielvorgaben sehr schwammig formuliert
-   waren. Das ist natuerlich zu erwarten, wenn der Kurs zum ersten mal
-   durch einen neuen Professor gegeben wurde. Alles in allem war
-   dieser ein sehr netter Boss und auch in seiner Lehre sehr
-   kompetent. Das ist alles Meckern auf hohem Niveau, aber das TAing
-   hat echt ne Menge Zeit gefressen. Das liegt warscheinlich auch an
-   meinem Mangel an Erfahrung.
-
-Das prelim exam habe ich etwas antiklimaktisch bestanden. Die FRQNT
-Bewerbung wurde zumindest bisher nicht aus Formgruenden
-abgewiesen. Und die Lehre gehoert natuerlich einfach zum spass. Ich
-habe schon wieder ins Klo gegriffen und darf auch naechstes Semester
-einen first-timer Kurs betreuen.
-
-Gluecklicherweise ist das Paper mit Dresden jetzt so ziemlich
-abgehakt, sodass diese Last von mir genommen ist. Natuerlich kommt
-nochmal ein Batzen Referee-Feedback auf uns zu, was warscheinlich
-nicht ganz-ohne ist. Ebenso habe ich meinen Teil fuer das CMC projekt
-vorerst getan. Wir haben sogar den zweiten Wettbewerb gewonnen. Fuer
-diesen musste man sein konkretes Design vorstellen. Ich denke, wir
-haben den Preis nicht verdient, da nichts an unserem Design konkret
-war und auch die Gruppenkommunikation so ziemlich vor die Hunde
-gegangen ist. Im Vorfeld der Praesentation letzten Dienstag hatten nur
-Zwei von Sechs Gruppenmitgliedern einen substantiellen Beitrag
-geleistet. Und diese Beitraege wiederum wiedersprachen sich, weil man
-/absolut nich kommuniziert/ hat... Ich habe ziemlich viel Zeit darauf
-verwended die basics zu verstehen und die groben design-parameter
-herzuleiten. Ehrlich gesagt verstehe ich von der Materie immer noch
-viel zu wenig, aber das wird bei einem neben-projekt fuer welches ich
-ebenfalls nicht feuer-und-flamme bin wohl so bleiben. Ein anderes
-Gruppenmitglied mit erfahrung in dem Feld hat Munter simulationen
-laufen lassen, allerdings gaenzlich abseits von meinen Design
-vorschlaegen und mit wenig Zusammenhang mit unseren Zielen. Leider
-habe ich nicht wirklich verstanden, was er eigentlich gemacht hat und
-kann nicht beurteilen inwiefern sein Beitrag hilfreich war. Auf jeden
-fall konnten wir die Jury ueberzeugen, was wieder einmal zeigt, dass
-man mit jedem Bullshit durchkommen kann. Ich musste waerend der
-Praesentation die Webcam abschalten, damit nicht zu sehen war, wie ich
-mir die Haende vor die Augen schlug. Nun, ich denke persoenlich, dass
-die anderen nicht wirklich wissen worauf wir uns da eingelassen
-haben. Andererseits habe ich die Tendenz, die Dinge zu ernst zu
-nehmen.
+Und damit koennt ihr nun unter [Neuseeland](/categories/neuseeland) die alten posts lesen.
 
 
-Genug Rumgeheule :). Ich glaube es wird klar, welch Tohu wa-bohu
-gerade in meinem Kopf vor sich geht. Hard reset and start anew...
+### Canada <span class="tag"><span class="_Canada">@Canada</span></span> {#canada}
 
-Letzte Woche war ich schon endgueltig im vor-dem-urlaub-abhaken modus
-und demenstrprechend viel meine Arbeitsmoral aus. Ich habe dann aber
-quantitativ-gemmessen doch erstaunlich viel hinbekommen.
 
-Im verlaufe des Jahres ist mir Montreal zur Heimat geworden. Auf dem
-weg zur Uni bin ich jedes mal Begeistert von der Skyline. Gleichzeitig
-kann habe ich im Sommer die gruene Oase des Mont-Royal um die Ecke,
-die sich zur kalten Jahreszeit zum Winter-Wunder-Land. Jedes mal, wenn
-ich aus der Mont-Royal Metro Station steige, denke ich mir: "Welch ein
-Glueck habe ich in diesem Viertel zu leben". Sogar der Brutalismus in
-der Architektur und die "schlampigkeit" des Erscheinungsbildes der
-Stadt fangen mir an zu gefallen. Stockholm syndrom... wer weiss.
+#### <span class="org-todo done DONE">DONE</span> Entscheidung {#entscheidung}
 
-In meiner Weisheit habe ich den guenstigsten Flug gebucht und
-natuerlich war Ebendieser nicht ohne Grund so guenstig. American
-Airlines, die Airline mit der ich Flieger, hat in Charlotte (North
-Carolina) ihren grossen Verteiler. Nun gibt es von den meisten
-Nordamerikanischen Staedten Zulieferfluege zu denen auch der meinige
-aus Montreal zaehlte. Der haken war die fruehe Abflugszeit, 7:30 Uhr
-am morgen. Not to bad, denkt man sich. Aber da der Flug technisch als
-Inlandsflug gefuehrt wird, muss man noch durch die Amerikanische
-Zollkontrolle. Es wird empfolen vier Stunden vor Abflug am Flughafen
-zu erscheinen, also um 3:30 Uhr in meinem Fall. Die einzige
-Busverbindung von meiner Wohnung zum Flughafen ging um 2:09 Uhr womit
-mir nach Aufregung und abendlichen Putzwahn [fn::natuerlich vollkommen
-Sinnlos angesichts meiner einmonatigen Abwesenheit in der mein
-Mitbewohner alles gruendlich einsauen wird.] nur ein-zwei Stunden
-Schlaf. Aber ich bin jung und dynamisch. Ich kann das ab. Was ich
-allerdings nicht bedacht hatte war, dass die Busverbindung eine
-ziemlich kurze Umsteigezeit hatte (6 Minuten). Und als dann der Buss
-auf sich warten lies (mehr als 6 Minuten :P) blieb mir nichts anderes
-uebrig, als ein Taxi zu nehmen. Ich war schon halb dabei die Uber app
-einzurichten (Warum hatte ich die deinstalliert? Warum funktionierte
-mein bestehendes Konto nicht?) als just ein leeres Taxi langsam an mir
-Vorbeirollte. Schoenerweise war es sogar ein "echtes" und hatte somit
-einen Fixpreis fuer die Route zum Flughafen.
-
-Der Taxifahrer war wohl recht neu im Job und wusste sich nicht
-einzufaedeln am Flughafen, aber dennoch kahmen wir
-*** TODO Back to MTL
-:PROPERTIES:
-:EXPORT_FILE_NAME: back-to-mtl
-:END:
-
-Hallo Freunde :).
-
-Ich habe während meines Charlotte Aufenthalts auf dem Flug nach
-Deutschlands einen sehr langen Blogpost verfasst und dann auch noch im
-Urlaub teil-überarbeitet. Ich denke aber, dass ich euch das ganze
-Rumgejammer erspare.
-
-Weihnachten war rundum recht angenehm, wenngleich ich schon am morgen
-des heiligen Tages Zurückhaltung beim Essen walten lassen musste. Der
-Herr Vater und sein Gatte Tilo hatten mich auf Usedom schon reichlich
-gemästet. Ich war auf Usedom, in Weimar, Dresden, Leipzig, Gera und
-München. Viele Freunde konnte ich treffen, manche leider auch
-nicht. Alles in allem eine recht erfüllte Erfahrung.
-
-Letzte Woche habe ich mir dann noch passend zum Abflug einen kleinen
-Infekt eingefangen und am Freitagabend hatte ich schon arge Zweifel an
-meiner Reisetauglichkeit. Den Zug nach Muenchen hatte ich auf Sonntag
-vorgezogen, da nicht klar war wann gestreikt wird. Wenngleich ich am
-Sonntag noch leicht angekratzt war verlief die Zugfahrt angenehm
-Ereignislos. Das Bewegen meines 23-Kilo-Koffers bis zur
-Busshaltestelle und dann nochmal zum Hotel verlangte mir einiges ab,
-schien aber auch den Körper durchzustarten. Ein Spatziergang im
-wundevoll verschneiten Nymphenburger Schlosspark konnte erfolgreich
-absolviert werden.
-
-Am Montag blies ich ein wenig Trübsal und arbeitete am Vormittag, um
-mein Gewissen zu beruhigen. Aufgrund meiner suboptimalen Zeitplanung
-blieben mir dann leider nur zwei Stunden im Deutschen Museum, sodass
-ich die Fotographie, Mathematik und Flugfahrtaustellungen nur
-ueberfliegen konnte. Ich lernte etwas ueber subtraktive Farbmischung
-und Mantelstromtriebwerke.
-*** TODO Tired of downloading the same paper over and over: clickable PDF links in the natbib (RevTex) bibiography.
-:PROPERTIES:
-:EXPORT_FILE_NAME: tired-of-downloading-the-same-paper-over-and-over-clickable-pdf-links-in-the-natbib-revtex-bibiography-dot
-:END:
-** Canada                                                   :@Canada:
-*** DONE Entscheidung
-CLOSED: [2022-08-28 Sun 17:53]
-:PROPERTIES:
-:EXPORT_FILE_NAME: entscheidung
-:END:
-
-Da der [[/categories/neuseeland][Neuseeland Blog]] damals so gut lief, werde ich nun dasselbe mit
+Da der [Neuseeland Blog](/categories/neuseeland) damals so gut lief, werde ich nun dasselbe mit
 Montreal machen. Vielleicht wird das Ganze weniger spektakulär als der
 meine Reiseerfahrungen, da ich ja "nur" einen PhD in Kanada mache,
 aber das wage ich zu bezweifeln.
@@ -3561,47 +2897,47 @@ November dort anzukommen und mir entspannt eine Wohnung zu suchen.
 
 Soweit so, interessant. Salut und bis zum nächsten Mal.
 
+<!--list-separator-->
 
-**** Checkliste fuer die Zulassung und den Study Permit
-Ich werde diese liste ab und zu updaten :). Wenn diese Punkte
-geklaehrt sind, kann ich weitere details planen.
+-  Checkliste fuer die Zulassung und den Study Permit
 
-- [X] McGill fragen, wie wir das mit der Zulassung machen
-  - Kann man zuerst mit einem Vistor-Visa einreisen, um eine Wohnung zu finden?
-    - Lieber nicht!
-  - Ich kann meinen "Offer of Admission" fuer das Visazeug nutzen.
-- [X] Reisepass
-  - Eine Odyssey. Nein, auf ein Expressverfahren kann man das nicht
-    umsteigen wenn der Pass ersteinmal beantragt ist. Anfang der
-    Woche (5.9.) habe ich mich zum Empfangsschalter des
-    Buergerbueros durchgekaempft genau das in Erfahrung
-    gebracht. Mit etwas Glueck koennte der Pass naechste Woche schon
-    da sein.
+    Ich werde diese liste ab und zu updaten :). Wenn diese Punkte
+    geklaehrt sind, kann ich weitere details planen.
 
-    Letzte woche habe ich ein paar duzend mal bei der Terminvergabe
-    angerufen, was mir heute (8.9.) einen Termin verschafft
-    hat. Allerdings fuer die Beantragung eines *weiteren*
-    Passes. Nun wollte ich schon fast nicht hingehen, weil der Pass
-    ja schon in Produktion ist.
+    -   [X] McGill fragen, wie wir das mit der Zulassung machen
+        -   Kann man zuerst mit einem Vistor-Visa einreisen, um eine Wohnung zu finden?
+            -   Lieber nicht!
+        -   Ich kann meinen "Offer of Admission" fuer das Visazeug nutzen.
+    -   [X] Reisepass
+        -   Eine Odyssey. Nein, auf ein Expressverfahren kann man das nicht
+            umsteigen wenn der Pass ersteinmal beantragt ist. Anfang der
+            Woche (5.9.) habe ich mich zum Empfangsschalter des
+            Buergerbueros durchgekaempft genau das in Erfahrung
+            gebracht. Mit etwas Glueck koennte der Pass naechste Woche schon
+            da sein.
 
-    Ich gehe trotzdem hin, denn ein Geschenk eines Termins ist
-    anzunehmen! Wunder aller Wunder, der Pass ist schon da!
+            Letzte woche habe ich ein paar duzend mal bei der Terminvergabe
+            angerufen, was mir heute (8.9.) einen Termin verschafft
+            hat. Allerdings fuer die Beantragung eines **weiteren**
+            Passes. Nun wollte ich schon fast nicht hingehen, weil der Pass
+            ja schon in Produktion ist.
 
-- [ ] TUD Veranlassen die entsprechenden Dokumente PER POST nach Canada zu schicken
-  - Geht auch elektronisch und hat ein wenig Zeit.
-- [-] Study Permit beantragen sobalt moeglich
-  - [X] Certificate of Acceptance of Quebec ist beantragt.
+            Ich gehe trotzdem hin, denn ein Geschenk eines Termins ist
+            anzunehmen! Wunder aller Wunder, der Pass ist schon da!
 
-    Yay. Ich habe es jetzt schon ne ganze Weile.
+    -   [ ] TUD Veranlassen die entsprechenden Dokumente PER POST nach Canada zu schicken
+        -   Geht auch elektronisch und hat ein wenig Zeit.
+    -   [-] Study Permit beantragen sobalt moeglich
+        -   [X] Certificate of Acceptance of Quebec ist beantragt.
 
-  - [X] Study Permit
-    - Ist beantragt. Ich muss noch die Fingerabdruecke abgeben.
+            Yay. Ich habe es jetzt schon ne ganze Weile.
 
-*** DONE Update: Zulassung
-CLOSED: [2022-08-29 Mon 10:07]
-:PROPERTIES:
-:EXPORT_FILE_NAME: update-zulassung
-:END:
+        -   [X] Study Permit
+            -   Ist beantragt. Ich muss noch die Fingerabdruecke abgeben.
+
+
+#### <span class="org-todo done DONE">DONE</span> Update: Zulassung {#update-zulassung}
+
 Es scheint so, als koennte ich den "Offer of Admittance" letter von
 McGill nutzen. Jetzt haengt es noch am Reisepass.
 
@@ -3609,16 +2945,13 @@ Ich habe den Pass damals im normalen Verfahren beantragt obwohl das
 Expressverfahren nur 30 Euro mehr kostet. Ich versuche jetzt auf das
 Expressverfahren umzusatteln.
 
-*** DONE Kleines Update zur Lage
-CLOSED: [2022-10-06 Thu 11:48]
-:PROPERTIES:
-:EXPORT_FILE_NAME: kleines-update-zur-lage
-:END:
+
+#### <span class="org-todo done DONE">DONE</span> Kleines Update zur Lage {#kleines-update-zur-lage}
 
 Ich sitze gerade im Zug nach Berlin, um meine Fingerabdrücke für den
 Study Permit abzugeben. Nachdem ich den Termin gebucht hatte, schaute
-ich nach, ob es ein lohnenswertes Konzert gibt. Und siehe da [[https://www.youtube.com/watch?v=I75uynYUjJs][Toro y
-Moi]] spielt!
+ich nach, ob es ein lohnenswertes Konzert gibt. Und siehe da [Toro y
+Moi](https://www.youtube.com/watch?v=I75uynYUjJs) spielt!
 
 Ich kann leider erst einen Flug buchen, wenn ich meinen Study Permit
 bekomme. Wann das ist, weiß ich nicht. Für mein Zimmer suche ich
@@ -3632,11 +2965,8 @@ meine Technik zum Verkauf anbieten.
 
 Cheers und bis zum nächsten mal.
 
-*** DONE Better late than never: Updates
-CLOSED: [2022-11-05 Sat 10:13]
-:PROPERTIES:
-:EXPORT_FILE_NAME: better-late-than-never-updates
-:END:
+
+#### <span class="org-todo done DONE">DONE</span> Better late than never: Updates {#better-late-than-never-updates}
 
 Dresden wird mich so bald nicht wiedersehen. Ich sitze im letzten Zug
 nach Gera, nachdem ich meine Schlüssel dem Nachmieter übergeben
@@ -3647,7 +2977,7 @@ kredenzte.
 Am vergangenen Wochenende war ich mit Uta gleich zu zwei Konzerten bei den
 Jazztagen und noch ein letztes Mal in der sächsischen
 Schweiz. Gestern kochte ich dann für elf Personen veganes Chili
-con Carne[fn:1] und bereitete Stockbrot Teig vor. Letzteres wurde dann
+con Carne[^fn:1] und bereitete Stockbrot Teig vor. Letzteres wurde dann
 bei einem kleinen Herbstfeuer auf der Terrasse zusammen mit
 Marshmallows zubereitet. Danach gab es einen Halloween-Spieleabend bei
 einer Freundin, zu dem ich allerdings stark verspätet erschien, da ich
@@ -3712,13 +3042,7 @@ nur die Zeit. Je ne sais pas.
 Damit habe ich wohl alles abgehakt :). Bis zum nächsten Mal.
 
 
-[fn:1] mit Soja-Hack und Gruenkernschrot als Fleischersatz
-
-*** DONE Paris und Abflug
-CLOSED: [2022-11-25 Fri 03:28]
-:PROPERTIES:
-:EXPORT_FILE_NAME: paris-und-abflug
-:END:
+#### <span class="org-todo done DONE">DONE</span> Paris und Abflug {#paris-und-abflug}
 
 Hallo miteinander. Ich beginne diesen Blogpost im Wartebereich am
 Aéroport Charles de Gaulle. Mal sehen wann ich ihn vollende. Die
@@ -3729,9 +3053,7 @@ regeln. Mein Uber hatte eine Punktlandung hingelegt und so war ich
 glatte vier Stunden vor dem geplanten Abflug am Flughafen.
 
 Ein paar Stunden später schreibe ich weiter im Flugzeug, fliegend
-durch den unendlichen Sonnenuntergang[fn::Mein Nachbar macht einen
-Zeitraffer mit der Go-Pro.], weiter[fn::Wow. Das active noise
-cancelling in den Kopfhörern ist echt nice :).]. Mein dokumentarischer
+durch den unendlichen Sonnenuntergang[^fn:15], weiter[^fn:16]. Mein dokumentarischer
 Versuch des letzten Paragrafen wurde durch mein Bemühen, mich mit zehn
 Minuten Puffer vor dem Boarding möglichst vorne in der Schlange zu
 platzieren, unterbrochen. Die korrekte Vorgehensweise wäre gewesen,
@@ -3741,7 +3063,7 @@ in line" mit betonung auf "try" und versuchte niemandem auf die Füße
 zu treten. Einige Ansagen in Maschinengewehr Französisch und für mich
 schwer verständlichen Englisch später war dann klar, dass wir aufgrund
 von unerwarteten Personalproblemen noch zwanzig Minuten warten
-müssen[fn::Die öffentlichen Verkehrsbetriebe streikten...]. Dann
+müssen[^fn:17]. Dann
 nochmal zwanzig Minuten. Dann Boarding der Zone 1, Zone 2 etc. Ich war
 Zone 5 und hatte es aufgegeben der oben genannten Anweisung
 nachzukommen. Ein netter Kanadier aus Halifax, mit dem ich zuvor kurz
@@ -3757,7 +3079,7 @@ komfortabel auf meinen Schoss. Links von mir sitzt ein Sympathischer
 Franzose und hinter mir eine Frau mit einem goldigen Kleinkind,
 welches, gekleidet in einen Dino-Anzug, den Gang unsicher macht. Bis
 eben las ich, zum ersten mal auf Englisch, Neal Stephensons "Snow
-Crash". Das Buch habe ich gestern in "Shakespeare & Company" in Paris
+Crash". Das Buch habe ich gestern in "Shakespeare &amp; Company" in Paris
 erworben. In Original Sprache ist es noch einmal eine Ganz andere
 Erfahrung, auch wenn ich aufgrund des facettenreichen Vokabulars
 Stephensons öfters mal ins Wörterbuch schauen muss. Die
@@ -3772,17 +3094,12 @@ konnte diese aber sogar schon in Deutschland wieder rausfahren. In FR
 dann kein einziger Halt und mit 300 Kilometern in der Stunde direkt
 nach Paris.
 
-#+DOWNLOADED: file:///home/hiro/Pictures/Paris%202022/Collection%20for%20Upload/IMG_20221107_162452987.jpg @ 2022-11-10 19:48:19
-#+CAPTION: Flott ist der TGV.
-[[file:static/images/Paris_und_Abflug/2022-11-10_19-48-19_IMG_20221107_162452987.jpg]]
+{{< figure src="/images/Paris_und_Abflug/2022-11-10_19-48-19_IMG_20221107_162452987.jpg" caption="<span class=\"figure-number\">Figure 1: </span>Flott ist der TGV." >}}
 
-#+DOWNLOADED: file:///home/hiro/Pictures/Paris%202022/Collection%20for%20Upload/IMG_20221107_164716083.jpg @ 2022-11-10 19:58:35
-#+CAPTION: Ein flüchtiger Blick auf Paris.
-[[file:static/images/Paris_und_Abflug/2022-11-10_19-58-35_IMG_20221107_164716083.jpg]]
+{{< figure src="/images/Paris_und_Abflug/2022-11-10_19-58-35_IMG_20221107_164716083.jpg" caption="<span class=\"figure-number\">Figure 1: </span>Ein flüchtiger Blick auf Paris." >}}
 
 Nach acht Stunden Zug dann Ankunft am Gare de l'Est mit ersten Blicken
-auf Paris; danach mit einem Uber[fn::Uber verliert mit jeder Fahrt
-Geld und ist deswegen etwas günstiger als ein Taxi.] durch die
+auf Paris; danach mit einem Uber[^fn:18] durch die
 Pariser Rushhour zur Unterkunft. Alles in allem eine sehr teure, aber
 angenehme Erfahrung. Der Fahrer hatte ziemliche Routine und
 schlängelte sich, jede Gelegenheit zur abrupten losschießen nutzend,
@@ -3791,17 +3108,13 @@ Empfehlungen zu sein und auch Mopedfahrer kennen keine Angst. Durch
 jede Lücke fließend wie Wasser um Steine in korsischen Bergbächen.
 
 Als ich meinen Flug buchte und sich Idee eines Parisaufenthaltes
-herauskristallisierte[fn::Zuerst nur über Nach als Puffer zum
-Flieger.] fragte ich Emily, eine Bekannte aus Dresden[fn::Die ehemalige
-Mitbewohnerin von Jasmin, der Berliner Bekanntschaft.], die gerade in
+herauskristallisierte[^fn:19] fragte ich Emily, eine Bekannte aus Dresden[^fn:20], die gerade in
 Bordeaux eine Erasmussemester verbringt, ob Sie vielleicht Lust auf ein
 paar Tage in Paris hätte. Zu meinem Erstaunen legte Sie sofort
 große Begeisterung an den Tag und damit war die Sache geritzt.
 
 Da Emily kurz vor mir angekommen war, erwartete Sie mich schon in
-unseren Airbnb[fn::Noch so ne neu-hippe Sache, die ich vorher noch nie
-benutzt hatte.] in Soucy-de-Bonueill[fn::Viel Spaß beim
-Aussprechen.]. Ich habe Sie nicht fotografiert, aber Sie war günstig
+unseren Airbnb[^fn:21] in Soucy-de-Bonueill[^fn:22]. Ich habe Sie nicht fotografiert, aber Sie war günstig
 an der RER-A gelegen und recht preiswert. Besonders unter
 Berücksichtigung des letzten Punktes war ich dann postiv überrascht.
 
@@ -3816,9 +3129,7 @@ Linien (1 und 6) sind vollständig automatisiert. Auch kommen viele
 unterschiedliche Technologien (klassische Schienen vs. Luftreifen mit
 Leitschiene) und eine große Spanne an Baujahren zum Einsatz.
 
-#+DOWNLOADED: file:///home/hiro/Pictures/Paris%202022/Collection%20for%20Upload/IMG_20221108_093136410.jpg @ 2022-11-10 20:33:32
-#+CAPTION: Unsere erste Metro Station.
-[[file:static/images/Paris_und_Abflug/2022-11-10_20-33-32_IMG_20221108_093136410.jpg]]
+{{< figure src="/images/Paris_und_Abflug/2022-11-10_20-33-32_IMG_20221108_093136410.jpg" caption="<span class=\"figure-number\">Figure 1: </span>Unsere erste Metro Station." >}}
 
 Unsere Tour begannen wir mit dem Pantheon und schon auf dem Weg
 dorthin wurde ich in den Bann Gennomen von der wie aus dem Ei gepellt
@@ -3826,9 +3137,7 @@ wirkenden Bebauung der Pariser Innenstadt. Ist das Klima dort nicht so
 korrosiv oder die Luft besser? Wird die gesamte Stadt regelmäßig mit
 Sandstrahlen behandelt?
 
-#+DOWNLOADED: file:///home/hiro/Pictures/Paris%202022/Collection%20for%20Upload/IMG_20221108_094905553.jpg @ 2022-11-10 20:41:50
-#+CAPTION: Das Pantheon.
-[[file:static/images/Paris_und_Abflug/2022-11-10_20-41-50_IMG_20221108_094905553.jpg]]
+{{< figure src="/images/Paris_und_Abflug/2022-11-10_20-41-50_IMG_20221108_094905553.jpg" caption="<span class=\"figure-number\">Figure 1: </span>Das Pantheon." >}}
 
 Tatsächlich war das Wetter an beiden Tagen sehr gnädig mit uns und
 so konnten wir uns bei lauen Temperaturen unter gelegentlichen
@@ -3843,9 +3152,7 @@ beeindruckend. Die musikalische Untermalung bestand aus
 vielschichtigen zuerst extrem langsamen und sich danach aufbauenden
 Synthesizer-Sounds, welche entfernt an eine Kirchenorgel erinnerten.
 
-#+DOWNLOADED: file:///home/hiro/Pictures/Paris%202022/IMG_20221108_104051309.jpg @ 2022-11-10 21:16:44
-#+CAPTION: Die Ausstellungshalle.
-[[file:static/images/Paris_und_Abflug/2022-11-10_21-16-44_IMG_20221108_104051309.jpg]]
+{{< figure src="/images/Paris_und_Abflug/2022-11-10_21-16-44_IMG_20221108_104051309.jpg" caption="<span class=\"figure-number\">Figure 1: </span>Die Ausstellungshalle." >}}
 
 Emily war die Ideale Begleiterin bei dieser Tour, war ihre Ausdauer
 der meinen sogar noch überlegen, sodass ich mich Abends über
@@ -3857,91 +3164,50 @@ Fotoauswahl, die ich eben angefertigt habe, mithilfe einiger
 Kommentare für sich selbst sprechen lassen. Ein PLOG, photo log,
 sozusagen.
 
-#+DOWNLOADED: file:///home/hiro/Pictures/Paris%202022/Collection%20for%20Upload/IMG_20221108_100641290.jpg @ 2022-11-10 20:53:04
-#+CAPTION: Auf dem Weg zum Rathaus.
-[[file:static/images/Paris_und_Abflug/2022-11-10_20-53-04_IMG_20221108_100641290.jpg]]
+{{< figure src="/images/Paris_und_Abflug/2022-11-10_20-53-04_IMG_20221108_100641290.jpg" caption="<span class=\"figure-number\">Figure 1: </span>Auf dem Weg zum Rathaus." >}}
 
+{{< figure src="/images/Paris_und_Abflug/2022-11-10_20-55-10_IMG_20221108_100710351.jpg" caption="<span class=\"figure-number\">Figure 1: </span>Nicht alle Busse in Paris sind so alt. Die meisten sind Hybrid- oder Elektrofahrzeuge." >}}
 
-#+DOWNLOADED: file:///home/hiro/Pictures/Paris%202022/Collection%20for%20Upload/IMG_20221108_100710351.jpg @ 2022-11-10 20:55:10
-#+CAPTION: Nicht alle Busse in Paris sind so alt. Die meisten sind Hybrid- oder Elektrofahrzeuge.
-[[file:static/images/Paris_und_Abflug/2022-11-10_20-55-10_IMG_20221108_100710351.jpg]]
+{{< figure src="/images/Paris_und_Abflug/2022-11-10_21-20-37_IMG_20221108_105516755.jpg" caption="<span class=\"figure-number\">Figure 1: </span>Ein verlegener Blick auf Notre Dame." >}}
 
+{{< figure src="/images/Local_Vars/2022-11-10_20-58-16_IMG_20221108_111356432.jpg" caption="<span class=\"figure-number\">Figure 1: </span>Das Rathaus, von dem es sicherlich schon Millionen von Photos gibt :)." >}}
 
-#+DOWNLOADED: file:///home/hiro/Pictures/Paris%202022/IMG_20221108_105516755.jpg @ 2022-11-10 21:20:37
-#+CAPTION: Ein verlegener Blick auf Notre Dame.
-[[file:static/images/Paris_und_Abflug/2022-11-10_21-20-37_IMG_20221108_105516755.jpg]]
-
-
-#+DOWNLOADED: file:///home/hiro/Pictures/Paris%202022/Collection%20for%20Upload/IMG_20221108_111356432.jpg @ 2022-11-10 20:58:16
-#+CAPTION: Das Rathaus, von dem es sicherlich schon Millionen von Photos gibt :).
-[[file:static/images/Local_Vars/2022-11-10_20-58-16_IMG_20221108_111356432.jpg]]
-
-#+DOWNLOADED: file:///home/hiro/Pictures/Paris%202022/Collection%20for%20Upload/IMG_20221108_112013978.jpg @ 2022-11-10 21:00:50
-#+CAPTION: Ein einsamer Turm ohne Kirche auf dem Weg zum Louvre.
-[[file:static/images/Paris_und_Abflug/2022-11-10_21-00-50_IMG_20221108_112013978.jpg]]
+{{< figure src="/images/Paris_und_Abflug/2022-11-10_21-00-50_IMG_20221108_112013978.jpg" caption="<span class=\"figure-number\">Figure 1: </span>Ein einsamer Turm ohne Kirche auf dem Weg zum Louvre." >}}
 
 Paris ist durchsetzt von kleinen, staubigen, großstädtisch
 anmutenden, aber dennoch hübschen Parks. In einem solchen war der
 obige Turm zu finden. Hätte ich von jedem aufsehen erregenden
 Gebäude ein Photo gemacht, würde dieser Blogpost ausgedruckt auf A4
-Blättern einen Stapel bis zum Mond ergeben[fn::Leichte Übertreibung
-:P.]. Eine solche Dichte an beeindruckender Architektur ist in meiner
+Blättern einen Stapel bis zum Mond ergeben[^fn:23]. Eine solche Dichte an beeindruckender Architektur ist in meiner
 sehr begrenzten Erfahrung einzigartig.
 
-
-#+DOWNLOADED: file:///home/hiro/Pictures/Paris%202022/IMG_20221108_114626953.jpg @ 2022-11-10 21:25:48
-#+CAPTION: Blick von Pont-Neuf.
-[[file:static/images/Paris_und_Abflug/2022-11-10_21-25-48_IMG_20221108_114626953.jpg]]
+{{< figure src="/images/Paris_und_Abflug/2022-11-10_21-25-48_IMG_20221108_114626953.jpg" caption="<span class=\"figure-number\">Figure 1: </span>Blick von Pont-Neuf." >}}
 
 Emily meinte, dieses Hotel sei hässlich. Ich finde, dass es sich trotz
 seiner Modernität gut in die Pariser Innenstadt einfügt.
 
-#+DOWNLOADED: file:///home/hiro/Pictures/Paris%202022/Collection%20for%20Upload/IMG_20221108_120756685.jpg @ 2022-11-10 21:07:59
-#+CAPTION: Your's truly vor dem Louvre.
-[[file:static/images/Paris_und_Abflug/2022-11-10_21-07-59_IMG_20221108_120756685.jpg]]
+{{< figure src="/images/Paris_und_Abflug/2022-11-10_21-07-59_IMG_20221108_120756685.jpg" caption="<span class=\"figure-number\">Figure 1: </span>Your's truly vor dem Louvre." >}}
 
+{{< figure src="/images/Paris_und_Abflug/2022-11-10_21-30-58_IMG_20221108_121049376.jpg" caption="<span class=\"figure-number\">Figure 1: </span>Ballons in der Pyramide." >}}
 
-#+DOWNLOADED: file:///home/hiro/Pictures/Paris%202022/IMG_20221108_121049376.jpg @ 2022-11-10 21:30:58
-#+CAPTION: Ballons in der Pyramide.
-[[file:static/images/Paris_und_Abflug/2022-11-10_21-30-58_IMG_20221108_121049376.jpg]]
+{{< figure src="/images/Paris_und_Abflug/2022-11-10_21-31-56_IMG_20221108_125437038.jpg" caption="<span class=\"figure-number\">Figure 1: </span>Nur japanische Restaurants an dieser Kreuzung." >}}
 
+{{< figure src="/images/Paris_und_Abflug/2022-11-10_21-34-37_IMG_20221108_125815161.jpg" caption="<span class=\"figure-number\">Figure 1: </span>Ein besonders schönes Exemplar." >}}
 
-#+DOWNLOADED: file:///home/hiro/Pictures/Paris%202022/IMG_20221108_125437038.jpg @ 2022-11-10 21:31:56
-#+CAPTION: Nur japanische Restaurants an dieser Kreuzung.
-[[file:static/images/Paris_und_Abflug/2022-11-10_21-31-56_IMG_20221108_125437038.jpg]]
+{{< figure src="/images/Paris_und_Abflug/2022-11-10_21-38-02_IMG_20221108_125828345.jpg" caption="<span class=\"figure-number\">Figure 1: </span>Und noch ein eines, gesichtet vom Bus aus." >}}
 
+{{< figure src="/images/Paris_und_Abflug/2022-11-10_21-39-06_IMG_20221108_130744080.jpg" caption="<span class=\"figure-number\">Figure 1: </span>Es muss nicht immer ein Dachgarten sein." >}}
 
-#+DOWNLOADED: file:///home/hiro/Pictures/Paris%202022/IMG_20221108_125815161.jpg @ 2022-11-10 21:34:37
-#+CAPTION: Ein besonders schönes Exemplar.
-[[file:static/images/Paris_und_Abflug/2022-11-10_21-34-37_IMG_20221108_125815161.jpg]]
+{{< figure src="/images/Paris_und_Abflug/2022-11-10_21-40-27_IMG_20221108_141315888.jpg" caption="<span class=\"figure-number\">Figure 1: </span>Ein Auge der Metro." >}}
 
-
-#+DOWNLOADED: file:///home/hiro/Pictures/Paris%202022/IMG_20221108_125828345.jpg @ 2022-11-10 21:38:02
-#+CAPTION: Und noch ein eines, gesichtet vom Bus aus.
-[[file:static/images/Paris_und_Abflug/2022-11-10_21-38-02_IMG_20221108_125828345.jpg]]
-
-
-#+DOWNLOADED: file:///home/hiro/Pictures/Paris%202022/IMG_20221108_130744080.jpg @ 2022-11-10 21:39:06
-#+CAPTION: Es muss nicht immer ein Dachgarten sein.
-[[file:static/images/Paris_und_Abflug/2022-11-10_21-39-06_IMG_20221108_130744080.jpg]]
-
-
-#+DOWNLOADED: file:///home/hiro/Pictures/Paris%202022/IMG_20221108_141315888.jpg @ 2022-11-10 21:40:27
-#+CAPTION: Ein Auge der Metro.
-[[file:static/images/Paris_und_Abflug/2022-11-10_21-40-27_IMG_20221108_141315888.jpg]]
-
-
-#+DOWNLOADED: file:///home/hiro/Pictures/Paris%202022/IMG_20221108_153139963.jpg @ 2022-11-10 21:45:25
-#+CAPTION: Ein Fuß im Musee d'Orsay.
-[[file:static/images/Paris_und_Abflug/2022-11-10_21-45-25_IMG_20221108_153139963.jpg]]
+{{< figure src="/images/Paris_und_Abflug/2022-11-10_21-45-25_IMG_20221108_153139963.jpg" caption="<span class=\"figure-number\">Figure 1: </span>Ein Fuß im Musee d'Orsay." >}}
 
 Der Fuß gehört zu einer Statue eines Afroamerikaners der in
 klassischer Pose, aber ohne Pathos rücklings auf einem aufsteigenden
 Pferd liegt. Das Kunstwerk ist Teil einer Reihe, die in Teilen auch im
 Dresdener Albertinum zu sehen war. Wir hatten im Musee d'Orsay
 Audioguides geliehen und ich verbrachte ungefähr die Hälfte unseres
-Aufenthaltes damit, jede der Statuen in der Haupthalle[fn::Ehemals ein
-Bahnhof.] einzeln und im Detail zu betrachten und natürlich auch
+Aufenthaltes damit, jede der Statuen in der Haupthalle[^fn:24] einzeln und im Detail zu betrachten und natürlich auch
 jedem Eintrag im Audioguide in Gänze zu lauschen. Danach machte ich
 mich daran mir flüchtig ein paar Gemälde in der Haupthalle
 anzusehen, um mich dann nach kurzer Agonie für die Besichtigung von
@@ -3959,9 +3225,7 @@ Wunderbar auf die anderen Gemälde des Impressionismus anwenden. Tatsächlich
 musste ich mich zuletzt beeilen, um noch vor Ladenschluss aus dem
 Museum zu gelangen.
 
-#+DOWNLOADED: file:///home/hiro/Pictures/Paris%202022/IMG_20221108_172410759.jpg @ 2022-11-10 22:21:11
-#+CAPTION: Die Haupthalle des Musee d'Orsay.
-[[file:static/images/Paris_und_Abflug/2022-11-10_22-21-11_IMG_20221108_172410759.jpg]]
+{{< figure src="/images/Paris_und_Abflug/2022-11-10_22-21-11_IMG_20221108_172410759.jpg" caption="<span class=\"figure-number\">Figure 1: </span>Die Haupthalle des Musee d'Orsay." >}}
 
 Hineingelangt waren wir als junge Menschen kostenfrei doch nicht
 ohne Zwischenfall. Ich hatte ein Taschenmesser in meinem Rucksack,
@@ -3973,53 +3237,31 @@ konnte. Als wir dann später auf dem Arc de Triomphe waren (auch
 graduit) habe ich das Messer mithilfe eines Tipps eines
 Sicherheitsmannes vorher versteckt und danach wiedergeholt.
 
-#+DOWNLOADED: file:///home/hiro/Pictures/Paris%202022/IMG_20221108_172452794.jpg @ 2022-11-10 21:46:49
-#+CAPTION: Dämmerung in Paris.
-[[file:static/images/Paris_und_Abflug/2022-11-10_21-46-49_IMG_20221108_172452794.jpg]]
-
+{{< figure src="/images/Paris_und_Abflug/2022-11-10_21-46-49_IMG_20221108_172452794.jpg" caption="<span class=\"figure-number\">Figure 1: </span>Dämmerung in Paris." >}}
 
 Über den Champs-Élysées gelangten wir dann zum Triumphbogen, dem
 Symbol des französischen Patriotismus (laut einer dort angebrachten
 Info-Tafel).
 
+{{< figure src="/images/Paris_und_Abflug/2022-11-10_22-25-34_IMG_20221108_184840139.jpg" caption="<span class=\"figure-number\">Figure 1: </span>Des Nachts und von unten." >}}
 
-#+DOWNLOADED: file:///home/hiro/Pictures/Paris%202022/IMG_20221108_184840139.jpg @ 2022-11-10 22:25:34
-#+CAPTION: Des Nachts und von unten.
-[[file:static/images/Paris_und_Abflug/2022-11-10_22-25-34_IMG_20221108_184840139.jpg]]
+{{< figure src="/images/Paris_und_Abflug/2022-11-10_22-26-06_IMG_20221108_190413836.jpg" caption="<span class=\"figure-number\">Figure 1: </span>Die Kamera am Smartphone stösst an ihre Grenzen." >}}
 
+{{< figure src="/images/Paris_und_Abflug/2022-11-10_22-26-45_IMG_20221108_190424423.jpg" caption="<span class=\"figure-number\">Figure 1: </span>Valentin auf dem Triumphbogen." >}}
 
-#+DOWNLOADED: file:///home/hiro/Pictures/Paris%202022/IMG_20221108_190413836.jpg @ 2022-11-10 22:26:06
-#+CAPTION: Die Kamera am Smartphone stösst an ihre Grenzen.
-[[file:static/images/Paris_und_Abflug/2022-11-10_22-26-06_IMG_20221108_190413836.jpg]]
+{{< figure src="/images/Paris_und_Abflug/2022-11-10_22-27-42_IMG_20221108_190612482.jpg" caption="<span class=\"figure-number\">Figure 1: </span>Blick auf la Defense." >}}
 
+{{< figure src="/images/Paris_und_Abflug/2022-11-10_22-28-32_IMG_20221108_193425323.jpg" caption="<span class=\"figure-number\">Figure 1: </span>Welch ein Gefährt?" >}}
 
-#+DOWNLOADED: file:///home/hiro/Pictures/Paris%202022/IMG_20221108_190424423.jpg @ 2022-11-10 22:26:45
-#+CAPTION: Valentin auf dem Triumphbogen.
-[[file:static/images/Paris_und_Abflug/2022-11-10_22-26-45_IMG_20221108_190424423.jpg]]
+{{< figure src="/images/Paris_und_Abflug/2022-11-10_22-29-00_IMG_20221108_194934949.jpg" caption="<span class=\"figure-number\">Figure 1: </span>Ein Zahnstocher?" >}}
 
-#+DOWNLOADED: file:///home/hiro/Pictures/Paris%202022/IMG_20221108_190612482.jpg @ 2022-11-10 22:27:42
-#+CAPTION: Blick auf la Defense.
-[[file:static/images/Paris_und_Abflug/2022-11-10_22-27-42_IMG_20221108_190612482.jpg]]
-
-#+DOWNLOADED: file:///home/hiro/Pictures/Paris%202022/IMG_20221108_193425323.jpg @ 2022-11-10 22:28:32
-#+CAPTION: Welch ein Gefährt?
-[[file:static/images/Paris_und_Abflug/2022-11-10_22-28-32_IMG_20221108_193425323.jpg]]
-
-#+DOWNLOADED: file:///home/hiro/Pictures/Paris%202022/IMG_20221108_194934949.jpg @ 2022-11-10 22:29:01
-#+CAPTION: Ein Zahnstocher?
-[[file:static/images/Paris_und_Abflug/2022-11-10_22-29-00_IMG_20221108_194934949.jpg]]
-
-#+DOWNLOADED: file:///home/hiro/Pictures/Paris%202022/IMG_20221108_195319511.jpg @ 2022-11-10 22:29:39
-#+CAPTION: Am besten sehen die Handyfotos bei Nacht aus, wenn sie gar nicht scharf sind.
-[[file:static/images/Paris_und_Abflug/2022-11-10_22-29-39_IMG_20221108_195319511.jpg]]
+{{< figure src="/images/Paris_und_Abflug/2022-11-10_22-29-39_IMG_20221108_195319511.jpg" caption="<span class=\"figure-number\">Figure 1: </span>Am besten sehen die Handyfotos bei Nacht aus, wenn sie gar nicht scharf sind." >}}
 
 Zu guterletzt: die genaue Replik der Flamme der
 Freiheitsstatue. Gustave Eiffel war für die Konstruktion des
 Stützgerüstes dieser Ikone der neuen Welt verantwortlich.
 
-#+DOWNLOADED: file:///home/hiro/Pictures/Paris%202022/IMG_20221108_204949053.jpg @ 2022-11-10 22:31:28
-#+CAPTION: Die Flamme der Statue of Liberty.
-[[file:static/images/Paris_und_Abflug/2022-11-10_22-31-28_IMG_20221108_204949053.jpg]]
+{{< figure src="/images/Paris_und_Abflug/2022-11-10_22-31-28_IMG_20221108_204949053.jpg" caption="<span class=\"figure-number\">Figure 1: </span>Die Flamme der Statue of Liberty." >}}
 
 Und damit hatten wir den ersten Tag hinter uns.
 
@@ -4031,27 +3273,22 @@ Wäsche durchläuft, da unsere Waschmaschine immer noch defekt
 ist. Aber das ist eine Story für den nächsten Post.
 
 Nun zum zweiten Tag in Paris, beginnend mit dem Gare du Nord ...
-#+DOWNLOADED: file:///home/hiro/Pictures/Paris%202022/IMG_20221109_100837616.jpg @ 2022-11-10 22:41:33
-#+CAPTION: Gare du Nord.
-[[file:static/images/Paris_und_Abflug/2022-11-10_22-41-33_IMG_20221109_100837616.jpg]]
+
+![](/images/Paris_und_Abflug/2022-11-10_22-41-33_IMG_20221109_100837616.jpg)
 ... von dem aus wir uns zu Montmartre begaben. Der erste Touristenstop
 war natürlich Sacré-Cœur.
 
-#+DOWNLOADED: file:///home/hiro/Pictures/Paris%202022/IMG_20221109_102836603.jpg @ 2022-11-22 02:17:07
-#+CAPTION: Valentin vor Sacre Coer.
-[[file:static/images/Paris_und_Abflug/2022-11-22_02-17-07_IMG_20221109_102836603.jpg]]
+{{< figure src="/images/Paris_und_Abflug/2022-11-22_02-17-07_IMG_20221109_102836603.jpg" caption="<span class=\"figure-number\">Figure 1: </span>Valentin vor Sacre Coer." >}}
 
 Gelegen auf einer Anhöhe, hat man vom Vorplatz eine Tolle Aussicht.
 
-#+DOWNLOADED: file:///home/hiro/Pictures/Paris%202022/IMG_20221109_115602523.jpg @ 2022-11-22 02:15:15
-#+CAPTION: Der Ausblick von Sacre Coer.
-[[file:static/images/Paris_und_Abflug/2022-11-22_02-15-15_IMG_20221109_115602523.jpg]]
+{{< figure src="/images/Paris_und_Abflug/2022-11-22_02-15-15_IMG_20221109_115602523.jpg" caption="<span class=\"figure-number\">Figure 1: </span>Der Ausblick von Sacre Coer." >}}
 
 Schon am Tag zuvor wussten wir nicht so recht, wie wir mit den
 Menschen umgehen sollten, die uns mit Spendenlisten für die
 Taubstummen ansprachen. Auch vor Sacre Coer traf man diese Leute in
 großen Zahlen an.  Meine schnelle Google Recherche offenbarte dann,
-dass die ganze Sache eine [[https://www.reddit.com/r/ChoosingBeggars/comments/91jmed/ask_me_for_a_donation_to_help_the_deaf_and_mute/][Betrugsmasche]] ist.
+dass die ganze Sache eine [Betrugsmasche](https://www.reddit.com/r/ChoosingBeggars/comments/91jmed/ask_me_for_a_donation_to_help_the_deaf_and_mute/) ist.
 
 Die Basilika an sich ist natürlich ein beeindruckender
 Anblick. Besonders das Fresko über dem Altarraum. Als wir fast die
@@ -4062,9 +3299,8 @@ Gottesdienst, geleitet vom Pfarrer und musikalisch begleitet von
 singenden und Harmonium spielenden Nonnen.
 
 Die Katakomben konnte man leider nicht besichtigen.
-#+DOWNLOADED: file:///home/hiro/Pictures/Paris%202022/IMG_20221109_111640044.jpg @ 2022-11-22 03:00:25
-#+CAPTION:  Computer Problem, kann man nichts machen.
-[[file:static/images/Paris_und_Abflug/2022-11-22_03-00-25_IMG_20221109_111640044.jpg]]
+
+{{< figure src="/images/Paris_und_Abflug/2022-11-22_03-00-25_IMG_20221109_111640044.jpg" caption="<span class=\"figure-number\">Figure 1: </span>Computer Problem, kann man nichts machen." >}}
 
 Ich tippe nun weiter auf einem sehr neuen Dell XPS13, meinem
 Traumlaptop aus der Zeit bevor ich die Profi-Ästhetik der ThinkPads zu
@@ -4073,41 +3309,27 @@ braucht. Kein Ding mit NixOS. Meine gestrige Beschäftigung war
 teilweise die Einrichtung dieser Schönheit.
 
 Also ging es weiter nach Montmartre mit seinen schönen Gassen ...
-#+DOWNLOADED: file:///home/hiro/Pictures/Paris%202022/IMG_20221109_113844206.jpg @ 2022-11-22 03:04:12
-#+CAPTION: Eine Gasse in Montmartre.
-[[file:static/images/Paris_und_Abflug/2022-11-22_03-04-12_IMG_20221109_113844206.jpg]]
 
+{{< figure src="/images/Paris_und_Abflug/2022-11-22_03-04-12_IMG_20221109_113844206.jpg" caption="<span class=\"figure-number\">Figure 1: </span>Eine Gasse in Montmartre." >}}
 
 ... und viel street art.
-#+DOWNLOADED: file:///home/hiro/Pictures/Paris%202022/IMG_20221109_113921083.jpg @ 2022-11-22 03:05:18
-#+CAPTION: They call it the French Dog.
-[[file:static/images/Paris_und_Abflug/2022-11-22_03-05-18_IMG_20221109_113921083.jpg]]
 
-#+DOWNLOADED: file:///home/hiro/Pictures/Paris%202022/IMG_20221109_121246302.jpg @ 2022-11-23 21:15:47
-#+CAPTION: Übermalt und überklebt.
-[[file:static/images/Paris_und_Abflug/2022-11-23_21-15-47_IMG_20221109_121246302.jpg]]
+{{< figure src="/images/Paris_und_Abflug/2022-11-22_03-05-18_IMG_20221109_113921083.jpg" caption="<span class=\"figure-number\">Figure 1: </span>They call it the French Dog." >}}
+
+{{< figure src="/images/Paris_und_Abflug/2022-11-23_21-15-47_IMG_20221109_121246302.jpg" caption="<span class=\"figure-number\">Figure 1: </span>Übermalt und überklebt." >}}
 
 Wir sahen auch das Moulin Rouge von außen und fuhren viel
 Metro. Unter anderem durch eine Station, die aussah wie Cpt. Nemos U-Boot.
 
-#+DOWNLOADED: file:///home/hiro/Pictures/Paris%202022/IMG_20221109_130401657.jpg @ 2022-11-23 21:18:19
-#+CAPTION: Steampunk Station.
-[[file:static/images/Paris_und_Abflug/2022-11-23_21-18-19_IMG_20221109_130401657.jpg]]
+{{< figure src="/images/Paris_und_Abflug/2022-11-23_21-18-19_IMG_20221109_130401657.jpg" caption="<span class=\"figure-number\">Figure 1: </span>Steampunk Station." >}}
 
 Und ploetzlich wird es Weihnachten.
-#+DOWNLOADED: file:///home/hiro/Pictures/Paris%202022/IMG_20221109_131031468.jpg @ 2022-11-23 21:19:25
-#+CAPTION: Neben dem Rathaus wird es schon Weihnachten.
-[[file:static/images/Paris_und_Abflug/2022-11-23_21-19-25_IMG_20221109_131031468.jpg]]
 
+{{< figure src="/images/Paris_und_Abflug/2022-11-23_21-19-25_IMG_20221109_131031468.jpg" caption="<span class=\"figure-number\">Figure 1: </span>Neben dem Rathaus wird es schon Weihnachten." >}}
 
-#+DOWNLOADED: file:///home/hiro/Pictures/Paris%202022/IMG_20221109_131526598.jpg @ 2022-11-23 21:21:44
-#+CAPTION: Verengung der Gasse und gutes Wetter.
-[[file:static/images/Paris_und_Abflug/2022-11-23_21-21-44_IMG_20221109_131526598.jpg]]
+{{< figure src="/images/Paris_und_Abflug/2022-11-23_21-21-44_IMG_20221109_131526598.jpg" caption="<span class=\"figure-number\">Figure 1: </span>Verengung der Gasse und gutes Wetter." >}}
 
-
-#+DOWNLOADED: file:///home/hiro/Pictures/Paris%202022/IMG_20221109_135522109.jpg @ 2022-11-23 21:26:15
-#+CAPTION: Fragwürdige Fassade nahe einer Veganen Backstube.
-[[file:static/images/Paris_und_Abflug/2022-11-23_21-26-15_IMG_20221109_135522109.jpg]]
+{{< figure src="/images/Paris_und_Abflug/2022-11-23_21-26-15_IMG_20221109_135522109.jpg" caption="<span class=\"figure-number\">Figure 1: </span>Fragwürdige Fassade nahe einer Veganen Backstube." >}}
 
 Nach diesen vormittäglichen Eskapaden ging es dann frisch voran in das
 Musée de l'Orangerie wo zurzeit eine Sonderausstellung über Sam
@@ -4115,55 +3337,36 @@ Szafran gezeigt wird. Szafran ist ein Pariser Pastellfarben-Maler des
 Impressionismus mit einer Obsession für Treppen, Fassaden und
 Monsteras.
 
-#+DOWNLOADED: file:///home/hiro/Pictures/Paris%202022/IMG_20221109_160609803.jpg @ 2022-11-23 21:34:21
-[[file:static/images/Paris_und_Abflug/2022-11-23_21-34-21_IMG_20221109_160609803.jpg]]
+{{< figure src="/images/Paris_und_Abflug/2022-11-23_21-34-21_IMG_20221109_160609803.jpg" >}}
 
-#+DOWNLOADED: file:///home/hiro/Pictures/Paris%202022/IMG_20221109_165045945.jpg @ 2022-11-23 21:34:34
-#+CAPTION: Vor der Orangerie.
-[[file:static/images/Paris_und_Abflug/2022-11-23_21-34-34_IMG_20221109_165045945.jpg]]
+{{< figure src="/images/Paris_und_Abflug/2022-11-23_21-34-34_IMG_20221109_165045945.jpg" caption="<span class=\"figure-number\">Figure 1: </span>Vor der Orangerie." >}}
 
-Der Orangerie entronnen ging es dann auf meinen Wunsch hin zum [[https://www.youtube.com/watch?v=sELxgrgaQUk][Grand
-Palais]], welches sich leider als temporär geschlossen entpuppte.
+Der Orangerie entronnen ging es dann auf meinen Wunsch hin zum [Grand
+Palais](https://www.youtube.com/watch?v=sELxgrgaQUk), welches sich leider als temporär geschlossen entpuppte.
 
-#+DOWNLOADED: file:///home/hiro/Pictures/Paris%202022/LMC_20221109_170957_OP6.T-BASIC.jpg @ 2022-11-23 21:38:31
-#+CAPTION: Das Grand Palais war bedauerlicherweise dicht.
-[[file:static/images/Paris_und_Abflug/2022-11-23_21-38-31_LMC_20221109_170957_OP6.T-BASIC.jpg]]
+{{< figure src="/images/Paris_und_Abflug/2022-11-23_21-38-31_LMC_20221109_170957_OP6.T-BASIC.jpg" caption="<span class=\"figure-number\">Figure 1: </span>Das Grand Palais war bedauerlicherweise dicht." >}}
 
 Schon auf dem Triumphbogen waren mir die Wolkenkratzer von La Défense
 aufgefallen und auch von Sacre Coer aus erweckten sie mein
 Interesse. Also fuhren wir mit der Metro 1 bis zu vorletzten Station
 und konnten die im Sonnenuntergang leuchtenden Glastürme bestaunen.
 
-#+DOWNLOADED: file:///home/hiro/Pictures/Paris%202022/LMC_20221109_174616_OP6.T-BASIC.jpg @ 2022-11-23 21:45:51
-[[file:static/images/Paris_und_Abflug/2022-11-23_21-45-51_LMC_20221109_174616_OP6.T-BASIC.jpg]]
+{{< figure src="/images/Paris_und_Abflug/2022-11-23_21-45-51_LMC_20221109_174616_OP6.T-BASIC.jpg" >}}
 
+{{< figure src="/images/Paris_und_Abflug/2022-11-23_21-42-25_LMC_20221109_173915_OP6.T-BASIC.jpg" caption="<span class=\"figure-number\">Figure 1: </span>So sieht der (die) Grande Arche noch ganz schüchtern aus." >}}
 
-#+DOWNLOADED: file:///home/hiro/Pictures/Paris%202022/LMC_20221109_173915_OP6.T-BASIC.jpg @ 2022-11-23 21:42:25
-#+CAPTION: So sieht der (die) Grande Arche noch ganz schüchtern aus.
-[[file:static/images/Paris_und_Abflug/2022-11-23_21-42-25_LMC_20221109_173915_OP6.T-BASIC.jpg]]
-
-
-#+DOWNLOADED: file:///home/hiro/Pictures/Paris%202022/LMC_20221109_175341_OP6.T-BASIC.jpg @ 2022-11-23 21:46:06
-#+CAPTION: Tatsächlich doch ganz schön groß :).
-[[file:static/images/Paris_und_Abflug/2022-11-23_21-46-06_LMC_20221109_175341_OP6.T-BASIC.jpg]]
+{{< figure src="/images/Paris_und_Abflug/2022-11-23_21-46-06_LMC_20221109_175341_OP6.T-BASIC.jpg" caption="<span class=\"figure-number\">Figure 1: </span>Tatsächlich doch ganz schön groß :)." >}}
 
 Und dann das Highlight des Abends, neben unserer mehrstündigen RER
 Irrfahrt: Le Tour Eiffel. Dieser wird anscheinend circa alle sieben
 Jahre neu gestrichen und wechselt dabei manchmal die Farbe. Außerdem
 werden auch gerade nach und nach die Nieten erneuert.
 
-#+DOWNLOADED: file:///home/hiro/Pictures/Paris%202022/LMC_20221109_185821_OP6.T-BASIC.jpg @ 2022-11-23 21:53:25
-[[file:static/images/Paris_und_Abflug/2022-11-23_21-53-25_LMC_20221109_185821_OP6.T-BASIC.jpg]]
+{{< figure src="/images/Paris_und_Abflug/2022-11-23_21-53-25_LMC_20221109_185821_OP6.T-BASIC.jpg" >}}
 
+{{< figure src="/images/Paris_und_Abflug/2022-11-23_22-02-22_LMC_20221109_200148_OP6.T-BASIC.jpg" caption="<span class=\"figure-number\">Figure 1: </span>Der Lack ist mittlerweile eine Kraterlandschaft." >}}
 
-#+DOWNLOADED: file:///home/hiro/Pictures/Paris%202022/LMC_20221109_200148_OP6.T-BASIC.jpg @ 2022-11-23 22:02:22
-#+CAPTION: Der Lack ist mittlerweile eine Kraterlandschaft.
-[[file:static/images/Paris_und_Abflug/2022-11-23_22-02-22_LMC_20221109_200148_OP6.T-BASIC.jpg]]
-
-
-#+DOWNLOADED: file:///home/hiro/Pictures/Paris%202022/LMC_20221109_202000_OP6.T-BASIC%20(1).jpg @ 2022-11-23 22:03:04
-#+CAPTION: Ganz nach Oben ist ganz schön teuer...
-[[file:static/images/Paris_und_Abflug/2022-11-23_22-03-04_LMC_20221109_202000_OP6.T-BASIC (1).jpg]]
+{{< figure src="/images/Paris_und_Abflug/2022-11-23_22-03-04_LMC_20221109_202000_OP6.T-BASIC (1).jpg" caption="<span class=\"figure-number\">Figure 1: </span>Ganz nach Oben ist ganz schön teuer..." >}}
 
 Wir hatten am Abend zuvor online Tickets erworben und konnten uns dann
 nach zweimaliger Filzung, diesmal hatte ich mein Taschenmesser zu Hause
@@ -4190,784 +3393,58 @@ war unsere Unterkunft nahe am Flughafen Paris Orly, aber weit entfern
 von CDG. Mit meinem großen Koffer wäre es in der Metro etwas eng
 geworden, zumal dort an diesem Tag gestreikt wurde.
 
+{{< figure src="/images/Paris_und_Abflug/2022-11-23_22-10-24_LMC_20221110_093926_OP6.T-BASIC.jpg" caption="<span class=\"figure-number\">Figure 1: </span>Morgennebel ..." >}}
 
-#+DOWNLOADED: file:///home/hiro/Pictures/Paris%202022/LMC_20221110_093926_OP6.T-BASIC.jpg @ 2022-11-23 22:10:24
-#+CAPTION: Morgennebel ...
-[[file:static/images/Paris_und_Abflug/2022-11-23_22-10-24_LMC_20221110_093926_OP6.T-BASIC.jpg]]
-
-
-#+DOWNLOADED: file:///home/hiro/Pictures/Paris%202022/LMC_20221110_095447_OP6.T-BASIC.jpg @ 2022-11-23 22:10:47
-#+CAPTION: ... und Flugwetter.
-[[file:static/images/Paris_und_Abflug/2022-11-23_22-10-47_LMC_20221110_095447_OP6.T-BASIC.jpg]]
+{{< figure src="/images/Paris_und_Abflug/2022-11-23_22-10-47_LMC_20221110_095447_OP6.T-BASIC.jpg" caption="<span class=\"figure-number\">Figure 1: </span>... und Flugwetter." >}}
 
 Damit schließt sich der Kreis und der längst überfällige Blogpost
 neigt sich dem Ende zu. Beim nächsten mal fasse ich meine Ankunft in
 Kanada und meinen Putzwahn der vergangenen Woche zusammen.
 
 Cheers.
-*** DONE Eineinhalb Monate
-CLOSED: <2023-01-08 Sun 15:40>
-:PROPERTIES:
-:EXPORT_FILE_NAME: eineihalb-monate
-:ID:       ed13c2e6-030e-45d2-9978-b7e5aa82027a
-:END:
 
-Ich sitze nun in meinem neuen/alten Sessel, um einen lange
-überfälligen Blogpost zu verfassen. Schon nach wenigen Tagen in
-Montreal hatte ich so viel erlebt, dass ich den Gedanken an einen
-neuen Blogpost vollkommen entmutigend fand. Natürlich ist aufschieben
-keine Lösung, und deswegen raffe ich mich endlich einmal auf.
 
-#+CAPTION: Sessel und Holzkiste habe ich für lau auf Facebook Marketplace erhascht. Der Transporter war allerdings nicht ganz billig.
-[[attachment:2022-12-30_20-16-41_LMC_20221229_191648_OP6.T-BASIC.jpg]]
-
-Mit dem ersten Schritt aus dem Flughafen in die untypisch milde
-Spätherbstluft beschloss ich mit dem Bus zu meiner Montrealer Wohnung
-zu fahren. Während der Fahrt kam ich kurz mit einer Physikstudentin
-ins Gespräch, welche gerade im Begriff war Montreal zu
-verlassen. Welch ein Zufall! Ich gab ihr meine E-Mail-Adresse doch
-habe nie wieder von ihr gehört.
-
-In der Wohnung wurde ich dann von meinem Mitbewohner Neil
-begrüßt. Schnell stellt sich heraus, warum Wohnungsbesichtigungen über
-Skype nur einen begrenzten nutzen haben. Aufgrund der niedrigen
-Auflösung und der Kompression des Videostreams konnte man nicht
-erkennen wie furchtbar abgelebt und verdreckt die Wohnung war. Auf
-diese Weise geschockt verbrachte ich eine durch den Jetlag fast
-schlaflosen Nacht und machte mich am morgen gleich zum Einkauf der
-Essentials auf den Weg. Glücklicherweise wohne ich einem relative
-dichten viertel an einer Straße, welche unweit zweier Hauptstraßen
-(Rue St. Denis und Mont-Royal Avenue) gelegen ist, sodass wirklich
-/alles/ zu Fuß erledigt werden kann.
-
-Mit Farbe und Putzutensilien machte ich mich an eine mehr als
-einwöchige Putzaktion. Ich habe tatsächlich das schönere Zimmer mit
-Zugang zum Balkon durch eine Größe gläserne Schiebetür, also beginne
-ich damit dieses Fenster zu putzen und danach alles, was sich im
-Zimmer befindet. Erstaunlich wie verdreck ein Schreibtisch ein ein
-Rollcontainer sein können. Auch die Kaltweiße Beleuchtung wird mit
-Ikea LED Lichtern ersetzt, sowie das Bettzeug, welches ich komplett
-austausche. Das Bad wird geschrubbt und in mehreren Aktionen kratze
-ich den Schmutz von den Küchen schränken.
-
-#+CAPTION: So sah alles in der Küche aus.
-[[attachment:2022-12-30_19-43-16_photo_2022-12-30_19-39-55.jpg]]
-
-Die Dunstabzugshaube tauschte ich kurzerhand aus, wobei mir beim
-Verdrehen der Kontakte etwas mulmig zumute war (habe ich wirklich die
-richtige Sicherung herausgedreht?).
-
-#+CAPTION: Der alte Dunstabzug ist nicht mehr ganz koscher.
-[[attachment:2022-12-30_19-44-48_photo_2022-12-30_19-42-26.jpg]]
-
-Parallel dazu suche ich noch im Internet nach alternativen Wohnungen,
-fand aber tatsächlich nichts mit einer ähnlich schönen Lage. Zwar
-ist meine aktuelle Wohnung abgenutzt, andererseits liegt sie in einem
-relativ modernen Gebäude am schönen Ende der Rue St. Dominque,
-unweit des Mont-Royal. Zum Park jogge ich in 10 Minuten und ebenso
-schnell bin ich mit dem Fahrrad in Downtown.
-
-Mein Vermieter/Mitbewohner ist in seinen frühen Sechzigern und
-arbeitet von Zuhause (unserem Wohnzimmer) aus. Das führt dazu, dass
-es vor ihm keine entkommen gibt und man meist in Gespräche verwickelt
-wird, auch wenn man nur kurz auf Toilette gehen will. Manchmal bin ich
-absolut nicht in der Stimmung irgendwelche Thesen betrefflich der
-(mangelnden) Abstraktionsfähigkeit anderer Menschen zu diskutieren.
-
-Ansonsten ist Neil aber sehr nett und hat großzügiger Weise einen Teil
-der Materialkosten meiner Putz/Renovier-Aktion übernommen. Auch haben
-wir schon mehrere Fahrradtouren in der Umgebung gemacht. Ich habe
-gebraucht ein sehr leichtes Rennrad erstanden und Fahrradtouren mit
-Neil machen mächtig Spaß.
-
-#+CAPTION: Auf Tour mit Neil.
-[[attachment:2022-12-30_20-40-35_LMC_20221127_130442_OP6.T-BASIC.jpg]]
-
-
-Es gibt ein paar Eigenarten in MTL/Quebec/Canada. So sind die
-Lichtschalter und Steckdosen anders als in Europa, der Strom kommt
-billig aus Wasserkraft und Trinkwasser ist kostenlos. Dementsprechend
-heizt man hier /direkt/ mit Strom und auch Warmwasser wird auch
-elektrisch gewonnen. Die Ampeln stehen hinter den Kreuzungen und
-Geschwindigkeitsbegrenzungen stehen auf großen, rechteckigen Schildern
-mit schwarzem Rand. Es gibt keine Vorfahrbustrassen aber jede Menge
-Stopschilder. An Kreuzungen mit vier Stopschildern muss man mit den
-Anderen Verkehrsteilnehmern Blickkontakt aufnehmen und Ausmachen, wer
-wann fährt.
-
-Tatsächlich kommt man als Fußgänger recht gut voran. Zwar hat man
-durch das Schachbrettlayout der Stadt andauernd Kreuzungen zu
-überqueren, aber der Fußgänger hat in Abwesenheit einer Ampel immer
-Vorrecht. Die Ampeln zählen netterweise rückwärts, sodass man weiß
-wann man rennen muss. Straßen sind hier schnurgerade und Kilometer
-lang, aber dafür beziehen sich Postleitzahlen nur auf eine handvoll
-Gebäude. Die Metro ist sehr flott, pünktlich, warm, gut belüftet und
-eng getaktet, wohingegen Busfahrten ewig dauern, da der Bus jede
-Minute hält oder an der Ampel festhängt. Und zu guter Letzt haben
-Mobilfunknummern dieselbe lokale Vorwahl wie Festnetzanschlüsse.
-
-In den letzten Wochen habe ich mit erstaunlich wenig Disziplin und
-Erfolg am Paper über meine Masterarbeit gearbeitet, gekocht,
-geschlafen und bin allein und mit Leuten vom McGill Outdoor Club
-wandern sowie joggen gegangen. Zwecks dessen bin ich Mitglied beim
-örtlichen Carsharing geworden. Wenn man das Auto schön vollpackt,
-kann man am Wochenende für circa 20$ sehr schöne Ausflüge machen.
-
-
-#+CAPTION: Ausflug zu Mont Saint-Bruno. MTL liegt in einem großen Flachland und jeder Hügel heißt hier gleich Berg.
-[[attachment:2022-12-30_20-57-51_LMC_20221120_125324_OP6.T-BASIC.jpg]]
-
-#+CAPTION: Aussicht von Mont Saint-Hilaire.
-[[attachment:2022-12-30_21-00-31_LMC_20221210_114138_OP6.T-BASIC.PANO.jpg]]
-
-#+CAPTION: Radeln am alten Hafen.
-[[attachment:2022-12-30_21-03-45_LMC_20221208_144607_OP6.T-BASIC.jpg]]
-
-#+CAPTION: Aussicht auf MTL beim Joggen.
-[[attachment:2022-12-30_21-04-48_LMC_20221205_084655_OP6.T-BASIC.jpg]]
-
-#+CAPTION: Murals in MTL.
-[[attachment:2023-01-02_21-46-52_LMC_20221204_122308_OP6.T-BASIC.jpg]]
-
-#+CAPTION: Old Port Gegend.
-[[attachment:2023-01-02_21-47-14_LMC_20221204_124412_OP6.T-BASIC.jpg]]
-
-
-#+CAPTION: Blick auf ein Futuristisches 70iger Bauprojekt.
-[[attachment:2023-01-02_21-47-53_LMC_20221204_125848_OP6.T-BASIC.jpg]]
-
-#+CAPTION: Der Blick vom alten Hafen in seiner vollen Hässlichkeit.
-[[attachment:2023-01-02_21-48-33_LMC_20221204_125857_OP6.T-BASIC.jpg]]
-
-#+CAPTION: Blick auf die Skyline mit Riesenrad.
-[[attachment:2023-01-02_21-50-30_LMC_20221204_135302_OP6.T-BASIC.jpg]]
-
-#+CAPTION: Rougemont, die Apfelhauptstadt Quebecs im Winter.
-[[attachment:2022-12-30_21-12-34_LMC_20221218_103641_OP6.T-BASIC.PANO.jpg]]
-
-#+CAPTION: Schneesturm auf dem Mont-Royal.
-[[attachment:2023-01-01_20-49-03_LMC_20221216_112004_OP6.T-BASIC.jpg]]
-
-Mit meinen Gruppenkollegen habe ich mich bereits zum Fußballschauen
-beim Professor getroffen und auch die Uni habe ich schon
-besichtigt. Der Standard der Büros ist hier gegenüber Dresden schon
-ein anderer und man merkt, dass hier Doktoranden eher Studenten als
-Angestellte sind. Auch ist die Geschäftsmäßigkeit der Uni eine
-ungewohnte Erfahrung. Ich habe für dieses Semester eine Rechnung über
-ungefähr 10,000$. Das wird durch eine Gutschrift für Physikdoktoranden
-um mehr als die Hälfte reduziert, sodass wir nur die Innlandsgebühren
-Zahlen. Dann bekommen wir noch ein Stipendium von der Uni, sowie ein
-Gehalt als Hilfslehrkraft. Auf diese Weise entsteht ein
-unübersichtlicher Intrauniversitärer Cashflow, aber ich hoffe, dass
-ich im Plus herauskomme, so wie ich es berechnet habe.
-
-Eine meiner Motivatoren nach Montreal zu kommen war die dortige
-Kultur. Für Musik scheint die Stadt eine echte Adresse zu sein und ich
-war schon bei meiner sommerlichen Recherche zur Stadt ganz aus dem
-Häuschen geraten ob der zahlreichen Konzerte von Gruppen die Ich
-kenne. Auch habe ich leute getroffen, die wegen der Szene aus
-Vancouver hierher gezogen sind.
-
-Am sah [[https://en.wikipedia.org/wiki/Pond_(Australian_band)][Pond]] live, besuchte ich einen Jazz Club[fn::welcher sich als
-recht teuer herausstellte], ging zu einem Konzert mit drei Gruppen
-welches drei Minuten von mir zu Hause entfernt stattfand und besuchte
-einen kleinen Jazz Workshop.
-
-#+CAPTION: Auf dem Pond Konzert.
-[[attachment:2023-01-01_20-07-33_LMC_20221203_213611_OP6.T-BASIC.jpg]]
-
-#+CAPTION: Konzert um die Ecke.
-[[attachment:2023-01-01_20-21-55_LMC_20221213_202914_OP6.T-BASIC.jpg]]
-
-#+CAPTION: Ein Konzertbesucher gibt mir einen Tipp.
-[[attachment:2023-01-01_20-15-24_LMC_20221213_220722_OP6.T-BASIC.jpg]]
-
-Mal sehen, ob ich mein Vorhaben einmal wöchentlich live Musik zu
-höheren umsetzen kann.
-
-Mein Mitbewohner Neal hat eine aus Japan stammende, sympathische
-Freundin namens Naomi. Da unsere Waschmaschine seit dem Tag meiner
-Ankunft defekt ist, waren wir schon des öfteren bei ihr zu Gast um
-unsere Wäsche zu reinigen. Eine neue/gebrauchte Waschmaschine hat
-anscheinend "auf dem Radar", aber mittlerweile habe ich nicht mehr
-viel Hoffnung auf eine Aktion seinerseits und nehme die Sache
-vielleicht selbst in die Hand[fn::Mitlerweile habe ich etwas an Land
-gezogen. Aber die logistik ist kompliziert.].
-
-Ich habe, da ich gerade den Freiraum dazu habe, die Innereien meines
-Linux Setups aufgebohrt und gegen (hoffentlich) [[https://nix-community.github.io/home-manager/][besseres]] ausgetauscht,
-sowie mein [[https://gettingthingsdone.com/][Task-Management]] und [[https://jethrokuan.github.io/org-roam-guide/][Notizensystems]] überarbeitet. Ich
-hoffe, dass ich damit effizienter an den PhD herangehen kann, aber
-vielleicht war das auch Zeitverschwendung und nicht [[https://en.wiktionary.org/wiki/yak_shaving][Yak-Shaving]]. Der
-heutige Einkauf und die Besorgungen in der Stadt konnte ich schon gut
-damit organisieren. Es hilft wirklich gut, alle zu erledigenden Dinge
-/sofort/ irgendwo aufzuschreiben und sie danach in Ruhe zu sortieren.
-
-Über Weihnachten lud Neil seine Freundin und mich in das Haus seiner
-Tochter in den Laurentiden, den örtlichen "Bergen", ein. Die Tochter
-war mit ihrem Mann und zwei Kindern nach Frankreich zu ihren
-Schwiegereltern entflohen und Neil sollte ihren Hasen hüten.
-
-#+CAPTION: Das Haus in den Laurentians.
-[[attachment:2023-01-02_20-30-13_LMC_20221224_101812_OP6.T-BASIC.jpg]]
-
-Das Haus war in Holztönen gehalten und recht gemütlich. Neben der
-Elektroheizung gab es auch einen Holzofen, welcher uns auch am zweiten
-Tag zugutekam.
-
-Den ersten Tag verbrachte ich mit einer Skitour in der schon zu diesem
-Zeitpunkt fantastischen Winterlandschaft. Da ich Neils Schuhgröße
-habe, konnte ich sein großzügiges Angebot seine Ski zu leihen
-annehmen.
-
-#+CAPTION: Erste Skitour.
-[[attachment:2023-01-02_20-39-20_LMC_20221222_113656_OP6.T-BASIC.jpg]]
-
-Um rechtzeitig umzukehren hatte ich mir die Uhr gestellt und auch die
-Steigung auf dem Rückweg eingeplant. Tatsächlich war ich dann aber
-schon so weit in Form, dass ich meinen Zeitplan übererfüllte. Ich
-hatte mir überhaupt erst Sorgen um die Zeit gemacht, weil wir am
-Nachmittag noch einkaufen gehen wollten.
-
-Dies stellte sich als eine sehr weise Entscheidung heraus, denn
-übermacht kam eine ganze Menge Schnee herunter und wir waren ohne
-Strom und abgeschnitten von der Straße. Aufgewacht war ich von einem
-sehr Lauten klopfen, als dessen Ursache ich zuerst die sich eventuell
-in Not befindende Untermieterin im Verdacht hatte. Tatsächlich war es
-aber Neal, der versuchte im angebauten Schuppen Holz zu hacken und
-dabei eher mäßigen Erfolg hatte. Nachdem ich vorschlug, den
-Hack-Klotz nach draußen auf festeren Grund zu verfrachten, kamen wir
-dann wesentlich besser voran.
-
-Ich verbrachte den Tag lesend am Kamin, kurz unterbrochen durch einen
-Spaziergang im Schneesturm. Man konnte keine zwanzig Meter weit sehen
-und alle, die keine 4x4's hatten steckten auf der Straße fest. Mamas
-Lebkuchen und auch die von Lebkuchen Schmidt mundeten allen hervorragend.
-
-#+CAPTION: Schneesturm.
-[[attachment:2023-01-02_21-04-50_LMC_20221223_084514_OP6.T-BASIC.jpg]]
-
-
-#+CAPTION: Der Kamin.
-[[attachment:2023-01-02_21-08-14_LMC_20221221_183914_OP6.T-BASIC.jpg]]
-
-Neils Online-Shop hat nie geschlossen und so unternahm er zwei
-fruchtlose Trips zur (geschlossenen) Bibliothek auf der Suche nach
-Strom und Internet, denn das mobile Datennetz war auch
-ausgefallen. Doch schon am Abend wurden wir wieder in
-das 21. Jahrhundert zurückgefordert. Stromausfälle sind in der Gegend
-so häufig, dass es ein gamifiziertes Challenge-System gibt, welches
-einen motiviert zu bestimmten Zeiten weniger elektrische Energie zu
-verbrauchen.
-
-
-Am nächsten Tag machte ich mich zu einer Winterwanderung entlang der
-geräumten Landastrassen auf, um dann aber recht bald
-umzukehren. Meine geplante Route stiess auf eine Privatstraße
-gestoßen und ich war mich nicht sicher, wie die Locals hier
-Fremdkörpern auf ihren Grund und Boden behandeln. Auch pfiff der Wind
-arg bei unter -10 °C. Später erfuhr ich dann, das zumindest meine
-Bedenken bezüglich der Privatstraße unbegründet waren. Allerdings
-wurde ich trotz der in Mamas Paket angekommenen Winterjacke und
-meiner frisch erstandenen Winterstiefel bei meiner Rückkehr gegen den
-Wind arg durchgefroren.
-
-#+CAPTION: Reichlich Schnee auf der ersten Wanderung.
-[[attachment:2023-01-02_21-28-28_LMC_20221224_103326_OP6.T-BASIC.jpg]]
-
-#+CAPTION: Es wird Stürmisch.
-[[attachment:2023-01-02_21-30-14_LMC_20221224_105839_OP6.T-BASIC.jpg]]
-
-Am Nachmittag/Abend hatte ich dann dadurch aber genug Zeit Omas/Mamas
-Lebkuchensoße zu kochen und ein Brot zu backen. Purer Buchweizen
-eignet sich leider nicht zum Brotbacken und somit war das Resultat
-nicht sonderlich erhebend. Mamas Soße konnte ich aber mithilfe von
-Spekulatius, dem Hasen gestohlener Pastinake und einem malzigen
-Micro-Brew Biers halbwegs zufriedenstellend hinbekommen. Trotz der
-gigantischen Ausmaße des Supermarktes in Mont-Tremblant konnte man
-keinen Lebkuchen, keine Knackwürste und auch kein Malzbier
-finden[fn::nur irgendwelche komischen mit extra Geschmack]. In
-Montreal hätte ich diese dinge sicherlich irgendwo auftreiben
-können, aber das hatte ich versäumt.
-
-Am ersten Feiertag fuhr ich dann im unberührten, teils hüfttiefen
-Schnee Ski und wurde mit tollen anblicken belohnt. Diesmal schaffte
-ich 20 Kilometer bevor mit die Finger in den Handschuhen arg zu kalt
-wurden.
-
-#+CAPTION: Hmmm, kann man hier überhaupt Ski fahren?
-[[attachment:2023-01-02_21-52-57_LMC_20221225_110457_OP6.T-BASIC.jpg]]
-
-#+CAPTION: Keine Spur von der Loipe.
-[[attachment:2023-01-02_21-53-32_LMC_20221225_113935_OP6.T-BASIC.jpg]]
-
-Nach dem ersten Drittel kam mir eine nette kältere Dame entgegen mit
-der ich mich erstaunlicherweise sogar etwas auf französisch
-austauschen konnte. Sie wies mich darauf hin, dass wir unsere jeweils
-gezogenen Spuren verwenden könnten.
-
-#+CAPTION: Winterwunderland.
-[[attachment:2023-01-02_21-56-38_LMC_20221225_123755_OP6.T-BASIC.jpg]]
-
-Am Abend gab es dann mit einem Tag Verspätung Kartoffeln und
-Sauerkraut mit meiner Soße, sowie japanischen Kohl-Pfannkuchen von
-Naomi.
-
-#+CAPTION: Das Weihnachtsessen. Anrichten muss ich noch üben.
-[[attachment:2023-01-03_20-14-03_LMC_20221225_181302_OP6.T-BASIC.jpg]]
-
-Den Tag darauf wanderte ich bei zuerst tollem Wetter dieselbe Runde
-wie zuvor und schreckte dabei diesmal nicht vor der Privatstraße
-zurück. Diese stellte sich aber nach wenigen hundert Metern als
-nicht passabel heraus.
-
-#+CAPTION: Bombenwetter.
-[[attachment:2023-01-03_20-17-17_LMC_20221226_103028_OP6.T-BASIC.PANO.jpg]]
-
-
-#+CAPTION: Mein Rubikon des ersten Spaziergangs.
-[[attachment:2023-01-03_20-17-52_LMC_20221226_103045_OP6.T-BASIC.jpg]]
-
-Ich entschloss mich kurzerhand einfach den geräumten Landstraßen zu
-folgen und damit eine 20 Kilometer Runde anzusetzen. Manche Autofahrer schauten
-mich an, als hätten sie noch nie einen Wanderer gesehen, aber die
-meisten grüßten nett und ließen viel Platz. Ich hatte extra
-nachgeforscht, ob in Quebec Fußgänger auf Landstraßen erlaubt
-sind. Natürlich sind sie es, sofern sie auf der linken Straßenseite
-laufen.
-
-#+CAPTION: Die Privatstraße.
-[[attachment:2023-01-03_20-21-19_LMC_20221226_103423_OP6.T-BASIC.jpg]]
-
-#+CAPTION: Ein gefrorener Wasserfall.
-[[attachment:2023-01-03_20-22-21_LMC_20221226_115741_OP6.T-BASIC_v1.jpg]]
-
-Am letzten Tag in den "Bergen" erklomm ich mit Neil den Huegel, auf
-dessen Flanke das Haus seiner Tochter steht. Beide waren wir mächtig
-außer Puste, als wir am Gipfelkreuz ankamen, mussten wir doch durch
-knietiefen Schnee stapfen. Dabei war der Trick, zu versuchen in die
-Spuren von uns vorangegangenen Schneeschuhen zu treten, in denen der
-Schnee zumindest etwas verdichtet war.
-
-#+CAPTION: Neil stapft im Schnee.
-[[attachment:2023-01-03_20-26-19_LMC_20221227_112846_OP6.T-BASIC.jpg]]
-
-#+CAPTION: Das Kreuz.
-[[attachment:2023-01-03_20-26-48_LMC_20221227_115204_OP6.T-BASIC.jpg]]
-
-#+CAPTION: Aussicht auf Mont-Blanc.
-[[attachment:2023-01-03_20-27-32_LMC_20221227_122212_OP6.T-BASIC.jpg]]
-
-Am Nachmittag ging es dann mit Bus und Bahn zurück nach MTL, welches
-mir bei meiner Ankunft nass, hässlich und grau vorkam. Generell traf
-mich das Heimweh mit voller Wucht und Ich fing einmal mehr an die
-Weisheit meiner Entscheidung nach Canada zu gehen anzuzweifeln. Hätte
-ich nach NZ gehen sollen, hätte ich nicht besser nach Innsbruck gehen
-sollen, wo die Büros so schön sind, hätte ich nich besser nach GB
-gehen sollen, um an Plasmasimulationen für Kernfusion zu
-arbeiten. Diese Gedanken kommen mir noch immer periodisch und auch
-meine Stimmung unterliegt großen Schwankungen. Auch fällt es mir
-schwer bei der Arbeit am Ball zu bleiben und es kommt mir alles zu
-viel vor. Jeden Tag denke ich, dass ich nicht genug geschafft habe,
-was vielleicht auch stimmt, da ich mich andauernd ablenke.
-
-Ich werde der Sache einfach ein wenig Zeit geben und versuchen jetzt
-auch in meinem PhD Projekt "anzukommen". Sobald sich da alles
-eingeschliffen hat, bekomme ich dann, so hoffe ich, einen klareren
-Kopf. Mein Gejammer des letzten Absatzes ist wahrlich ein Luxusproblem,
-denn eigentlich geht es mir ja gut. Dennoch kommt mir bei jeder Sache,
-die mich an glückliche Zeiten in Dresden erinnert, die
-Melancholie. Mein Geist hat die Erinnerung an Dresden schon
-erfolgreich vergoldet und ich habe die schwierigen Phasen dort schon
-verdrängt. Meine Erfahrung aus Neuseeland sagt mir, dass mit der Zeit
-alles besser wird und so habe ich vertrauen. Auch Telefonate mit der
-Heimat und mit Edith haben mir sehr geholfen.
-
-Back to the plot: Am nächsten Tag mietete ich dann eine Spritschleuder
-von Transporter[fn::Ich denke nicht, dass sowas in der EU zugelassen
-werden würde. Ein Minibus mit 25L/100km.], um einen kostenlosen Sessel
-mit Liegefunktion vom Nachbarort jenseits des Flusses zu holen. Ich
-hatte als Dankeschön eine der kleineren Lebkuchenpackungen mitgebracht
-und die Familie deren Sessel ich abholte, gab mir noch eine
-hand-gezimmerte Truhe dazu, die mir jetzt als Tee-Tisch und
-Pflanzen/Saxophon-Podest dient. Zu Hause erwartete mich Manas, ein sehr
-hilfsbereiter Informatikstudent den ich ...
-
-#+BEGIN_QUOTE
-Huh, wer klingelt hier... Es ist ja schon fast 21 Uhr. Oha! Der
-Postbote, der mir ein billiges Multimeter (yay) und den
-Weihnachtsbrief (mit Weihnachts-Stickern darauf) von Mama und Noemi (YAY!!11!!!) bringt. Viele
-wohltuende Worte und ein schönes Notizbuch samt vieler Lesezeichen
-mit Familienfotos darauf :). Danke Mama und Noemi.
-#+END_QUOTE
-
-
-... beim Wandern kennenlernte. Zwei tage, darauf kam ich dann auch zu
-einem neuen Bett, wiederum mit seiner Hilfe. Nachdem ich in den Bergen
-so gut geschlafen hatte, wollte ich nun auch zu Hause auf einer
-ordentlichen Matratze in einem Bett von ausreichender Länge schlafen.
-
-#+CAPTION: Das neue Bett ist etwas zu breit, aber ich hab ja lange Beine.
-[[attachment:2023-01-08_11-51-52_photo_2023-01-08_11-41-28.jpg]]
-
-Am Silvesterabend lud er mich dann netterweise zu einer "Siedler von
-Catan" Runde mit Informatikstudenten ein.
-
-Ende. Ich schreibe an diesem Blogpost seit über einer Woche und jetzt
-ist's gut!
-
-Eine Zugabe gibt's noch: Ich habe bei Ikea einen Matratzenschoner
-bestellt, welcher dann per FedEx verschickt wurde. Am Freitag erhielt
-ich dann einen Anruf von besagtem Lieferdienst, in dem ich nach meiner
-richtige Adresse gefragt wurde. Anscheinend hatte ich mich bei der
-Hausnummer vertippt. Am nächsten Tag erhielt ich dann eine SMS von
-Ikea, die mich über die erfolgreiche Zustellung des Pakets
-informierte. Bei mir war kein Paket angekommen und es gab auch keinen
-Zettel im Briefkasten. In einem ersten Chat mit dem Ikea Support wurde
-mir versichert, dass das Paket an die /korrekte/ Adresse verschickt
-wurde. Ich klopfte bei einem Nachbarn, welcher meinte, dass er ein
-Paket vor der Tür gesehen hätte. In der Annahme es sei gestohlen
-worden meldete ich mich noch einmal beim Ikea Support, welcher mir
-dann empfahl, beim FedEx Support anzurufen. Ich erfragte dann die
-Tracking Nummer und siehe da! Im Tracking war ein Bild von der
-Ablagestelle, die eindeutig nicht meine Adresse war. Also machte ich
-mich auf den Weg zu der falschen Adresse und klingelte mich durch die
-Apartments. Beim dritten wurde ich dann hereingelassen und man teilte
-mir mit, dass man das Paket in den Flur hereingeholt habe. Dort war es
-nicht aufzufinden, aber die Leute von Apartment vier hätten es
-vielleicht zu sich reingeholt. Allerdings war keiner zu Hause und
-somit kam ich auch nicht weiter. Ich hätte natürlich einen Zettel
-hinterlassen können, aber daran dachte ich in meiner ueblichen
-verwirrung nicht und beschloss einfach am nächsten Tag
-wiederzukommen. Eine Stunde später klingelte es: An der Tür standen
-die Leute von Apartment vier. Gefunden hatten sie mich über die sehr
-kleinen Adress-Änderungs Aufkleber auf dem Paket. Bevor sie die
-fanden, hatten sie versucht mich zu googeln, waren aber dann von
-meiner Kontaktseite mit GPG schlüssel zu eingeschüchtert. Sie hatten
-heute die Annahme des Pakets erneut verweigert, aber der Bote hatte es
-einfach vor die Tür gelegt und anscheinend den Aufkleber übersehen.
-Ende gut alles gut.
-
-*** DONE Doubt Day
-CLOSED: [2023-01-09 Mon 17:16]
-:PROPERTIES:
-:EXPORT_FILE_NAME: doubt-day
-:ID:       61584244-9c6f-4f16-9ea5-35001de0b369
-:END:
-
-Schluss mit dem Gejammer!
-
-Mein jüngster emotionaler Parabelflug begann am Samstag. Ich hatte
-mich im Büro eingelebt und festgestellt, dass es doch garnicht so
-schlimm, ja sogar recht angenehm war, sobald ich mich eingerichtet
-hatte.
-
-Meine Kollegen sind sehr sympathisch, ich habe die Quelle des
-Teewassers ausmachen können und meinen großen Monitor aufgebaut. Um
-nicht so eingeengt zu sein, habe ich auch den Spind weggeschoben und
-damit eine Schöne Aussicht nach draußen. Mein Schreibtisch hat für
-die Nutzung meines Grafik-Tablets die perfekte Höhe und mir fehlen
-nur noch Hausschuhe für das perfekte Büroglück.
-
-Am Samstag war ich dann Schlittschuhlaufen mit anderen
-Doktoranden. Allesamt sehr nette Menschen und vor allem die
-Physiker:innen. Ein begeistertes MOC Mitglied macht seinen Doktor bei
-einem Quantencomputer Unternehmen und entwickelt eine Bibliothek in
-Julia :). Davor und danach arbeitete ich an der Einarbeitung in mein
-Projekt, wobei ich mich auf die Herleitung einer sehr einfachen
-Gleichung fest geschossen hatte. Daran herumzudoktern machte mir aber
-sehr viel Freude und so war die Welt für mich am Samstag perfekt.
-
-Sonntag kam dann der Crash. Ich hatte überhaupt erst am Wochenende
-gearbeitet, da ich am Montag (heute) ein Meeting mit den
-Experimentatoren hatte und wenigstens etwas von der Materie verstehen
-wollte. Also setzte ich mich hin und versuchte möglichst schnell
-möglichst viel zu verstehen. Natürlich ging das in die Hose und ich
-saß bis spät am Abend da und konnte aus lauter
-flucht/erstarrungs-Reflex kaum mehr denken. Heute Morgen dann war das
-Meeting und ich konnte nicht wirklich viel verstehen. Auch begann ich
-mehr denn je zu Zweifeln und Alternativen abzuwägen.
-
-Mein Betreuer ist sehr verständnisvoll und versicherte mir, dass ich
-mir nicht solch einen Stress machen sollte. Auch bezüglich des
-Projektes sei noch nicht abzusehen, in welche Richtung es sich
-entwickeln würde.
-
-Nach einem Gruppenmeeting, dass ich damit Verbrachte alle meine
-Telegramkontakte vollzujammern, machte ich mich auf zu einem
-Spaziergang über Mont-Royal, um den Kopf freizukriegen, ein Sandwich
-zu verzehren und einen Kaffe zu trinken. Auf dem Weg telefonierte ich
-mit meiner Schwester und konnte meine Melancholie so fast
-loswerden. Der Winterwald regelte dann den Rest.
-
-Ich kam zu dem Entschluss, mir bis zum neunten Februar, dem *Doubt
-Day*, *keine* zweifelnden Gedanken zuzulassen. Wenn mir dann in einem
-Monat nicht eindeutig klar ist, ob ich weitermachen will, wiederhole
-ich diese Vorgehensweise für einen weiteren Monat, mache mir also
-keine Gedanken bis zum neunten März und so weiter. Ich halte im
-Zweifel an meiner Entscheidung fest und ziehe Alternativen nur in
-Betracht, wenn ich mir /sicher/ bin, dass ich mit dem PhD Projekt und
-meiner Situation in Canada nicht glücklich werden kann. Im Augenblick
-weiß ich einfach viel zu wenig und sich Sorgen zu machen oder gar vor
-Augen zuhalten, welche Gelegenheiten man eventuell verpasst, ist
-einfach nicht hilfreich. Stattdessen gehe ich jetzt ganz ohne Druck und
-mit Neugier an das Projekt heran, denn ich habe nichts zu verlieren
-:P. Ich habe mich mit meinen guten Noten und meiner Masterarbeit
-bewiesen und gelernt, dass "/einfach machen/"" hilft.
-
-Oben auf dem Mount Royal Outlook kam ich mit einem netten Mann aus
-Toronto ins Gespräch, welcher mit seinem Sohn für ein Hockeyspiel
-nach MTL gekommen ist. Es ist immer herzerwärmend, wie offen und
-freundlich die Menschen hier sind.
-
-Gehabt euch gut und bis zum nächsten mal.
-
-
-
-#+DOWNLOADED: file:///home/hiro/Pictures/Canada/Doubt%20Day%20Walk/LMC_20230109_145529_OP6.T-BASIC.jpg @ 2023-01-09 17:13:56
-[[attachment:2023-01-09_17-13-56_LMC_20230109_145529_OP6.T-BASIC.jpg]]
-
-#+DOWNLOADED: file:///home/hiro/Pictures/Canada/Doubt%20Day%20Walk/LMC_20230109_150235_OP6.T-BASIC.jpg @ 2023-01-09 17:14:23
-[[attachment:2023-01-09_17-14-23_LMC_20230109_150235_OP6.T-BASIC.jpg]]
-
-#+DOWNLOADED: file:///home/hiro/Pictures/Canada/Doubt%20Day%20Walk/LMC_20230109_150909_OP6.T-BASIC.jpg @ 2023-01-09 17:14:31
-[[attachment:2023-01-09_17-14-31_LMC_20230109_150909_OP6.T-BASIC.jpg]]
-
-#+DOWNLOADED: file:///home/hiro/Pictures/Canada/Doubt%20Day%20Walk/LMC_20230109_151151_OP6.T-BASIC.jpg @ 2023-01-09 17:14:46
-[[attachment:2023-01-09_17-14-46_LMC_20230109_151151_OP6.T-BASIC.jpg]]
-
-#+DOWNLOADED: file:///home/hiro/Pictures/Canada/Doubt%20Day%20Walk/LMC_20230109_151433_OP6.T-BASIC.jpg @ 2023-01-09 17:14:54
-[[attachment:2023-01-09_17-14-54_LMC_20230109_151433_OP6.T-BASIC.jpg]]
-
-#+DOWNLOADED: file:///home/hiro/Pictures/Canada/Doubt%20Day%20Walk/LMC_20230109_154655_OP6.T-BASIC.jpg @ 2023-01-09 17:15:01
-[[attachment:2023-01-09_17-15-01_LMC_20230109_154655_OP6.T-BASIC.jpg]]
-
-*** DONE Better Late than Never
-CLOSED: [2023-10-08 Sun 19:14]
-:PROPERTIES:
-:EXPORT_FILE_NAME: better-late-than-never
-:ID:       e3cf2c55-6c73-40cc-ab6a-48956e022e72
-:END:
-Hallo miteinander. Nach hundert Jahren Schweigen und Stille, in denen
-ich euch nur mit ineffizienter Individualkommunikation auf dem
-Laufenden hielt, kommt jetzt endlich wieder eine neue persönliche
-Stellungname. Straight from the horses mouth.
-
-Bullshit beiseite: Nach meinem letzten Blogpost ging ich mit meinen
-Bürokollegen Bowlen, unternahm diverse Wanderungen und besuchte
-diverse Konzerte.  Mit jedem neuen Erlebnis wurde die Hemmschwelle
-einen Blogeintrag zu verfassen ein bisschen größer, gab es doch
-/noch/ mehr Berichten.
-
-Deswegen jetzt: Tabula Raza. Zusammenfassend kann ich
-resümieren[fn::See what I did here :P?], dass man durch den McGill
-Outdoors Club viele nette Menschen kennenlernt und dass der Winter in
-Montreal /sehr/ lange dauert. Mittlerweile  bin ich auf den
-Langlaufskiers recht kompetent und auch nicht ganz triviale Abfahrten
-kann ich jetzt mit sich in Grenzen haltenden entsetzen meistern.
-
-Durch unglückliche Zeitplanung und mein Unvermögen nicht
-100 Prozent geben zu können habe ich die letzten Wochen absurd viel
-Zeit in das Lösen von Hausaufgaben investiert.
-
-Fast forward... Nun sitze ich am späteren Samstagnachmittag in meinem
-Lieblingskaffee, um meine Bemühungen vom Mittwoch fortzuführen. Wie
-schon erwähnt, werde ich diesmal wohl davon absehen ein allzu wortreiches
-Epos zu verfassen und mich auf die nähere Zukunft beschränken.
-
-Als PhD Student muss ich nur zwei Vorlesungen besuchen und schöner
-Weise läuft die Sache hier auf den fortgeschrittenen Ebenen, im
-Gegensatz zu DD, ohne schriftliche oder mündliche Prüfung ab. Dafür
-muss man aber Hausaufgaben einreichen und einen Vortrag über ein
-fortgeschrittenes Thema halten. Die Hausaufgaben werden auch nicht so
-lasch wie in Dresden gehandhabt, und es zählt jeder Punkt. Das hat
-mich natürlich munter zum Freidrehen motiviert. Aus meinem bisherigen
-Studium war ich gewöhnt die meisten Übungsaufgaben ohne große
-Anfälle von Verzweiflung lösen zu können, auch weil sie eher
-pädagogisch formuliert waren:
-
-#+BEGIN_QUOTE
- a) Zeigen Sie dies...
- b) Nutzen sie jenes...
- c) Sie sollten dieses Ergebnis erzielt haben. Zeigen sie nun, dass ...
-#+END_QUOTE
-
-Diese Übungen waren nun ein neues Kaliber. Nie ist man sich sicher, ob
-die Rechnung so ausarten sollte, oder ob man vor zwei Stunden falsch
-abgebogen war. Ein großer Selbstzweifel überkam mich, da ich es noch
-nie erlebt hatte fast eine Arbeitswoche zum Lösen von nur einem
-Übungsblatt zu benötigen. Zwar sagten mir alle, dass dieser Kurs für
-seine aufwändigen Übungen bekannt war, und auch mein Betreuer Bill meinte,
-dass diese Aufgaben durchaus ein anderes Kaliber hatten, aber so ganz
-geglaubt habe ich keinem. Ab der dritten Übung dann hatte ich mir
-dann die Philosophie aus
-[[https://www.goodreads.com/book/show/28257707-the-subtle-art-of-not-giving-a-f-ck][The
-Subtle Art of Not Giving a F*ck]] zu eigen gemacht und aufgehört mich
-zu ärgern, wenn der Ärger absolut keinen Mehrwert hat. Außerdem konnte ich
-so meinem Forschungsprojekt entfliehen, dass mich Mangels klarer
-Definition und Angriffspunkten als wenig attraktiv für mich
-darstellte. Tatsächlich hatte ich Bill eine sehr lange und
-mühsam über eine Woche zusammengeschriebene E-Mail geschickt um ihm
-zu erklären, welche Probleme ich im aktuellen Projekt sehe.
-
-Wie sich dann herausstellte hatte ich die Sache etwas falsch
-verstanden, und es ging gar nicht ausschließlich darum neue
-Experimente für die Gruppe an der Université de Montréal vorzuschlagen
-und auf Gedei und Verderb alles in diese Richtung zu biegen. Da ich
-anscheinend ungern Klartext rede, hatte ich zu viel zwischen den
-Zeilen gelesen. Das passiert mir auch weiterhin, aber besonders in der
-letzten Woche hatte ich doch etwas Freude am Forschen gefunden,
-wenngleich mir alles trivial vorkommt. Gleichzeitig habe ich Schiss
-davor nachzudenken, weil ich dann womöglich "Zeit verschwende". So ein
-Quatsch. Ich versuche nun meine Idee des "Doubt Day" weiterhin
-umzusetzen und mir eine Meinung zu bilden. Zurzeit weiß ich nur, dass
-ich immer noch kein gutes Bild von meinen Forschungsmöglichkeiten
-habe. Sollte ich nach dem Sommer immer noch Zweifel haben, muss ich
-noch einmal in mich gehen, aber im Augenblick sehe ich die Sache eher
-entspannt.
-
-Zurück zum Text: Zwischen dem Lösen von Übungsaufgaben und der
-Zuarbeit für das Paper mit meiner ehemaligen Gruppe in Dresden,
-welches immer noch weit von einer Veröffentlichung entfernt scheint,
-habe ich es also geschafft mehr als drei Wochen nicht am Projekt zu
-arbeiten. Die letzte Übung war besonders spannend, da wir nur ein
-wenige Tage nach deren Fälligkeit unsere Abschlussvorträge halten
-sollten. Also gab ich Vollgas und verzichtete auf die Osterfeiertage,
-so wie es sich für einen ordentlichen Studenten gehört. Da ich aber
-gelernt hatte, dass es sich nicht lohnt auf Verschleiß zu fahren, nahm
-ich mir dann wenigstens den Ostersonntag frei, wenngleich unter
-Gewissensbissen, welche sich im Nachhinein als unnötig
-herausstellten. Zum ersten Mal gelang es mir, einfach eine andere
-Aufgabe anzugehen, wenn mir die Ideen ausgingen. Und zuweilen hatte
-ich sogar richtiggehend /Spaß/. Damit wurde ich dann am Montag fertig
-und hatte dann eine ganze Woche, meinen Vortrag über topologische
-Bandstrukturen vorzubereiten. Praktischerweise ist dies auch ein
-Thema, welches ich für meine Forschungsarbeit zumindest Rudimentär
-kennen sollte.
-
-#+BEGIN_QUOTE
-    Work complicates to fill the available time. -- Cyril Northcote Parkinson
-#+END_QUOTE
-
-Also verbrachte ich die Woche, einschließlich des Wochenendes mit der
-Vorbereitung dieses Vortrags. Am Montag hielt ich ihn dann mit recht
-gutem Erfolg, vor allem weil ich halbwegs im Zeitrahmen blieb. Den
-darauffolgenden Dienstag nahm ich mir frei um eine monströse und
-teilweise verstörende 80km Fahrradtour auf der Westinsel zu machen.
-
-(Ich schreibe jetzt schon wieder eine Woche später weiter :P. Ich
-sollte wirklich ein wenig mehr Durchhaltevermögen demonstrieren.)
-
-Das Wetter an jenem Tag war etwas durchwachsen, aber in der Nähe des
-Parc René-Lévesque zeigte sich doch einmal die Sonne und dank des
-starken Windes und dementsprechenden Wellengang konnte man sich fast
-am Meer wägen.
-
-Danach allerdings musste ich immer öfter auf die Straße ausweichen und
-leider stellte sich auch mein eigentliches Ziel, das
-Cap-Saint-Jacques, als Enttäuschung heraus. Das graue Wetter und der
-Jahreszeit geschuldeten Mangel an Grünem ergab ein eher tristes
-Bild. Der Rückweg ist mir eine Leere, dass Google Maps kein
-Routenplaner für /schöne/ Fahrradtouren ist. Ich befuhr endlose
-holprige Radwege an viel befahrenen Straßen durch eine Suburbane
-Höllenlandschaft, eingekeilt zwischen zwei Highways. Das lässt mich
-mein Zimmer im Plateau umso mehr schätzen!
-
-#+DOWNLOADED: file:///home/hiro/Pictures/Canada/West%20Island%20Ride/LMC_20230418_125547_OP6.T-BASIC.jpg @ 2023-04-30 20:25:07
-#+CAPTION: Wilkommen and der Nordsee.
-[[attachment:2023-04-30_20-25-07_LMC_20230418_125547_OP6.T-BASIC.jpg]]
-
-
-#+DOWNLOADED: file:///home/hiro/Pictures/Canada/West%20Island%20Ride/LMC_20230418_142829_OP6.T-BASIC.jpg @ 2023-04-30 20:25:59
-#+CAPTION: Eher trist...
-[[attachment:2023-04-30_20-25-59_LMC_20230418_142829_OP6.T-BASIC.jpg]]
-
-#+DOWNLOADED: file:///home/hiro/Pictures/Canada/West%20Island%20Ride/LMC_20230418_154105_OP6.T-BASIC.jpg @ 2023-04-30 20:26:32
-#+CAPTION: Suburbane Hoelle...
-[[attachment:2023-04-30_20-26-32_LMC_20230418_154105_OP6.T-BASIC.jpg]]
-
-
-Die darauffolgende Woche war ich sehr darauf erpicht irgendwie
-Resultate zu erwirtschaften, da mein bisheriger Fortschritt nicht
-wirklich nennenswert war. Es ist sehr viel einfacher sich auf eine
-Vorlesung und deren Übungen zu konzentrieren, als sich mit
-tatsächlichen Forschungsfragen herumzuschlagen. Vieles fühlt sich im
-ersten Moment zu trivial an und man weiß auf der anderen Seite nie,
-ob man nicht gerade in eine komplett falsche Richtung bohrt.
-
-Ich nahm mir also ein "einfaches" Problem welches schnell Resultate
-abzuwerfen versprach und fütterte den Computer damit [fn::Ich liebe
-https://julialang.org/.]. Long story short: Nichts funktionierte trotz
-mehrfacher Adaption und Vergleich mit einer analytischen Lösung. Meine
-Ergebnisse stellte ich dann in einem Meeting mit den Experimentalisten
-letzten Mittwoch vor. Am Tag zuvor hatte ich mich schon mit Bill
-(meinem Supervisor) unterhalten und er war felsenfest davon
-überzeugt, dass eine bestimmte Art von Messung schon jetzt
-durchgeführt wird, wohingegen ich mich nicht daran erinnern konnte
-so etwas gehört zu haben. Also sprach ich das im Meeting an und siehe
-da: Es stellt sich heraus, dass sich alle fröhlich einander
-zustimmend missverstanden haben.
-
-Meine Ergebnisse waren leider nicht positiv, da ich nur zeigen konnte,
-dass das Experiment mit bestimmten Parametern /nicht/
-funktioniert. Wie Bill und mir dann /während/ des Meetings einfiel,
-standen meine Ergebnisse zudem im augenscheinlichen Widerspruch zu
-denen meines "Vorgängers". Wir kamen zu dem Schluss, dass ich wohl
-einen Fehler gemacht haben musste, da seine Ergebnisse "schöner"
-waren.
-
-Als ich dann den Code erhielt, mit dem besagter Vorgänger gearbeitet
-hatte, stellte ich zu meiner Verblüffung[fn::und zugegeben, mit
-einiger Genugtuung] fest, dass dieser Zahlen ausspuckte, die im Grunde
-mit meinen konsistent waren. Tatsächlich wurden die Ergebnisse einfach
-mit einem Faktor zwei multipliziert, um das gewünschte verhalten zu
-herauszukitzeln. Erfreulicherweise hatte ich nur wenig zuvor einen
-Limes des Modells "entdeckt"[fn::Das ist keine neues resultat.],
-sodass mir sofort klar wurde was Phase ist.
-
-Wenn man Bill von seiner Arbeit berichtet, dann muss man in der Lage
-sein alles zu belegen, was man behauptet, denn er gibt sich nicht
-zufrieden, biss auch er das Meiste verstanden hat.  Das ist eine gute
-Sache und zwingt mich ordentliche Notizen zu machen. Mit diesen konnte
-ich ihn dann Überzeugen und von da an mit neuem Selbstvertrauen
-voranschreiten. Tatsächlich gelang es mir dann am Freitag eine Lösung
-für unser "Problem" zu demonstrieren, was mir sogar ein Lob von Bill
-einbrachte. Nun gilt es dieser Weiter auszubauen und zu
-verstehen. Bill scheint schon alles klar zu sein, aber für mich trifft
-das leider (oder schöner Weise) noch nicht zu.
-
-Zum ersten Mal seit langem kann ich mich also auf die Arbeitswoche
-freuen!
-
-Ich versuche auch anderweitig das Beste aus meiner Zeit hier zu machen
-und schließe mich dementsprechend bei allen Unternehmungen an, die
-mir so unter die Nase kommen. So war kürzlich ich Laser-Tag spielen und baute
-einen intelligent designten Pflanzkübel aus alten Eimern. All das
-sind nun aber Geschichten für ein andermal, denn der ihnen
-vorliegende Roman ist schon lang genug.
-
-Damit: Bis zum nächsten Mal. Hoffentlich in Bälde und weniger
-chaotisch.
-
-#+DOWNLOADED: file:///home/hiro/Pictures/Canada/Random%20MTL/LMC_20230405_223709_OP6.T-BASIC.jpg @ 2023-04-30 20:27:18
-#+CAPTION: Montreal bei Nacht.
-[[attachment:2023-04-30_20-27-18_LMC_20230405_223709_OP6.T-BASIC.jpg]]
-
-#+DOWNLOADED: file:///home/hiro/Pictures/Canada/Belvedere%20Outremont/LMC_20230327_191348_OP6.T-BASIC.jpg @ 2023-04-30 20:28:08
-#+CAPTION: Sonnenuntergang an der Belvedere Outremont.
-[[attachment:2023-04-30_20-28-08_LMC_20230327_191348_OP6.T-BASIC.jpg]]
-
-
-
-
-
-* Local Vars
-
-* Footnotes
-
-[fn:6]
-# Local Variables:
-# eval: (org-hugo-auto-export-mode)
-# org-download-image-dir: "./static/images"
-# org-download-heading-lvl: 3
-# End:
+## Local Vars {#local-vars}
+
+[^fn:1]: mit Soja-Hack und Gruenkernschrot als Fleischersatz
+[^fn:2]: References to objects in linked lists are stable.
+[^fn:3]: See the KStars Handbook.
+[^fn:4]: I really appreciate c++ as a compiled language.
+[^fn:5]: And in a way that hopefully lasts
+    for some time. Currently very few people know how to generate KStars'
+    deep star catalogs...
+[^fn:6]: I haven't yet worked those out yet TBH.
+[^fn:7]: The catalog package files actually
+    do have the same format as the main DSO database :).
+[^fn:8]: I
+    deleted the old OpenNGC text catalog which contained more than ten
+    thousand lines :P.
+[^fn:9]: You have to paste this link into
+    the url bar manually to make it work!
+[^fn:10]: Akarsh prompted
+    the color stuff...
+[^fn:11]: Before I remembered having a logic analyzer however, I
+    fried my Raspberry Pi with the 5V logic :P.
+[^fn:12]: Annoyingly the KDX numbers are shifted by one at
+    other places in the manual
+[^fn:13]: In the file named `project.org`
+[^fn:14]: `ctime`, creation time
+[^fn:15]: Mein Nachbar macht einen
+    Zeitraffer mit der Go-Pro.
+[^fn:16]: Wow. Das active noise
+    cancelling in den Kopfhörern ist echt nice :).
+[^fn:17]: Die öffentlichen Verkehrsbetriebe streikten...
+[^fn:18]: Uber verliert mit jeder Fahrt
+    Geld und ist deswegen etwas günstiger als ein Taxi.
+[^fn:19]: Zuerst nur über Nach als Puffer zum
+    Flieger.
+[^fn:20]: Die ehemalige
+    Mitbewohnerin von Jasmin, der Berliner Bekanntschaft.
+[^fn:21]: Noch so ne neu-hippe Sache, die ich vorher noch nie
+    benutzt hatte.
+[^fn:22]: Viel Spaß beim
+    Aussprechen.
+[^fn:23]: Leichte Übertreibung
+    :P.
+[^fn:24]: Ehemals ein
+    Bahnhof.
