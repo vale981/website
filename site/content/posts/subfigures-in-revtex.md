@@ -28,7 +28,7 @@ monkeying around with minipages.
 So that's what I did; but I wanted to do properly so I'd be able to
 give the sub figures referenceable labels. I came up with a
 surprisingly short piece of hacked-together LaTeX package which we
-will now walk through. If you're impatient, you can just grab the [sty](/static/tex/poormanssubfig.sty)
+will now walk through. If you're impatient, you can just grab the [sty](/tex/poormanssubfig.sty)
 file and jump ahead to the usage example.
 
 We begin by declaring the package.
