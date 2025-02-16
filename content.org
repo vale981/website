@@ -3134,7 +3134,7 @@ that is not strictly necessary anymore. You might want to setup a
 separate email account for this purpose altogether if you're not
 comfortable with having a (potentially buggy) python script mucking
 around in your emails.
-*** DONE Subfigures in RevTex                                      :ATTACH:
+*** DONE Subfigures in RevTex                                       :LaTeX:
 CLOSED: [2025-02-15 Sat 19:32]
 :PROPERTIES:
 :EXPORT_FILE_NAME: subfigures-in-revtex

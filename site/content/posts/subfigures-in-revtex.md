@@ -2,7 +2,7 @@
 title = "Subfigures in RevTex"
 author = ["Valentin Boettcher"]
 date = 2025-02-15T19:32:00-05:00
-tags = ["ATTACH"]
+tags = ["LaTeX"]
 categories = ["Hacks"]
 draft = false
 +++
