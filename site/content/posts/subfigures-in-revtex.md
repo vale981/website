@@ -7,7 +7,7 @@ categories = ["Hacks"]
 draft = false
 +++
 
-I'm in the process of writing a paper at the moment (yay!). Merrily I
+I'm in the process of writing a paper (yay!). Merrily I
 add a formula here a plot there; but my supervisor zeroes in
 immediately on a two-panel figure with sub figures called "a" and "b"
 saying:
@@ -46,7 +46,7 @@ generate use labels to reference them.
 \newcounter{subfigure}
 ```
 
-Now there comes the meat! The `multifig` environment resets the
+The `multifig` environment resets the
 subfigure counter[^fn:1], and redefines the `\thesubfigure` macro to
 display references to the subfigure as `[Figure Number] ([figure
 sublabel])`. The environment temporarily increases the Figure counter
@@ -66,13 +66,13 @@ is printed and formatted.
 {\addtocounter{figure}{-1}}
 ```
 
-Now the hackery begins. We define an internal variables `\if@insubfig`
-whose use will become clear later. The subfigure environment takes two
-arguments, the first one being the width of the subfigure and the
-second being an optional label string (it's also where you put
-`\label{[label]}`). The environment then creates a minipage with the
-appropriate width and prints the label of the figure in the top-left
-corner.
+This is the point where the real hackery begins. We define an internal
+variables `\if@insubfig` whose use will become clear later. The
+subfigure environment takes two arguments, the first one being the
+width of the subfigure and the second being an optional label string
+(it's also where you put `\label{[label]}`). The environment then
+creates a minipage with the appropriate width and prints the label of
+the figure in the top-left corner.
 
 ```latex
 \makeatletter
