@@ -51,3 +51,8 @@ baseURL = "https://protagon.space"
 
 [permalinks]
   posts = "/:year/:month/:title/"
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+    unsafe = true

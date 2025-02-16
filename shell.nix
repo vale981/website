@@ -1,4 +1,4 @@
-{ pkgs ? import <nixpkgs> { } }:
-pkgs.mkShell {
-  nativeBuildInputs = with pkgs; [ hugo ];
+{ pkgs ? import <nixpkgs> {} }:
+  pkgs.mkShell {
+    nativeBuildInputs = with pkgs.buildPackages; [ hugo nodejs ];
 }

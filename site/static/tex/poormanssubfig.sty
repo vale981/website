@@ -1,0 +1,42 @@
+\newcounter{subfigure}
+
+\newcommand{\subfiglabelformat}[1]{\raggedright{#1}}
+\newcommand{\subfiglabelstyle}[1]{\alph{#1}}
+\newcommand{\subfiglabelsize}{\small}
+\newenvironment{multifig}%
+{\addtocounter{figure}{1}%
+  \setcounter{subfigure}{0}%
+  \renewcommand\thesubfigure{\thefigure~(\subfiglabelstyle{subfigure})}%
+}
+{\addtocounter{figure}{-1}}
+
+\makeatletter
+\ExplSyntaxOn
+\newif\if@insubfig
+\NewDocumentEnvironment{subfigure}{mO{}}{%
+  \@insubfigtrue%
+  \refstepcounter{subfigure}%
+  \begin{minipage}{#1}%
+    \subfiglabelformat{{\subfiglabelsize (\subfiglabelstyle{subfigure})~#2}}%
+    }
+    {\end{minipage}%
+  \@insubfigfalse%
+}
+\ExplSyntaxOff
+
+\let\multifig@old@label\label%
+\def\label#1{%
+  \multifig@old@label{#1}%
+  \if@insubfig%
+    \@bsphack%
+    \protected@write\@auxout{}%
+    {\string\newlabel{#1@multifig}{{(\subfiglabelstyle{subfigure})}%
+        {\thepage}%
+        {\@currentlabelname}%
+        {\@currentHref}{}%
+      }}%
+    \@esphack%
+  \fi
+}%
+\def\subref#1{\ref{#1@multifig}}
+\makeatother
