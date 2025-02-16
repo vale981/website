@@ -13,7 +13,7 @@ immediately on a two-panel figure with sub figures called "a" and "b"
 saying:
 
 > The sub figure labels go in the top-left corner. You've read papers
-> before, haven't you.
+> before, haven't you?
 
 Having indeed read papers before, I must have neglected to pay proper
 attention to sub-figure labels -- an inexcusable blunder -- so this
