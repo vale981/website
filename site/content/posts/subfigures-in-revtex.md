@@ -1,5 +1,5 @@
 +++
-title = "Subfigures in RevTex"
+title = "Subfigures in REVTeX"
 author = ["Valentin Boettcher"]
 date = 2025-02-15T19:32:00-05:00
 tags = ["LaTeX"]
@@ -19,7 +19,7 @@ Having indeed read papers before, I must have neglected to pay proper
 attention to sub-figure labels -- an inexcusable blunder -- so this
 was news to me. Unwilling to fix the issues by monkeying around in
 inkscape, I turned to stack overflow. We have the pleasure to be using
-the [RevTeX](https://www.ctan.org/tex-archive/macros/latex/contrib/revtex) document class and annoyingly this class happens to be
+the [REVTeX](https://www.ctan.org/tex-archive/macros/latex/contrib/revtex) document class and annoyingly this class happens to be
 incompatible with both the [subcaption](https://ctan.org/pkg/subcaption?lang=en) package and the part of [subfloat](https://ctan.org/pkg/subfloat)
 that controls where the captions go. The aforementioned packages are
 "the way" to do sub figures and most other solutions I found involved
@@ -28,7 +28,7 @@ monkeying around with minipages.
 So that's what I did; but I wanted to do properly so I'd be able to
 give the sub figures referenceable labels. I came up with a
 surprisingly short piece of hacked-together LaTeX package which we
-will now walk through. If you're impatient, you can just grab the [sty](/tex/poormanssubfig.sty)
+will now walk through. If you're impatient, you can just grab the [sty](https://git.protagon.space/hiro/poor-mans-subfigure)
 file and jump ahead to the usage example.
 
 We begin by declaring the package.
