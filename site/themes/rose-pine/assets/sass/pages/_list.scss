@@ -1,0 +1,41 @@
+@import "../utils/variables";
+
+.listHeader,
+.listContent {
+    text-align: left;
+}
+
+.listFilter {
+    .postTags {
+        text-align: left;
+        margin: 0;
+        padding-bottom: 2rem;
+
+        a {
+            background: $overlay;
+            color: $subtle;
+
+            &.active {
+                background: $gold;
+                color: $text;
+            }
+        }
+    }
+}
+
+.pagination {
+    .wrapper {
+        display: flex;
+        align-items: center;
+        flex-wrap: wrap;
+        justify-content: center;
+
+        .button {
+            width: 50%;
+
+            a {
+                color: $gold;
+            }
+        }
+    }
+}

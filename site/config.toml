@@ -1,53 +1,43 @@
 languageCode = "en-us"
 title = "Hiro's Stuff"
-theme = "smol"
+theme = "rose-pine"
 baseURL = "https://protagon.space"
 
 [params]
     subtitle = "Valentin Boettcher's Site"
     dateFmt = "02.01.2006 15:04"
     about = "/about"
+    author = "Valentin Boettcher"
+    user = "hiro"
+    hostname = "protagon.space"
 
 [menu]
-  [[menu.main]]
-        identifier = "Posts"
-        name = "Posts"
-        url = "/posts/"
-        weight = 1
-
-  [[menu.main]]
+  [[menu.header]]
         identifier = "about"
         name = "About"
         url = "/about"
-        weight = 3
+        weight = 1
 
-  [[menu.main]]
-        identifier = "contact"
-        name = "Contact"
-        url = "/contact"
-        weight = 3
-
-  [[menu.main]]
-        identifier = "categories"
-        name = "Categories"
-        url = "/categories/"
+  [[menu.header]]
+        identifier = "Posts"
+        name = "Posts"
+        url = "/posts/"
         weight = 2
 
-  [[menu.main]]
+
+  [[menu.header]]
         identifier = "tags"
         name = "Tags"
         url = "/tags/"
         weight = 3
 
-  [[menu.footer]]
-        name = "Github"
-        url = "https://github.com/vale981"
-        weight = 1
-
-  [[menu.footer]]
-        name = "Impressum/DSGVO"
-        url = "/DSGVO"
+  [[menu.header]]
+        identifier = "categories"
+        name = "Categories"
+        url = "/categories/"
         weight = 3
+
+
 
 [permalinks]
   posts = "/:year/:month/:title/"
@@ -56,3 +46,30 @@ baseURL = "https://protagon.space"
   [markup.goldmark]
     [markup.goldmark.renderer]
     unsafe = true
+  [markup.highlight]
+    style = "rose-pine-dawn"
+
+[[params.social]]
+key = 1
+name = "email"
+url = "mailto:change-me-or-go-to-spam@protagon.space"
+
+[[params.social]]
+key = 2
+name = "git"
+url = "https://git.protagon.space"
+
+[[params.social]]
+key = 3
+name = "github"
+url = "https://github.com/vale981"
+
+[[params.social]]
+key = 4
+name = "(old) music"
+url = "https://afa-music.bandcamp.com/"
+
+[[params.social]]
+key = 5
+name = "gpg"
+url = "/contact"

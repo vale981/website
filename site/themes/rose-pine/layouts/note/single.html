@@ -1,0 +1,31 @@
+{{ define "title"}}
+{{ .Title }} | {{ .Site.Params.author }}
+{{ end }}
+
+
+{{ define "main" }}
+<div class="postWrapper">
+    <h1>{{ .Title }}</h1>
+
+    <div class="postMeta">
+      {{ if not .Params.HideDate }}
+        <span>{{ .Lastmod.Format "January 2, 2006" | default (.Date.Format "January 2, 2006") }}</span>
+      {{ end }}
+      {{ if .Params.tags }}
+        <span class="postTags">
+          {{ range .Params.tags }}
+            <a href="{{ (urlize (printf "tags/%s" . )) | absLangURL }}/">{{ . }}</a>
+          {{ end }}
+        </span>
+      {{ end }}
+    </div>
+    <div>
+        {{ if or .Params.Toc $.Site.Params.Toc }}
+         {{ if ne .Params.Toc false }}
+         <aside class="table-of-contents">{{ .TableOfContents }}</aside>
+         {{ end }}
+        {{ end }}
+        {{ .Content }}
+    </div>
+</div>
+{{ end }}

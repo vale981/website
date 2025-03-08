@@ -1,0 +1,86 @@
+@import "../utils/variables";
+
+.postWrapper {
+    text-align: left;
+
+    .tags {
+        white-space: nowrap;
+        margin-top: -1em;
+
+        a {
+            color: $overlay;
+            background: $gold;
+            padding: 2px 6px;
+            border-radius: 5px;
+            font-size: 0.9rem;
+            margin-right: 6px;
+        }
+    }
+
+    h1 {
+        margin: 0;
+    }
+
+    h2 {
+        color: $foam;
+    }
+
+    h3 {
+        color: $rose;
+    }
+
+    h4 {
+        color: $gold;
+    }
+
+    h5 {
+        color: $pine;
+    }
+
+    ul {
+        list-style: none;
+        margin: 0;
+        padding: 0 0 0 1.2rem;
+        margin-block-start: 1rem;
+        margin-block-end: 1rem;
+
+        li::before {
+            content: "\2022";
+            color: $rose;
+            font-weight: bold;
+            display: inline-block;
+            width: 1rem;
+            margin-left: -1rem;
+        }
+    }
+
+    ol {
+        margin: 0;
+        padding: 0 0 0 2.2rem;
+        margin-block-start: 1rem;
+        margin-block-end: 1rem;
+    }
+
+    .postCategory {
+        margin-top: 2rem;
+
+        a {
+            color: $love;
+            font-weight: bold;
+            margin-right: 1rem;
+        }
+    }
+
+    .postMeta {
+        color: $muted;
+        font-size: 0.9rem;
+
+        a {
+            font-size: 0.8rem;
+        }
+    }
+}
+
+p {
+    margin-top: 1.2em;
+}

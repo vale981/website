@@ -1,0 +1,43 @@
+{{ define "title"}}
+{{ .Title }} | {{ .Site.Params.author }}
+{{ end }}
+
+
+{{ define "main" }}
+<div class="postWrapper post">
+    <h1>{{ .Title }}</h1>
+    <div class="postMeta">
+        {{ if not .Params.HideDate }}
+        <span>{{ .PublishDate.Format "January 2, 2006" }}</span>
+        {{ end }}
+        {{ if .Params.Categories }}
+        <span class="postTerms">
+        {{ range .Params.Categories }}
+        <a href="{{ `categories/` | relLangURL }}{{ . | urlize | lower }}">{{ . | title | humanize }}</a>
+        {{ end }}
+        </span>
+        {{ end }}
+    </div>
+
+    {{- /* Featured image */ -}}
+    {{- $image := .Params.featuredimage -}}
+    {{- with .Resources.GetMatch "featured-image" -}}
+        {{- $image = .RelPermalink -}}
+    {{- end -}}
+    {{- with $image -}}
+        <div class="featured-image">
+            {{- dict "Src" . "Title" $.Description "Resources" $.Resources | partial "img.html" -}}
+        </div>
+    {{- end -}}
+
+    {{- /* Table of contents */ -}}
+    {{ if or .Params.Toc $.Site.Params.Toc }}
+     {{ if ne .Params.Toc false }}
+     <aside class="table-of-contents">{{ .TableOfContents }}</aside>
+     {{ end }}
+    {{ end }}
+
+    {{- /* Content */ -}}
+    {{ .Content }}
+</div>
+{{ end }}

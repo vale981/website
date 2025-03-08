@@ -1,0 +1,129 @@
+@import "../utils/variables";
+
+.postDate {
+  float: right;
+  color: $text;
+  text-align: left;
+
+  @media ($phone) {
+    float: none;
+    clear: both;
+    font-size: 0.9em;
+  }
+}
+
+.postTags {
+  text-align: right;
+  margin-left: 1em;
+  line-height: 2rem;
+
+  a {
+    white-space: nowrap;
+    color: $overlay;
+    background: $gold;
+    text-decoration: none !important;
+    padding: 2px 10px;
+    border-radius: 5px;
+    font-size: 0.9rem;
+    margin-right: 6px;
+  }
+
+  @media ($phone) {
+    float: none;
+    clear: both;
+    font-size: 0.9em;
+  }
+}
+
+.postTerms {
+  text-align: right;
+  margin-left: 1em;
+  line-height: 2.2rem;
+
+  a {
+    white-space: nowrap;
+    color: $overlay;
+    background: $love;
+    text-decoration: none !important;
+    padding: 2px 10px;
+    border-radius: 5px;
+    font-size: 0.9rem;
+    margin-right: 6px;
+  }
+
+  @media ($phone) {
+    float: none;
+    clear: both;
+    font-size: 0.9em;
+  }
+}
+
+.postTitle {
+  color: $rose;
+  text-decoration: none;
+  font-family: $fontHeader;
+  font-size: 1.2em;
+  text-align: left;
+}
+
+.postHeader {
+  overflow: hidden;
+  display: flex;
+  justify-content: space-between;
+}
+
+.postsList {
+  margin-top: 20px;
+}
+
+.postListItem {
+  padding: 20px;
+  background-color: $overlay;
+  margin-bottom: 2.5rem;
+  border-radius: 1rem;
+
+  &.compact {
+    margin-bottom: 1rem;
+
+    .postTitle {
+      font-size: 1rem;
+    }
+  }
+
+  .postMeta {
+    text-align: left;
+    color: $muted;
+    white-space: nowrap;
+    overflow: hidden;
+    display: flex;
+    justify-content: space-between;
+    text-overflow: ellipsis;
+    font-size: 0.8rem;
+    line-height: 2rem;
+
+    .postTags,
+    .postTerms {
+      line-height: 2rem;
+
+      a {
+        font-size: 0.8rem;
+      }
+    }
+  }
+}
+
+
+.postExcerpt {
+  text-align: initial;
+  text-decoration: none;
+  color: $text;
+}
+
+.headerContainer {
+  display: flex;
+  justify-content: space-between;
+}
+
+.noDecoration {
+  text-decoration: none;
+}

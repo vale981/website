@@ -1,0 +1,132 @@
+@import "../utils/variables";
+
+.header {
+  overflow: auto;
+  box-sizing: border-box;
+  background-color: $backgroundDarker;
+  display: flex;
+  justify-content: center;
+  flex-shrink: 0;
+
+  .wrapper {
+    font-family: $fontHeader;
+    padding: 20px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 100%;
+
+    @media only screen and (min-width: $breakLarge) {
+      width: $width;
+    }
+  }
+
+  a {
+    color: $text;
+    text-decoration: none;
+    display: flex;
+    align-items: center;
+    flex: 0 0 auto;
+  }
+
+  .menu {
+    &-toggle {
+      display: none;
+
+      &:checked+.menu-items {
+        display: block;
+      }
+    }
+
+    &-trigger {
+      width: 24px;
+      min-width: 24px;
+      height: 24px;
+      fill: $text;
+      margin-left: 10px;
+      cursor: pointer;
+      display: none;
+
+      @media ($phone) {
+        display: block;
+      }
+    }
+
+    &-items {
+      width: 100%;
+
+      @media ($phone) {
+        display: none;
+      }
+
+      ul {
+        display: flex;
+        align-items: center;
+        justify-content: flex-end;
+        flex-wrap: wrap;
+        list-style: none;
+        padding: 0;
+        margin: 0;
+
+        @media ($phone) {
+          position: absolute;
+          background: $overlay;
+          z-index: 99;
+          border: none;
+          top: 65px;
+          left: 0;
+          width: 100%;
+          flex-direction: column;
+          align-items: flex-start;
+          padding: 0.5rem 0.5rem;
+        }
+
+        li {
+          display: inline;
+          margin: 5px 5px 5px 15px;
+
+          @media ($phone) {
+            margin: 10px 0;
+          }
+
+          a {
+            color: $subtle;
+
+            &.active {
+              color: $text;
+            }
+          }
+        }
+      }
+    }
+  }
+
+  .terminal {
+    color: $text;
+    font-weight: bold;
+    text-decoration: none;
+  }
+
+  .cursor {
+    display: inline-block;
+    width: 10px;
+    height: 1.5rem;
+    margin-left: 0.5rem;
+    background: #fe5186;
+    animation: cursor 1s infinite;
+  }
+}
+
+@keyframes cursor {
+  0% {
+    opacity: 0;
+  }
+
+  50% {
+    opacity: 1;
+  }
+
+  100% {
+    opacity: 0;
+  }
+}

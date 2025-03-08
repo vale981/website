@@ -1,0 +1,5 @@
++++
+aliases = ["posts"]
+title = "posts"
++++
+
