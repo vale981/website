@@ -7,7 +7,7 @@ categories = ["KDE"]
 draft = false
 +++
 
-Of course the task I described in the [last post]({{< relref "gsoc_intro" >}}) looks and is quite
+Of course the task I described in the looks and is quite
 monumental. That is why I laid some of the groundwork for my GSOC
 beforehand (in the actual German semester breaks). This work continued
 in the community bonding and first coding period and will therefore be

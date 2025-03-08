@@ -1,10 +1,9 @@
 # -*- org-image-actual-width: 400; -*-
-
 :PROPERTIES:
 :ID:       5116403f-0c79-4ccf-a33a-fdcc66f08bcc
 :END:
 #+hugo_base_dir: site
-#+hugo_section: posts
+#+hugo_section: Posts
 #+STARTUP: logdone
 #+author:  Valentin Boettcher
 

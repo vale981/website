@@ -1,3 +1,14 @@
 /.direnv/
 /site/public/
 /ltximg/
+/data/
+/Paris_und_Abflug/
+/draft.org
+/draft2.org
+/new.org
+/site/static
+*.lock
+/.projectile-cache.eld
+/site/themes/hugo-texify3/
+/static/images/Local_Vars/
+_gen
