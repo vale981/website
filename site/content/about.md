@@ -22,7 +22,6 @@ You can check out my [Github](https://github.com/vale981), [Gitlab](https://gitl
 of my projects as I publish the source to most things I produce.
 
 I've got a [CV](docs/cv_en.pdf).
-<!--more-->
 
 My usual internet/user/nick name is _Hiro_ or _Hiro98_ after Hiro
 Protagonist from Neal Stephenson's novel "[Snow Crash](https://en.wikipedia.org/wiki/Snow_Crash)", who is usually
@@ -55,15 +54,8 @@ depicted in profile pictures like the following one.
 
 ## Activities {#activities}
 
--   I am the admin and the most enthusiastic user of the [TU-Dresden
-    Physics Forum](https://physik.protagon.space).
--   I am an occasional contributor to [KStars](https://invent.kde.org/education/kstars). As of late I have
-    participated in the Google Summer of Code to implement a better
-    Deep-Sky-Object backend.
-
-    I also implemented and now maintain the [KStars DSO Catalog
-    Repository](https://invent.kde.org/vboettcher/kstars-catalogs).
--   Sometimes I release some noises on [Soundcloud](https://soundcloud.com/the_dj_c) and [Bandcamp](https://afa-music.bandcamp.com/) under the
-    name "Abschreibung für Abnutzung".
--   I am also the maintainer of the [RoyalCam](https://www.doc.govt.nz/nature/) backend which is also used
-    by the [Urban Wildlife Trust](https://www.urbanwildlifetrust.org/portfolio/live-cam/) for their [Wildcams](https://www.youtube.com/channel/UCLizlM6gpaVHTKPo7spoqlA).
+-   I am the admin and the most enthusiastic user of the [TU-Dresden Physics Forum](https://physik.protagon.space).
+-   I am an occasional contributor to [KStars](https://invent.kde.org/education/kstars). As of late I have participated in the Google Summer of Code to implement a better Deep-Sky-Object backend.
+    I also implemented and now maintain the [KStars DSO Catalog Repository](https://invent.kde.org/vboettcher/kstars-catalogs).
+-   Sometimes I release some noises on [Soundcloud](https://soundcloud.com/the_dj_c) and [Bandcamp](https://afa-music.bandcamp.com/) under the name "Abschreibung für Abnutzung".
+-   I am also the maintainer of the [RoyalCam](https://www.doc.govt.nz/nature/) backend which is also used by the [Urban Wildlife Trust](https://www.urbanwildlifetrust.org/portfolio/live-cam/) for their [Wildcams](https://www.youtube.com/channel/UCLizlM6gpaVHTKPo7spoqlA).

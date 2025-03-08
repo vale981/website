@@ -32,7 +32,6 @@ You can check out my [[https://github.com/vale981][Github]], [[https://gitlab.co
 of my projects as I publish the source to most things I produce.
 
 I've got a [[file:docs/cv_en.pdf][CV]].
-<!--more-->
 
 My usual internet/user/nick name is /Hiro/ or /Hiro98/ after Hiro
 Protagonist from Neal Stephenson's novel "[[https://en.wikipedia.org/wiki/Snow_Crash][Snow Crash]]", who is usually
@@ -63,18 +62,11 @@ depicted in profile pictures like the following one.
 - A new [[id:88b5d68b-2010-4a36-bb3d-8313afdcb2b6][midi brain]] for my KSP-30.
 
 *** Activities
-- I am the admin and the most enthusiastic user of the [[https://physik.protagon.space][TU-Dresden
-  Physics Forum]].
-- I am an occasional contributor to [[https://invent.kde.org/education/kstars][KStars]]. As of late I have
-  participated in the Google Summer of Code to implement a better
-  Deep-Sky-Object backend.
-
-  I also implemented and now maintain the [[https://invent.kde.org/vboettcher/kstars-catalogs][KStars DSO Catalog
-  Repository]].
-- Sometimes I release some noises on [[https://soundcloud.com/the_dj_c][Soundcloud]] and [[https://afa-music.bandcamp.com/][Bandcamp]] under the
-  name "Abschreibung für Abnutzung".
-- I am also the maintainer of the [[https://www.doc.govt.nz/nature/][RoyalCam]] backend which is also used
-  by the [[https://www.urbanwildlifetrust.org/portfolio/live-cam/][Urban Wildlife Trust]] for their [[https://www.youtube.com/channel/UCLizlM6gpaVHTKPo7spoqlA][Wildcams]].
+- I am the admin and the most enthusiastic user of the [[https://physik.protagon.space][TU-Dresden Physics Forum]].
+- I am an occasional contributor to [[https://invent.kde.org/education/kstars][KStars]]. As of late I have participated in the Google Summer of Code to implement a better Deep-Sky-Object backend.
+  I also implemented and now maintain the [[https://invent.kde.org/vboettcher/kstars-catalogs][KStars DSO Catalog Repository]].
+- Sometimes I release some noises on [[https://soundcloud.com/the_dj_c][Soundcloud]] and [[https://afa-music.bandcamp.com/][Bandcamp]] under the name "Abschreibung für Abnutzung".
+- I am also the maintainer of the [[https://www.doc.govt.nz/nature/][RoyalCam]] backend which is also used by the [[https://www.urbanwildlifetrust.org/portfolio/live-cam/][Urban Wildlife Trust]] for their [[https://www.youtube.com/channel/UCLizlM6gpaVHTKPo7spoqlA][Wildcams]].
 ** Contact
 :PROPERTIES:
 :EXPORT_HUGO_SECTION: /
