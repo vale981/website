@@ -6,7 +6,7 @@ draft = false
 
 Just write an email to &lt;change-this-or-go-to-spam at protagon.space&gt;.
 
-Here is my `GPG` public key.
+Here is my `GPG` public key with fingerpint `1537 98DF 0E4A 6B35 79FB  3A85 0510 D8C4 91E0 BB41`.
 
 ```text
 -----BEGIN PGP PUBLIC KEY BLOCK-----
