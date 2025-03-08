@@ -2,9 +2,10 @@
     &copy; {{ now.Year }} {{ .Site.Params.author }}, Built with
     <a href="https://gohugo.io" class="footerLink">Hugo</a> and
     <a href="https://github.com/akopdev/hugo-theme-rose-pine" class="footerLink">Rose Pine</a> theme
+    {{ with .OutputFormats.Get "RSS" }}<a href="{{ .RelPermalink }}"><b>RSS</b></a>{{ end }}
 </footer>
 
 {{ if (findRE "<pre" .Content 1) }}
-    {{ $jsCopy := resources.Get "js/copy-code.js" | minify }}
+                     {{ $jsCopy := resources.Get "js/copy-code.js" | minify }}
     <script src="{{ $jsCopy.RelPermalink }}"></script>
 {{ end }}
