@@ -1,15 +1,24 @@
 <div class="postListItem compact">
-  <div class="postHeader">
-    <a href="{{ .Permalink }}" class="postTitle">{{ .Title }}</a>
-  </div>
-  <div class="postMeta">
-    {{ .Lastmod.Format "Jan 2, 2006" | default (.Date.Format "Jan 2, 2006") }}
-    {{ if .Params.tags }}
-    <span class="postTags">
-      {{ range .Params.tags }}
-      <a href="{{ (urlize (printf "tags/%s" . )) | absLangURL }}/">{{ . }}</a>
-      {{ end }}
-    </span>
-    {{ end }}
-  </div>
+    <div class="postHeader">
+        <a href="/categories/{{ urlize (index .Params.categories 0) }}">
+            <span class="postCategory">
+                {{ index .Params.categories 0 }} /&nbsp;
+            </span>
+        </a>
+        <a href="{{ .Permalink }}" class="postTitle">
+            {{ .Title }}
+        </a>
+    </div>
+    <div class="postMeta">
+        {{ .Lastmod.Format "Jan 2, 2006" | default (.Date.Format "Jan 2, 2006") }}         {{ if .Params.tags }}
+        <span class="postTags">
+            {{ range .Params.tags }}
+            <a href="{{ (urlize (printf "tags/%s" . )) | absLangURL }}/">{{ . }}</a>
+            {{ end }}
+        </span>
+        {{ end }}
+    </div>
+    <div class="postExcerpt">
+        <p>{{ .Content | strings.Truncate 200 }}</p>
+    </div>
 </div>

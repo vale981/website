@@ -1,69 +1,69 @@
-{{ define "title"}} {{ .Title }} | {{ .Site.Params.author }} {{ end }} {{ define
-"main" }}
+{{ define "title"}}
+{{ .Title }} | {{ .Site.Params.author }}
+{{ end }}
+
+{{ define "main" }}
 
 <div>
-  <div class="listHeader">
-    <h1>~/{{ .Title }}</h1>
-  </div>
+    <div class="listHeader">
+        <h1>~/{{ .Title }}</h1>
+    </div>
 
-  {{ with .Content }}
-  <div class="listContent">{{- . -}}</div>
-  {{ end }}
+    {{ with .Content }}
+    <div class="listContent">
+        {{- . -}}
+    </div>
+    {{ end }}
 
-  <div>
-    {{ $isntDefault := not (or (eq (trim $.Site.Params.contentTypeName " ")
-    "posts") (eq (trim $.Site.Params.contentTypeName " ") "")) }} {{
-    $contentTypeName := cond $isntDefault (string $.Site.Params.contentTypeName)
-    "posts" }} {{ $paginator := .Paginate (where .RegularPages "Type"
-    $contentTypeName) }} {{ range $paginator.Pages }}
+    <div>
+        {{ $isntDefault := not (or (eq (trim $.Site.Params.contentTypeName " ") "post") (eq (trim $.Site.Params.contentTypeName " ") "")) }}
+        {{ $contentTypeName := cond $isntDefault (string $.Site.Params.contentTypeName) "post" }}
+        {{ $paginator := .Paginate (where .RegularPages "Type" $contentTypeName) }}
+        {{ range $paginator.Pages }}
 
-    <!-- [html-validate-disable-next prefer-native-element] -->
-    <div class="postListItem" role="listitem">
-      <a href="{{ .Permalink }}">
-        <div class="postHeader">
-          <div class="postTitle">{{ .Title }}</div>
-        </div>
-        <div class="postExcerpt">
-          <p>{{ .Summary }}</p>
-        </div>
-      </a>
-      <div class="postMeta">
-        {{ .Date.Format "Jan 2, 2006" }} {{ if .Params.Categories }}
-        <span class="postTerms">
-          {{ range .Params.Categories }}
-          <a href="{{ `categories/` | relLangURL }}{{ . | urlize | lower }}"
-            >{{ . | title | humanize }}</a
-          >
-          {{ end }}
-        </span>
+            <!-- [html-validate-disable-next prefer-native-element] -->
+            <div class="postListItem" role="listitem">
+              <a href="{{ .Permalink }}">
+                <div class="postHeader">
+                    <div class="postTitle">{{ .Title }}</div>
+                </div>
+                <div class="postExcerpt">
+                    <p>{{ .Content | strings.Truncate 42 }}</p>
+                </div>
+              </a>
+                <div class="postMeta">
+                {{ .Date.Format "Jan 2, 2006" }}
+                {{ if .Params.Categories }}
+                  <span class="postTerms">
+                    {{ range .Params.Categories }}
+                    <a href="{{ `categories/` | relLangURL }}{{ . | urlize | lower }}">{{ . | title | humanize }}</a>
+                    {{ end }}
+                  </span>
+                {{ end }}
+                </div>
+            </div>
+        {{end}}
+    </div>
+    <div class="pagination">
+      <div class="wrapper">
+        {{ if .Paginator.HasPrev }}
+          <span class="button previous">
+            <a href="{{ .Paginator.Prev.URL }}">
+              <span class="button-icon">←</span>
+              <span class="button-text">{{ $.Site.Params.NewerPosts | default "Newer posts" }}</span>
+            </a>
+          </span>
+        {{ end }}
+        {{ if .Paginator.HasNext }}
+          <span class="button next">
+            <a href="{{ .Paginator.Next.URL }}">
+              <span class="button-text">{{ $.Site.Params.OlderPosts | default "Older posts" }}</span>
+              <span class="button-icon">→</span>
+            </a>
+          </span>
         {{ end }}
       </div>
     </div>
-    {{end}}
-  </div>
-  <div class="pagination">
-    <div class="wrapper">
-      {{ if .Paginator.HasPrev }}
-      <span class="button previous">
-        <a href="{{ .Paginator.Prev.URL }}">
-          <span class="button-icon">←</span>
-          <span class="button-text"
-            >{{ $.Site.Params.NewerPosts | default "Newer posts" }}</span
-          >
-        </a>
-      </span>
-      {{ end }} {{ if .Paginator.HasNext }}
-      <span class="button next">
-        <a href="{{ .Paginator.Next.URL }}">
-          <span class="button-text"
-            >{{ $.Site.Params.OlderPosts | default "Older posts" }}</span
-          >
-          <span class="button-icon">→</span>
-        </a>
-      </span>
-      {{ end }}
-    </div>
-  </div>
 </div>
 
 {{ end }}

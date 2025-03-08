@@ -21,6 +21,21 @@
             }
         }
     }
+    .postCategories {
+        text-align: left;
+        margin: 0;
+        padding-bottom: 2rem;
+
+        a {
+            background: $overlay;
+            color: $subtle;
+
+            &.active {
+                background: $rose;
+                color: $text;
+            }
+        }
+    }
 }
 
 .pagination {

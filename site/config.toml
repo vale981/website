@@ -24,13 +24,6 @@ baseURL = "https://protagon.space"
         url = "/posts/"
         weight = 2
 
-
-  [[menu.header]]
-        identifier = "tags"
-        name = "Tags"
-        url = "/tags/"
-        weight = 3
-
   [[menu.header]]
         identifier = "categories"
         name = "Categories"

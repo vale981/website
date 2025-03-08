@@ -2,7 +2,7 @@
 not (eq (len .Site.Taxonomies.categories) 0) }}
 <div class="postTags">
   {{ with .Site.GetPage "section" "categories" }}
-  <a class="tags" href="{{ .RelPermalink }}">All Categories</a>
+  <a class="tags" href='{{ .Site.GetPage "/posts" }}'>All Categories</a>
   {{ end }} {{- range $name, $items := .Site.Taxonomies.categories }} {{-
   $tagURL := printf "categories/%s/" ($name | urlize | lower) | relLangURL }}
   <a
