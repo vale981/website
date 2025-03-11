@@ -220,7 +220,15 @@ Raecknitzhoehe 15
 Kontakt:
 E-Mail: hiro at protagon dot space
 #+end_src
+** Is the paper out yet?                                            :ATTACH:
+:PROPERTIES:
+:EXPORT_HUGO_SECTION: /
+:EXPORT_FILE_NAME: paperout
+:END:
+I'm afraid not, but you can email me to get a draft.
 
+But while you wait, you can check out
+[[attachment:giphy.gif]]
 * Blog
 ** KDE                                                                :@KDE:
 *** KDE GSOC: Intro                                                  :GSOC:
