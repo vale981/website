@@ -7,5 +7,5 @@ draft = false
 
 I'm afraid not, but you can email me to get a draft.
 
-But while you wait, you can check out
+But while you wait, you can check out:
 ![](/ox-hugo/giphy.gif)

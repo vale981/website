@@ -131,3 +131,10 @@ img {
     max-width: 100%;
     height: auto;
 }
+
+figure {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
