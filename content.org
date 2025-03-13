@@ -227,7 +227,7 @@ E-Mail: hiro at protagon dot space
 :END:
 I'm afraid not, but you can email me to get a draft.
 
-But while you wait, you can check out:
+While you wait, you can check out:
 
 [[attachment:giphy.gif]]
 * Blog
