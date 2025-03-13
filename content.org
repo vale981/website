@@ -228,6 +228,7 @@ E-Mail: hiro at protagon dot space
 I'm afraid not, but you can email me to get a draft.
 
 But while you wait, you can check out:
+
 [[attachment:giphy.gif]]
 * Blog
 ** KDE                                                                :@KDE:
