@@ -46,13 +46,11 @@ generate use labels to reference them.
 \newcounter{subfigure}
 ```
 
-The `multifig` environment resets the
-subfigure counter[^fn:1], and redefines the `\thesubfigure` macro to
-display references to the subfigure as `[Figure Number] ([figure
-sublabel])`. The environment temporarily increases the Figure counter
-so that `\thefigure` prints the right number.  The three commands at the
-top of the below snipped allow the user to overwrite the way the label
-is printed and formatted.
+The `multifig` environment resets the subfigure counter[^fn:1], and
+redefines the `\thesubfigure` macro to display references to the
+subfigure as `[Figure Number] ([figure sublabel])`.  The three commands
+at the top of the below snipped allow the user to overwrite the way
+the label is printed and formatted.
 
 ```latex
 \newcommand{\subfiglabelformat}[1]{\raggedright{#1}}
@@ -61,7 +59,8 @@ is printed and formatted.
 \newenvironment{multifig}%
 {\addtocounter{figure}{1}%
   \setcounter{subfigure}{0}%
-  \renewcommand\thesubfigure{\thefigure~(\subfiglabelstyle{subfigure})}%
+  \renewcommand\thesubfigure{%
+    \the\numexpr \value{figure} + 1 \relax~(\alph{subfigure})}%
 }
 {\addtocounter{figure}{-1}}
 ```
@@ -164,7 +163,7 @@ This produces the below result...
 
 Cheers!
 
-[^fn:1]: Which could also have been accomplished by an
-    argument to `\newcounter`.
+[^fn:1]: Which could
+    also have been accomplished by an argument to `\newcounter`.
 [^fn:2]: Who are you dear reader? Shoot me an
     email!

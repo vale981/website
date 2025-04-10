@@ -6,7 +6,8 @@
 \newenvironment{multifig}%
 {\addtocounter{figure}{1}%
   \setcounter{subfigure}{0}%
-  \renewcommand\thesubfigure{\thefigure~(\subfiglabelstyle{subfigure})}%
+  \renewcommand\thesubfigure{%
+    \the\numexpr \value{figure} + 1 \relax~(\alph{subfigure})}%
 }
 {\addtocounter{figure}{-1}}
 

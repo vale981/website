@@ -3205,14 +3205,12 @@ generate use labels to reference them.
 #+begin_src latex :tangle site/static/tex/poormanssubfig.sty
     \newcounter{subfigure}
 #+end_src
-The ~multifig~ environment resets the
-subfigure counter[fn::Which could also have been accomplished by an
-argument to ~\newcounter~.], and redefines the ~\thesubfigure~ macro to
-display references to the subfigure as ~[Figure Number] ([figure
-sublabel])~. The environment temporarily increases the Figure counter
-so that ~\thefigure~ prints the right number.  The three commands at the
-top of the below snipped allow the user to overwrite the way the label
-is printed and formatted.
+The ~multifig~ environment resets the subfigure counter[fn::Which could
+also have been accomplished by an argument to ~\newcounter~.], and
+redefines the ~\thesubfigure~ macro to display references to the
+subfigure as ~[Figure Number] ([figure sublabel])~.  The three commands
+at the top of the below snipped allow the user to overwrite the way
+the label is printed and formatted.
 #+begin_src latex :tangle site/static/tex/poormanssubfig.sty
   \newcommand{\subfiglabelformat}[1]{\raggedright{#1}}
   \newcommand{\subfiglabelstyle}[1]{\alph{#1}}
@@ -3220,7 +3218,8 @@ is printed and formatted.
   \newenvironment{multifig}%
   {\addtocounter{figure}{1}%
     \setcounter{subfigure}{0}%
-    \renewcommand\thesubfigure{\thefigure~(\subfiglabelstyle{subfigure})}%
+    \renewcommand\thesubfigure{%
+      \the\numexpr \value{figure} + 1 \relax~(\alph{subfigure})}%
   }
   {\addtocounter{figure}{-1}}
 #+end_src
